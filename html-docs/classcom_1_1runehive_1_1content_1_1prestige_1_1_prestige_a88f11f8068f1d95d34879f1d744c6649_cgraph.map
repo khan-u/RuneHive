@@ -1,0 +1,9 @@
+<map id="com.runehive.content.prestige.Prestige.activatePerk" name="com.runehive.content.prestige.Prestige.activatePerk">
+<area shape="poly" id="Node000001" title="Activates the perk." alt="" coords="342,86,334,76,310,66,273,59,226,54,174,52,122,54,75,59,38,66,14,76,5,86,14,97,38,107,75,114,122,119,174,121,226,119,273,114,310,107,334,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1prestige_1_1_prestige_perk.html#ada084e90419ebff4c38e4117261a1c35" title=" " alt="" coords="736,40,728,29,704,20,666,12,619,7,567,5,515,7,468,12,431,20,407,29,399,40,407,50,431,60,468,68,515,72,567,74,619,72,666,68,704,60,728,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,66,406,56,406,62,321,72"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1cec21ca5ef1783808d4ca9de1051a29" title="Gets the identification of this item." alt="" coords="744,133,736,122,711,113,671,105,622,100,567,99,513,100,463,105,424,113,399,122,390,133,399,144,424,153,463,161,513,166,567,167,622,166,671,161,711,153,736,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="321,101,400,111,400,116,320,106"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1prestige_1_1_prestige_perk.html#a98bed10cf5da480f7f599499414954a4" title="Constructs a new PrestigePerk." alt="" coords="1129,40,1121,29,1097,20,1060,12,1013,7,961,5,909,7,862,12,825,20,801,29,792,40,801,50,825,60,862,68,909,72,961,74,1013,72,1060,68,1097,60,1121,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="736,37,777,37,777,42,736,42"/>
+</map>

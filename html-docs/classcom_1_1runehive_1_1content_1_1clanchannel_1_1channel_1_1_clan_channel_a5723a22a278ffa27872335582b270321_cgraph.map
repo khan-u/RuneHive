@@ -1,0 +1,10 @@
+<map id="com.runehive.content.clanchannel.channel.ClanChannel.chat" name="com.runehive.content.clanchannel.channel.ClanChannel.chat">
+<area shape="poly" id="Node000001" title=" " alt="" coords="471,66,460,56,427,46,375,39,310,34,238,32,166,34,101,39,50,46,17,56,5,66,17,77,50,87,101,94,166,99,238,101,310,99,375,94,427,87,460,77"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1channel_1_1_clan_channel.html#ac8235f1545a0d4c0d6912ce611dd314d" title="Handles looping through each clan member." alt="" coords="1499,77,1487,67,1454,57,1403,49,1338,44,1266,43,1194,44,1129,49,1077,57,1044,67,1033,77,1044,88,1077,97,1129,105,1194,110,1266,112,1338,110,1403,105,1454,97,1487,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="379,36,519,17,650,7,752,3,854,6,985,17,1059,27,1131,41,1130,47,1058,33,985,22,854,11,752,8,650,12,519,22,379,41"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1channel_1_1_clan_channel.html#a32aae574c9a82075f96903522e839284" title=" " alt="" coords="985,66,973,56,940,46,889,39,824,34,752,32,680,34,615,39,564,46,530,56,519,66,530,77,564,87,615,94,680,99,752,101,824,99,889,94,940,87,973,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="472,64,504,64,504,69,472,69"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1channel_1_1_clan_channel.html#adf0f6f74bbc0346647877b7171a35a61" title="Handles messaging all the members in the clan channel." alt="" coords="985,160,973,149,940,140,889,132,824,127,752,125,680,127,615,132,564,140,530,149,519,160,530,170,564,180,615,188,680,193,752,194,824,193,889,188,940,180,973,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="388,91,589,128,588,133,387,96"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="911,132,1091,102,1092,108,912,137"/>
+</map>

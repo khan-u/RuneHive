@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.mob.Viewport.getPlayersInViewport" name="com.runehive.game.world.entity.mob.Viewport.getPlayersInViewport">
+<area shape="poly" id="Node000001" title="The collection of players in this viewport." alt="" coords="1073,98,1063,88,1034,78,990,71,934,66,871,64,809,66,753,71,709,78,680,88,670,98,680,109,709,119,753,126,809,131,871,133,934,131,990,126,1034,119,1063,109"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_player_update.html#a7fc41a75d429e69ba854c5ad60365976" title=" " alt="" coords="472,40,465,29,442,20,407,12,363,7,314,5,265,7,221,12,186,20,163,29,155,40,163,50,186,60,221,68,265,72,314,74,363,72,407,68,442,60,465,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="684,81,457,57,458,52,684,76"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_sergeant_strongstack.html#a1c5479813415e30c3fbaa790dd6e400c" title=" " alt="" coords="622,157,607,146,563,137,495,129,409,124,314,123,219,124,133,129,64,137,20,146,5,157,20,168,64,177,133,185,219,190,314,191,409,190,495,185,563,177,607,168"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="685,121,541,136,540,131,684,115"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="409,114,375,105,314,101,265,103,232,109,215,116,213,125,208,123,211,113,230,104,264,98,314,96,376,99,411,108"/>
+</map>

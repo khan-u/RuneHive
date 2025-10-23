@@ -1,0 +1,7 @@
+<map id="com.runehive.content.ai.LazyAIManager.shutdown" name="com.runehive.content.ai.LazyAIManager.shutdown">
+<area shape="poly" id="Node000001" title=" " alt="" coords="296,40,289,29,268,20,236,12,195,7,151,5,106,7,65,12,33,20,12,29,5,40,12,50,33,60,65,68,106,72,151,74,195,72,236,68,268,60,289,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a2fc8d15b55a8f0a55a20c0b78f77007c" title="Cancels all subsequent executions." alt="" coords="743,40,733,33,705,27,661,23,605,20,543,19,482,20,426,23,382,27,353,33,344,40,353,46,382,52,426,57,482,60,543,61,605,60,661,57,705,52,733,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,37,328,37,328,42,296,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#aef9b4245ff3b594dd844c44da99d51a3" title="A function executed on cancellation." alt="" coords="1149,40,1140,29,1115,20,1075,12,1025,7,970,5,915,7,865,12,825,20,800,29,791,40,800,50,825,60,865,68,915,72,970,74,1025,72,1075,68,1115,60,1140,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="743,37,776,37,776,42,743,42"/>
+</map>

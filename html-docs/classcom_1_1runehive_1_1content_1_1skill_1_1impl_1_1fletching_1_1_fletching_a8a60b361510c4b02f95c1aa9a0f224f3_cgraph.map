@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.fletching.Fletching.addFletchable" name="com.runehive.content.skill.impl.fletching.Fletching.addFletchable">
+<area shape="poly" id="Node000001" title=" " alt="" coords="440,86,429,76,398,66,350,59,290,54,223,52,155,54,95,59,47,66,16,76,5,86,16,97,47,107,95,114,155,119,223,121,290,119,350,114,398,107,429,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1cec21ca5ef1783808d4ca9de1051a29" title="Gets the identification of this item." alt="" coords="882,40,874,29,848,20,809,12,760,7,705,5,651,7,601,12,562,20,537,29,528,40,537,50,562,60,601,68,651,72,705,74,760,72,809,68,848,60,874,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,66,531,54,531,59,410,71"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1fletching_1_1_fletchable.html#a62876d489f76ba02f402f04e23d1e374" title=" " alt="" coords="923,133,912,122,881,113,833,105,772,100,705,99,638,100,578,105,529,113,499,122,488,133,499,144,529,153,578,161,638,166,705,167,772,166,833,161,881,153,912,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="410,102,504,111,503,116,409,107"/>
+</map>

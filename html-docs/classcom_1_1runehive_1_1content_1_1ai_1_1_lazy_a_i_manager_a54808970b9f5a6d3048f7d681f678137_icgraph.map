@@ -1,0 +1,5 @@
+<map id="com.runehive.content.ai.LazyAIManager.markInstructionsReceived" name="com.runehive.content.ai.LazyAIManager.markInstructionsReceived">
+<area shape="poly" id="Node000001" title=" " alt="" coords="834,53,825,38,799,25,760,14,710,8,655,5,600,8,550,14,511,25,485,38,477,53,485,68,511,81,550,92,600,99,655,101,710,99,760,92,799,81,825,68"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1ai_1_1_a_i_dialogue_handler.html#a6e07507bba5cd2fbdbc57e0ce5d8ea6e" title="Process AI command input (called from command handler)" alt="" coords="429,53,418,43,388,33,341,25,282,20,217,19,152,20,93,25,46,33,16,43,5,53,16,64,46,73,93,81,152,86,217,88,282,86,341,81,388,73,418,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="461,56,429,56,429,51,461,51"/>
+</map>

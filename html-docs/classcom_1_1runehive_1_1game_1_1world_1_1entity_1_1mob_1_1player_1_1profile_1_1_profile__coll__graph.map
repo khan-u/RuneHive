@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.profile.Profile" name="com.runehive.game.world.entity.mob.player.profile.Profile">
+<area shape="poly" id="Node000001" title=" " alt="" coords="542,181,529,170,491,160,431,153,356,148,274,146,191,148,116,153,57,160,18,170,5,181,18,191,57,201,116,208,191,213,274,215,356,213,431,208,491,201,529,191"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_right.html" title="Holds all the player right data." alt="" coords="508,40,496,29,463,20,411,12,346,7,274,5,201,7,136,12,84,20,51,29,39,40,51,50,84,60,136,68,201,72,274,74,346,72,411,68,463,60,496,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="276,89,276,146,271,146,271,89"/>
+</map>

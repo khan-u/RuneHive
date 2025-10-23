@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.PlayerAssistant.copy" name="com.runehive.game.world.entity.mob.player.PlayerAssistant.copy">
+<area shape="poly" id="Node000001" title="Copy&#39;s the inventory and equipment of another player." alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#af80028a0ce5f11042f30e0ff42e19f39" title="Returns a shallow copy of the backing array." alt="" coords="986,40,975,29,942,20,891,12,826,7,754,5,682,7,618,12,566,20,533,29,522,40,533,50,566,60,618,68,682,72,754,74,826,72,891,68,942,60,975,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,37,506,37,506,42,474,42"/>
+</map>

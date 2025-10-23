@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.position.impl.CircleArea" name="com.runehive.game.world.position.impl.CircleArea">
+<area shape="poly" id="Node000001" title="The location type that models any area in a circle or oval shape." alt="" coords="1552,254,1541,244,1511,234,1464,226,1404,222,1338,220,1272,222,1213,226,1165,234,1135,244,1124,254,1135,265,1165,275,1213,282,1272,287,1338,289,1404,287,1464,282,1511,275,1541,265"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html" title="Handles checking if mobs are in a certain area." alt="" coords="896,288,886,281,856,275,808,271,749,268,683,267,617,268,557,271,510,275,479,281,469,288,479,294,510,300,557,305,617,308,683,309,749,308,808,305,856,300,886,294"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="879,273,920,270,1130,260,1130,266,921,276,879,278"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="638,249,654,243,683,240,708,242,725,248,733,257,730,268,725,266,728,258,722,252,707,247,683,245,655,248,640,254"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1impl_1_1_square_area.html" title=" " alt="" coords="1552,350,1541,340,1511,330,1464,322,1404,318,1338,316,1272,318,1213,322,1165,330,1135,340,1124,350,1135,361,1165,371,1213,378,1272,383,1338,385,1404,383,1464,378,1511,371,1541,361"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="909,289,1101,304,1207,320,1206,325,1100,309,909,295"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_boundary.html" title="Created by Daniel on 2017&#45;11&#45;24." alt="" coords="385,288,376,277,349,267,307,260,254,255,195,253,136,255,84,260,42,267,15,277,5,288,15,298,42,308,84,315,136,320,195,322,254,320,307,315,349,308,376,298"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="400,285,468,285,468,290,400,290"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="1121,365,1021,363,920,354,826,335,742,311,744,306,827,330,921,349,1021,358,1121,359"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="com.runehive.game.world.entity.mob.npc.drop.NpcDropManager.handleBoneCrusher" name="com.runehive.game.world.entity.mob.npc.drop.NpcDropManager.handleBoneCrusher">
+<area shape="poly" id="Node000001" title=" " alt="" coords="501,157,489,146,453,137,399,129,330,124,253,123,177,124,107,129,53,137,17,146,5,157,17,168,53,177,107,185,177,190,253,191,330,190,399,185,453,177,489,168"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1achievement_1_1_achievement_handler.html#a383fb0ccbf23e33737c19d61fcb332ac" title="Activates the achievement for the individual player." alt="" coords="947,64,938,53,911,44,868,36,814,31,755,29,695,31,642,36,599,44,572,53,562,64,572,74,599,84,642,92,695,96,755,98,814,96,868,92,911,84,938,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="403,127,604,89,605,94,404,132"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a2729f012da6ebea88487a1c9fc0d33b7" title=" " alt="" coords="961,157,951,146,921,137,876,129,818,124,755,123,691,124,634,129,588,137,559,146,549,157,559,168,588,177,634,185,691,190,755,191,818,190,876,185,921,177,951,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="501,154,533,154,533,160,501,160"/>
+<area shape="poly" id="Node000004" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#ab970628b94fb1f2de3bbabdc9508ab72" title="Gets the experience of the bone." alt="" coords="961,250,951,240,921,230,876,223,818,218,755,216,691,218,634,223,588,230,559,240,549,250,559,261,588,271,634,278,691,283,755,285,818,283,876,278,921,271,951,261"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="404,182,601,219,600,224,403,188"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="660,33,660,21,677,11,708,5,755,3,812,6,843,16,842,21,811,12,755,8,709,10,678,16,665,24,666,33"/>
+</map>

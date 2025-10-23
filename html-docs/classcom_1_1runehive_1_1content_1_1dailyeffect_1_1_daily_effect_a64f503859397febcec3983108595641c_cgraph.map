@@ -1,0 +1,5 @@
+<map id="com.runehive.content.dailyeffect.DailyEffect.use" name="com.runehive.content.dailyeffect.DailyEffect.use">
+<area shape="poly" id="Node000001" title=" " alt="" coords="364,40,355,29,329,20,290,12,240,7,184,5,129,7,79,12,40,20,14,29,5,40,14,50,40,60,79,68,129,72,184,74,240,72,290,68,329,60,355,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#ac6fbc92ac5c97449525ca4c4a0ddec1d" title=" " alt="" coords="710,40,703,29,682,20,649,12,607,7,561,5,515,7,473,12,440,20,419,29,412,40,419,50,440,60,473,68,515,72,561,74,607,72,649,68,682,60,703,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="364,37,396,37,396,42,364,42"/>
+</map>

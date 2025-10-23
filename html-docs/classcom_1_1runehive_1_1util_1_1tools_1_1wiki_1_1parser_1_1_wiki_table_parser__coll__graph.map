@@ -1,0 +1,5 @@
+<map id="com.runehive.util.tools.wiki.parser.WikiTableParser" name="com.runehive.util.tools.wiki.parser.WikiTableParser">
+<area shape="poly" id="Node000001" title="Parses a wiki page." alt="" coords="446,154,437,143,411,133,369,126,317,121,259,119,202,121,150,126,108,133,82,143,73,154,82,164,108,174,150,182,202,186,259,188,317,186,369,182,411,174,437,164"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1path_1_1_path.html" title="Represents a single path in the path finding system." alt="" coords="514,26,501,20,465,14,409,9,338,6,259,5,181,6,110,9,54,14,18,20,5,26,18,33,54,39,110,43,181,46,259,47,338,46,409,43,465,39,501,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,63,262,119,257,119,257,63"/>
+</map>

@@ -1,0 +1,8 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannot9d2334adda40c46bec632103c6d3878b =
+[
+    [ "finishOutgoing", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannot9d2334adda40c46bec632103c6d3878b.html#a100069af9a43079a5974b5cc9cc40f31", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannot9d2334adda40c46bec632103c6d3878b.html#a340f2629f4f2916f361498a18c55acb1", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannot9d2334adda40c46bec632103c6d3878b.html#a66113701c2bab8a16b1e2fefb4efb9f4", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannot9d2334adda40c46bec632103c6d3878b.html#a56c93e065d8b6032d31b8561dd685018", null ],
+    [ "ANIMATION", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannot9d2334adda40c46bec632103c6d3878b.html#af936f06e530ba9aa4fcbea49bf00e5a4", null ]
+];

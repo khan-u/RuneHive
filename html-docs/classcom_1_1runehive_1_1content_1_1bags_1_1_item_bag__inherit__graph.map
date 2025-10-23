@@ -1,0 +1,7 @@
+<map id="com.runehive.content.bags.ItemBag" name="com.runehive.content.bags.ItemBag">
+<area shape="poly" id="Node000001" title=" " alt="" coords="525,40,517,29,495,20,462,12,419,7,372,5,324,7,282,12,248,20,226,29,219,40,226,50,248,60,282,68,324,72,372,74,419,72,462,68,495,60,517,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1bags_1_1impl_1_1_coal_bag.html" title=" " alt="" coords="359,157,351,146,326,136,286,129,237,124,182,122,128,124,78,129,39,136,14,146,5,157,14,167,39,177,78,184,128,189,182,191,237,189,286,184,326,177,351,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,83,236,126,234,121,305,78"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1bags_1_1impl_1_1_gem_bag.html" title=" " alt="" coords="738,157,729,146,704,136,665,129,616,124,561,122,506,124,457,129,418,136,393,146,384,157,393,167,418,177,457,184,506,189,561,191,616,189,665,184,704,177,729,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="438,78,510,121,507,126,435,83"/>
+</map>

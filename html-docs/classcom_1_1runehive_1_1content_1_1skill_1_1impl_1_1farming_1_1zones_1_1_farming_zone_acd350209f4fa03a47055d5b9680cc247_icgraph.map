@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.farming.zones.FarmingZone.clickObject" name="com.runehive.content.skill.impl.farming.zones.FarmingZone.clickObject">
+<area shape="poly" id="Node000001" title="Handles clicking a farming patch." alt="" coords="969,86,957,76,922,66,868,59,800,54,724,52,648,54,579,59,525,66,490,76,478,86,490,97,525,107,579,114,648,119,724,121,800,119,868,114,922,107,957,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1_farming.html#ae5109a6468c278eb3bc8806a3151a360" title=" " alt="" coords="430,40,420,29,390,20,343,12,283,7,218,5,152,7,93,12,46,20,16,29,5,40,16,50,46,60,93,68,152,72,218,74,283,72,343,68,390,60,420,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="502,69,403,60,404,54,502,63"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1_farming.html#ad26918658775b8eada352d3c961cc1a1" title=" " alt="" coords="430,133,420,122,390,113,343,105,283,100,218,99,152,100,93,105,46,113,16,122,5,133,16,144,46,153,93,161,152,166,218,167,283,166,343,161,390,153,420,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="502,110,404,119,403,113,502,104"/>
+</map>

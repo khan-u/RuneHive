@@ -1,0 +1,7 @@
+var _brutal_dragon_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.dragon.BrutalDragon", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_brutal_dragon.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_brutal_dragon" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.dragon.BrutalDragon.CrushMelee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon55acbb001940ea15054b3cf9f444372f.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon55acbb001940ea15054b3cf9f444372f" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.dragon.BrutalDragon.MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragonebcf87035683d44d093d657e45c43c11.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragonebcf87035683d44d093d657e45c43c11" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.dragon.BrutalDragon.StabMelee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon654358fef068929af66d8e666032a89d.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon654358fef068929af66d8e666032a89d" ]
+];

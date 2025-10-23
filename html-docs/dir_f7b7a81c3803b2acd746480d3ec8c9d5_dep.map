@@ -1,0 +1,4 @@
+<map id="java/com/runehive/game/world/entity/combat/strategy/player/special/melee" name="java/com/runehive/game/world/entity/combat/strategy/player/special/melee">
+<area shape="poly" id="node1" href="dir_f7b7a81c3803b2acd746480d3ec8c9d5.html" title="melee" alt="" coords="120,74,117,68,111,62,100,57,88,54,73,53,59,54,46,57,36,62,29,68,27,74,29,81,36,87,46,91,59,94,73,95,88,94,100,91,111,87,117,81"/>
+<area shape="rect" id="clust1" href="dir_e34f6640d65fdba330301dcb2dd82475.html" title="special" alt="" coords="16,16,131,106"/>
+</map>

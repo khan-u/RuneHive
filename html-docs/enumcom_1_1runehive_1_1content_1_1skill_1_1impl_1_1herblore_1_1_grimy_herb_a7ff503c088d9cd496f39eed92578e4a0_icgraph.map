@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.herblore.GrimyHerb.getClean" name="com.runehive.content.skill.impl.herblore.GrimyHerb.getClean">
+<area shape="poly" id="Node000001" title="Gets the clean herb." alt="" coords="920,40,909,29,878,20,830,12,770,7,703,5,636,7,576,12,528,20,497,29,487,40,497,50,528,60,576,68,636,72,703,74,770,72,830,68,878,60,909,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1herblore_1_1_herblore.html#ac45e088b53bb7a8c99308e26d8d9dbd2" title=" " alt="" coords="439,40,428,29,397,20,349,12,289,7,222,5,155,7,95,12,47,20,16,29,5,40,16,50,47,60,95,68,155,72,222,74,289,72,349,68,397,60,428,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,42,439,42,439,37,471,37"/>
+</map>

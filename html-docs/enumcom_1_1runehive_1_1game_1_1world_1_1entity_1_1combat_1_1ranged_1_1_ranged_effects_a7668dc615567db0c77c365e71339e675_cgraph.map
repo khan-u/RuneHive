@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.ranged.RangedEffects.hitEvent" name="com.runehive.game.world.entity.combat.ranged.RangedEffects.hitEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="514,86,501,76,465,66,409,59,338,54,259,52,181,54,110,59,54,66,18,76,5,86,18,97,54,107,110,114,181,119,259,121,338,119,409,114,465,107,501,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#aef07d450bf9991b7b3298e8d051e672f" title=" " alt="" coords="939,40,930,29,905,20,866,12,817,7,763,5,708,7,659,12,620,20,595,29,586,40,595,50,620,60,659,68,708,72,763,74,817,72,866,68,905,60,930,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,64,587,53,588,59,471,70"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a385dc0248234fddaae1b093594d7bf58" title="The combat of the mob." alt="" coords="964,133,954,122,925,113,881,105,825,100,763,99,700,100,644,105,600,113,571,122,562,133,571,144,600,153,644,161,700,166,763,167,825,166,881,161,925,153,954,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="471,103,570,113,569,118,470,109"/>
+</map>

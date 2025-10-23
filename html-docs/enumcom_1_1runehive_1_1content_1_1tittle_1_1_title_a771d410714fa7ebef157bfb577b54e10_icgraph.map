@@ -1,0 +1,9 @@
+<map id="com.runehive.content.tittle.Title.Title" name="com.runehive.content.tittle.Title.Title">
+<area shape="poly" id="Node000001" title=" " alt="" coords="994,86,986,76,965,66,932,59,891,54,845,52,799,54,758,59,725,66,704,76,696,86,704,97,725,107,758,114,799,119,845,121,891,119,932,114,965,107,986,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1tittle_1_1_title.html#a0d7472ac8d6f38cfc3e42cc14b6c4fb8" title=" " alt="" coords="648,86,641,76,620,66,587,59,545,54,500,52,454,54,412,59,379,66,358,76,351,86,358,97,379,107,412,114,454,119,500,121,545,119,587,114,620,107,641,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="681,89,649,89,649,84,681,84"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1tittle_1_1_title_manager.html#a98d1f090405477d86510e8a3cfc97583" title="Handles clicking buttons on the title itemcontainer." alt="" coords="303,40,296,29,274,20,241,12,200,7,154,5,108,7,67,12,34,20,13,29,5,40,13,50,34,60,67,68,108,72,154,74,200,72,241,68,274,60,296,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,70,283,60,284,55,355,64"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1tittle_1_1_title_manager.html#a65d166b2d574dc2d86d711423f22caae" title="Handles a player redeeming a title." alt="" coords="303,133,296,122,274,113,241,105,200,100,154,99,108,100,67,105,34,113,13,122,5,133,13,144,34,153,67,161,108,166,154,167,200,166,241,161,274,153,296,144"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="355,109,284,118,283,113,355,103"/>
+</map>

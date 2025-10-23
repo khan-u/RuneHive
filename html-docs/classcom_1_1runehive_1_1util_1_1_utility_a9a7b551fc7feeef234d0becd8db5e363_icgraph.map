@@ -1,0 +1,15 @@
+<map id="com.runehive.util.Utility.withinViewingDistance" name="com.runehive.util.Utility.withinViewingDistance">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1221,133,1213,122,1190,113,1154,105,1108,100,1058,99,1007,100,962,105,925,113,902,122,894,133,902,144,925,153,962,161,1007,166,1058,167,1108,166,1154,161,1190,153,1213,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_util.html#a1dc300fd4c03e3ba19e989408d7347d1" title="Sends an action to Mob instance which is within a distance." alt="" coords="846,40,836,29,805,20,757,12,697,7,630,5,564,7,503,12,456,20,425,29,414,40,425,50,456,60,503,68,564,72,630,74,697,72,757,68,805,60,836,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="928,107,846,89,760,70,761,65,847,84,929,102"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_static_game_object.html#a48ff5faaf88c0c04a65e5d4823299967" title="Registers the game object." alt="" coords="811,226,802,216,776,206,736,199,686,194,630,192,575,194,524,199,484,206,459,216,450,226,459,237,484,247,524,254,575,259,630,261,686,259,736,254,776,247,802,237"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="929,164,847,182,752,203,751,198,846,177,928,159"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_static_game_object.html#ac2beaa1d1261e166d410fcfe43fc8c81" title="Unregisters the game object." alt="" coords="811,133,802,122,776,113,736,105,686,100,630,99,575,100,524,105,484,113,459,122,450,133,459,144,484,153,524,161,575,166,630,167,686,166,736,161,776,153,802,144"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="879,136,811,136,811,130,879,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_static_game_object.html#a9e5015f175ac2d29f110afa38e66dc27" title=" " alt="" coords="366,133,358,122,332,113,292,105,242,100,186,99,130,100,80,105,40,113,14,122,5,133,14,144,40,153,80,161,130,166,186,167,242,166,292,161,332,153,358,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="492,200,308,161,310,156,494,195"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_static_game_object.html#ae3b63a10192eb98998adbc5b85bd820a" title=" " alt="" coords="366,226,358,216,332,206,292,199,242,194,186,192,130,194,80,199,40,206,14,216,5,226,14,237,40,247,80,254,130,259,186,261,242,259,292,254,332,247,358,237"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="435,229,367,229,367,224,435,224"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="435,136,367,136,367,130,435,130"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="494,164,310,203,308,198,492,159"/>
+</map>

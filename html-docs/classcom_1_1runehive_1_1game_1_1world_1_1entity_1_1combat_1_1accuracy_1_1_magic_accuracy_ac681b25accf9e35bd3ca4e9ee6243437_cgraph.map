@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.accuracy.MagicAccuracy.getPrayerBonus" name="com.runehive.game.world.entity.combat.accuracy.MagicAccuracy.getPrayerBonus">
+<area shape="poly" id="Node000001" title=" " alt="" coords="532,40,519,29,482,20,423,12,350,7,269,5,187,7,114,12,56,20,18,29,5,40,18,50,56,60,114,68,187,72,269,74,350,72,423,68,482,60,519,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer_book.html#ab410a6704bdd57b8f722a17f2d874a93" title="Checks if all given prayers are active." alt="" coords="1050,40,1038,29,1005,20,953,12,888,7,815,5,742,7,677,12,625,20,591,29,580,40,591,50,625,60,677,68,742,72,815,74,888,72,953,68,1005,60,1038,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="532,37,564,37,564,42,532,42"/>
+</map>

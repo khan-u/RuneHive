@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.hunter.birdhouse.BirdhouseData.BirdhouseData" name="com.runehive.content.skill.impl.hunter.birdhouse.BirdhouseData.BirdhouseData">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1089,86,1077,76,1040,66,983,59,910,54,830,52,750,54,678,59,621,66,584,76,571,86,584,97,621,107,678,114,750,119,830,121,910,119,983,114,1040,107,1077,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1hunter_1_1birdhouse_1_1_birdhouse_data.html#aa19d5f82578d9f469d3371dca0733f82" title=" " alt="" coords="523,40,511,29,474,20,417,12,344,7,264,5,184,7,112,12,55,20,18,29,5,40,18,50,55,60,112,68,184,72,264,74,344,72,417,68,474,60,511,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="593,70,486,61,486,55,594,64"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1hunter_1_1birdhouse_1_1_birdhouse_data.html#a842266324c1a6f17f5f73c3624246aae" title=" " alt="" coords="523,133,511,122,474,113,417,105,344,100,264,99,184,100,112,105,55,113,18,122,5,133,18,144,55,153,112,161,184,166,264,167,344,166,417,161,474,153,511,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="594,109,486,118,486,112,593,103"/>
+</map>

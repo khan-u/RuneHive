@@ -1,0 +1,6 @@
+<map id="com.runehive.content.clanchannel.content.ClanTask.getAmount" name="com.runehive.content.clanchannel.content.ClanTask.getAmount">
+<area shape="poly" id="Node000001" title=" " alt="" coords="464,50,453,40,420,30,369,22,306,18,235,16,164,18,100,22,49,30,17,40,5,50,17,61,49,71,100,78,164,83,235,85,306,83,369,78,420,71,453,61"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a0961417523881e9a3bef6e9da541942a" title=" " alt="" coords="856,50,848,44,823,38,785,33,737,30,684,29,631,30,583,33,545,38,520,44,512,50,520,57,545,63,583,67,631,70,684,71,737,70,785,67,823,63,848,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="465,48,497,48,497,53,465,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="606,33,597,21,609,11,638,5,684,3,737,6,765,14,763,19,736,11,684,8,638,10,611,16,603,22,610,29"/>
+</map>

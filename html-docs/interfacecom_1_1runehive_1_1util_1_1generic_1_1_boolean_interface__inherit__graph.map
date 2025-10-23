@@ -1,0 +1,9 @@
+<map id="com.runehive.util.generic.BooleanInterface&lt; T &gt;" name="com.runehive.util.generic.BooleanInterface&lt; T &gt;">
+<area shape="poly" id="Node000001" title=" " alt="" coords="293,133,286,122,265,113,234,105,194,100,149,99,105,100,65,105,33,113,12,122,5,133,12,144,33,153,65,161,105,166,149,167,194,166,234,161,265,153,286,144"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1emote_1_1_emote.html" title="Holds all the emote data." alt="" coords="729,40,721,29,698,20,663,12,618,7,569,5,520,7,476,12,440,20,418,29,410,40,418,50,440,60,476,68,520,72,569,74,618,72,663,68,698,60,721,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,104,456,62,457,67,271,109"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1tittle_1_1_title.html" title="Holds all the title data that can be redeemed using the title interface." alt="" coords="718,133,711,122,690,113,657,105,615,100,569,99,523,100,482,105,449,113,428,122,420,133,428,144,449,153,482,161,523,166,569,167,615,166,657,161,690,153,711,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,130,420,130,420,136,309,136"/>
+<area shape="poly" id="Node000004" href="$interfacecom_1_1runehive_1_1util_1_1generic_1_1_boolean_interface.html" title=" " alt="" coords="721,226,713,216,692,206,658,199,616,194,569,192,522,194,480,199,447,206,425,216,418,226,425,237,447,247,480,254,522,259,569,261,616,259,658,254,692,247,713,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="271,157,460,200,459,205,270,163"/>
+</map>

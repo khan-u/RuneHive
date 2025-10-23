@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.entity.mob.Mob.setWaypoint" name="com.runehive.game.world.entity.mob.Mob.setWaypoint">
+<area shape="poly" id="Node000001" title=" " alt="" coords="407,133,398,122,369,113,325,105,269,100,206,99,144,100,88,105,44,113,15,122,5,133,15,144,44,153,88,161,144,166,206,167,269,166,325,161,369,153,398,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1movement_1_1waypoint_1_1_waypoint.html#a629e02502eb23db9f4cb3747cd1da35f" title=" " alt="" coords="1064,40,1049,29,1006,20,939,12,854,7,760,5,666,7,581,12,514,20,470,29,455,40,470,50,514,60,581,68,666,72,760,74,854,72,939,68,1006,60,1049,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="341,104,455,84,557,67,558,72,456,89,342,110"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a2c5c9b7bafe3e3bc5b7666833157a230" title="Resets the waypoint." alt="" coords="961,133,951,122,922,113,878,105,822,100,760,99,698,100,642,105,597,113,569,122,559,133,569,144,597,153,642,161,698,166,760,167,822,166,878,161,922,153,951,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="408,130,543,130,543,136,408,136"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a245edcc5b77cbc6d0a4aa8a0a0125d67" title="Submits a new event." alt="" coords="907,226,900,216,879,206,846,199,805,194,760,192,714,194,673,199,641,206,620,216,612,226,620,237,641,247,673,254,714,259,760,261,805,259,846,254,879,247,900,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="342,156,456,177,619,203,618,209,455,182,341,162"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1movement_1_1waypoint_1_1_waypoint.html#a56c3ca54445e5ca835c3b8f3e2ef6c23" title=" " alt="" coords="1721,40,1706,29,1662,20,1595,12,1510,7,1416,5,1322,7,1237,12,1170,20,1127,29,1112,40,1127,50,1170,60,1237,68,1322,72,1416,74,1510,72,1595,68,1662,60,1706,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1065,37,1097,37,1097,42,1065,42"/>
+</map>

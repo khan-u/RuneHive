@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.warriorguild.AnimatorData" name="com.runehive.content.activity.impl.warriorguild.AnimatorData">
+<area shape="poly" id="Node000001" title="The animator data." alt="" coords="502,223,490,213,455,203,400,195,331,191,254,189,177,191,108,195,53,203,17,213,5,223,17,234,53,243,108,251,177,256,254,258,331,256,400,251,455,243,490,234"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="444,40,434,29,407,20,365,12,312,7,254,5,195,7,142,12,100,20,73,29,64,40,73,50,100,60,142,68,195,72,254,74,312,72,365,68,407,60,434,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,90,256,188,251,188,251,90"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.VorkathActivity.clickNpc" name="com.runehive.content.activity.impl.VorkathActivity.clickNpc">
+<area shape="poly" id="Node000001" title=" " alt="" coords="378,40,369,29,342,20,301,12,249,7,192,5,134,7,82,12,41,20,14,29,5,40,14,50,41,60,82,68,134,72,192,74,249,72,301,68,342,60,369,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a245edcc5b77cbc6d0a4aa8a0a0125d67" title="Submits a new event." alt="" coords="720,40,713,29,692,20,660,12,619,7,573,5,528,7,486,12,454,20,433,29,426,40,433,50,454,60,486,68,528,72,573,74,619,72,660,68,692,60,713,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,37,410,37,410,42,378,42"/>
+</map>

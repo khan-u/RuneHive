@@ -1,0 +1,11 @@
+<map id="com.runehive.util.parser.impl.ObjectRemovalParser" name="com.runehive.util.parser.impl.ObjectRemovalParser">
+<area shape="poly" id="Node000001" title="Handles parsing the removed object." alt="" coords="402,390,394,379,371,370,335,362,290,357,241,356,191,357,146,362,110,370,87,379,79,390,87,401,110,410,146,418,191,423,241,424,290,423,335,418,371,410,394,401"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_gson_parser.html" title="This class provides an easy to use google gson parser specifically designed for parsing JSON files." alt="" coords="378,272,371,261,352,252,321,244,283,239,241,237,198,239,160,244,129,252,110,261,103,272,110,282,129,292,160,300,198,305,241,306,283,305,321,300,352,292,371,282"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,322,243,355,238,355,238,322"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_generic_parser.html" title="Represents an abstract parser." alt="" coords="378,154,371,143,352,133,321,126,283,121,241,119,198,121,160,126,129,133,110,143,103,154,110,164,129,174,160,182,198,186,241,188,283,186,321,182,352,174,371,164"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,204,243,237,238,237,238,204"/>
+<area shape="poly" id="Node000004" title=" " alt="" coords="134,26,131,20,122,14,108,9,90,6,70,5,50,6,32,9,18,14,8,20,5,26,8,33,18,39,32,43,50,46,70,47,90,46,108,43,122,39,131,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="109,53,199,118,196,123,106,57"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1path_1_1_path.html" title="Represents a single path in the path finding system." alt="" coords="667,26,654,20,618,14,562,9,491,6,413,5,334,6,263,9,207,14,171,20,158,26,171,33,207,39,263,43,334,46,413,47,491,46,562,43,618,39,654,33"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="374,59,286,123,283,119,371,54"/>
+</map>

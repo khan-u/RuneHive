@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.farming.patches.impl.HerbPatch.plantForSeed" name="com.runehive.content.skill.impl.farming.patches.impl.HerbPatch.plantForSeed">
+<area shape="poly" id="Node000001" title=" " alt="" coords="563,40,549,29,510,20,448,12,370,7,284,5,198,7,120,12,59,20,19,29,5,40,19,50,59,60,120,68,198,72,284,74,370,72,448,68,510,60,549,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1plants_1_1_herb.html#a9ca9eb82353ed0d8e775ce41d08fb5a8" title=" " alt="" coords="1102,40,1090,29,1055,20,1001,12,933,7,857,5,781,7,712,12,658,20,623,29,611,40,623,50,658,60,712,68,781,72,857,74,933,72,1001,68,1055,60,1090,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="563,37,596,37,596,42,563,42"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1plants_1_1_herb.html#aa58fc761e335d4e1cabfa0e399cdc49c" title=" " alt="" coords="1641,40,1629,29,1595,20,1540,12,1472,7,1396,5,1320,7,1251,12,1197,20,1162,29,1150,40,1162,50,1197,60,1251,68,1320,72,1396,74,1472,72,1540,68,1595,60,1629,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1103,37,1135,37,1135,42,1103,42"/>
+</map>

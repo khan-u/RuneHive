@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.out.SendPlayerDetails.encode" name="com.runehive.net.packet.out.SendPlayerDetails.encode">
+<area shape="poly" id="Node000001" title=" " alt="" coords="323,40,315,29,292,20,257,12,213,7,164,5,115,7,71,12,36,20,13,29,5,40,13,50,36,60,71,68,115,72,164,74,213,72,257,68,292,60,315,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a09cee7c391bb1206725815ce0f3cd1f1" title=" " alt="" coords="723,40,715,29,690,20,651,12,601,7,547,5,492,7,443,12,404,20,379,29,371,40,379,50,404,60,443,68,492,72,547,74,601,72,651,68,690,60,715,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="323,37,355,37,355,42,323,42"/>
+</map>

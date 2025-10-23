@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.ground.GroundItemEvent" name="com.runehive.game.world.items.ground.GroundItemEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="436,130,425,119,395,109,347,102,287,97,221,95,154,97,94,102,46,109,16,119,5,130,16,140,46,150,94,158,154,162,221,164,287,162,347,158,395,150,425,140"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="384,26,376,20,353,14,317,9,271,6,221,5,170,6,124,9,88,14,65,20,57,26,65,33,88,39,124,43,170,46,221,47,271,46,317,43,353,39,376,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,63,223,95,218,95,218,63"/>
+</map>

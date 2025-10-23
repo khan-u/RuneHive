@@ -1,0 +1,10 @@
+<map id="com.runehive.content.activity.impl.fightcaves.FightCaves.update" name="com.runehive.content.activity.impl.fightcaves.FightCaves.update">
+<area shape="poly" id="Node000001" title="The update method." alt="" coords="485,133,473,122,439,113,386,105,319,100,245,99,171,100,104,105,51,113,17,122,5,133,17,144,51,153,104,161,171,166,245,167,319,166,386,161,439,153,473,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a490026d68b72e2dea391680a7d49a844" title="Formats digits for integers." alt="" coords="891,40,883,29,860,20,823,12,777,7,726,5,676,7,630,12,593,20,570,29,562,40,570,50,593,60,630,68,676,72,726,74,777,72,823,68,860,60,883,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,102,589,64,590,69,391,108"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a493263be718b90fac4e54a5fd5f960c4" title="Gets a percentage amount." alt="" coords="876,133,869,122,847,113,814,105,773,100,726,99,680,100,639,105,606,113,584,122,577,133,584,144,606,153,639,161,680,166,726,167,773,166,814,161,847,153,869,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="486,130,562,130,562,136,486,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1panel_1_1_activity_panel.html#a7ffba562a8efc282cfbd57985eba70ef" title="Sends all the information for the activity panel." alt="" coords="920,250,910,240,883,230,840,223,786,218,726,216,667,218,613,223,570,230,543,240,533,250,543,261,570,271,613,278,667,283,726,285,786,283,840,278,883,271,910,261"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="370,161,597,216,595,221,369,166"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="636,220,635,208,651,198,682,192,727,189,781,193,811,203,810,208,780,198,726,195,682,197,653,203,640,210,641,220"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="com.runehive.content.consume.PotionData.onAntiFireEffect" name="com.runehive.content.consume.PotionData.onAntiFireEffect">
+<area shape="poly" id="Node000001" title="The method that executes the anti&#45;fireRunes potion action." alt="" coords="354,64,345,53,320,44,282,36,233,31,180,29,126,31,77,36,39,44,14,53,5,64,14,74,39,84,77,92,126,96,180,98,233,96,282,92,320,84,345,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_util.html#a59d6e62ebcc26a130e426dca2a2a02c9" title="Applies the effect in any context." alt="" coords="834,64,823,53,792,44,745,36,684,31,618,29,551,31,491,36,443,44,412,53,402,64,412,74,443,84,491,92,551,96,618,98,684,96,745,92,792,84,823,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="354,61,386,61,386,66,354,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="534,31,536,20,551,11,578,5,618,3,666,6,694,15,692,20,665,11,618,8,579,10,553,16,540,23,539,32"/>
+</map>

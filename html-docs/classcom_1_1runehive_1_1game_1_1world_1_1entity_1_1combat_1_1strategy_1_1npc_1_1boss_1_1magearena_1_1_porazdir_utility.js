@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_porazdir_utility =
+[
+    [ "SpawnData", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena848e7590ce4f474c0844dbdc3e0b7506.html", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena848e7590ce4f474c0844dbdc3e0b7506" ],
+    [ "defeated", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_porazdir_utility.html#a01153ed289021a1161d6ef302bebca36", null ],
+    [ "generatePorazdirSpawn", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_porazdir_utility.html#a1f1ca7f25168850c8433755446d59a18", null ]
+];

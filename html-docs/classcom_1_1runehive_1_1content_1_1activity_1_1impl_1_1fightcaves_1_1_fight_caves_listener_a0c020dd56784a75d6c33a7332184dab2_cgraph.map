@@ -1,0 +1,6 @@
+<map id="com.runehive.content.activity.impl.fightcaves.FightCavesListener.onDeath" name="com.runehive.content.activity.impl.fightcaves.FightCavesListener.onDeath">
+<area shape="poly" id="Node000001" title=" " alt="" coords="485,64,473,53,439,44,386,36,319,31,245,29,171,31,104,36,51,44,17,53,5,64,17,74,51,84,104,92,171,96,245,98,319,96,386,92,439,84,473,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity_listener.html#a7ab2bd0ef551644eae0bd6fc3644b755" title=" " alt="" coords="858,64,850,53,827,44,791,36,745,31,695,29,645,31,600,36,564,44,541,53,533,64,541,74,564,84,600,92,645,96,695,98,745,96,791,92,827,84,850,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="485,61,518,61,518,66,485,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="611,34,610,22,624,11,653,5,695,3,747,6,775,16,774,21,746,12,695,8,654,10,627,16,615,24,616,33"/>
+</map>

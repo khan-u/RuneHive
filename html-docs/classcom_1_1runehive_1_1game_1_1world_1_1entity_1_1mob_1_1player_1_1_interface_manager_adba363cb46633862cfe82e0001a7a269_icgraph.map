@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.InterfaceManager.setDialogue" name="com.runehive.game.world.entity.mob.player.InterfaceManager.setDialogue">
+<area shape="poly" id="Node000001" title="Sets the dialogue interface." alt="" coords="860,40,849,29,816,20,764,12,698,7,626,5,554,7,488,12,437,20,403,29,392,40,403,50,437,60,488,68,554,72,626,74,698,72,764,68,816,60,849,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_chat_box_interface.html#a58d277e2ac3c926dad3901aeea5b7da0" title=" " alt="" coords="344,40,336,29,311,20,274,12,227,7,175,5,122,7,75,12,38,20,14,29,5,40,14,50,38,60,75,68,122,72,175,74,227,72,274,68,311,60,336,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="377,42,344,42,344,37,377,37"/>
+</map>

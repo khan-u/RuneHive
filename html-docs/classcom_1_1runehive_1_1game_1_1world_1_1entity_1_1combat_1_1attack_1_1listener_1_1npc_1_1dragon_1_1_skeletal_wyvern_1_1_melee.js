@@ -1,0 +1,7 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_skeletal_wyvern_1_1_melee =
+[
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_skeletal_wyvern_1_1_melee.html#abe04d2f8528353faebd7fdca438307b4", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_skeletal_wyvern_1_1_melee.html#a73fd6e1eb3862630181a16c4cb75e3aa", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_skeletal_wyvern_1_1_melee.html#a79c029c685820ba0262193633a43397f", null ],
+    [ "ANIMATION", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_skeletal_wyvern_1_1_melee.html#a3840dc369695715c83088af7ab95c474", null ]
+];

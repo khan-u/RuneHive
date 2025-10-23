@@ -1,0 +1,9 @@
+<map id="dev.advo.fs.FileServer" name="dev.advo.fs.FileServer">
+<area shape="poly" id="Node000001" title=" " alt="" coords="325,285,319,279,301,273,273,268,237,265,198,264,159,265,124,268,96,273,78,279,71,285,78,292,96,298,124,302,159,305,198,306,237,305,273,302,301,298,319,292"/>
+<area shape="poly" id="Node000002" href="$classdev_1_1advo_1_1fs_1_1dispatch_1_1_request_worker_pool.html" title="A class which manages the pool of request workers." alt="" coords="330,158,322,147,299,138,263,130,218,125,167,123,117,125,72,130,36,138,13,147,5,158,13,169,36,178,72,186,117,191,167,192,218,191,263,186,299,178,322,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,207,196,263,191,264,177,208"/>
+<area shape="poly" id="Node000003" href="$classdev_1_1advo_1_1fs_1_1net_1_1_file_server_handler.html" title=" " alt="" coords="645,158,638,147,617,138,585,130,544,125,499,123,455,125,414,130,382,138,361,147,354,158,361,169,382,178,414,186,455,191,499,192,544,191,585,186,617,178,638,169"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="416,197,245,268,243,263,414,192"/>
+<area shape="poly" id="Node000004" title=" " alt="" coords="683,40,674,29,648,20,607,12,556,7,499,5,443,7,392,12,351,20,325,29,316,40,325,50,351,60,392,68,443,72,499,74,556,72,607,68,648,60,674,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="502,90,502,123,497,123,497,90"/>
+</map>

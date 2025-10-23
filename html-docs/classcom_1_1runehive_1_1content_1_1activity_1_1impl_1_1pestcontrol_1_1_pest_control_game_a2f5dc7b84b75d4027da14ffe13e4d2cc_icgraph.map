@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.pestcontrol.PestControlGame.spawnMonsters" name="com.runehive.content.activity.impl.pestcontrol.PestControlGame.spawnMonsters">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1030,40,1018,29,983,20,929,12,861,7,786,5,710,7,642,12,588,20,554,29,542,40,554,50,588,60,642,68,710,72,786,74,861,72,929,68,983,60,1018,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_game.html#a5f51328031fa02709e89bb3eb64f680b" title=" " alt="" coords="494,40,482,29,447,20,393,12,325,7,250,5,174,7,106,12,52,20,17,29,5,40,17,50,52,60,106,68,174,72,250,74,325,72,393,68,447,60,482,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="526,42,494,42,494,37,526,37"/>
+</map>

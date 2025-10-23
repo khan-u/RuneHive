@@ -1,0 +1,7 @@
+<map id="com.runehive.net.codec.game.GamePacketDecoder.decodeOpcode" name="com.runehive.net.codec.game.GamePacketDecoder.decodeOpcode">
+<area shape="poly" id="Node000001" title="Decodes the packet identifier." alt="" coords="410,86,400,76,372,66,327,59,270,54,208,52,145,54,89,59,44,66,15,76,5,86,15,97,44,107,89,114,145,119,208,121,270,119,327,114,372,107,400,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_repository.html#af84dd8d213372397673b72744ee65a8d" title="Looks up the reference size of a packet." alt="" coords="786,40,778,29,755,20,719,12,674,7,623,5,573,7,528,12,491,20,468,29,460,40,468,50,491,60,528,68,573,72,623,74,674,72,719,68,755,60,778,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="377,65,463,55,464,60,378,70"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_repository.html#a7b2290547a048eea4ae7a12f190bbc9b" title="The method that looks up the packets type." alt="" coords="788,133,780,122,757,113,720,105,674,100,623,99,572,100,526,105,490,113,466,122,458,133,466,144,490,153,526,161,572,166,623,167,674,166,720,161,757,153,780,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="378,103,462,112,462,118,377,108"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.ground.GroundItem.pickup" name="com.runehive.game.world.items.ground.GroundItem.pickup">
+<area shape="poly" id="Node000001" title="Attempts to pick the specified item up." alt="" coords="1092,40,1082,29,1051,20,1004,12,944,7,877,5,811,7,751,12,703,20,672,29,662,40,672,50,703,60,751,68,811,72,877,74,944,72,1004,68,1051,60,1082,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1movement_1_1waypoint_1_1_pickup_waypoint.html#a7064e48553c38e61e01bd9a5a944cf44" title=" " alt="" coords="614,40,599,29,556,20,488,12,404,7,310,5,216,7,131,12,63,20,20,29,5,40,20,50,63,60,131,68,216,72,310,74,404,72,488,68,556,60,599,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="646,42,614,42,614,37,646,37"/>
+</map>

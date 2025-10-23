@@ -1,0 +1,8 @@
+<map id="com.runehive.content.skill.impl.slayer.SlayerTask.canAttack" name="com.runehive.content.skill.impl.slayer.SlayerTask.canAttack">
+<area shape="poly" id="Node000001" title="Checks if a player can attack a slayer monster." alt="" coords="415,110,404,100,375,90,330,83,273,78,210,76,147,78,90,83,44,90,15,100,5,110,15,121,44,131,90,138,147,143,210,145,273,143,330,138,375,131,404,121"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a413f91a2ac68dc4f5d610c7195caf347" title="Gets the level of a skill." alt="" coords="866,64,856,53,828,44,784,36,729,31,667,29,606,31,550,36,506,44,478,53,468,64,478,74,506,84,550,92,606,96,667,98,729,96,784,92,828,84,856,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,90,479,80,480,86,386,95"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_slayer_task.html#aaf0af2a0826529092af38f20d2e4d3e7" title="Constructs a new SlayerTask." alt="" coords="872,157,862,146,833,137,787,129,730,124,667,123,604,124,547,129,502,137,473,146,463,157,473,168,502,177,547,185,604,190,667,191,730,190,787,185,833,177,862,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="386,126,476,135,476,140,385,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="580,32,581,21,596,11,625,5,667,3,719,6,747,16,746,21,718,11,667,8,626,10,598,16,585,23,586,33"/>
+</map>

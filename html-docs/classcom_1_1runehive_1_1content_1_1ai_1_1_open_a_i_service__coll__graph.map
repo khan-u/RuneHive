@@ -1,0 +1,6 @@
+<map id="com.runehive.content.ai.OpenAIService" name="com.runehive.content.ai.OpenAIService">
+<area shape="poly" id="Node000001" title=" " alt="" coords="280,181,273,170,254,160,224,153,185,148,143,146,100,148,62,153,32,160,12,170,5,181,12,191,32,201,62,208,100,213,143,215,185,213,224,208,254,201,273,191"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html" title=" " alt="" coords="280,40,273,29,254,20,224,12,185,7,143,5,100,7,62,12,32,20,12,29,5,40,12,50,32,60,62,68,100,72,143,74,185,72,224,68,254,60,273,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,89,145,146,140,146,140,89"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="288,28,301,32,307,40,297,50,273,54,272,49,294,45,302,39,298,36,287,33"/>
+</map>

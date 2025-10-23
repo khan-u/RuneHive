@@ -1,0 +1,5 @@
+var _bandos_spritual_ranger_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.godwar.BandosSpritualRanger", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar_1_1_bandos_spritual_ranger.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar_1_1_bandos_spritual_ranger" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.godwar.BandosSpritualRanger.RangedAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar10546e112ccb5bcb73b8a592fe88e5af.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar10546e112ccb5bcb73b8a592fe88e5af" ]
+];

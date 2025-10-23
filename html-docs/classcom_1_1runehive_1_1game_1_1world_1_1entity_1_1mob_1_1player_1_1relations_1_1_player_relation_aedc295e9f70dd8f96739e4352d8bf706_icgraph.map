@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.relations.PlayerRelation.getPrivateMessageId" name="com.runehive.game.world.entity.mob.player.relations.PlayerRelation.getPrivateMessageId">
+<area shape="poly" id="Node000001" title=" " alt="" coords="941,40,927,29,887,20,825,12,747,7,661,5,574,7,496,12,434,20,394,29,380,40,394,50,434,60,496,68,574,72,661,74,747,72,825,68,887,60,927,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_private_message.html#a728103b8da7feda8d09e3471ba8347d2" title=" " alt="" coords="332,40,324,29,301,20,265,12,219,7,169,5,118,7,73,12,37,20,13,29,5,40,13,50,37,60,73,68,118,72,169,74,219,72,265,68,301,60,324,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,42,333,42,333,37,365,37"/>
+</map>

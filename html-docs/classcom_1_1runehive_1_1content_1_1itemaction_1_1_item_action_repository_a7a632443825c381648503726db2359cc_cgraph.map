@@ -1,0 +1,7 @@
+<map id="com.runehive.content.itemaction.ItemActionRepository.inventory" name="com.runehive.content.itemaction.ItemActionRepository.inventory">
+<area shape="poly" id="Node000001" title=" " alt="" coords="365,86,356,76,331,66,291,59,241,54,185,52,130,54,79,59,40,66,14,76,5,86,14,97,40,107,79,114,130,119,185,121,241,119,291,114,331,107,356,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1cec21ca5ef1783808d4ca9de1051a29" title="Gets the identification of this item." alt="" coords="770,40,761,29,736,20,697,12,648,7,593,5,538,7,489,12,450,20,425,29,416,40,425,50,450,60,489,68,538,72,593,74,648,72,697,68,736,60,761,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="340,66,424,56,424,62,341,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1itemaction_1_1_item_action.html#afc6da647c35606e5cb21f4fbee15457b" title="The execution method of the action." alt="" coords="773,133,764,122,738,113,699,105,648,100,593,99,537,100,487,105,447,113,422,122,413,133,422,144,447,153,487,161,537,166,593,167,648,166,699,161,738,153,764,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="341,102,423,111,422,116,340,107"/>
+</map>

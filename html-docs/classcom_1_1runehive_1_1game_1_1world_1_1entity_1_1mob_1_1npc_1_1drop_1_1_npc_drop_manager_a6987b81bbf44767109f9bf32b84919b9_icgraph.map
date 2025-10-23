@@ -1,0 +1,12 @@
+<map id="com.runehive.game.world.entity.mob.npc.drop.NpcDropManager.tridentRunes" name="com.runehive.game.world.entity.mob.npc.drop.NpcDropManager.tridentRunes">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1588,133,1576,122,1540,113,1486,105,1416,100,1340,99,1263,100,1194,105,1140,113,1104,122,1092,133,1104,144,1140,153,1194,161,1263,166,1340,167,1416,166,1486,161,1540,153,1576,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1drop_1_1_npc_drop_manager.html#a53f2b061352aedc7629babc7f42a6595" title="Attempts to drop the drop table which belongs to npc#id." alt="" coords="1044,97,1032,86,997,77,942,69,873,64,797,63,720,64,651,69,596,77,561,86,549,97,561,108,596,117,651,125,720,130,797,131,873,130,942,125,997,117,1032,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1100,120,1021,115,1022,109,1100,115"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1drop_1_1_npc_drop_manager.html#a02c35eab6c1903dfff91ff99758a230d" title=" " alt="" coords="501,133,489,122,453,113,399,105,330,100,253,99,177,100,107,105,53,113,17,122,5,133,17,144,53,153,107,161,177,166,253,167,330,166,399,161,453,153,489,144"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="1086,146,1044,146,797,149,549,146,492,145,492,140,549,141,797,144,1044,141,1086,140"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="890,54,857,45,796,41,748,43,715,49,699,57,697,60,699,64,694,66,692,60,695,53,713,44,747,38,797,36,858,40,892,49"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1_npc_death.html#afce283afd4f9c9ebadcddee739eb19bb" title="The last part of the death process where the character is reset." alt="" coords="475,40,464,29,433,20,384,12,322,7,253,5,184,7,122,12,73,20,42,29,31,40,42,50,73,60,122,68,184,72,253,74,322,72,384,68,433,60,464,50"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="583,77,438,62,439,57,583,72"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="586,122,496,129,496,123,586,117"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="464,108,553,102,554,107,464,113"/>
+</map>

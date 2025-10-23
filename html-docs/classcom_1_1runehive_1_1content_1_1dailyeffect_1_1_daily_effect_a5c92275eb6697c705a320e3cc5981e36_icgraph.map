@@ -1,0 +1,7 @@
+<map id="com.runehive.content.dailyeffect.DailyEffect.maxUses" name="com.runehive.content.dailyeffect.DailyEffect.maxUses">
+<area shape="poly" id="Node000001" title=" " alt="" coords="770,86,761,76,736,66,696,59,646,54,591,52,535,54,485,59,446,66,420,76,412,86,420,97,446,107,485,114,535,119,591,121,646,119,696,114,736,107,761,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dailyeffect_1_1_daily_effect.html#a4ac33197bd6325d6332f401656faf585" title=" " alt="" coords="364,40,355,29,329,20,290,12,240,7,184,5,129,7,79,12,40,20,14,29,5,40,14,50,40,60,79,68,129,72,184,74,240,72,290,68,329,60,355,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="421,70,339,60,339,55,422,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1dailyeffect_1_1_daily_effect.html#a219bef3ff6207d4862afa45a22beddf4" title=" " alt="" coords="364,133,355,122,329,113,290,105,240,100,184,99,129,100,79,105,40,113,14,122,5,133,14,144,40,153,79,161,129,166,184,167,240,166,290,161,329,153,355,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="422,109,339,118,339,113,421,103"/>
+</map>

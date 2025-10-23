@@ -1,0 +1,13 @@
+var enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3 =
+[
+    [ "SpawnData", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html#a0e95cf2e86e6d1c868b4d06bdd55024b", null ],
+    [ "generate", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html#a03b86c7803b8e67ce6265da377fb2216", null ],
+    [ "LEVEL_18", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html#ad05dc3c6294b656609d71c229834605d", null ],
+    [ "LEVEL_19", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html#adedfd9eadce1f7d98b353b99787f8058", null ],
+    [ "LEVEL_28", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html#a886ff32644669790a2d146365cafa223", null ],
+    [ "LEVEL_41", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html#a16692fdb7a173a5f372a311fb730c0f8", null ],
+    [ "LEVEL_52", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html#ad76f55819514b421e543e9d6dc22a08c", null ],
+    [ "LEVEL_53", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html#a08717af5b6c9b08ca3b1efaa17e16376", null ],
+    [ "location", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html#a64988d82437cfb7bf95ae4e9407e564e", null ],
+    [ "position", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html#a2455b9ceb982ca2d114190a51f480fa1", null ]
+];

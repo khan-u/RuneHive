@@ -1,0 +1,10 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.DemonicGorillas.hit" name="com.runehive.game.world.entity.combat.strategy.npc.boss.DemonicGorillas.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="617,64,602,53,558,44,491,36,406,31,311,29,217,31,131,36,64,44,20,53,5,64,20,74,64,84,131,92,217,96,311,98,406,96,491,92,558,84,602,74"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="187,33,185,26,189,20,210,11,251,5,311,3,386,6,427,16,426,21,385,12,311,8,252,10,212,16,192,24,190,27,192,31"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_demonic_gorillas.html#a74536a32a9cd08e882d080a5a97bb55e" title=" " alt="" coords="1276,64,1261,53,1218,44,1150,36,1065,31,970,29,876,31,791,36,723,44,680,53,665,64,680,74,723,84,791,92,876,96,970,98,1065,96,1150,92,1218,84,1261,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="617,61,649,61,649,66,617,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_random_utils.html#a4393ae0e07595cf2eff354ff17894f39" title="Returns a pseudo&#45;random int value between inclusive min and inclusive max excluding the specified num..." alt="" coords="1617,64,1610,53,1589,44,1557,36,1516,31,1471,29,1425,31,1385,36,1352,44,1331,53,1324,64,1331,74,1352,84,1385,92,1425,96,1471,98,1516,96,1557,92,1589,84,1610,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1277,61,1309,61,1309,66,1277,66"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1_random_utils.html#af5ca705d36edb35274dfe19aaaf57fce" title="Pseudo&#45;randomly retrieves a element from array." alt="" coords="1959,64,1951,53,1931,44,1898,36,1857,31,1812,29,1767,31,1726,36,1693,44,1673,53,1665,64,1673,74,1693,84,1726,92,1767,96,1812,98,1857,96,1898,92,1931,84,1951,74"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1618,61,1650,61,1650,66,1618,66"/>
+</map>

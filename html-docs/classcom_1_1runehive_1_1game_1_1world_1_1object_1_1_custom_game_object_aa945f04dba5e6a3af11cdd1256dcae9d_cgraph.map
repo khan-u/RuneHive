@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.object.CustomGameObject.active" name="com.runehive.game.world.object.CustomGameObject.active">
+<area shape="poly" id="Node000001" title="Determines if this object is active on the world." alt="" coords="366,40,358,29,332,20,292,12,242,7,186,5,130,7,80,12,40,20,14,29,5,40,14,50,40,60,80,68,130,72,186,74,242,72,292,68,332,60,358,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a6fbe05d5095666dd6a6ce87d3176c8dc" title=" " alt="" coords="767,40,758,29,733,20,694,12,645,7,591,5,536,7,487,12,448,20,423,29,414,40,423,50,448,60,487,68,536,72,591,74,645,72,694,68,733,60,758,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="367,37,399,37,399,42,367,42"/>
+</map>

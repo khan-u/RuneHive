@@ -1,0 +1,9 @@
+<map id="com.runehive.net.packet.out.SendNpcUpdate.updateMovement" name="com.runehive.net.packet.out.SendNpcUpdate.updateMovement">
+<area shape="poly" id="Node000001" title=" " alt="" coords="383,133,374,122,347,113,305,105,253,100,194,99,136,100,83,105,41,113,15,122,5,133,15,144,41,153,83,161,136,166,194,167,253,166,305,161,347,153,374,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1movement_1_1_movement.html#af9453597981aea9c54bf0a750c204fbb" title=" " alt="" coords="944,40,931,29,895,20,838,12,767,7,688,5,608,7,537,12,480,20,444,29,431,40,444,50,480,60,537,68,608,72,688,74,767,72,838,68,895,60,931,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="323,105,431,84,517,68,518,73,432,89,324,110"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1movement_1_1_movement.html#af00255b28e607fa934c7b226e1ec48d2" title=" " alt="" coords="944,133,931,122,895,113,838,105,767,100,688,99,608,100,537,105,480,113,444,122,431,133,444,144,480,153,537,161,608,166,688,167,767,166,838,161,895,153,931,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="384,130,416,130,416,136,384,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a56741fac5214dd3b1ac8e29d77da6352" title="Checks if mob requires an update." alt="" coords="889,226,879,216,850,206,806,199,750,194,688,192,625,194,569,199,525,206,496,216,487,226,496,237,525,247,569,254,625,259,688,261,750,259,806,254,850,247,879,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="324,156,432,177,533,196,532,201,431,182,323,161"/>
+</map>

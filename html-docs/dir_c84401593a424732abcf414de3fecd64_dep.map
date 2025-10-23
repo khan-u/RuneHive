@@ -1,0 +1,9 @@
+<map id="java/com/runehive/game/world/items/containers" name="java/com/runehive/game/world/items/containers">
+<area shape="poly" id="node2" href="dir_35a15572ab720f04bdf06a49ef043236.html" title="bank" alt="" coords="237,85,235,78,230,73,221,68,210,65,197,64,185,65,174,68,165,73,159,78,157,85,159,91,165,97,174,102,185,105,197,106,210,105,221,102,230,97,235,91"/>
+<area shape="poly" id="node3" href="dir_3942dc12b3377ef5d768c595b3a00962.html" title="equipment" alt="" coords="397,85,394,78,384,73,369,68,350,65,329,64,308,65,289,68,274,73,265,78,261,85,265,91,274,97,289,102,308,105,329,106,350,105,369,102,384,97,394,91"/>
+<area shape="poly" id="node4" href="dir_6cfc436df54523f448b1df9f5b78c4f0.html" title="impl" alt="" coords="494,85,492,78,487,73,479,68,469,65,457,64,446,65,436,68,428,73,423,78,421,85,423,91,428,97,436,102,446,105,457,106,469,105,479,102,487,97,492,91"/>
+<area shape="poly" id="node5" href="dir_b7791ca9d53662b5c93490fb1233c831.html" title="inventory" alt="" coords="640,85,637,78,628,73,615,68,598,65,579,64,560,65,543,68,529,73,521,78,518,85,521,91,529,97,543,102,560,105,579,106,598,105,615,102,628,97,637,91"/>
+<area shape="poly" id="node6" href="dir_1c6fd9e86e17aac99aa59c9613ac1619.html" title="pricechecker" alt="" coords="822,85,818,78,807,73,789,68,767,65,743,64,718,65,696,68,678,73,667,78,663,85,667,91,678,97,696,102,718,105,743,106,767,105,789,102,807,97,818,91"/>
+<area shape="rect" id="clust2" href="dir_c84401593a424732abcf414de3fecd64.html" alt="" coords="27,53,833,117"/>
+<area shape="rect" id="clust1" href="dir_851e08659ee5a8b0202fa97c0be1cae9.html" title="items" alt="" coords="16,16,844,127"/>
+</map>

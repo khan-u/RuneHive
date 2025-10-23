@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.fishing.FishingSpot" name="com.runehive.content.skill.impl.fishing.FishingSpot">
+<area shape="poly" id="Node000001" title=" " alt="" coords="422,202,411,191,382,182,336,174,278,169,213,167,149,169,91,174,45,182,16,191,5,202,16,213,45,222,91,230,149,235,213,236,278,235,336,230,382,222,411,213"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1fishing_1_1_fishable.html" title=" " alt="" coords="422,40,411,29,382,20,336,12,278,7,213,5,149,7,91,12,45,20,16,29,5,40,16,50,45,60,91,68,149,72,213,74,278,72,336,68,382,60,411,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,90,216,167,211,167,211,90"/>
+</map>

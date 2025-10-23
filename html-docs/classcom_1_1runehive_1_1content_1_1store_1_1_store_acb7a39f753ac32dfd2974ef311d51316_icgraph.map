@@ -1,0 +1,7 @@
+<map id="com.runehive.content.store.Store.getPersonalShops" name="com.runehive.content.store.Store.getPersonalShops">
+<area shape="poly" id="Node000001" title=" " alt="" coords="713,86,706,76,684,66,650,59,608,54,560,52,513,54,470,59,437,66,415,76,407,86,415,97,437,107,470,114,513,119,560,121,608,119,650,114,684,107,706,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1store_1_1impl_1_1_personal_store.html#a09158c9fe79d5a2c02c52a38d622a292" title=" " alt="" coords="359,40,351,29,326,20,286,12,237,7,182,5,128,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,128,72,182,74,237,72,286,68,326,60,351,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="410,71,332,61,333,56,411,65"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1store_1_1impl_1_1_personal_store.html#a0092cf1b5c6ec3b6c51129ded436f208" title="Opens the panel where a player can search for shops." alt="" coords="359,133,351,122,326,113,286,105,237,100,182,99,128,100,78,105,39,113,14,122,5,133,14,144,39,153,78,161,128,166,182,167,237,166,286,161,326,153,351,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="411,108,333,117,332,112,410,102"/>
+</map>

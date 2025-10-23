@@ -1,0 +1,5 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_ring_of_recoil_listener =
+[
+    [ "block", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_ring_of_recoil_listener.html#ada1ca64f89b7618a05b48134a3cdb20c", null ],
+    [ "handleRecoil", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_ring_of_recoil_listener.html#afa43100dad063634e814b066325cf3fb", null ]
+];

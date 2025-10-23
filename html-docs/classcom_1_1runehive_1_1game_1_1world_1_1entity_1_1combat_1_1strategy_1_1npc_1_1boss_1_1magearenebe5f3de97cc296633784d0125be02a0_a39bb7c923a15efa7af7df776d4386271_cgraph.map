@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Justiciar.LightingRain.attack" name="com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Justiciar.LightingRain.attack">
+<area shape="poly" id="Node000001" title=" " alt="" coords="737,64,719,53,667,44,586,36,484,31,371,29,258,31,156,36,75,44,23,53,5,64,23,74,75,84,156,92,258,96,371,98,484,96,586,92,667,84,719,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenebe5f3de97cc296633784d0125be02a0.html#a28b963e6f332374dbd6d74be3e8d96d0" title=" " alt="" coords="1517,64,1499,53,1447,44,1366,36,1264,31,1151,29,1038,31,936,36,855,44,803,53,785,64,803,74,855,84,936,92,1038,96,1151,98,1264,96,1366,92,1447,84,1499,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="737,61,769,61,769,66,737,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="1004,33,1002,26,1007,20,1032,11,1080,5,1151,3,1240,6,1288,16,1287,21,1239,12,1151,8,1080,10,1033,16,1010,24,1007,27,1009,31"/>
+</map>

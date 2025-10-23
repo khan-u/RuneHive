@@ -1,0 +1,8 @@
+var namespacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches =
+[
+    [ "impl", "namespacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1impl.html", "namespacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1impl" ],
+    [ "DiseasablePatch", "classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1_diseasable_patch.html", "classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1_diseasable_patch" ],
+    [ "FarmingPatch", "classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1_farming_patch.html", "classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1_farming_patch" ],
+    [ "HarvestablePatch", "classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1_harvestable_patch.html", "classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1_harvestable_patch" ],
+    [ "WaterablePatch", "classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1_waterable_patch.html", "classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1_waterable_patch" ]
+];

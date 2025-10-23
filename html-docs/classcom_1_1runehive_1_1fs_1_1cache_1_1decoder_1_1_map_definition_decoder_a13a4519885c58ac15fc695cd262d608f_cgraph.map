@@ -1,0 +1,7 @@
+<map id="com.runehive.fs.cache.decoder.MapDefinitionDecoder.run" name="com.runehive.fs.cache.decoder.MapDefinitionDecoder.run">
+<area shape="poly" id="Node000001" title=" " alt="" coords="352,40,344,29,319,20,281,12,232,7,179,5,125,7,77,12,38,20,14,29,5,40,14,50,38,60,77,68,125,72,179,74,232,72,281,68,319,60,344,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_definition.html#a5e13637eb63f040928c04393994f2303" title="Adds a RegionDefinition." alt="" coords="764,40,755,29,729,20,689,12,638,7,582,5,526,7,475,12,435,20,409,29,400,40,409,50,435,60,475,68,526,72,582,74,638,72,689,68,729,60,755,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="352,37,385,37,385,42,352,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_definition.html#aa3864d191f1db3ffcd7c3848bc217c38" title="Constructs a new RegionDefinition with the specified hash, terrain file id, object file id and preloa..." alt="" coords="1187,40,1178,29,1152,20,1110,12,1058,7,1000,5,942,7,890,12,848,20,821,29,812,40,821,50,848,60,890,68,942,72,1000,74,1058,72,1110,68,1152,60,1178,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="764,37,797,37,797,42,764,42"/>
+</map>

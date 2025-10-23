@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Justiciar.Magic.hit" name="com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Justiciar.Magic.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="737,64,719,53,667,44,586,36,484,31,371,29,258,31,156,36,75,44,23,53,5,64,23,74,75,84,156,92,258,96,371,98,484,96,586,92,667,84,719,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="233,32,231,26,236,19,261,10,305,5,371,3,454,6,499,16,498,21,453,12,371,8,306,10,262,16,239,24,237,27,238,31"/>
+</map>

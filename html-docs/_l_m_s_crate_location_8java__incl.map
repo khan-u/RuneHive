@@ -1,0 +1,5 @@
+<map id="java/com/runehive/content/lms/crate/LMSCrateLocation.java" name="java/com/runehive/content/lms/crate/LMSCrateLocation.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="379,40,370,29,344,20,303,12,252,7,195,5,138,7,87,12,46,20,20,29,11,40,20,50,46,60,87,68,138,72,195,74,252,72,303,68,344,60,370,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="385,157,376,146,349,136,307,129,254,124,195,122,136,124,84,129,42,136,15,146,5,157,15,167,42,177,84,184,136,189,195,191,254,189,307,184,349,177,376,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,75,198,107,192,107,192,75"/>
+</map>

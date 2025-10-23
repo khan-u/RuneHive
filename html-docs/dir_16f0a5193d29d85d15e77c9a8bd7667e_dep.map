@@ -1,0 +1,4 @@
+<map id="java/com/runehive/game/world/entity/mob/npc/drop" name="java/com/runehive/game/world/entity/mob/npc/drop">
+<area shape="poly" id="node1" href="dir_16f0a5193d29d85d15e77c9a8bd7667e.html" title="drop" alt="" coords="102,74,100,68,95,62,86,57,76,54,64,53,52,54,42,57,33,62,28,68,26,74,28,81,33,87,42,91,52,94,64,95,76,94,86,91,95,87,100,81"/>
+<area shape="rect" id="clust1" href="dir_62e75933d0c3a63c1cc12bc2b5edb5b9.html" title="npc" alt="" coords="16,16,112,106"/>
+</map>

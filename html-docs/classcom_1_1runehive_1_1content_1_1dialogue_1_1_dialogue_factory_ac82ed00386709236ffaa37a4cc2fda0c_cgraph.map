@@ -1,0 +1,10 @@
+<map id="com.runehive.content.dialogue.DialogueFactory.sendInformationBox" name="com.runehive.content.dialogue.DialogueFactory.sendInformationBox">
+<area shape="poly" id="Node000001" title=" " alt="" coords="407,112,398,101,369,92,325,84,269,79,206,77,144,79,88,84,44,92,15,101,5,112,15,122,44,132,88,140,144,144,206,146,269,144,325,140,369,132,398,122"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#a8979431ba1fa2913a9ed65bbf8e4dd3f" title="Appends a chain to this factory." alt="" coords="802,40,794,29,770,20,731,12,684,7,630,5,577,7,529,12,491,20,467,29,458,40,467,50,491,60,529,68,577,72,630,74,684,72,731,68,770,60,794,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,85,482,62,483,67,351,90"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#aec64ffdeed4c31dfe340a41430f50892" title="Creates a new DialogueFactory." alt="" coords="1221,76,1212,65,1186,56,1146,48,1094,43,1037,41,980,43,929,48,888,56,862,65,853,76,862,86,888,96,929,104,980,108,1037,110,1094,108,1146,104,1186,96,1212,86"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="402,101,805,84,843,82,843,87,805,89,403,106"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#ab2aefcffbd4c555eebf5439f4c437d25" title="The method that validates the length of text." alt="" coords="805,184,797,173,772,164,733,156,684,151,630,149,576,151,528,156,489,164,464,173,455,184,464,194,489,204,528,212,576,216,630,218,684,216,733,212,772,204,797,194"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="351,133,482,156,481,161,350,139"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="789,51,855,57,854,62,788,56"/>
+</map>

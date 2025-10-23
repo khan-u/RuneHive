@@ -1,0 +1,9 @@
+<map id="com.runehive.util.parser.old.EquipmentDefinitionParser.parse" name="com.runehive.util.parser.old.EquipmentDefinitionParser.parse">
+<area shape="poly" id="Node000001" title="The method allows a user to modify the data as its being parsed." alt="" coords="368,86,359,76,333,66,293,59,243,54,187,52,131,54,80,59,40,66,14,76,5,86,14,97,40,107,80,114,131,119,187,121,243,119,293,114,333,107,359,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item_definition.html#a50e4924075ee157cd3f75a8107a595fa" title="Gets an item definition." alt="" coords="770,40,761,29,736,20,697,12,648,7,593,5,538,7,489,12,450,20,425,29,416,40,425,50,450,60,489,68,538,72,593,74,648,72,697,68,736,60,761,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="343,66,424,56,425,62,343,71"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item_definition.html#aa9479e24430ebdd5855705e1177346b4" title="Gets the item name." alt="" coords="770,133,761,122,736,113,697,105,648,100,593,99,538,100,489,105,450,113,425,122,416,133,425,144,450,153,489,161,538,166,593,167,648,166,697,161,736,153,761,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="343,102,425,111,424,116,343,107"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item_definition.html#a4fafaf641c0490165d697a73006e76bf" title=" " alt="" coords="1172,40,1163,29,1138,20,1099,12,1050,7,995,5,940,7,891,12,852,20,827,29,818,40,827,50,852,60,891,68,940,72,995,74,1050,72,1099,68,1138,60,1163,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="771,37,803,37,803,42,771,42"/>
+</map>

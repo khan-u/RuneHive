@@ -1,0 +1,11 @@
+<map id="com.runehive.content.activity.lobby.LobbyNode.inLobby" name="com.runehive.content.activity.lobby.LobbyNode.inLobby">
+<area shape="poly" id="Node000001" title=" " alt="" coords="925,180,916,169,889,160,846,152,793,147,734,145,674,147,621,152,578,160,551,169,542,180,551,190,578,200,621,208,674,212,734,214,793,212,846,208,889,200,916,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_game_1_1_pest_control_node.html#a65790998b273d90e57dfd0d9d6d2cb2d" title="Finishes the activity." alt="" coords="494,40,482,29,447,20,393,12,325,7,250,5,174,7,106,12,52,20,17,29,5,40,17,50,52,60,106,68,174,72,250,74,325,72,393,68,447,60,482,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="645,144,571,115,493,89,410,69,411,64,494,84,573,110,647,139"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_game.html#a182354defb811233cf55d4bcb18b33d1" title=" " alt="" coords="494,133,482,122,447,113,393,105,325,100,250,99,174,100,106,105,52,113,17,122,5,133,17,144,52,153,106,161,174,166,250,167,325,166,393,161,447,153,482,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="548,165,452,155,453,150,549,159"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_game.html#ab72f44a63149f5ddb402d3085b551d2b" title="Sequences the activity." alt="" coords="494,226,482,216,447,206,393,199,325,194,250,192,174,194,106,199,52,206,17,216,5,226,17,237,52,247,106,254,174,259,250,261,325,259,393,254,447,247,482,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="549,200,453,210,452,204,548,195"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_game_1_1_pest_control_panel.html#a14569cdbcd716d8096fe492747b89093" title=" " alt="" coords="494,320,482,309,447,300,393,292,325,287,250,285,174,287,106,292,52,300,17,309,5,320,17,330,52,340,106,348,174,352,250,354,325,352,393,348,447,340,482,330"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="647,221,573,249,494,276,411,296,410,291,493,271,571,244,645,216"/>
+</map>

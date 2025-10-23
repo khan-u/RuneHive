@@ -1,0 +1,5 @@
+var _skotizo_utility_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.SkotizoUtility", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_utility.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_utility" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.SkotizoUtility.SpawnData", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3" ]
+];

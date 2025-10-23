@@ -1,0 +1,5 @@
+<map id="com.runehive.game.Animation.equals" name="com.runehive.game.Animation.equals">
+<area shape="poly" id="Node000001" title=" " alt="" coords="415,40,404,33,375,27,330,23,273,20,210,19,147,20,90,23,44,27,15,33,5,40,15,46,44,52,90,57,147,60,210,61,273,60,330,57,375,52,404,46"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1_animation.html#ac355da51584cb2df292d4bc2520603fd" title="Creates a new instance of the animation with a hidden delay of 0." alt="" coords="804,40,795,29,771,20,733,12,686,7,633,5,580,7,533,12,495,20,471,29,463,40,471,50,495,60,533,68,580,72,633,74,686,72,733,68,771,60,795,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="415,37,447,37,447,42,415,42"/>
+</map>

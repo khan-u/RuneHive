@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_ble622843a871f25f2a0127ad0a5217467 =
+[
+    [ "Dragonfire", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_ble622843a871f25f2a0127ad0a5217467.html#aa3d18e76236893d5ccecc7028c59348c", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_ble622843a871f25f2a0127ad0a5217467.html#a8ad18805339cde004d2d6679a9bfc27c", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_ble622843a871f25f2a0127ad0a5217467.html#abaae6dcb928c4e3730f0d8040fb6f537", null ]
+];

@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.Locking.locked" name="com.runehive.game.world.entity.mob.Locking.locked">
+<area shape="poly" id="Node000001" title="Checks if the mob is locked by a certain type." alt="" coords="407,40,398,29,369,20,325,12,269,7,206,5,144,7,88,12,44,20,15,29,5,40,15,50,44,60,88,68,144,72,206,74,269,72,325,68,369,60,398,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_locking.html#a7f6b95a95b463f7342801da10b62f73d" title="Checks if the mob is locked." alt="" coords="858,40,848,29,819,20,775,12,719,7,656,5,594,7,538,12,494,20,465,29,455,40,465,50,494,60,538,68,594,72,656,74,719,72,775,68,819,60,848,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,37,440,37,440,42,408,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_locking.html#a0e61be7290e47b8bb5d7db4801b99a96" title="Unlocks the mob." alt="" coords="1308,40,1298,29,1269,20,1225,12,1169,7,1107,5,1044,7,988,12,944,20,915,29,906,40,915,50,944,60,988,68,1044,72,1107,74,1169,72,1225,68,1269,60,1298,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="858,37,890,37,890,42,858,42"/>
+</map>

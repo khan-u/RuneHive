@@ -1,0 +1,5 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1prayer_1_1_augury_listener =
+[
+    [ "modifyDefenceLevel", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1prayer_1_1_augury_listener.html#aa4f6d3ec187a4d073a4959ef25733a42", null ],
+    [ "modifyMagicLevel", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1prayer_1_1_augury_listener.html#a9cd0c911cb7a6798f9c536fb9812fd7a", null ]
+];

@@ -1,0 +1,27 @@
+var classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service =
+[
+    [ "ChatMessage", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service_1_1_chat_message.html", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service_1_1_chat_message" ],
+    [ "OpenAIService", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#ac8cd48627eb1ccfeab4295699cd78afa", null ],
+    [ "clearConversationHistory", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#ad28e27ce2038aabc8e588a08baaae19a", null ],
+    [ "getActiveSessionCount", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#ad5f62eebe7eed8e8a43099b6e0752f77", null ],
+    [ "getInstance", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#acc9ce5f1005614b06a871159a3cce8c4", null ],
+    [ "getMinWordCount", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#a0925a351535585dac99288cb268b2448", null ],
+    [ "hashUsername", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#a912cb6fa9c45483c304c09cac1273d33", null ],
+    [ "initialize", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#a02ba33bdd665277e3ce575b9c874c7dd", null ],
+    [ "isInitialized", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#aa61dc9fe04c306189246774bd505ad14", null ],
+    [ "loadApiKey", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#ab6e8069d644ebf65e2e1f2428c9035cc", null ],
+    [ "processPlayerMessage", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#a23e28f47e0648cdaeadd3573715dc6df", null ],
+    [ "shutdown", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#ab34519e42956bf40671f7861273b5aca", null ],
+    [ "API_KEY_ENV", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#a38640833a3032a63b0245326d5e3f889", null ],
+    [ "API_KEY_FILE", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#ac5437c28a340b7d3e9fd8ab58f3aee49", null ],
+    [ "apiKey", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#a0250edcf05dea0c17ced3ab0ad60d8c8", null ],
+    [ "conversationHistory", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#a5d935c2da404ee17d0145af82f87dbbf", null ],
+    [ "executorService", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#a8f6c881524a167efd4eb1c2e6edb4faa", null ],
+    [ "initialized", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#af2f991452c2fd0064099975232b6afd6", null ],
+    [ "INSTANCE", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#a62ae60a394542267dec6f227241daa19", null ],
+    [ "logger", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#a7f6e35b88335822db17fb1286e52019b", null ],
+    [ "MAX_CONVERSATION_HISTORY", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#ac2cafdc1f95150eece07a4272d263c27", null ],
+    [ "MAX_TOKENS", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#a7269260b7cd046ef7ea075a44ce5a0f7", null ],
+    [ "openAIClient", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#ada5091f19468177e649ffb6cb7c810c7", null ],
+    [ "TEMPERATURE", "classcom_1_1runehive_1_1content_1_1ai_1_1_open_a_i_service.html#ad12ffc28aa2941bdfad9097629e69758", null ]
+];

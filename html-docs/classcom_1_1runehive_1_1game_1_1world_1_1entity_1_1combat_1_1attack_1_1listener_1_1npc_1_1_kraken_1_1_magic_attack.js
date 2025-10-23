@@ -1,0 +1,5 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_kraken_1_1_magic_attack =
+[
+    [ "MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_kraken_1_1_magic_attack.html#ac0759793434b05953436806a510e4fc4", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_kraken_1_1_magic_attack.html#ad3a5f0f319d46d9a3d040f70ac7538a5", null ]
+];

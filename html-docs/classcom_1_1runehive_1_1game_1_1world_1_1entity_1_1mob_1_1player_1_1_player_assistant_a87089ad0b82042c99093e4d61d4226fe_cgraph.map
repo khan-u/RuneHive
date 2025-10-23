@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.mob.player.PlayerAssistant.getValueIcon" name="com.runehive.game.world.entity.mob.player.PlayerAssistant.getValueIcon">
+<area shape="poly" id="Node000001" title=" " alt="" coords="474,64,462,53,429,44,377,36,312,31,240,29,167,31,102,36,50,44,17,53,5,64,17,74,50,84,102,92,167,96,240,98,312,96,377,92,429,84,462,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_assistant.html#af0c4d5d3ee5534ea31dcc7776f96e28e" title=" " alt="" coords="990,64,979,53,946,44,894,36,829,31,756,29,684,31,618,36,567,44,533,53,522,64,533,74,567,84,618,92,684,96,756,98,829,96,894,92,946,84,979,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,61,506,61,506,66,474,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="658,32,659,20,677,11,709,5,756,3,814,6,847,15,845,21,814,11,756,8,710,10,679,16,664,23,664,32"/>
+</map>

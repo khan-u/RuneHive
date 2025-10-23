@@ -1,0 +1,18 @@
+<map id="com.runehive.content.overrides.Overrides.drawText" name="com.runehive.content.overrides.Overrides.drawText">
+<area shape="poly" id="Node000001" title=" " alt="" coords="355,148,347,137,322,128,283,120,234,115,180,113,126,115,77,120,39,128,14,137,5,148,14,158,39,168,77,176,126,180,180,182,234,180,283,176,322,168,347,158"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#ae2431650b2c29abdcb8760f282d260d8" title=" " alt="" coords="755,40,746,29,722,20,683,12,634,7,580,5,526,7,477,12,439,20,414,29,405,40,414,50,439,60,477,68,526,72,580,74,634,72,683,68,722,60,746,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,117,460,69,462,74,286,122"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a5008cb760d4d688a1731e0406d29c335" title="Gets the item definition for the item identifier." alt="" coords="1159,112,1151,101,1125,92,1086,84,1037,79,982,77,927,79,878,84,839,92,814,101,805,112,814,122,839,132,878,140,927,144,982,146,1037,144,1086,140,1125,132,1151,122"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="350,137,403,134,794,117,794,122,403,140,350,142"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#adc1c7b8e6620777606b083001f7d936a" title=" " alt="" coords="757,184,748,173,723,164,684,156,635,151,580,149,525,151,476,156,437,164,412,173,403,184,412,194,437,204,476,212,525,216,580,218,635,216,684,212,723,204,748,194"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="341,159,405,165,404,171,340,165"/>
+<area shape="poly" id="Node000008" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#a94a7040d7c05566988cb7d019ae7e336" title=" " alt="" coords="755,277,746,266,722,257,683,249,634,244,580,243,526,244,477,249,439,257,414,266,405,277,414,288,439,297,477,305,526,310,580,311,634,310,683,305,722,297,746,288"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="260,176,404,228,456,243,454,248,402,233,258,181"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item_definition.html#a50e4924075ee157cd3f75a8107a595fa" title="Gets an item definition." alt="" coords="1561,112,1553,101,1527,92,1488,84,1439,79,1384,77,1329,79,1280,84,1241,92,1216,101,1207,112,1216,122,1241,132,1280,140,1329,144,1384,146,1439,144,1488,140,1527,132,1553,122"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1160,109,1192,109,1192,114,1160,114"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item_definition.html#a4fafaf641c0490165d697a73006e76bf" title=" " alt="" coords="1963,112,1955,101,1929,92,1890,84,1841,79,1786,77,1732,79,1682,84,1643,92,1618,101,1609,112,1618,122,1643,132,1682,140,1732,144,1786,146,1841,144,1890,140,1929,132,1955,122"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1562,109,1594,109,1594,114,1562,114"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="711,158,835,135,836,141,712,163"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item_definition.html#aa9479e24430ebdd5855705e1177346b4" title="Gets the item name." alt="" coords="1159,205,1151,194,1125,185,1086,177,1037,172,982,171,927,172,878,177,839,185,814,194,805,205,814,216,839,225,878,233,927,238,982,239,1037,238,1086,233,1125,225,1151,216"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="752,190,796,193,796,198,751,195"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.InterfaceManager.isSidebar" name="com.runehive.game.world.entity.mob.player.InterfaceManager.isSidebar">
+<area shape="poly" id="Node000001" title=" " alt="" coords="908,40,897,29,864,20,812,12,747,7,674,5,602,7,536,12,485,20,451,29,440,40,451,50,485,60,536,68,602,72,674,74,747,72,812,68,864,60,897,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1panel_1_1_activity_panel.html#a6390837ef5db83c2ea95179a038f2831" title="Sends all the information for the activity panel." alt="" coords="392,40,382,29,355,20,312,12,258,7,199,5,139,7,85,12,42,20,15,29,5,40,15,50,42,60,85,68,139,72,199,74,258,72,312,68,355,60,382,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="424,42,392,42,392,37,424,37"/>
+</map>

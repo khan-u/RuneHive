@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/skill/impl/slayer/SlayerUnlockable.java" name="java/com/runehive/content/skill/impl/slayer/SlayerUnlockable.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="429,40,418,29,388,20,341,12,282,7,217,5,152,7,93,12,46,20,16,29,5,40,16,50,46,60,93,68,152,72,217,74,282,72,341,68,388,60,418,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="201,143,197,137,184,131,164,126,139,123,112,122,84,123,59,126,39,131,27,137,22,143,27,150,39,155,59,160,84,163,112,164,139,163,164,160,184,155,197,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,76,144,114,141,110,181,72"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="423,143,418,137,404,131,382,126,354,123,324,122,293,123,265,126,243,131,229,137,224,143,229,150,243,155,265,160,293,163,324,164,354,163,382,160,404,155,418,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,72,294,110,290,114,250,76"/>
+</map>

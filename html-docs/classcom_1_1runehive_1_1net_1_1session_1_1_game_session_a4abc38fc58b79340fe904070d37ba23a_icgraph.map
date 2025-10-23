@@ -1,0 +1,5 @@
+<map id="com.runehive.net.session.GameSession.queueClientPacket" name="com.runehive.net.session.GameSession.queueClientPacket">
+<area shape="poly" id="Node000001" title=" " alt="" coords="801,40,792,29,766,20,725,12,673,7,615,5,558,7,506,12,465,20,439,29,430,40,439,50,465,60,506,68,558,72,615,74,673,72,725,68,766,60,792,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1session_1_1_game_session.html#a0348d51e49124a4a2f647bd0a6f96cca" title="The method that is called when the client sends packets to the server." alt="" coords="382,40,373,29,346,20,304,12,252,7,194,5,135,7,83,12,41,20,15,29,5,40,15,50,41,60,83,68,135,72,194,74,252,72,304,68,346,60,373,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,42,382,42,382,37,414,37"/>
+</map>

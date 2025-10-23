@@ -1,0 +1,9 @@
+<map id="com.runehive.content.ai.AIDialogueHandler.findNearbyNpc" name="com.runehive.content.ai.AIDialogueHandler.findNearbyNpc">
+<area shape="poly" id="Node000001" title="Find an NPC by ID near specific coordinates." alt="" coords="385,133,376,122,349,113,307,105,254,100,195,99,136,100,84,105,42,113,15,122,5,133,15,144,42,153,84,161,136,166,195,167,254,166,307,161,349,153,376,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a2fcda274378da97b14a6c4f7d3b08095" title="Gets the height coordinate, or height." alt="" coords="812,40,803,29,776,20,734,12,681,7,623,5,564,7,511,12,469,20,442,29,433,40,442,50,469,60,511,68,564,72,623,74,681,72,734,68,776,60,803,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="318,104,484,67,485,72,319,109"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a8714230ba46958ecdbfa47cc2f3e4c70" title=" " alt="" coords="770,133,763,122,742,113,709,105,668,100,623,99,577,100,536,105,503,113,482,122,475,133,482,144,503,153,536,161,577,166,623,167,668,166,709,161,742,153,763,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="385,130,460,130,460,136,385,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a8afdd0de68f242bf7082076dfbfffe37" title=" " alt="" coords="799,226,790,216,765,206,726,199,677,194,623,192,568,194,519,199,480,206,455,216,446,226,455,237,480,247,519,254,568,259,623,261,677,259,726,254,765,247,790,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="319,157,489,195,488,200,318,162"/>
+</map>

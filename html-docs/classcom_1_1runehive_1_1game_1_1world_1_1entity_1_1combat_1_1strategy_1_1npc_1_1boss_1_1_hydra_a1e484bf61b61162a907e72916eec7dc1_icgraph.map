@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.Hydra.poisonTask" name="com.runehive.game.world.entity.combat.strategy.npc.boss.Hydra.poisonTask">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1936,64,1921,53,1877,44,1810,36,1724,31,1630,29,1535,31,1450,36,1383,44,1339,53,1324,64,1339,74,1383,84,1450,92,1535,96,1630,98,1724,96,1810,92,1877,84,1921,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_hydra.html#a48c3edf7ff7057b56115fec07b27c783" title=" " alt="" coords="1276,64,1261,53,1218,44,1150,36,1065,31,970,29,876,31,791,36,723,44,680,53,665,64,680,74,723,84,791,92,876,96,970,98,1065,96,1150,92,1218,84,1261,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1309,66,1276,66,1276,61,1309,61"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_hydra.html#acb52d78bb8d3e361da2ac4a2faa494cc" title=" " alt="" coords="617,64,602,53,558,44,491,36,406,31,311,29,217,31,131,36,64,44,20,53,5,64,20,74,64,84,131,92,217,96,311,98,406,96,491,92,558,84,602,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="649,66,617,66,617,61,649,61"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="426,21,385,12,311,8,252,10,212,16,192,24,190,27,192,31,187,33,185,26,189,20,210,11,251,5,311,3,386,6,427,16"/>
+</map>

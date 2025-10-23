@@ -1,0 +1,12 @@
+<map id="com.runehive.game.world.entity.combat.magic.Autocast.reset" name="com.runehive.game.world.entity.combat.magic.Autocast.reset">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1636,180,1624,169,1588,160,1533,152,1464,147,1387,145,1310,147,1240,152,1185,160,1150,169,1137,180,1150,190,1185,200,1240,208,1310,212,1387,214,1464,212,1533,208,1588,200,1624,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1preset_1_1_preset_manager.html#ad341cefcec9026a5e01e1f68e879e21c" title="Activates the preset." alt="" coords="990,40,982,29,959,20,924,12,880,7,830,5,781,7,737,12,702,20,679,29,671,40,679,50,702,60,737,68,781,72,830,74,880,72,924,68,959,60,982,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1278,145,1186,116,1089,89,960,62,961,57,1090,84,1188,111,1279,140"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1magic_1_1_autocast.html#af51ac9e84c326f232f5ce2bb28b73f12" title=" " alt="" coords="1080,133,1067,122,1032,113,977,105,907,100,830,99,753,100,684,105,629,113,594,122,581,133,594,144,629,153,684,161,753,166,830,167,907,166,977,161,1032,153,1067,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1157,163,1044,154,1045,148,1158,158"/>
+<area shape="poly" id="Node000004" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1weapon_1_1_weapon_interface.html#a2419f55497157cf17025e5a20b5c1110" title=" " alt="" coords="1089,226,1077,216,1040,206,983,199,910,194,830,192,750,194,678,199,621,206,584,216,571,226,584,237,621,247,678,254,750,259,830,261,910,259,983,254,1040,247,1077,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1158,202,1051,211,1051,205,1157,196"/>
+<area shape="poly" id="Node000005" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1weapon_1_1_weapon_interface.html#a12d13b4db32462bb1341666435678108" title=" " alt="" coords="523,262,511,252,474,242,417,235,344,230,264,228,184,230,112,235,55,242,18,252,5,262,18,273,55,283,112,290,184,295,264,297,344,295,417,290,474,283,511,273"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1291,221,1195,252,1090,276,928,293,764,298,608,295,470,286,470,281,608,289,764,293,928,288,1089,270,1193,247,1289,215"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="581,245,500,250,499,245,580,240"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="com.runehive.content.activity.randomevent.impl.GenieEvent" name="com.runehive.content.activity.randomevent.impl.GenieEvent">
+<area shape="poly" id="Node000001" title="The Genie random event." alt="" coords="515,390,502,380,466,370,410,362,339,357,260,356,181,357,110,362,54,370,18,380,5,390,18,401,54,410,110,418,181,423,260,425,339,423,410,418,466,410,502,401"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1randomevent_1_1_random_event.html" title="The random event handler." alt="" coords="491,273,480,263,447,253,396,246,331,241,260,239,189,241,124,246,73,253,41,263,29,273,41,284,73,294,124,301,189,306,260,308,331,306,396,301,447,294,480,284"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,324,263,355,257,355,257,324"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html" title="A Activity object constructs an in&#45;game activity and sequences it through the start() and finish() me..." alt="" coords="422,157,414,146,391,136,355,129,310,124,260,122,210,124,165,129,129,136,106,146,98,157,106,167,129,177,165,184,210,189,260,191,310,189,355,184,391,177,414,167"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,207,263,239,257,239,257,207"/>
+<area shape="poly" id="Node000004" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="416,40,408,29,386,20,352,12,308,7,260,5,212,7,169,12,134,20,112,29,104,40,112,50,134,60,169,68,212,72,260,74,308,72,352,68,386,60,408,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="263,90,263,122,257,122,257,90"/>
+</map>

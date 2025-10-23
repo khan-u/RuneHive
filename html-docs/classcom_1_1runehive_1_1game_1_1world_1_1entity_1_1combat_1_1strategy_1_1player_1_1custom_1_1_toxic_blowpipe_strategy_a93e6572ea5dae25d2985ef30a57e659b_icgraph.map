@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.custom.ToxicBlowpipeStrategy.getAttackAnimation" name="com.runehive.game.world.entity.combat.strategy.player.custom.ToxicBlowpipeStrategy.getAttackAnimation">
+<area shape="poly" id="Node000001" title=" " alt="" coords="2207,86,2191,76,2144,66,2071,59,1979,54,1877,52,1775,54,1684,59,1611,66,1564,76,1548,86,1564,97,1611,107,1684,114,1775,119,1877,121,1979,119,2071,114,2144,107,2191,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1range_1_1_blowpipe.html#a6e62f5454a51ef4de2f14cb8789cfae7" title=" " alt="" coords="1500,40,1482,29,1431,20,1351,12,1250,7,1138,5,1026,7,926,12,846,20,794,29,776,40,794,50,846,60,926,68,1026,72,1138,74,1250,72,1351,68,1431,60,1482,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1578,70,1441,62,1442,56,1578,65"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1custom_1_1_toxic_blowpipe_strategy.html#a54651eeed167672d81ac661783217bb7" title=" " alt="" coords="1468,133,1452,122,1405,113,1332,105,1240,100,1138,99,1036,100,944,105,871,113,824,122,808,133,824,144,871,153,944,161,1036,166,1138,167,1240,166,1332,161,1405,153,1452,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1578,108,1422,118,1422,113,1578,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1range_1_1_blowpipe.html#a94c350b5f94cdbe9874cd38d24278e2d" title=" " alt="" coords="728,40,711,29,659,20,579,12,479,7,367,5,255,7,154,12,74,20,23,29,5,40,23,50,74,60,154,68,255,72,367,74,479,72,579,68,659,60,711,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="761,42,729,42,729,37,761,37"/>
+</map>

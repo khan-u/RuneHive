@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.containers.inventory.Inventory.Inventory" name="com.runehive.game.world.items.containers.inventory.Inventory.Inventory">
+<area shape="poly" id="Node000001" title="Creates a new Inventory." alt="" coords="566,40,552,29,512,20,450,12,372,7,286,5,199,7,121,12,59,20,19,29,5,40,19,50,59,60,121,68,199,72,286,74,372,72,450,68,512,60,552,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a6f9f9b30415bd5fa8d12f2258f7e2532" title="Adds an ItemContainerListener to this container." alt="" coords="1078,40,1067,29,1034,20,982,12,918,7,846,5,774,7,710,12,658,20,625,29,614,40,625,50,658,60,710,68,774,72,846,74,918,72,982,68,1034,60,1067,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="566,37,598,37,598,42,566,42"/>
+</map>

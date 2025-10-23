@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.items.Item.equalIds" name="com.runehive.game.world.items.Item.equalIds">
+<area shape="poly" id="Node000001" title=" " alt="" coords="842,86,833,76,808,66,769,59,720,54,665,52,610,54,561,59,522,66,497,76,488,86,497,97,522,107,561,114,610,119,665,121,720,119,769,114,808,107,833,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#a101ad0220984f206671ae0b477ec1c69" title=" " alt="" coords="434,40,424,29,394,20,347,12,288,7,223,5,157,7,98,12,51,20,21,29,11,40,21,50,51,60,98,68,157,72,223,74,288,72,347,68,394,60,424,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="493,71,401,61,402,56,494,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1fletching_1_1_fletching.html#a34456a969a3c166fc628d514a1958199" title=" " alt="" coords="440,133,429,122,398,113,350,105,290,100,223,99,155,100,95,105,47,113,16,122,5,133,16,144,47,153,95,161,155,166,223,167,290,166,350,161,398,153,429,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="494,107,405,117,404,111,493,102"/>
+</map>

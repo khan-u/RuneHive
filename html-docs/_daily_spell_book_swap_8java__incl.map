@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/dailyeffect/impl/DailySpellBookSwap.java" name="java/com/runehive/content/dailyeffect/impl/DailySpellBookSwap.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="577,53,569,38,544,25,506,14,457,8,403,5,349,8,301,14,262,25,237,38,229,53,237,68,262,81,301,92,349,99,403,101,457,99,506,92,544,81,569,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="364,183,355,173,329,163,290,156,240,151,184,149,129,151,79,156,40,163,14,173,5,183,14,194,40,204,79,211,129,216,184,218,240,216,290,211,329,204,355,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,99,254,145,251,140,329,95"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="856,183,845,173,811,163,760,156,694,151,622,149,549,151,484,156,432,163,399,173,388,183,399,194,432,204,484,211,549,216,622,218,694,216,760,211,811,204,845,194"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="477,95,554,139,551,144,475,99"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.accuracy.MeleeAccuracy.getDefenceBonus" name="com.runehive.game.world.entity.combat.accuracy.MeleeAccuracy.getDefenceBonus">
+<area shape="poly" id="Node000001" title=" " alt="" coords="532,86,519,76,482,66,423,59,350,54,269,52,187,54,114,59,56,66,18,76,5,86,18,97,56,107,114,114,187,119,269,121,350,119,423,114,482,107,519,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a15c70b1ab880b5e8dab6a8a3006df952" title=" " alt="" coords="982,40,972,29,944,20,899,12,843,7,781,5,719,7,663,12,618,20,590,29,580,40,590,50,618,60,663,68,719,72,781,74,843,72,899,68,944,60,972,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="486,64,587,55,588,60,486,69"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a385dc0248234fddaae1b093594d7bf58" title="The combat of the mob." alt="" coords="982,133,972,122,944,113,899,105,843,100,781,99,719,100,663,105,618,113,590,122,580,133,590,144,618,153,663,161,719,166,781,167,843,166,899,161,944,153,972,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="486,104,588,113,587,118,486,109"/>
+</map>

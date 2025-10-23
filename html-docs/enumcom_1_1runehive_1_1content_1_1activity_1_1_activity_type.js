@@ -1,0 +1,26 @@
+var enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type =
+[
+    [ "ActivityType", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#a2ff7be1f19d257af249ef901cdf00059", null ],
+    [ "[static initializer]", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#a394bace0384367f97bc218daf4b8dd36", null ],
+    [ "getFirst", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#ac4e109711ad6d6520a882ab9ce37b1bd", null ],
+    [ "getOrdinal", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#ae42b684d880d0e1f64fab6e57ec286fb", null ],
+    [ "getRecordable", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#af41c9759ffd5a4ccc444f48e67badbba", null ],
+    [ "BARROWS", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#a8fc5366df17dcf9646bcc507a34089c8", null ],
+    [ "CERBERUS", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#a9bb6996ffd1efcb0074613f3a0e6ac2b", null ],
+    [ "DUEL_ARENA", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#aa55993d8a3ae613ff9dd274231b7177e", null ],
+    [ "FIGHT_CAVES", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#ae60c545a823665e44b809f39d48abc7f", null ],
+    [ "GODWARS", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#a23812e68b724d356d1d3a91078fe22de", null ],
+    [ "INFERNO", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#adedab25b321e89867bc9c977eb2b1987", null ],
+    [ "JAIL", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#ab579b019d880d0fb388d7ace5c4a2ae7", null ],
+    [ "KOLODION_ARENA", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#a79287d3cef5bc57419a5e1d2fcd30862", null ],
+    [ "KRAKEN", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#a6ae32233bef8134974b5efb5d9f37c53", null ],
+    [ "PEST_CONTROL", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#a2263a0fc9d4b8f3c962b948ede0611a7", null ],
+    [ "RANDOM_EVENT", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#a51b1ef955cb599216d916ea1fd1fc714", null ],
+    [ "RECIPE_FOR_DISASTER", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#ac50ccaa629b0293cb09f59ea46bdf318", null ],
+    [ "record", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#aade163733421125daddcc130e07ffc69", null ],
+    [ "RECORDABLE", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#ac125c80ff01ef406618c45f5c057f49c", null ],
+    [ "TUTORIAL", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#aa6479aaf3a0784f4aa9b02ac1d6fe67e", null ],
+    [ "VORKATH", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#adaec571f645020dbc2c47b01e549e5bb", null ],
+    [ "WARRIOR_GUILD", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#a3b895be1b7c79acf20c080cd71082cf0", null ],
+    [ "ZULRAH", "enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html#a7ecac665e48e90dcbf5f94fe81e54ecd", null ]
+];

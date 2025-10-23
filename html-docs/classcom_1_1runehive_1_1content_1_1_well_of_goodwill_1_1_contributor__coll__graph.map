@@ -1,0 +1,7 @@
+<map id="com.runehive.content.WellOfGoodwill.Contributor" name="com.runehive.content.WellOfGoodwill.Contributor">
+<area shape="poly" id="Node000001" title=" " alt="" coords="509,181,502,170,481,160,448,153,407,148,361,146,315,148,274,153,241,160,220,170,213,181,220,191,241,201,274,208,315,213,361,215,407,213,448,208,481,201,502,191"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="308,40,301,33,280,27,246,23,204,20,157,19,110,20,68,23,34,27,13,33,5,40,13,46,34,52,68,57,110,60,157,61,204,60,246,57,280,52,301,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,67,315,145,312,150,197,72"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_right.html" title="Holds all the player right data." alt="" coords="801,40,789,29,756,20,704,12,639,7,566,5,494,7,429,12,377,20,343,29,332,40,343,50,377,60,429,68,494,72,566,74,639,72,704,68,756,60,789,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="507,84,410,150,407,145,504,80"/>
+</map>

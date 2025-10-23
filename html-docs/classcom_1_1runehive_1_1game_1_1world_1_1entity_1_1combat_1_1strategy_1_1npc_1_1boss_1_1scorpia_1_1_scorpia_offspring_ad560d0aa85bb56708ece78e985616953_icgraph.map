@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.scorpia.ScorpiaOffspring.hit" name="com.runehive.game.world.entity.combat.strategy.npc.boss.scorpia.ScorpiaOffspring.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="696,64,679,53,630,44,554,36,457,31,351,29,244,31,148,36,71,44,22,53,5,64,22,74,71,84,148,92,244,96,351,98,457,96,554,92,630,84,679,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="471,21,428,12,351,8,289,10,247,16,226,23,224,27,225,31,220,32,219,26,223,19,246,10,289,5,351,3,429,6,472,16"/>
+</map>

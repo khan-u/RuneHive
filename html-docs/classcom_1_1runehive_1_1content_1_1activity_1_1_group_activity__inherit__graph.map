@@ -1,0 +1,11 @@
+<map id="com.runehive.content.activity.GroupActivity" name="com.runehive.content.activity.GroupActivity">
+<area shape="poly" id="Node000001" title="A GroupActivity is an extension of Activity that holds a list of active activities." alt="" coords="412,273,404,263,381,253,345,246,300,241,250,239,199,241,154,246,118,253,95,263,87,273,95,284,118,294,154,301,199,306,250,308,300,306,345,301,381,294,404,284"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1lobby_1_1_lobby_node.html" title=" " alt="" coords="441,390,432,380,405,370,362,362,309,357,250,356,190,357,137,362,94,370,67,380,58,390,67,401,94,410,137,418,190,423,250,425,309,423,362,418,405,410,432,401"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="252,324,252,355,247,355,247,324"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html" title="A Activity object constructs an in&#45;game activity and sequences it through the start() and finish() me..." alt="" coords="412,157,404,146,381,136,345,129,300,124,250,122,199,124,154,129,118,136,95,146,87,157,95,167,118,177,154,184,199,189,250,191,300,189,345,184,381,177,404,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,207,252,239,247,239,247,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="405,40,398,29,376,20,341,12,298,7,250,5,201,7,158,12,123,20,101,29,94,40,101,50,123,60,158,68,201,72,250,74,298,72,341,68,376,60,398,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,90,252,122,247,122,247,90"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_game.html" title=" " alt="" coords="494,507,482,496,447,487,393,479,325,474,250,473,174,474,106,479,52,487,17,496,5,507,17,518,52,527,106,535,174,540,250,541,325,540,393,535,447,527,482,518"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="252,440,252,472,247,472,247,440"/>
+</map>

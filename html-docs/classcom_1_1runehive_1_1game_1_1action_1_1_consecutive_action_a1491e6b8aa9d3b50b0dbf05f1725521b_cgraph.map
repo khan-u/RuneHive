@@ -1,0 +1,5 @@
+<map id="com.runehive.game.action.ConsecutiveAction.addFirst" name="com.runehive.game.action.ConsecutiveAction.addFirst">
+<area shape="poly" id="Node000001" title="Adds an action to the actions list." alt="" coords="313,40,305,29,283,20,249,12,207,7,159,5,112,7,69,12,35,20,13,29,5,40,13,50,35,60,69,68,112,72,159,74,207,72,249,68,283,60,305,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#aee219be81c8e77223d95285893ccd2c5" title=" " alt="" coords="661,40,654,29,632,20,599,12,557,7,511,5,464,7,423,12,389,20,368,29,361,40,368,50,389,60,423,68,464,72,511,74,557,72,599,68,632,60,654,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,37,345,37,345,42,313,42"/>
+</map>

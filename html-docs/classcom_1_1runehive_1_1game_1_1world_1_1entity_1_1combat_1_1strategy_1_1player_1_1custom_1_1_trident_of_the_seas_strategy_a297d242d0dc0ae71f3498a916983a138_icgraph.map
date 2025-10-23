@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.custom.TridentOfTheSeasStrategy.hit" name="com.runehive.game.world.entity.combat.strategy.player.custom.TridentOfTheSeasStrategy.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1372,86,1356,76,1309,66,1236,59,1144,54,1043,52,941,54,849,59,776,66,729,76,713,86,729,97,776,107,849,114,941,119,1043,121,1144,119,1236,114,1309,107,1356,97"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="1166,44,1122,34,1043,31,979,33,936,39,915,46,913,50,914,54,910,56,907,49,911,42,935,33,978,27,1043,25,1123,29,1167,38"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1custom_1_1_trident_of_the_seas_strategy.html#a47cff16e4f5ee703d98b3806ae6bc77b" title=" " alt="" coords="665,40,649,29,602,20,529,12,437,7,335,5,233,7,141,12,68,20,21,29,5,40,21,50,68,60,141,68,233,72,335,74,437,72,529,68,602,60,649,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="747,70,615,61,616,56,748,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1custom_1_1_trident_of_the_seas_strategy.html#ab80067bbfc5ceeb3cc5bcfbd8e951f9a" title=" " alt="" coords="665,133,649,122,602,113,529,105,437,100,335,99,233,100,141,105,68,113,21,122,5,133,21,144,68,153,141,161,233,166,335,167,437,166,529,161,602,153,649,144"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="748,109,616,117,615,112,747,103"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.magic.RunePouch.death" name="com.runehive.content.skill.impl.magic.RunePouch.death">
+<area shape="poly" id="Node000001" title=" " alt="" coords="416,86,406,76,377,66,331,59,274,54,211,52,147,54,90,59,45,66,15,76,5,86,15,97,45,107,90,114,147,119,211,121,274,119,331,114,377,107,406,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1cec21ca5ef1783808d4ca9de1051a29" title="Gets the identification of this item." alt="" coords="831,40,822,29,797,20,758,12,708,7,654,5,599,7,550,12,510,20,485,29,477,40,485,50,510,60,550,68,599,72,654,74,708,72,758,68,797,60,822,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,65,482,55,482,60,386,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html#ab9375a2c4a03fb08f1091f57b8ef70ba" title=" " alt="" coords="843,133,834,122,807,113,765,105,712,100,654,99,595,100,542,105,500,113,473,122,464,133,473,144,500,153,542,161,595,166,654,167,712,166,765,161,807,153,834,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="386,102,474,111,473,117,385,107"/>
+</map>

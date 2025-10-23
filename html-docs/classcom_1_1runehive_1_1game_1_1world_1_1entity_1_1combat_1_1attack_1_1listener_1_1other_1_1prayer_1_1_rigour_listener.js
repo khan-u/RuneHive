@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1prayer_1_1_rigour_listener =
+[
+    [ "modifyDamage", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1prayer_1_1_rigour_listener.html#a2f0db1d7f3b54f39d37da65a937691ce", null ],
+    [ "modifyDefenceLevel", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1prayer_1_1_rigour_listener.html#ad22f955f1e6ac857a671cf917c13a7c7", null ],
+    [ "modifyRangedLevel", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1prayer_1_1_rigour_listener.html#ad5bf116a89e349e39b3ca52b3ff041c0", null ]
+];

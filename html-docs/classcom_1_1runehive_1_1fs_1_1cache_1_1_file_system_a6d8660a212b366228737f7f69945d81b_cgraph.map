@@ -1,0 +1,7 @@
+<map id="com.runehive.fs.cache.FileSystem.getArchiveHashes" name="com.runehive.fs.cache.FileSystem.getArchiveHashes">
+<area shape="poly" id="Node000001" title="Returns the cached archiveHashes if they exist, otherwise they are calculated and cached for future u..." alt="" coords="304,40,297,29,276,20,243,12,201,7,155,5,109,7,67,12,34,20,13,29,5,40,13,50,34,60,67,68,109,72,155,74,201,72,243,68,276,60,297,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1_file_system.html#a15ef9978f72872d99e38ebdb2051f00d" title="Returns a ByteBuffer of file data for the specified index within the specified Cache." alt="" coords="651,40,644,29,623,20,589,12,548,7,502,5,455,7,414,12,381,20,360,29,352,40,360,50,381,60,414,68,455,72,502,74,548,72,589,68,623,60,644,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,37,337,37,337,42,305,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1_file_system.html#a508c6916661e87322f9a894cfa013171" title="Gets a Cache for the specified id, this method fails&#45;fast if no cache can be found." alt="" coords="998,40,991,29,969,20,936,12,895,7,849,5,802,7,761,12,728,20,706,29,699,40,706,50,728,60,761,68,802,72,849,74,895,72,936,68,969,60,991,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="651,37,684,37,684,42,651,42"/>
+</map>

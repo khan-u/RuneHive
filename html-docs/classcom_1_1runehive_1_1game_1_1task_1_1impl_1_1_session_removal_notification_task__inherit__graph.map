@@ -1,0 +1,5 @@
+<map id="com.runehive.game.task.impl.SessionRemovalNotificationTask" name="com.runehive.game.task.impl.SessionRemovalNotificationTask">
+<area shape="poly" id="Node000001" title=" " alt="" coords="368,130,359,119,333,109,293,102,243,97,187,95,131,97,80,102,40,109,14,119,5,130,14,140,40,150,80,158,131,162,187,164,243,162,293,158,333,150,359,140"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="350,26,342,20,319,14,283,9,237,6,187,5,136,6,90,9,54,14,31,20,23,26,31,33,54,39,90,43,136,46,187,47,237,46,283,43,319,39,342,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,63,189,95,184,95,184,63"/>
+</map>

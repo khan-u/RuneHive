@@ -1,0 +1,25 @@
+var dir_3ec186578be7a39c228d6f5cffad0c2b =
+[
+    [ "accuracy", "dir_ef8804c35e12e92c459ef7f6eb76b391.html", "dir_ef8804c35e12e92c459ef7f6eb76b391" ],
+    [ "attack", "dir_1f0e0fe4189e5117fa622ac7ccafcb17.html", "dir_1f0e0fe4189e5117fa622ac7ccafcb17" ],
+    [ "effect", "dir_90e53aac3092f9af27cb5104964ff19c.html", "dir_90e53aac3092f9af27cb5104964ff19c" ],
+    [ "formula", "dir_b88958a82673980e43ab21a8967b85bb.html", "dir_b88958a82673980e43ab21a8967b85bb" ],
+    [ "hit", "dir_da7ef2dc21907ffd4e86c053558b0d89.html", "dir_da7ef2dc21907ffd4e86c053558b0d89" ],
+    [ "magic", "dir_9ef0d2f2276e82e4c758186477b92b00.html", "dir_9ef0d2f2276e82e4c758186477b92b00" ],
+    [ "maxhit", "dir_f6daf0a437398702001560d6cea2d6f9.html", "dir_f6daf0a437398702001560d6cea2d6f9" ],
+    [ "projectile", "dir_276fbf1f29e9e03e7837c56f78521915.html", "dir_276fbf1f29e9e03e7837c56f78521915" ],
+    [ "projectiledata", "dir_679cac52a5980d6e16f6d0cd59d59635.html", "dir_679cac52a5980d6e16f6d0cd59d59635" ],
+    [ "ranged", "dir_e6c643399e6f81921bfd6676f2215d9b.html", "dir_e6c643399e6f81921bfd6676f2215d9b" ],
+    [ "strategy", "dir_3b1fd542a63e66df9a8e97519ee0d820.html", "dir_3b1fd542a63e66df9a8e97519ee0d820" ],
+    [ "weapon", "dir_c03aef7318d0f13253ef1d74f0f135c3.html", "dir_c03aef7318d0f13253ef1d74f0f135c3" ],
+    [ "Combat.java", "_combat_8java.html", "_combat_8java" ],
+    [ "CombatConstants.java", "_combat_constants_8java.html", "_combat_constants_8java" ],
+    [ "CombatDamage.java", "_combat_damage_8java.html", "_combat_damage_8java" ],
+    [ "CombatImpact.java", "_combat_impact_8java.html", "_combat_impact_8java" ],
+    [ "CombatTarget.java", "_combat_target_8java.html", "_combat_target_8java" ],
+    [ "CombatType.java", "_combat_type_8java.html", "_combat_type_8java" ],
+    [ "CombatUtil.java", "_combat_util_8java.html", "_combat_util_8java" ],
+    [ "FormulaModifier.java", "_formula_modifier_8java.html", "_formula_modifier_8java" ],
+    [ "FormulaUtils.java", "_formula_utils_8java.html", "_formula_utils_8java" ],
+    [ "PoisonType.java", "_poison_type_8java.html", "_poison_type_8java" ]
+];

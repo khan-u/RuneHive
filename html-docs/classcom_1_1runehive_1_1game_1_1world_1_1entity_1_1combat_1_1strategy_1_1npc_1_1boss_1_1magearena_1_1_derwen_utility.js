@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_utility =
+[
+    [ "SpawnData", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena203bfdda9435cac2273f134296b8e40b.html", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena203bfdda9435cac2273f134296b8e40b" ],
+    [ "defeated", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_utility.html#a5c03cfc2ed7264dc59c2e15fabd0dc82", null ],
+    [ "generatederwenSpawn", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_utility.html#af64492f037797fae2a9fff7965b05a5f", null ]
+];

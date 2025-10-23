@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.SkotizoUtility.generateSpawn" name="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.SkotizoUtility.generateSpawn">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1429,40,1412,29,1363,20,1287,12,1191,7,1085,5,979,7,883,12,807,20,758,29,741,40,758,50,807,60,883,68,979,72,1085,74,1191,72,1287,68,1363,60,1412,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_event.html#a03120660dd2114de9ef03e4ecdb50292" title="A function representing the unit of work that will be carried out." alt="" coords="693,40,676,29,627,20,551,12,455,7,349,5,243,7,147,12,71,20,22,29,5,40,22,50,71,60,147,68,243,72,349,74,455,72,551,68,627,60,676,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="726,42,694,42,694,37,726,37"/>
+</map>

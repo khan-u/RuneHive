@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.UpdateFlag.containsPlayer" name="com.runehive.game.world.entity.mob.UpdateFlag.containsPlayer">
+<area shape="poly" id="Node000001" title=" " alt="" coords="407,86,398,76,369,66,325,59,269,54,206,52,144,54,88,59,44,66,15,76,5,86,15,97,44,107,88,114,144,119,206,121,269,119,325,114,369,107,398,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_update_flag.html#ae481e50779f9a2f249a5ccdd4a882379" title=" " alt="" coords="858,40,848,29,819,20,775,12,719,7,656,5,594,7,538,12,494,20,465,29,455,40,465,50,494,60,538,68,594,72,656,74,719,72,775,68,819,60,848,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="379,66,468,57,468,62,380,71"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_update_flag.html#ac0f185e7c85757fd60c68fd48c16d6c1" title=" " alt="" coords="858,133,848,122,819,113,775,105,719,100,656,99,594,100,538,105,494,113,465,122,455,133,465,144,494,153,538,161,594,166,656,167,719,166,775,161,819,153,848,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="380,102,468,111,468,116,379,107"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.mob.movement.Movement.walkTo" name="com.runehive.game.world.entity.mob.movement.Movement.walkTo">
+<area shape="poly" id="Node000001" title="Handles mob walking to certain coordinates." alt="" coords="1293,110,1281,100,1244,90,1188,83,1116,78,1037,76,958,78,886,83,830,90,793,100,781,110,793,121,830,131,886,138,958,143,1037,145,1116,143,1188,138,1244,131,1281,121"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1melee_1_1_dragon_spear.html#a3224429ba0a5439cc8ea502fd36300ce" title=" " alt="" coords="733,64,715,53,663,44,583,36,481,31,369,29,257,31,155,36,75,44,23,53,5,64,23,74,75,84,155,92,257,96,369,98,481,96,583,92,663,84,715,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="793,96,663,87,664,82,794,91"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1agility_1_1obstacle_1_1impl_1_1_ardougne_roof_jump_interaction2.html#addb1dd21ca688c66558b29cbf8939f15" title=" " alt="" coords="642,157,629,146,590,137,530,129,453,124,369,123,285,124,208,129,148,137,109,146,96,157,109,168,148,177,208,185,285,190,369,191,453,190,530,185,590,177,629,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="794,130,610,143,609,138,793,125"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="485,21,444,12,369,8,309,10,269,16,249,23,247,27,248,31,243,32,241,26,246,19,268,10,309,5,369,3,445,6,486,16"/>
+</map>

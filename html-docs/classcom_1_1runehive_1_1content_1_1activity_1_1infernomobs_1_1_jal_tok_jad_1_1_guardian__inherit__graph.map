@@ -1,0 +1,11 @@
+<map id="com.runehive.content.activity.infernomobs.JalTokJad.Guardian" name="com.runehive.content.activity.infernomobs.JalTokJad.Guardian">
+<area shape="poly" id="Node000001" title=" " alt="" coords="475,453,464,443,432,433,382,425,318,421,248,419,178,421,115,425,64,433,32,443,21,453,32,464,64,474,115,481,178,486,248,488,318,486,382,481,432,474,464,464"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1_npc.html" title="Represents a non&#45;player character in the in&#45;game world." alt="" coords="491,350,479,343,445,338,391,333,323,330,248,329,173,330,105,333,52,338,17,343,5,350,17,356,52,362,105,367,173,370,248,371,323,370,391,367,445,362,479,356"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,386,251,418,245,418,245,386"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html" title="Handles the mob class." alt="" coords="471,260,460,253,428,248,379,243,317,240,248,239,179,240,117,243,68,248,36,253,25,260,36,266,68,272,117,277,179,280,248,281,317,280,379,277,428,272,460,266"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="251,297,251,328,245,328,245,297"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html" title="Represents a character in the game world, i.e." alt="" coords="424,157,416,146,391,136,352,129,303,124,248,122,194,124,144,129,105,136,80,146,72,157,80,167,105,177,144,184,194,189,248,191,303,189,352,184,391,177,416,167"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="251,207,251,238,245,238,245,207"/>
+<area shape="poly" id="Node000005" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="395,40,388,29,367,20,335,12,294,7,248,5,203,7,162,12,129,20,108,29,101,40,108,50,129,60,162,68,203,72,248,74,294,72,335,68,367,60,388,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="251,90,251,122,245,122,245,90"/>
+</map>

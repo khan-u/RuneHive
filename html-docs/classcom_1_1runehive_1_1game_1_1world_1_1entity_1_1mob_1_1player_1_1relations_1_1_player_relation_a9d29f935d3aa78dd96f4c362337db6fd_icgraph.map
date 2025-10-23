@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.entity.mob.player.relations.PlayerRelation.updatePrivacyChatOptions" name="com.runehive.game.world.entity.mob.player.relations.PlayerRelation.updatePrivacyChatOptions">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1174,180,1161,169,1121,160,1059,152,981,147,894,145,807,147,729,152,667,160,628,169,614,180,628,190,667,200,729,208,807,212,894,214,981,212,1059,208,1121,200,1161,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1relations_1_1_player_relation.html#af45c14a979ea14a35254fa5bb01426fe" title=" " alt="" coords="566,40,552,29,512,20,450,12,372,7,286,5,199,7,121,12,59,20,19,29,5,40,19,50,59,60,121,68,199,72,286,74,372,72,450,68,512,60,552,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="775,145,673,116,565,89,465,69,466,64,566,84,674,111,776,140"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1relations_1_1_player_relation.html#aa8f5f3ad83c12bb4f0f6d46c405bdb04" title=" " alt="" coords="566,133,552,122,512,113,450,105,372,100,286,99,199,100,121,105,59,113,19,122,5,133,19,144,59,153,121,161,199,166,286,167,372,166,450,161,512,153,552,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="640,163,525,154,525,149,640,158"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1relations_1_1_player_relation.html#a09719206384301e57cf8b56bee18eb2a" title=" " alt="" coords="566,226,552,216,512,206,450,199,372,194,286,192,199,194,121,199,59,206,19,216,5,226,19,237,59,247,121,254,199,259,286,261,372,259,450,254,512,247,552,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="640,202,525,211,525,205,640,197"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1relations_1_1_player_relation.html#a09b81025043ede4894f548fb04313d91" title=" " alt="" coords="566,320,552,309,512,300,450,292,372,287,286,285,199,287,121,292,59,300,19,309,5,320,19,330,59,340,121,348,199,352,286,354,372,352,450,348,512,340,552,330"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="776,219,674,248,566,276,466,296,465,290,565,270,673,243,775,214"/>
+</map>

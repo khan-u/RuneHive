@@ -1,0 +1,7 @@
+<map id="dev.advo.fs.fs.Index.decode" name="dev.advo.fs.fs.Index.decode">
+<area shape="poly" id="Node000001" title="Decodes a buffer into an index." alt="" coords="989,40,982,33,960,27,926,23,883,20,836,19,788,20,745,23,711,27,690,33,682,40,690,46,711,52,745,57,788,60,836,61,883,60,926,57,960,52,982,46"/>
+<area shape="poly" id="Node000002" href="$classdev_1_1advo_1_1fs_1_1fs_1_1_indexed_file_system.html#a15751d106bf054cec48c9288a75a9a00" title="Gets the index of a file." alt="" coords="634,40,627,29,606,20,574,12,534,7,489,5,444,7,404,12,371,20,351,29,344,40,351,50,371,60,404,68,444,72,489,74,534,72,574,68,606,60,627,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="666,42,634,42,634,37,666,37"/>
+<area shape="poly" id="Node000003" href="$classdev_1_1advo_1_1fs_1_1fs_1_1_indexed_file_system.html#a9c5cfadc3bf43ca8b00abb85ce569f73" title="Gets a file." alt="" coords="296,40,289,29,268,20,236,12,195,7,151,5,106,7,65,12,33,20,12,29,5,40,12,50,33,60,65,68,106,72,151,74,195,72,236,68,268,60,289,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,42,296,42,296,37,328,37"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.magic.CombatSpell.getCombatProjectile" name="com.runehive.game.world.entity.combat.magic.CombatSpell.getCombatProjectile">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1064,86,1052,76,1016,66,961,59,892,54,815,52,738,54,668,59,613,66,578,76,566,86,578,97,613,107,668,114,738,119,815,121,892,119,961,114,1016,107,1052,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1formula_1_1_magic_formula.html#a2d39728643af7acd7c4dc461a517a3f4" title=" " alt="" coords="518,40,505,29,469,20,412,12,341,7,262,5,182,7,111,12,54,20,18,29,5,40,18,50,54,60,111,68,182,72,262,74,341,72,412,68,469,60,505,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="586,70,480,61,480,55,586,64"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1magic_1_1_combat_spell.html#a6a78d6c03f6809a84e379efe5c7e6777" title=" " alt="" coords="511,133,498,122,463,113,408,105,339,100,262,99,185,100,115,105,60,113,25,122,12,133,25,144,60,153,115,161,185,166,262,167,339,166,408,161,463,153,498,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="586,108,476,118,475,112,586,103"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.event.impl.ItemContainerContextMenuEvent" name="com.runehive.game.event.impl.ItemContainerContextMenuEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="369,157,360,146,335,136,294,129,244,124,187,122,131,124,80,129,40,136,14,146,5,157,14,167,40,177,80,184,131,189,187,191,244,189,294,184,335,177,360,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1event_1_1_event.html" title="Represents something that happens." alt="" coords="335,40,327,29,306,20,274,12,233,7,187,5,142,7,101,12,68,20,47,29,40,40,47,50,68,60,101,68,142,72,187,74,233,72,274,68,306,60,327,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,90,190,122,185,122,185,90"/>
+</map>

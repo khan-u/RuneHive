@@ -1,0 +1,4 @@
+<map id="com.runehive.fs.util.ByteBufferUtil.getString" name="com.runehive.fs.util.ByteBufferUtil.getString">
+<area shape="poly" id="Node000001" title="Gets a null&#45;terminated String from the specified ByteBuffer." alt="" coords="280,64,273,53,254,44,224,36,185,31,143,29,100,31,62,36,32,44,12,53,5,64,12,74,32,84,62,92,100,96,143,98,185,96,224,92,254,84,273,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="89,31,90,20,100,11,118,5,143,3,173,6,191,15,188,19,172,11,143,8,119,10,103,15,95,23,94,32"/>
+</map>

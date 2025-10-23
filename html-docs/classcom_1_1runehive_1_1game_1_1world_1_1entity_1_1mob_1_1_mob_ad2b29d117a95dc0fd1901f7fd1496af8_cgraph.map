@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.Mob.setActivity" name="com.runehive.game.world.entity.mob.Mob.setActivity">
+<area shape="poly" id="Node000001" title=" " alt="" coords="407,40,398,29,369,20,325,12,269,7,206,5,144,7,88,12,44,20,15,29,5,40,15,50,44,60,88,68,144,72,206,74,269,72,325,68,369,60,398,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#a85bf8c9c606edcd592853cb9541abd99" title="Cleans up the activity when finished." alt="" coords="780,40,772,29,749,20,713,12,668,7,618,5,567,7,522,12,486,20,463,29,455,40,463,50,486,60,522,68,567,72,618,74,668,72,713,68,749,60,772,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,37,440,37,440,42,408,42"/>
+</map>

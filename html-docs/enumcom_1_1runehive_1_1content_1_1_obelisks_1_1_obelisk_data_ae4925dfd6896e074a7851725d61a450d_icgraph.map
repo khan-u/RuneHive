@@ -1,0 +1,5 @@
+<map id="com.runehive.content.Obelisks.ObeliskData.getBoundaries" name="com.runehive.content.Obelisks.ObeliskData.getBoundaries">
+<area shape="poly" id="Node000001" title=" " alt="" coords="819,40,811,29,787,20,748,12,700,7,647,5,594,7,546,12,508,20,484,29,475,40,484,50,508,60,546,68,594,72,647,74,700,72,748,68,787,60,811,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1_obelisks.html#af5592f22443103730174c91dbc118a21" title=" " alt="" coords="427,40,417,33,387,27,340,23,281,20,216,19,151,20,92,23,46,27,16,33,5,40,16,46,46,52,92,57,151,60,216,61,281,60,340,57,387,52,417,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="459,42,428,42,428,37,459,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.dialogue.DialogueFactory.appendKeywords" name="com.runehive.content.dialogue.DialogueFactory.appendKeywords">
+<area shape="poly" id="Node000001" title="Appends keywords to an existing dialogue text." alt="" coords="383,40,374,29,347,20,305,12,253,7,194,5,136,7,83,12,41,20,15,29,5,40,15,50,41,60,83,68,136,72,194,74,253,72,305,68,347,60,374,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a04d5eb201f824f0f367a9fb60f2f2814" title=" " alt="" coords="822,40,813,33,785,27,742,23,687,20,627,19,566,20,512,23,469,27,441,33,431,40,441,46,469,52,512,57,566,60,627,61,687,60,742,57,785,52,813,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="384,37,416,37,416,42,384,42"/>
+</map>

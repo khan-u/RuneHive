@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.ItemDefinition.getDestroyMessage" name="com.runehive.game.world.items.ItemDefinition.getDestroyMessage">
+<area shape="poly" id="Node000001" title="Gets the item destroy message." alt="" coords="783,40,773,29,747,20,705,12,653,7,595,5,537,7,485,12,443,20,417,29,407,40,417,50,443,60,485,68,537,72,595,74,653,72,705,68,747,60,773,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#aa54917e243ae8c7a116795c6b6cdd70b" title=" " alt="" coords="359,40,351,29,326,20,286,12,237,7,182,5,128,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,128,72,182,74,237,72,286,68,326,60,351,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="392,42,360,42,360,37,392,37"/>
+</map>

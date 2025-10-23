@@ -1,0 +1,11 @@
+<map id="com.runehive.content.skill.impl.farming.zones.FarmingZone.isViewable" name="com.runehive.content.skill.impl.farming.zones.FarmingZone.isViewable">
+<area shape="poly" id="Node000001" title="Checks if a position can see this farming zone." alt="" coords="1036,180,1024,169,989,160,934,152,866,147,790,145,714,147,646,152,591,160,557,169,545,180,557,190,591,200,646,208,714,212,790,214,866,212,934,208,989,200,1024,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1_farming.html#ae5109a6468c278eb3bc8806a3151a360" title=" " alt="" coords="463,40,453,29,423,20,376,12,317,7,251,5,185,7,126,12,79,20,49,29,39,40,49,50,79,60,126,68,185,72,251,74,317,72,376,68,423,60,453,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="682,145,592,116,496,89,398,67,399,62,497,84,593,111,684,140"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1_farming.html#a5387a7dc99f9c628b2ba7f5280e89674" title=" " alt="" coords="463,133,453,122,423,113,376,105,317,100,251,99,185,100,126,105,79,113,49,122,39,133,49,144,79,153,126,161,185,166,251,167,317,166,376,161,423,153,453,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="564,163,439,152,439,147,565,158"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1_farming.html#ad26918658775b8eada352d3c961cc1a1" title=" " alt="" coords="463,226,453,216,423,206,376,199,317,194,251,192,185,194,126,199,79,206,49,216,39,226,49,237,79,247,126,254,185,259,251,261,317,259,376,254,423,247,453,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="565,202,439,213,439,207,564,197"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1zones_1_1_farming_zone.html#aec21aef8589fe611384482e1d7207930" title="Sends the configs of this zone to the player&#39;s client." alt="" coords="497,320,485,309,450,300,395,292,327,287,251,285,175,287,107,292,52,300,17,309,5,320,17,330,52,340,107,348,175,352,251,354,327,352,395,348,450,340,485,330"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="684,219,593,249,497,276,409,296,407,290,496,270,592,243,682,214"/>
+</map>

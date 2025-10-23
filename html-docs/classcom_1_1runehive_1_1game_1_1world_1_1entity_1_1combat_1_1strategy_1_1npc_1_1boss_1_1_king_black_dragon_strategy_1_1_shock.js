@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_shock =
+[
+    [ "Shock", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_shock.html#a382ca5806da3136f4560a75d846c1486", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_shock.html#a79d9cf69fc168f9595b6038bfc37d3e9", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_shock.html#af04752b056d82c0796a239ec5ca00f48", null ]
+];

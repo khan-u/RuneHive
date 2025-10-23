@@ -1,0 +1,5 @@
+<map id="com.runehive.content.achievement.AchievementWriter" name="com.runehive.content.achievement.AchievementWriter">
+<area shape="poly" id="Node000001" title="Handles the achievement tab." alt="" coords="390,157,381,146,354,136,311,129,257,124,198,122,138,124,85,129,42,136,15,146,5,157,15,167,42,177,85,184,138,189,198,191,257,189,311,184,354,177,381,167"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1writer_1_1_interface_writer.html" title="Handles writing on an itemcontainer." alt="" coords="353,40,345,29,323,20,289,12,246,7,198,5,150,7,107,12,72,20,50,29,43,40,50,50,72,60,107,68,150,72,198,74,246,72,289,68,323,60,345,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,90,201,122,195,122,195,90"/>
+</map>

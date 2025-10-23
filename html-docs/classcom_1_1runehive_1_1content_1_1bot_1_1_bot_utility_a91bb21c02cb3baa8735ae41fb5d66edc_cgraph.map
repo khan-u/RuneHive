@@ -1,0 +1,5 @@
+<map id="com.runehive.content.bot.BotUtility.getAvailableBotNames" name="com.runehive.content.bot.BotUtility.getAvailableBotNames">
+<area shape="poly" id="Node000001" title="Generates a list of all available names." alt="" coords="361,40,352,29,327,20,288,12,238,7,183,5,128,7,79,12,39,20,14,29,5,40,14,50,39,60,79,68,128,72,183,74,238,72,288,68,327,60,352,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#aea9414faed608c5daf7defab8f0a1f07" title=" " alt="" coords="703,40,696,29,675,20,643,12,602,7,556,5,511,7,469,12,437,20,416,29,409,40,416,50,437,60,469,68,511,72,556,74,602,72,643,68,675,60,696,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="361,37,394,37,394,42,361,42"/>
+</map>

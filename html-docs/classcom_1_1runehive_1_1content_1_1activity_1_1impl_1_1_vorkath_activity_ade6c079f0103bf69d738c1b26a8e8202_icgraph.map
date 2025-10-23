@@ -1,0 +1,9 @@
+<map id="com.runehive.content.activity.impl.VorkathActivity.cleanup" name="com.runehive.content.activity.impl.VorkathActivity.cleanup">
+<area shape="poly" id="Node000001" title="Cleans up the activity when finished." alt="" coords="798,133,789,122,763,113,721,105,669,100,612,99,554,100,502,105,461,113,435,122,426,133,435,144,461,153,502,161,554,166,612,167,669,166,721,161,763,153,789,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1_vorkath_activity.html#a869659fbe1fd49bb66db2020110dcb75" title="Finishes the activity." alt="" coords="378,40,369,29,342,20,301,12,249,7,192,5,134,7,82,12,41,20,14,29,5,40,14,50,41,60,82,68,134,72,192,74,249,72,301,68,342,60,369,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="476,106,312,69,313,64,477,101"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1_vorkath_activity.html#addb5e2f1e6cc48b4453777db97946942" title="Called when the player logs out." alt="" coords="378,133,369,122,342,113,301,105,249,100,192,99,134,100,82,105,41,113,14,122,5,133,14,144,41,153,82,161,134,166,192,167,249,166,301,161,342,153,369,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="410,136,378,136,378,130,410,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1_vorkath_activity.html#ac8b19cd93443571951fe006d3265a9af" title="Called when the player changes region." alt="" coords="378,226,369,216,342,206,301,199,249,194,192,192,134,194,82,199,41,206,14,216,5,226,14,237,41,247,82,254,134,259,192,261,249,259,301,254,342,247,369,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="477,166,313,202,312,197,476,160"/>
+</map>

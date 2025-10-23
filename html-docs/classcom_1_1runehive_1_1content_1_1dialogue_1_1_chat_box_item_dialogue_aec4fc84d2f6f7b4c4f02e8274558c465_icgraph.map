@@ -1,0 +1,7 @@
+<map id="com.runehive.content.dialogue.ChatBoxItemDialogue.thirdOption" name="com.runehive.content.dialogue.ChatBoxItemDialogue.thirdOption">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1257,40,1248,29,1222,20,1181,12,1130,7,1073,5,1016,7,964,12,924,20,898,29,889,40,898,50,924,60,964,68,1016,72,1073,74,1130,72,1181,68,1222,60,1248,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_chat_box_item_dialogue.html#a947c71e868846b4dbb3891072d147026" title=" " alt="" coords="841,40,830,29,801,20,754,12,696,7,631,5,566,7,508,12,462,20,432,29,422,40,432,50,462,60,508,68,566,72,631,74,696,72,754,68,801,60,830,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="873,42,841,42,841,37,873,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_chat_box_item_dialogue.html#a0da4786b8fab4c90dd007adbfc0e8ea8" title=" " alt="" coords="374,40,364,29,338,20,298,12,246,7,189,5,133,7,81,12,40,20,14,29,5,40,14,50,40,60,81,68,133,72,189,74,246,72,298,68,338,60,364,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,42,374,42,374,37,406,37"/>
+</map>

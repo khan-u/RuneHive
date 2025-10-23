@@ -1,0 +1,23 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy =
+[
+    [ "CrushMelee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_blde9cb7a7463748feec4b3cfc661c8260.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_blde9cb7a7463748feec4b3cfc661c8260" ],
+    [ "Dragonfire", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_ble622843a871f25f2a0127ad0a5217467.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_ble622843a871f25f2a0127ad0a5217467" ],
+    [ "Freeze", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_freeze.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_freeze" ],
+    [ "Poison", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_poison.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_poison" ],
+    [ "Shock", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_shock.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_shock" ],
+    [ "StabMelee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_bl1ed8bcfa82c80bd162a337002408f3e0.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_bl1ed8bcfa82c80bd162a337002408f3e0" ],
+    [ "KingBlackDragonStrategy", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#a57c76d3a6c6a3b666355aa8df621de78", null ],
+    [ "block", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#aadbc77384467595a39d3ec091520a252", null ],
+    [ "canAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#a05402461ba33958623bfa31c82f4e07b", null ],
+    [ "finishOutgoing", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#a0b79357660d3cf786e922fa10ba96aae", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#a97a3289c1ef0ed753167f9c0ed662298", null ],
+    [ "withinDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#a936a5c37eadb42579062c34e46de7ffa", null ],
+    [ "CRUSH", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#a8efd2987474b8209e2d30e4299d46420", null ],
+    [ "DRAGONFIRE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#ac35c40fb836638f8e2e09c15bb56cfaf", null ],
+    [ "FREEZE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#aa2e54c443151bae6963ab51fc75128b7", null ],
+    [ "FULL_STRATEGIES", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#a4061d0d5a421573f3b90af138710ae2e", null ],
+    [ "NON_MELEE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#a7288656a6868dca43427696823861cb1", null ],
+    [ "POISON", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#ad7fac0c4a8b28b6a047d74ed0aeecedc", null ],
+    [ "SHOCK", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#a3763533c79467064560d1dca7e13930e", null ],
+    [ "STAB", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy.html#af69100aaeb2cf07307c1508dbcce32d4", null ]
+];

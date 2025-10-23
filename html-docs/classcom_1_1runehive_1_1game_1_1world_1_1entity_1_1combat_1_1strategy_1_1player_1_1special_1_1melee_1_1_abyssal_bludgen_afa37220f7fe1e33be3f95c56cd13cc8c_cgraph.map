@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.special.melee.AbyssalBludgen.modifyDamage" name="com.runehive.game.world.entity.combat.strategy.player.special.melee.AbyssalBludgen.modifyDamage">
+<area shape="poly" id="Node000001" title=" " alt="" coords="733,122,715,112,663,102,583,95,481,90,369,88,257,90,155,95,75,102,23,112,5,122,23,133,75,143,155,150,257,155,369,157,481,155,583,150,663,143,715,133"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a413f91a2ac68dc4f5d610c7195caf347" title="Gets the level of a skill." alt="" coords="1179,64,1169,53,1141,44,1097,36,1041,31,980,29,918,31,863,36,819,44,790,53,781,64,790,74,819,84,863,92,918,96,980,98,1041,96,1097,92,1141,84,1169,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="627,95,789,79,790,85,627,100"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a5ff60aaa9a37a00040b2c69073326d1e" title="Gets the highest possible level of a skill." alt="" coords="1179,181,1169,170,1141,161,1097,153,1041,148,980,147,918,148,863,153,819,161,790,170,781,181,790,192,819,201,863,209,918,214,980,215,1041,214,1097,209,1141,201,1169,192"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="627,145,790,160,789,166,627,150"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="867,36,863,30,864,22,883,12,921,5,980,3,1052,7,1089,17,1088,22,1051,12,980,8,922,10,885,17,869,25,868,28,872,33"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="867,153,863,147,864,139,883,129,921,122,980,120,1052,124,1089,134,1088,139,1051,129,980,125,922,128,885,134,869,142,868,146,872,150"/>
+</map>

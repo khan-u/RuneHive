@@ -1,0 +1,7 @@
+<map id="com.runehive.content.clanchannel.channel.ClanManagement.canEnter" name="com.runehive.content.clanchannel.channel.ClanManagement.canEnter">
+<area shape="poly" id="Node000001" title=" " alt="" coords="471,40,460,29,427,20,375,12,310,7,238,5,166,7,101,12,50,20,17,29,5,40,17,50,50,60,101,68,166,72,238,74,310,72,375,68,427,60,460,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1clanchannel_1_1_clan_rank.html#afa8f199b74ae9914a2c237910c95dd13" title=" " alt="" coords="899,40,889,29,862,20,820,12,767,7,709,5,650,7,597,12,555,20,528,29,519,40,528,50,555,60,597,68,650,72,709,74,767,72,820,68,862,60,889,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,37,503,37,503,42,471,42"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1clanchannel_1_1_clan_rank.html#a713f5c9259c06f4220df31f98fff14ff" title="Constructs a new ClanRank." alt="" coords="1326,40,1317,29,1290,20,1248,12,1195,7,1136,5,1078,7,1025,12,983,20,956,29,947,40,956,50,983,60,1025,68,1078,72,1136,74,1195,72,1248,68,1290,60,1317,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="899,37,931,37,931,42,899,42"/>
+</map>

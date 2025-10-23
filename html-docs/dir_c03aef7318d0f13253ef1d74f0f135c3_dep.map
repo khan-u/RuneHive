@@ -1,0 +1,4 @@
+<map id="java/com/runehive/game/world/entity/combat/weapon" name="java/com/runehive/game/world/entity/combat/weapon">
+<area shape="poly" id="node1" href="dir_c03aef7318d0f13253ef1d74f0f135c3.html" title="weapon" alt="" coords="138,74,135,68,127,62,115,57,100,54,83,53,66,54,50,57,38,62,30,68,27,74,30,81,38,87,50,91,66,94,83,95,100,94,115,91,127,87,135,81"/>
+<area shape="rect" id="clust1" href="dir_3ec186578be7a39c228d6f5cffad0c2b.html" title="combat" alt="" coords="16,16,149,106"/>
+</map>

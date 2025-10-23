@@ -1,0 +1,5 @@
+<map id="com.runehive.game.task.impl.SteppingStoneTask.onExecute" name="com.runehive.game.task.impl.SteppingStoneTask.onExecute">
+<area shape="poly" id="Node000001" title=" " alt="" coords="722,40,713,29,689,20,652,12,604,7,552,5,499,7,452,12,414,20,390,29,382,40,390,50,414,60,452,68,499,72,552,74,604,72,652,68,689,60,713,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_stepping_stone_task.html#a1b2d7b26d1829762e411a707530c1728" title="A function representing the unit of work that will be carried out." alt="" coords="334,40,326,29,303,20,266,12,220,7,170,5,119,7,73,12,37,20,13,29,5,40,13,50,37,60,73,68,119,72,170,74,220,72,266,68,303,60,326,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,42,334,42,334,37,366,37"/>
+</map>

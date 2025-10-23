@@ -1,0 +1,4 @@
+var _ardougne_roof_jump_interaction2_8java =
+[
+    [ "com.runehive.content.skill.impl.agility.obstacle.impl.ArdougneRoofJumpInteraction2", "interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1agility_1_1obstacle_1_1impl_1_1_ardougne_roof_jump_interaction2.html", "interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1agility_1_1obstacle_1_1impl_1_1_ardougne_roof_jump_interaction2" ]
+];

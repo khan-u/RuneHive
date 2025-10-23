@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.zulrah.ZulrahActivity.create" name="com.runehive.content.activity.impl.zulrah.ZulrahActivity.create">
+<area shape="poly" id="Node000001" title="Creates a new Zulrah activity for the player." alt="" coords="446,40,435,29,404,20,355,12,294,7,225,5,157,7,96,12,47,20,16,29,5,40,16,50,47,60,96,68,157,72,225,74,294,72,355,68,404,60,435,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1zulrah_1_1_zulrah_activity.html#ac687d4434d80864090f9ae6c5be4d9ad" title="Constructs a new ZulrahActivity." alt="" coords="934,40,923,29,892,20,843,12,782,7,714,5,646,7,584,12,536,20,504,29,494,40,504,50,536,60,584,68,646,72,714,74,782,72,843,68,892,60,923,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,37,478,37,478,42,446,42"/>
+</map>

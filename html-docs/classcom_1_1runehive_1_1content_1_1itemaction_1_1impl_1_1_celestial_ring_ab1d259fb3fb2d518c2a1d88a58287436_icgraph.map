@@ -1,0 +1,7 @@
+<map id="com.runehive.content.itemaction.impl.CelestialRing.check" name="com.runehive.content.itemaction.impl.CelestialRing.check">
+<area shape="poly" id="Node000001" title=" " alt="" coords="884,86,874,76,845,66,800,59,744,54,681,52,618,54,561,59,516,66,487,76,477,86,487,97,516,107,561,114,618,119,681,121,744,119,800,114,845,107,874,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1itemaction_1_1impl_1_1_celestial_ring.html#a2eb4709910c7bb06faa806ad14eb1baa" title=" " alt="" coords="421,40,411,29,382,20,337,12,280,7,217,5,154,7,97,12,52,20,23,29,13,40,23,50,52,60,97,68,154,72,217,74,280,72,337,68,382,60,411,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="489,70,393,60,393,55,490,65"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1packet_1_1in_1_1_wield_item_packet_listener.html#a839b019b6680c6f35b682511e989d581" title="Handles the packet that has just been received." alt="" coords="429,133,418,122,388,113,341,105,282,100,217,99,152,100,93,105,46,113,16,122,5,133,16,144,46,153,93,161,152,166,217,167,282,166,341,161,388,153,418,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="489,108,398,118,398,112,489,103"/>
+</map>

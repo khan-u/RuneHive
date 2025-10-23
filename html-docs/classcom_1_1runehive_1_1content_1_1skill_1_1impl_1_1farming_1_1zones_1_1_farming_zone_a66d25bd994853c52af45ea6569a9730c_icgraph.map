@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.farming.zones.FarmingZone.tick" name="com.runehive.content.skill.impl.farming.zones.FarmingZone.tick">
+<area shape="poly" id="Node000001" title="Ticks the farming patches in this zone." alt="" coords="1486,40,1474,29,1439,20,1385,12,1316,7,1240,5,1164,7,1096,12,1042,20,1007,29,995,40,1007,50,1042,60,1096,68,1164,72,1240,74,1316,72,1385,68,1439,60,1474,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1_farming.html#a791ffaeaef1cc08e1d4a8d4abd81d750" title=" " alt="" coords="947,40,936,29,906,20,859,12,800,7,734,5,669,7,609,12,562,20,532,29,522,40,532,50,562,60,609,68,669,72,734,74,800,72,859,68,906,60,936,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="979,42,947,42,947,37,979,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_assistant.html#aa2a8d1d161c8fa16ccca973178cb87d8" title="Handles the method that will occur on sequence." alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="506,42,474,42,474,37,506,37"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.guides.GuideData" name="com.runehive.content.skill.guides.GuideData">
+<area shape="poly" id="Node000001" title=" " alt="" coords="375,321,366,311,340,301,299,294,247,289,190,287,133,289,82,294,41,301,14,311,5,321,14,332,41,342,82,349,133,354,190,356,247,354,299,349,340,342,366,332"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1guides_1_1_menu_option.html" title=" " alt="" coords="375,181,366,170,340,160,299,153,247,148,190,146,133,148,82,153,41,160,14,170,5,181,14,191,41,201,82,208,133,213,190,215,247,213,299,208,340,201,366,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,230,193,286,187,286,187,230"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1guides_1_1_menu_option_1_1_option.html" title=" " alt="" coords="375,40,366,29,340,20,299,12,247,7,190,5,133,7,82,12,41,20,14,29,5,40,14,50,41,60,82,68,133,72,190,74,247,72,299,68,340,60,366,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,89,193,146,187,146,187,89"/>
+</map>

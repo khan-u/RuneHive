@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.cronjobs.impl.OpenAIRelayJob.execute" name="com.runehive.game.world.cronjobs.impl.OpenAIRelayJob.execute">
+<area shape="poly" id="Node000001" title=" " alt="" coords="440,86,429,76,398,66,350,59,290,54,223,52,155,54,95,59,47,66,16,76,5,86,16,97,47,107,95,114,155,119,223,121,290,119,350,114,398,107,429,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1ai_1_1_lazy_a_i_manager.html#a0b52d7e0d2b455fd76538868513f8080" title=" " alt="" coords="865,40,855,29,829,20,787,12,734,7,676,5,618,7,566,12,524,20,497,29,488,40,497,50,524,60,566,68,618,72,676,74,734,72,787,68,829,60,855,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="406,65,496,56,496,61,406,70"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1ai_1_1_lazy_a_i_manager.html#aa3bd348c4ceaf5aa364ef2f0c3a8feed" title=" " alt="" coords="829,133,822,122,800,113,766,105,724,100,676,99,629,100,586,105,553,113,531,122,523,133,531,144,553,153,586,161,629,166,676,167,724,166,766,161,800,153,822,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="406,103,521,115,521,120,406,108"/>
+</map>

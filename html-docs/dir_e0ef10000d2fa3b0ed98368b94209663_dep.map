@@ -1,0 +1,4 @@
+<map id="java/com/runehive/game/world/items/ground" name="java/com/runehive/game/world/items/ground">
+<area shape="poly" id="node1" href="dir_e0ef10000d2fa3b0ed98368b94209663.html" title="ground" alt="" coords="128,74,125,68,118,62,107,57,93,54,77,53,62,54,48,57,37,62,29,68,27,74,29,81,37,87,48,91,62,94,77,95,93,94,107,91,118,87,125,81"/>
+<area shape="rect" id="clust1" href="dir_851e08659ee5a8b0202fa97c0be1cae9.html" title="items" alt="" coords="16,16,139,106"/>
+</map>

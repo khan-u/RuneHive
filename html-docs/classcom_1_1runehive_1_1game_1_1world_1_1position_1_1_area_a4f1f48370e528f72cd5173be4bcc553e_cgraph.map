@@ -1,0 +1,16 @@
+<map id="com.runehive.game.world.position.Area.inGodwarsChambers" name="com.runehive.game.world.position.Area.inGodwarsChambers">
+<area shape="poly" id="Node000001" title=" " alt="" coords="385,180,376,169,349,160,307,152,254,147,195,145,136,147,84,152,42,160,15,169,5,180,15,190,42,200,84,208,136,212,195,214,254,212,307,208,349,200,376,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html#ac227eb1c72c61b3281cef2f2a6dd02ea" title=" " alt="" coords="812,40,803,29,776,20,734,12,681,7,623,5,564,7,511,12,469,20,442,29,433,40,442,50,469,60,511,68,564,72,623,74,681,72,734,68,776,60,803,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,145,347,114,432,84,487,68,488,73,434,89,349,119,271,150"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html#a2a695d63cfe4b6066528b4e94078ce42" title=" " alt="" coords="812,133,803,122,776,113,734,105,681,100,623,99,564,100,511,105,469,113,442,122,433,133,442,144,469,153,511,161,564,166,623,167,681,166,734,161,776,153,803,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,159,444,150,444,155,359,165"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html#a8c6abd52e703f27b2fd2acb47482e6f0" title=" " alt="" coords="812,226,803,216,776,206,734,199,681,194,623,192,564,194,511,199,469,206,442,216,433,226,442,237,469,247,511,254,564,259,623,261,681,259,734,254,776,247,803,237"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="359,195,444,204,444,210,359,200"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html#a1f8e4d76d8fdc2b05a895f861596a030" title=" " alt="" coords="812,320,803,309,776,300,734,292,681,287,623,285,564,287,511,292,469,300,442,309,433,320,442,330,469,340,511,348,564,352,623,354,681,352,734,348,776,340,803,330"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="271,209,349,241,434,271,488,286,487,291,432,276,347,246,269,214"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a8afdd0de68f242bf7082076dfbfffe37" title=" " alt="" coords="1213,180,1204,169,1179,160,1140,152,1091,147,1037,145,982,147,933,152,894,160,869,169,860,180,869,190,894,200,933,208,982,212,1037,214,1091,212,1140,208,1179,200,1204,190"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="745,64,813,84,886,111,954,139,952,144,884,116,811,89,744,69"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="785,149,868,158,868,163,784,154"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="784,206,868,196,868,201,785,211"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="744,290,811,271,884,244,952,215,954,220,886,249,813,276,745,295"/>
+</map>

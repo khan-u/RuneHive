@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.thieving.WallSafe.chance" name="com.runehive.content.skill.impl.thieving.WallSafe.chance">
+<area shape="poly" id="Node000001" title="The wallsafe fail chance." alt="" coords="434,116,424,105,393,96,346,88,286,83,220,81,154,83,94,88,46,96,16,105,5,116,16,126,46,136,94,144,154,148,220,150,286,148,346,144,393,136,424,126"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a5ff60aaa9a37a00040b2c69073326d1e" title="Gets the highest possible level of a skill." alt="" coords="880,64,870,53,842,44,798,36,743,31,681,29,620,31,564,36,520,44,492,53,482,64,492,74,520,84,564,92,620,96,681,98,743,96,798,92,842,84,870,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="396,93,498,82,498,87,397,99"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a0961417523881e9a3bef6e9da541942a" title=" " alt="" coords="853,168,845,161,820,155,782,151,734,148,681,147,628,148,580,151,542,155,518,161,509,168,518,174,542,180,580,185,628,188,681,189,734,188,782,185,820,180,845,174"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="397,133,538,149,537,154,396,138"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="594,32,594,21,610,11,639,5,681,3,733,6,762,16,761,21,732,11,681,8,639,10,612,16,599,23,599,33"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="601,150,592,139,604,128,634,122,681,120,736,123,764,131,763,136,735,128,681,125,634,128,606,133,597,139,605,147"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="com.runehive.game.world.entity.mob.player.Player.setPassword" name="com.runehive.game.world.entity.mob.player.Player.setPassword">
+<area shape="poly" id="Node000001" title=" " alt="" coords="2575,76,2563,65,2530,56,2478,48,2413,43,2340,41,2268,43,2203,48,2151,56,2117,65,2106,76,2117,86,2151,96,2203,104,2268,108,2340,110,2413,108,2478,104,2530,96,2563,86"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1session_1_1_login_session.html#aa10d374ad12b0f0cc159313b2d7b6122" title=" " alt="" coords="2058,40,2048,29,2018,20,1971,12,1912,7,1846,5,1781,7,1722,12,1675,20,1645,29,1635,40,1645,50,1675,60,1722,68,1781,72,1846,74,1912,72,1971,68,2018,60,2048,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2114,62,2040,57,2041,51,2114,57"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1net_1_1session_1_1_login_session.html#a79d4baba6b5c0ac0664894c51e643cd5" title=" " alt="" coords="1247,76,1237,65,1207,56,1160,48,1102,43,1037,41,973,43,914,48,868,56,838,65,828,76,838,86,868,96,914,104,973,108,1037,110,1102,108,1160,104,1207,96,1237,86"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="2099,88,2058,89,1676,94,1295,89,1240,88,1240,82,1295,84,1676,89,2058,84,2099,83"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1session_1_1_login_session.html#a3f6bc3fc6ff7cfadb2a9679d6e210220" title=" " alt="" coords="1587,40,1580,29,1559,20,1527,12,1486,7,1441,5,1396,7,1355,12,1323,20,1302,29,1295,40,1302,50,1323,60,1355,68,1396,72,1441,74,1486,72,1527,68,1559,60,1580,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1619,42,1587,42,1587,37,1619,37"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1289,56,1223,62,1222,57,1289,51"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1net_1_1_login_executor_service.html#a022b1d2b2f2bf8204d18d2e7a2f41abf" title=" " alt="" coords="780,76,771,65,746,56,707,48,657,43,603,41,548,43,499,48,460,56,434,65,426,76,434,86,460,96,499,104,548,108,603,110,657,108,707,104,746,96,771,86"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="812,78,780,78,780,73,812,73"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1net_1_1session_1_1_login_session.html#a070b97740b14437a4b8de1748ab5ebc5" title="The method that is called when the client sends packets to the server." alt="" coords="378,76,369,65,342,56,301,48,249,43,192,41,134,43,82,48,41,56,14,65,5,76,14,86,41,96,82,104,134,108,192,110,249,108,301,104,342,96,369,86"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="410,78,378,78,378,73,410,73"/>
+</map>

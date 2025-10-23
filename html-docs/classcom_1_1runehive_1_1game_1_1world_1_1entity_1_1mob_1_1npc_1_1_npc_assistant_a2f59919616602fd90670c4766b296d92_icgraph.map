@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.npc.NpcAssistant.isSaradomin" name="com.runehive.game.world.entity.mob.npc.NpcAssistant.isSaradomin">
+<area shape="poly" id="Node000001" title=" " alt="" coords="962,40,951,29,920,20,871,12,809,7,740,5,671,7,609,12,560,20,529,29,518,40,529,50,560,60,609,68,671,72,740,74,809,72,871,68,920,60,951,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1godwars_1_1_godwars_listener.html#a15f3524f72e2f8ac44f4c068712dcce5" title=" " alt="" coords="470,40,458,29,425,20,374,12,309,7,238,5,166,7,101,12,50,20,17,29,5,40,17,50,50,60,101,68,166,72,238,74,309,72,374,68,425,60,458,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="502,42,470,42,470,37,502,37"/>
+</map>

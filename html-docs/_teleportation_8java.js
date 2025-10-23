@@ -1,0 +1,4 @@
+var _teleportation_8java =
+[
+    [ "com.runehive.content.skill.impl.magic.teleport.Teleportation", "classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1magic_1_1teleport_1_1_teleportation.html", "classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1magic_1_1teleport_1_1_teleportation" ]
+];

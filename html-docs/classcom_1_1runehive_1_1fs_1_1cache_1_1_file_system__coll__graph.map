@@ -1,0 +1,7 @@
+<map id="com.runehive.fs.cache.FileSystem" name="com.runehive.fs.cache.FileSystem">
+<area shape="poly" id="Node000001" title="Represents a file system of Caches and Archives." alt="" coords="497,181,490,170,468,160,435,153,394,148,348,146,301,148,260,153,227,160,205,170,198,181,205,191,227,201,260,208,301,213,348,215,394,213,435,208,468,201,490,191"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1_cache.html" title="Represents a Sector and Index cache." alt="" coords="332,40,324,33,301,27,265,23,219,20,169,19,118,20,73,23,37,27,13,33,5,40,13,46,37,52,73,57,118,60,169,61,219,60,265,57,301,52,324,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,68,307,145,304,149,205,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1archive_1_1_archive.html" title="Represents an archive within the Cache." alt="" coords="696,40,688,29,664,20,626,12,579,7,526,5,474,7,426,12,389,20,365,29,356,40,365,50,389,60,426,68,474,72,526,74,579,72,626,68,664,60,688,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="474,85,391,149,388,145,471,81"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.task.TaskDeadlockWatcher" name="com.runehive.game.task.TaskDeadlockWatcher">
+<area shape="poly" id="Node000001" title=" " alt="" coords="332,130,324,119,301,109,265,102,219,97,169,95,118,97,73,102,37,109,13,119,5,130,13,140,37,150,73,158,118,162,169,164,219,162,265,158,301,150,324,140"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="233,26,230,20,221,14,207,9,189,6,169,5,149,6,131,9,117,14,107,20,104,26,107,33,117,39,131,43,149,46,169,47,189,46,207,43,221,39,230,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,63,172,95,166,95,166,63"/>
+</map>

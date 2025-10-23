@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.magic.RunePouch.deposit" name="com.runehive.content.skill.impl.magic.RunePouch.deposit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="416,133,406,122,377,113,331,105,274,100,211,99,147,100,90,105,45,113,15,122,5,133,15,144,45,153,90,161,147,166,211,167,274,166,331,161,377,153,406,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a490026d68b72e2dea391680a7d49a844" title="Formats digits for integers." alt="" coords="834,40,826,29,803,20,766,12,720,7,669,5,618,7,572,12,536,20,512,29,504,40,512,50,536,60,572,68,618,72,669,74,720,72,766,68,803,60,826,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="342,104,534,64,535,70,343,109"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1cec21ca5ef1783808d4ca9de1051a29" title="Gets the identification of this item." alt="" coords="846,133,838,122,812,113,773,105,724,100,669,99,615,100,565,105,526,113,501,122,492,133,501,144,526,153,565,161,615,166,669,167,724,166,773,161,812,153,838,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="417,130,477,130,477,136,417,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1magic_1_1_rune_pouch.html#acda9ab50144c5beabc41314d2d75ffb1" title=" " alt="" coords="875,226,864,216,835,206,790,199,733,194,669,192,606,194,549,199,503,206,474,216,464,226,474,237,503,247,549,254,606,259,669,261,733,259,790,254,835,247,864,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="343,157,523,194,521,199,342,162"/>
+</map>

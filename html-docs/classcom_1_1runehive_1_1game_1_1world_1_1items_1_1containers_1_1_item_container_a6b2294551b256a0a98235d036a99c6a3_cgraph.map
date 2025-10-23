@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.items.containers.ItemContainer.computeIdForIndex" name="com.runehive.game.world.items.containers.ItemContainer.computeIdForIndex">
+<area shape="poly" id="Node000001" title="Computes the identifier of the Item on index." alt="" coords="470,86,458,76,425,66,374,59,309,54,238,52,166,54,101,59,50,66,17,76,5,86,17,97,50,107,101,114,166,119,238,121,309,119,374,114,425,107,458,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1cec21ca5ef1783808d4ca9de1051a29" title="Gets the identification of this item." alt="" coords="927,40,918,29,893,20,854,12,805,7,750,5,695,7,646,12,607,20,581,29,573,40,581,50,607,60,646,68,695,72,750,74,805,72,854,68,893,60,918,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,66,574,53,574,58,437,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a793fa95415f6842dbfbd93a52f1cf2ed" title="Retrieves the item located on index." alt="" coords="982,133,971,122,938,113,886,105,822,100,750,99,678,100,613,105,562,113,529,122,518,133,529,144,562,153,613,161,678,166,750,167,822,166,886,161,938,153,971,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="437,102,536,111,536,116,436,107"/>
+</map>

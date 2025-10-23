@@ -1,0 +1,6 @@
+<map id="com.runehive.content.mysterybox.MysteryBoxEvent.reward" name="com.runehive.content.mysterybox.MysteryBoxEvent.reward">
+<area shape="poly" id="Node000001" title=" " alt="" coords="795,64,786,53,760,44,719,36,667,31,610,29,553,31,501,36,460,44,433,53,424,64,433,74,460,84,501,92,553,96,610,98,667,96,719,92,760,84,786,74"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="681,20,655,11,610,8,572,10,547,16,535,23,535,32,530,32,531,20,545,11,571,5,610,3,656,6,683,15"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1mysterybox_1_1_mystery_box_event.html#a4cbb1f95822ea01b747864977f05d4bc" title="A function executed on cancellation." alt="" coords="376,64,367,53,341,44,300,36,248,31,191,29,134,31,82,36,41,44,14,53,5,64,14,74,41,84,82,92,134,96,191,98,248,96,300,92,341,84,367,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,66,377,66,377,61,409,61"/>
+</map>

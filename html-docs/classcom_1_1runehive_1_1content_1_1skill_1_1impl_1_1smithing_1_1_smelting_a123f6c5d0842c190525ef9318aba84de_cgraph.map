@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.smithing.Smelting.canSchedule" name="com.runehive.content.skill.impl.smithing.Smelting.canSchedule">
+<area shape="poly" id="Node000001" title="A function executed on registration." alt="" coords="440,40,429,29,398,20,350,12,290,7,223,5,155,7,95,12,47,20,16,29,5,40,16,50,47,60,95,68,155,72,223,74,290,72,350,68,398,60,429,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="788,40,781,29,760,20,726,12,685,7,638,5,592,7,550,12,517,20,495,29,488,40,495,50,517,60,550,68,592,72,638,74,685,72,726,68,760,60,781,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,37,472,37,472,42,440,42"/>
+</map>

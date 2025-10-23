@@ -1,0 +1,6 @@
+<map id="com.runehive.game.action.ActionManager.sequence" name="com.runehive.game.action.ActionManager.sequence">
+<area shape="poly" id="Node000001" title="Sequences the pending actions, and as soon as the current action has stopped, it executes the head of..." alt="" coords="306,64,298,53,277,44,244,36,202,31,155,29,109,31,67,36,34,44,13,53,5,64,13,74,34,84,67,92,109,96,155,98,202,96,244,92,277,84,298,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action_manager.html#a9c429bf1d7f162f6c7f8ff0aa4e44d7e" title=" " alt="" coords="654,64,647,53,625,44,592,36,550,31,504,29,457,31,416,36,382,44,361,53,354,64,361,74,382,84,416,92,457,96,504,98,550,96,592,92,625,84,647,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,61,338,61,338,66,306,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="437,32,437,21,449,11,471,5,504,3,543,6,565,16,563,21,542,11,504,8,472,10,452,16,442,23,442,33"/>
+</map>

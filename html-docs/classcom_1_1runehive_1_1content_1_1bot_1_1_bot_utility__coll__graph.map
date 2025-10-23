@@ -1,0 +1,10 @@
+<map id="com.runehive.content.bot.BotUtility" name="com.runehive.content.bot.BotUtility">
+<area shape="poly" id="Node000001" title="Holds all the constants used by bot." alt="" coords="1726,136,1719,125,1698,116,1667,108,1626,103,1582,101,1538,103,1497,108,1466,116,1445,125,1438,136,1445,146,1466,156,1497,164,1538,168,1582,170,1626,168,1667,164,1698,156,1719,146"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1tittle_1_1_player_title.html" title="The player title class." alt="" coords="1141,88,1133,77,1112,68,1079,60,1038,55,992,53,946,55,905,60,872,68,851,77,843,88,851,98,872,108,905,116,946,120,992,122,1038,120,1079,116,1112,108,1133,98"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1148,98,1445,122,1445,127,1148,103"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="931,40,953,30,992,27,1024,29,1046,35,1058,45,1058,56,1053,57,1053,47,1043,40,1023,34,992,32,954,35,933,45"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1appearance_1_1_appearance.html" title="Represents a Players appearance." alt="" coords="1289,181,1275,170,1232,161,1167,153,1084,148,992,147,900,148,817,153,752,161,709,170,695,181,709,192,752,201,817,209,900,214,992,215,1084,214,1167,209,1232,201,1275,192"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="1267,160,1414,149,1448,146,1448,151,1414,154,1268,166"/>
+<area shape="poly" id="Node000004" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1appearance_1_1_gender.html" title="Represents a gender for a player character." alt="" coords="600,181,585,170,543,161,477,153,394,148,303,147,211,148,128,153,62,161,20,170,5,181,20,192,62,201,128,209,211,214,303,215,394,214,477,209,543,201,585,192"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="615,178,694,178,694,184,615,184"/>
+</map>

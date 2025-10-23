@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.smithing.SmithingTable.getName" name="com.runehive.content.skill.impl.smithing.SmithingTable.getName">
+<area shape="poly" id="Node000001" title="The name of the producable item." alt="" coords="1405,86,1395,76,1364,66,1316,59,1255,54,1188,52,1121,54,1060,59,1012,66,981,76,971,86,981,97,1012,107,1060,114,1121,119,1188,121,1255,119,1316,114,1364,107,1395,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1smithing_1_1_smithing_armour.html#a20504370dc1cc918daf60a695430c21f" title="Opens the smithing itemcontainer and sets all the values for the specified {code player}..." alt="" coords="923,86,912,76,881,66,833,59,772,54,705,52,638,54,578,59,529,66,499,76,488,86,499,97,529,107,578,114,638,119,705,121,772,119,833,114,881,107,912,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="955,89,923,89,923,84,955,84"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1smithing_1_1_smithing.html#a7561d118c88480573fa57c51819861b1" title=" " alt="" coords="440,40,429,29,398,20,350,12,290,7,223,5,155,7,95,12,47,20,16,29,5,40,16,50,47,60,95,68,155,72,223,74,290,72,350,68,398,60,429,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="503,70,409,60,410,55,503,64"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1smithing_1_1_smithing.html#ab730fd6b1ff1097dca24ce373b77b3d1" title=" " alt="" coords="440,133,429,122,398,113,350,105,290,100,223,99,155,100,95,105,47,113,16,122,5,133,16,144,47,153,95,161,155,166,223,167,290,166,350,161,398,153,429,144"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="503,109,410,118,409,112,503,103"/>
+</map>

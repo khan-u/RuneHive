@@ -1,0 +1,6 @@
+<map id="java/com/runehive/game/world/entity/combat/strategy/player" name="java/com/runehive/game/world/entity/combat/strategy/player">
+<area shape="poly" id="node2" href="dir_e3d910e001b3a5456df0381fa34f8305.html" title="custom" alt="" coords="235,85,233,78,225,73,214,68,200,65,184,64,168,65,154,68,143,73,135,78,133,85,135,91,143,97,154,102,168,105,184,106,200,105,214,102,225,97,233,91"/>
+<area shape="poly" id="node3" href="dir_e34f6640d65fdba330301dcb2dd82475.html" title="special" alt="" coords="362,85,359,78,352,73,341,68,326,65,311,64,295,65,281,68,269,73,262,78,260,85,262,91,269,97,281,102,295,105,311,106,326,105,341,102,352,97,359,91"/>
+<area shape="rect" id="clust2" href="dir_333b6b49b44580a64102f943abdad29c.html" alt="" coords="27,53,372,117"/>
+<area shape="rect" id="clust1" href="dir_3b1fd542a63e66df9a8e97519ee0d820.html" title="strategy" alt="" coords="16,16,383,127"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.PlayerMagicStrategy.hit" name="com.runehive.game.world.entity.combat.strategy.player.PlayerMagicStrategy.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1217,86,1203,76,1161,66,1097,59,1016,54,926,52,836,54,755,59,691,66,649,76,635,86,649,97,691,107,755,114,836,119,926,121,1016,119,1097,114,1161,107,1203,97"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="1035,44,997,34,926,31,869,33,831,39,812,46,811,50,812,54,807,55,805,49,809,42,830,33,869,27,926,25,997,29,1037,38"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1_player_magic_strategy.html#a11c9ff7da7e9fb204cd19fa7e58d58aa" title=" " alt="" coords="587,40,573,29,531,20,467,12,386,7,296,5,206,7,125,12,61,20,20,29,5,40,20,50,61,60,125,68,206,72,296,74,386,72,467,68,531,60,573,50"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="662,70,544,61,544,55,663,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1_player_magic_strategy.html#a9ed23335699a53de8d4ae2eada6d488a" title=" " alt="" coords="587,133,573,122,531,113,467,105,386,100,296,99,206,100,125,105,61,113,20,122,5,133,20,144,61,153,125,161,206,166,296,167,386,166,467,161,531,153,573,144"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="663,109,544,117,544,112,662,103"/>
+</map>

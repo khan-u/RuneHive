@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_magic_attack =
+[
+    [ "MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_magic_attack.html#a544dde8caf26bebadea3991453c29aaf", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_magic_attack.html#a6c27719d8ede21dca5b07ac873861573", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_magic_attack.html#a02382e1335a440651e017886be765587", null ]
+];

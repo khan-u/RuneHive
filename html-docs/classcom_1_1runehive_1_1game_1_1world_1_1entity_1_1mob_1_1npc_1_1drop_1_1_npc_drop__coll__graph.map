@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.npc.drop.NpcDrop" name="com.runehive.game.world.entity.mob.npc.drop.NpcDrop">
+<area shape="poly" id="Node000001" title=" " alt="" coords="601,181,589,170,553,160,499,153,430,148,353,146,276,148,207,153,153,160,117,170,105,181,117,191,153,201,207,208,276,213,353,215,430,213,499,208,553,201,589,191"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="287,40,280,33,260,27,229,23,190,20,146,19,103,20,63,23,32,27,12,33,5,40,12,46,32,52,63,57,103,60,146,61,190,60,229,57,260,52,280,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,67,305,144,302,149,187,71"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1drop_1_1_npc_drop_chance.html" title="The enumerated type whose elements represent a set of constants used to differ between NpcDrop rariti..." alt="" coords="807,40,795,29,760,20,705,12,636,7,560,5,483,7,414,12,359,20,324,29,312,40,324,50,359,60,414,68,483,72,560,74,636,72,705,68,760,60,795,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="499,85,404,148,401,144,496,80"/>
+</map>

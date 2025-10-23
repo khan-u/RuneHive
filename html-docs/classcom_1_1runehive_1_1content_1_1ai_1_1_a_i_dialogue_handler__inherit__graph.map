@@ -1,0 +1,5 @@
+<map id="com.runehive.content.ai.AIDialogueHandler" name="com.runehive.content.ai.AIDialogueHandler">
+<area shape="poly" id="Node000001" title=" " alt="" coords="315,157,308,146,289,136,258,129,220,124,177,122,135,124,97,129,66,136,47,146,40,157,47,167,66,177,97,184,135,189,177,191,220,189,258,184,289,177,308,167"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue.html" title="Represents an abstract dialogue, in which extending classes will be able to construct and send dialog..." alt="" coords="349,40,341,29,317,20,279,12,231,7,177,5,124,7,76,12,38,20,14,29,5,40,14,50,38,60,76,68,124,72,177,74,231,72,279,68,317,60,341,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,90,180,122,175,122,175,90"/>
+</map>

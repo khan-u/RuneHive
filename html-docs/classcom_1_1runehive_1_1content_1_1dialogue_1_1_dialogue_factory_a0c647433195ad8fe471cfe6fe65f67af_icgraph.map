@@ -1,0 +1,7 @@
+<map id="com.runehive.content.dialogue.DialogueFactory.sendDialogue" name="com.runehive.content.dialogue.DialogueFactory.sendDialogue">
+<area shape="poly" id="Node000001" title="Sends a player a dialogue." alt="" coords="1207,53,1199,43,1174,33,1136,25,1088,20,1035,19,982,20,934,25,896,33,872,43,863,53,872,64,896,73,934,81,982,86,1035,88,1088,86,1136,81,1174,73,1199,64"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1ai_1_1_a_i_dialogue_handler.html#ae62f6ccbe677f02e01637e7ab06d677f" title=" " alt="" coords="815,53,806,38,779,25,738,14,685,8,628,5,570,8,517,14,476,25,449,38,440,53,449,68,476,81,517,92,570,99,628,101,685,99,738,92,779,81,806,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="848,56,816,56,816,51,848,51"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1ai_1_1_a_i_dialogue_handler.html#a9af7dee35fb38f105336f4cce35e794c" title=" " alt="" coords="392,53,382,38,355,25,312,14,258,8,199,5,139,8,85,14,42,25,15,38,5,53,15,68,42,81,85,92,139,99,199,101,258,99,312,92,355,81,382,68"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="424,56,392,56,392,51,424,51"/>
+</map>

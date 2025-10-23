@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.effect.impl.CombatAntifireEffect" name="com.runehive.game.world.entity.combat.effect.impl.CombatAntifireEffect">
+<area shape="poly" id="Node000001" title="The class which is responsible for the effect when you drink an anti&#45;fire potion." alt="" coords="545,157,531,146,493,136,433,129,358,124,275,122,192,124,116,129,57,136,19,146,5,157,19,167,57,177,116,184,192,189,275,191,358,189,433,184,493,177,531,167"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect_1_1_combat_effect.html" title="Some sort of temporary effect applied to a Mob during combat." alt="" coords="521,40,509,29,474,20,419,12,351,7,275,5,199,7,131,12,76,20,41,29,29,40,41,50,76,60,131,68,199,72,275,74,351,72,419,68,474,60,509,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,90,278,122,272,122,272,90"/>
+</map>

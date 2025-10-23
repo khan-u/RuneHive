@@ -1,0 +1,9 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_frozen_special =
+[
+    [ "FrozenSpecial", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_frozen_special.html#aac8a931ef0454c809b606bbe85ee7048", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_frozen_special.html#a647487f36567a97bdb148a25b5c08fe2", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_frozen_special.html#a613a47aa57d7b0e1c41f2bf6d555a0c3", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_frozen_special.html#ad682932042ea61c767779314b54da08b", null ],
+    [ "hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_frozen_special.html#a939e19462b758f263cdaa8e779bf3457", null ],
+    [ "PROJECTILE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_frozen_special.html#aa3be7f9a58fb41dc1a2acfeb3c0f7d1d", null ]
+];

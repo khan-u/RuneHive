@@ -1,0 +1,9 @@
+<map id="kotlin/org/jire/runehiveps/event" name="kotlin/org/jire/runehiveps/event">
+<area shape="poly" id="node2" href="dir_e679b7bb371e5b6947599b191f79f01b.html" title="item" alt="" coords="206,85,204,78,199,73,191,68,181,65,169,64,158,65,148,68,140,73,135,78,133,85,135,91,140,97,148,102,158,105,169,106,181,105,191,102,199,97,204,91"/>
+<area shape="poly" id="node3" href="dir_776a834f54854175a2cf90967e777cbc.html" title="npc" alt="" coords="301,85,300,78,294,73,286,68,276,65,265,64,254,65,244,68,236,73,231,78,229,85,231,91,236,97,244,102,254,105,265,106,276,105,286,102,294,97,300,91"/>
+<area shape="poly" id="node4" href="dir_e8617f3cee49d16f4961838a69d480e5.html" title="object" alt="" coords="416,85,414,78,407,73,397,68,385,65,371,64,357,65,344,68,334,73,327,78,325,85,327,91,334,97,344,102,357,105,371,106,385,105,397,102,407,97,414,91"/>
+<area shape="poly" id="node5" href="dir_368727882b95c70e8512bcfcc76b5f94.html" title="player" alt="" coords="533,85,531,78,524,73,514,68,501,65,487,64,472,65,460,68,449,73,443,78,440,85,443,91,449,97,460,102,472,105,487,106,501,105,514,102,524,97,531,91"/>
+<area shape="poly" id="node6" href="dir_0ddcfd058dbcfe61261c9e636827364d.html" title="widget" alt="" coords="654,85,651,78,644,73,634,68,620,65,605,64,590,65,577,68,566,73,559,78,557,85,559,91,566,97,577,102,590,105,605,106,620,105,634,102,644,97,651,91"/>
+<area shape="rect" id="clust2" href="dir_4dd1367e5f547f80ac71112728a925a2.html" alt="" coords="27,53,664,117"/>
+<area shape="rect" id="clust1" href="dir_1ccf8ef3ee1600753a08abbcd374a458.html" title="runehiveps" alt="" coords="16,16,675,127"/>
+</map>

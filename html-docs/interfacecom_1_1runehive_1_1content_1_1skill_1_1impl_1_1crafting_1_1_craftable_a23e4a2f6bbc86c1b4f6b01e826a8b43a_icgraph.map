@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.crafting.Craftable.getUse" name="com.runehive.content.skill.impl.crafting.Craftable.getUse">
+<area shape="poly" id="Node000001" title="Gets the craftable used item." alt="" coords="900,40,890,29,860,20,813,12,754,7,688,5,623,7,564,12,517,20,487,29,477,40,487,50,517,60,564,68,623,72,688,74,754,72,813,68,860,60,890,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#a101ad0220984f206671ae0b477ec1c69" title=" " alt="" coords="429,40,418,29,388,20,341,12,282,7,217,5,152,7,93,12,46,20,16,29,5,40,16,50,46,60,93,68,152,72,217,74,282,72,341,68,388,60,418,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="461,42,429,42,429,37,461,37"/>
+</map>

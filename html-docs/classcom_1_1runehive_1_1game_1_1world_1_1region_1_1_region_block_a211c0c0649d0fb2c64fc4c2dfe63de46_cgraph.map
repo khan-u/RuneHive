@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.region.RegionBlock.removeGroundItem" name="com.runehive.game.world.region.RegionBlock.removeGroundItem">
+<area shape="poly" id="Node000001" title="Adds a ground item to this block." alt="" coords="369,86,360,76,335,66,294,59,244,54,187,52,131,54,80,59,40,66,14,76,5,86,14,97,40,107,80,114,131,119,187,121,244,119,294,114,335,107,360,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_block.html#ae12975bc58a95fa372b666e8cbbd638e" title=" " alt="" coords="781,40,772,29,746,20,706,12,655,7,599,5,543,7,492,12,452,20,426,29,417,40,426,50,452,60,492,68,543,72,599,74,655,72,706,68,746,60,772,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="344,66,427,57,427,62,345,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a8afdd0de68f242bf7082076dfbfffe37" title=" " alt="" coords="776,133,767,122,742,113,703,105,654,100,599,99,545,100,496,105,457,113,432,122,423,133,432,144,457,153,496,161,545,166,599,167,654,166,703,161,742,153,767,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="345,102,431,111,430,117,344,107"/>
+</map>

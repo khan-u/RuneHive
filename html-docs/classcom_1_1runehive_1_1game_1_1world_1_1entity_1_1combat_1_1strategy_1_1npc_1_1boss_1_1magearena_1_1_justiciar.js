@@ -1,0 +1,19 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar =
+[
+    [ "LightingRain", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenebe5f3de97cc296633784d0125be02a0.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenebe5f3de97cc296633784d0125be02a0" ],
+    [ "Magic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_magic.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_magic" ],
+    [ "Melee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_melee.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_melee" ],
+    [ "TeleGrab", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_tele_grab.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_tele_grab" ],
+    [ "Justiciar", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar.html#aced1c2f73e070bd592f6557c5d06ee3d", null ],
+    [ "block", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar.html#a34b237b635c15aabd8db92426f9595e6", null ],
+    [ "canAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar.html#ad785ec9816b68f5beef9114d16636f39", null ],
+    [ "finishOutgoing", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar.html#aab8aa757e25be681a3196d101924198f", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar.html#a4427092993b2722c8221265551dbea49", null ],
+    [ "FULL_STRATEGIES", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar.html#a1bec3597e29e7157f09265e7e4e56f94", null ],
+    [ "LIGHTNING_RAIN", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar.html#a2302c527bab08ffaa8619b660ab9414b", null ],
+    [ "MAGIC", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar.html#a63ae5d83105b9af4c05c85ac4223dbd2", null ],
+    [ "MAGIC_STRATEGIES", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar.html#a22454dc6a14ba7919f116e2361974ce8", null ],
+    [ "MELEE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar.html#a08ea13e27622ead9fe9899dd103f302a", null ],
+    [ "NON_MELEE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar.html#aa5a51443c29a0f096f458b1916e0baec", null ],
+    [ "TELE_GRAB", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar.html#a3afe4a1b9a27c73c3c6ab8f59f9201de", null ]
+];

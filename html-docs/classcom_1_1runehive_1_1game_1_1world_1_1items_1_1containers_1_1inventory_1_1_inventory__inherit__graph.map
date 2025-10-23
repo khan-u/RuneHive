@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.items.containers.inventory.Inventory" name="com.runehive.game.world.items.containers.inventory.Inventory">
+<area shape="poly" id="Node000001" title="An ItemContainer implementation that manages the inventory for a Player." alt="" coords="566,247,552,236,512,226,450,219,372,214,286,212,199,214,121,219,59,226,19,236,5,247,19,257,59,267,121,274,199,279,286,281,372,279,450,274,512,267,552,257"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html" title="An abstraction game representing a group of Items." alt="" coords="518,130,506,119,473,109,422,102,357,97,286,95,214,97,149,102,98,109,65,119,53,130,65,140,98,150,149,158,214,162,286,164,357,162,422,158,473,150,506,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="288,180,288,212,283,212,283,180"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="378,26,373,20,360,14,340,9,314,6,286,5,257,6,231,9,211,14,198,20,193,26,198,33,211,39,231,43,257,46,286,47,314,46,340,43,360,39,373,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,63,288,95,283,95,283,63"/>
+</map>

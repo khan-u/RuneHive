@@ -1,0 +1,5 @@
+<map id="com.runehive.util.StringUtils.appendIndefiniteArticle" name="com.runehive.util.StringUtils.appendIndefiniteArticle">
+<area shape="poly" id="Node000001" title="Appends the determined indefinite article to thing." alt="" coords="318,40,311,29,288,20,254,12,210,7,162,5,113,7,70,12,35,20,13,29,5,40,13,50,35,60,70,68,113,72,162,74,210,72,254,68,288,60,311,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_string_utils.html#af5ce3222efc613359129234e7bcc9a58" title="Determines the indefinite article of thing." alt="" coords="703,40,695,29,671,20,634,12,587,7,535,5,483,7,436,12,399,20,375,29,366,40,375,50,399,60,436,68,483,72,535,74,587,72,634,68,671,60,695,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,37,351,37,351,42,319,42"/>
+</map>

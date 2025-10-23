@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.pathfinding.TraversalMap.isTraversableSouthWest" name="com.runehive.game.world.pathfinding.TraversalMap.isTraversableSouthWest">
+<area shape="poly" id="Node000001" title="Tests if the specified position can be traversed south west." alt="" coords="424,64,414,53,384,44,338,36,280,31,215,29,150,31,92,36,45,44,16,53,5,64,16,74,45,84,92,92,150,96,215,98,280,96,338,92,384,84,414,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="135,31,136,20,151,11,177,5,215,3,261,6,287,15,286,20,260,11,215,8,178,10,153,16,141,23,140,32"/>
+</map>

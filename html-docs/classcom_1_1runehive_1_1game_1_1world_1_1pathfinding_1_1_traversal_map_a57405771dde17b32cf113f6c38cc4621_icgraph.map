@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.pathfinding.TraversalMap.blockedEast" name="com.runehive.game.world.pathfinding.TraversalMap.blockedEast">
+<area shape="poly" id="Node000001" title=" " alt="" coords="829,40,819,29,790,20,744,12,687,7,623,5,560,7,502,12,457,20,427,29,417,40,427,50,457,60,502,68,560,72,623,74,687,72,744,68,790,60,819,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region.html#aa8a0d1cc9bf7d3315e1dc9aee57b15b1" title=" " alt="" coords="369,40,360,29,335,20,294,12,244,7,187,5,131,7,80,12,40,20,14,29,5,40,14,50,40,60,80,68,131,72,187,74,244,72,294,68,335,60,360,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,42,370,42,370,37,402,37"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="com.runehive.game.world.entity.mob.player.command.CommandParser.getCommand" name="com.runehive.game.world.entity.mob.player.command.CommandParser.getCommand">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1821,112,1807,101,1766,92,1703,84,1623,79,1534,77,1446,79,1366,84,1303,92,1262,101,1248,112,1262,122,1303,132,1366,140,1446,144,1534,146,1623,144,1703,140,1766,132,1807,122"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1plugin_1_1extension_1_1_command_extension.html#a0c3cf8f83b995c0597aacd81447bc250" title=" " alt="" coords="1116,40,1106,29,1077,20,1032,12,976,7,913,5,851,7,794,12,749,20,721,29,711,40,721,50,749,60,794,68,851,72,913,74,976,72,1032,68,1077,60,1106,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1311,89,1081,62,1082,57,1312,83"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1plugin_1_1extension_1_1_command_extension.html#a7111d7e027fde803ffeb321d29ece4a2" title=" " alt="" coords="499,65,489,54,460,45,414,37,356,32,292,31,228,32,170,37,124,45,95,54,85,65,95,76,124,85,170,93,228,98,292,99,356,98,414,93,460,85,489,76"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="1235,109,941,101,626,89,484,81,484,76,627,84,941,96,1235,103"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1command_1_1_command_parser.html#a42057111622d91363effffe2f5251474" title=" " alt="" coords="1200,184,1186,173,1145,164,1082,156,1002,151,913,149,825,151,745,156,681,164,641,173,627,184,641,194,681,204,745,212,825,216,913,218,1002,216,1082,212,1145,204,1186,194"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="1311,140,1122,162,1121,157,1311,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="701,51,494,60,494,54,701,46"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1command_1_1_command_parser.html#a253486b05438b121a0f86ec7b9676a31" title=" " alt="" coords="579,184,565,173,524,164,460,156,381,151,292,149,203,151,123,156,60,164,19,173,5,184,19,194,60,204,123,212,203,216,292,218,381,216,460,212,524,204,565,194"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="611,186,579,186,579,181,611,181"/>
+</map>

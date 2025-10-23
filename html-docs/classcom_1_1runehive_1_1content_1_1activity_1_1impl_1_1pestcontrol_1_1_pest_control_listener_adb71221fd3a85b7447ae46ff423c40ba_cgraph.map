@@ -1,0 +1,10 @@
+<map id="com.runehive.content.activity.impl.pestcontrol.PestControlListener.hitsplat" name="com.runehive.content.activity.impl.pestcontrol.PestControlListener.hitsplat">
+<area shape="poly" id="Node000001" title=" " alt="" coords="494,110,482,100,447,90,393,83,325,78,250,76,174,78,106,83,52,90,17,100,5,110,17,121,52,131,106,138,174,143,250,145,325,143,393,138,447,131,482,121"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity_listener.html#a7ab2bd0ef551644eae0bd6fc3644b755" title=" " alt="" coords="905,64,897,53,874,44,838,36,793,31,743,29,693,31,647,36,612,44,589,53,581,64,589,74,612,84,647,92,693,96,743,98,793,96,838,92,874,84,897,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,88,578,77,579,82,454,94"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#ac7ddf988f32265b28e7af7283b406df1" title="Check if an entity is a player." alt="" coords="944,157,934,146,905,137,861,129,805,124,743,123,681,124,625,129,580,137,552,146,542,157,552,168,580,177,625,185,681,190,743,191,805,190,861,185,905,177,934,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="454,127,551,136,550,142,453,132"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="662,33,662,21,676,11,703,5,743,3,791,6,818,16,816,21,790,12,743,8,704,10,678,16,667,24,668,33"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a64f68055122aaf4af08787378c7ac356" title="Gets the EntityType." alt="" coords="1344,157,1336,146,1311,137,1272,129,1223,124,1168,123,1114,124,1064,129,1025,137,1000,146,992,157,1000,168,1025,177,1064,185,1114,190,1168,191,1223,190,1272,185,1311,177,1336,168"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="944,154,977,154,977,160,944,160"/>
+</map>

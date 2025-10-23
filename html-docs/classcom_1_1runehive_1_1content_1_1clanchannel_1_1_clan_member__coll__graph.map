@@ -1,0 +1,5 @@
+<map id="com.runehive.content.clanchannel.ClanMember" name="com.runehive.content.clanchannel.ClanMember">
+<area shape="poly" id="Node000001" title="Handles the clan channel member." alt="" coords="385,181,376,170,349,160,307,153,254,148,195,146,136,148,84,153,42,160,15,170,5,181,15,191,42,201,84,208,136,213,195,215,254,213,307,208,349,201,376,191"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1clanchannel_1_1_clan_rank.html" title="The enum containing all the rank&#39;s data within a clan channel." alt="" coords="385,40,376,29,349,20,307,12,254,7,195,5,136,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,136,72,195,74,254,72,307,68,349,60,376,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,89,198,146,192,146,192,89"/>
+</map>

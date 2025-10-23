@@ -1,0 +1,10 @@
+<map id="com.runehive.content.activity.impl.duelarena.DuelArenaActivity.update" name="com.runehive.content.activity.impl.duelarena.DuelArenaActivity.update">
+<area shape="poly" id="Node000001" title="The update method." alt="" coords="485,133,473,122,439,113,386,105,319,100,245,99,171,100,104,105,51,113,17,122,5,133,17,144,51,153,104,161,171,166,245,167,319,166,386,161,439,153,473,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#a9939405a11beba6f434c44eb98d428c1" title="Gets the current ticks." alt="" coords="889,40,881,29,858,20,822,12,777,7,726,5,676,7,631,12,595,20,572,29,564,40,572,50,595,60,631,68,676,72,726,74,777,72,822,68,858,60,881,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,102,590,63,591,69,391,108"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#a1ef67e5defb6d01ff7f19292537210d1" title="Checks if the cooldown is paused." alt="" coords="889,133,881,122,858,113,822,105,777,100,726,99,676,100,631,105,595,113,572,122,564,133,572,144,595,153,631,161,676,166,726,167,777,166,822,161,858,153,881,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="486,130,549,130,549,136,486,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1panel_1_1_activity_panel.html#a7ffba562a8efc282cfbd57985eba70ef" title="Sends all the information for the activity panel." alt="" coords="920,250,910,240,883,230,840,223,786,218,726,216,667,218,613,223,570,230,543,240,533,250,543,261,570,271,613,278,667,283,726,285,786,283,840,278,883,271,910,261"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="370,161,597,216,595,221,369,166"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="636,220,635,208,651,198,682,192,727,189,781,193,811,203,810,208,780,198,726,195,682,197,653,203,640,210,641,220"/>
+</map>

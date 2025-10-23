@@ -1,0 +1,5 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar78696254bbf5d84b5770d4858ccc89e5 =
+[
+    [ "RangedAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar78696254bbf5d84b5770d4858ccc89e5.html#ab8287a33d2cb4c402809648be9d986ec", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar78696254bbf5d84b5770d4858ccc89e5.html#abe7fe789f6aa9d134b65b5cb138ad31c", null ]
+];

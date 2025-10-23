@@ -1,0 +1,5 @@
+<map id="com.runehive.net.ChannelHandler" name="com.runehive.net.ChannelHandler">
+<area shape="poly" id="Node000001" title="A SimpleChannelInboundHandler implementation for re&#45;routing channel&#45;events to its bound Session." alt="" coords="328,157,320,146,299,136,267,129,226,124,180,122,135,124,94,129,61,136,40,146,33,157,40,167,61,177,94,184,135,189,180,191,226,189,267,184,299,177,320,167"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="355,40,347,29,322,20,283,12,234,7,180,5,126,7,77,12,39,20,14,29,5,40,14,50,39,60,77,68,126,72,180,74,234,72,283,68,322,60,347,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,90,183,122,178,122,178,90"/>
+</map>

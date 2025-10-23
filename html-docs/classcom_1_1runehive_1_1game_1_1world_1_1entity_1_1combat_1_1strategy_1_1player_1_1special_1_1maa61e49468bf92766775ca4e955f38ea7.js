@@ -1,0 +1,15 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1maa61e49468bf92766775ca4e955f38ea7 =
+[
+    [ "EldritchNightmareStaff", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1maa61e49468bf92766775ca4e955f38ea7.html#a9d7b6326aa31c293be39e64d6694939f", null ],
+    [ "get", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1maa61e49468bf92766775ca4e955f38ea7.html#a7cb48480072b85d4c5a9d4bed40873f1", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1maa61e49468bf92766775ca4e955f38ea7.html#a72ba10e27ff93b4cf70d0cc396b37b7f", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1maa61e49468bf92766775ca4e955f38ea7.html#a9c498afdb4fa2b47f6b1b48b3d1b9aec", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1maa61e49468bf92766775ca4e955f38ea7.html#ab9590edf5ef04521960449add808592e", null ],
+    [ "hitsplat", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1maa61e49468bf92766775ca4e955f38ea7.html#ac9017a65090cfc0d87387a9447e10bdf", null ],
+    [ "modifyAccuracy", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1maa61e49468bf92766775ca4e955f38ea7.html#a92c1b254b07e1f1970bfba63536b1af0", null ],
+    [ "modifyDamage", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1maa61e49468bf92766775ca4e955f38ea7.html#a41076f48cbaef5db215317b214629124", null ],
+    [ "ANIMATION", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1maa61e49468bf92766775ca4e955f38ea7.html#a1af8527ec3b204322042c931b1e913ee", null ],
+    [ "DEFENDER_GRAPHIC", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1maa61e49468bf92766775ca4e955f38ea7.html#a9e9a97ca25a86c35ab3495e3477e12bf", null ],
+    [ "GRAPHIC", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1maa61e49468bf92766775ca4e955f38ea7.html#aaa556a76ded9cb9480b60ef24b5be203", null ],
+    [ "INSTANCE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1maa61e49468bf92766775ca4e955f38ea7.html#a12b08e2311ab51a96f0e2b64b4b859bf", null ]
+];

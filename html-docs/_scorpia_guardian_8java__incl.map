@@ -1,0 +1,9 @@
+<map id="java/com/runehive/game/world/entity/combat/strategy/npc/boss/scorpia/ScorpiaGuardian.java" name="java/com/runehive/game/world/entity/combat/strategy/npc/boss/scorpia/ScorpiaGuardian.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1025,53,1014,38,984,25,936,14,876,8,810,5,743,8,683,14,635,25,605,38,594,53,605,68,635,81,683,92,743,99,810,101,876,99,936,92,984,81,1014,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="563,183,549,173,510,163,448,156,370,151,284,149,198,151,120,156,59,163,19,173,5,183,19,194,59,204,120,211,198,216,284,218,370,216,448,211,510,204,549,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="667,92,423,151,422,146,665,87"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="1032,183,1022,177,990,171,941,166,878,163,810,162,741,163,678,166,629,171,597,177,587,183,597,190,629,196,678,200,741,203,810,204,878,203,941,200,990,196,1022,190"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="812,102,812,147,807,147,807,102"/>
+<area shape="poly" id="Node000004" title=" " alt="" coords="1542,183,1530,177,1495,171,1442,166,1374,163,1299,162,1224,163,1156,166,1102,171,1068,177,1056,183,1068,190,1102,196,1156,200,1224,203,1299,204,1374,203,1442,200,1495,196,1530,190"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="948,88,1211,156,1210,162,946,93"/>
+</map>

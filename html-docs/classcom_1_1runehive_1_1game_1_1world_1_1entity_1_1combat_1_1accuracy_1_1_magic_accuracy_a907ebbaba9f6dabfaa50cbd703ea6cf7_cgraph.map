@@ -1,0 +1,13 @@
+<map id="com.runehive.game.world.entity.combat.accuracy.MagicAccuracy.getAttackRoll" name="com.runehive.game.world.entity.combat.accuracy.MagicAccuracy.getAttackRoll">
+<area shape="poly" id="Node000001" title=" " alt="" coords="532,133,519,122,482,113,423,105,350,100,269,99,187,100,114,105,56,113,18,122,5,133,18,144,56,153,114,161,187,166,269,167,350,166,423,161,482,153,519,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_magic_accuracy.html#a2f0ed4c48685f795842fd899fe8f5858" title=" " alt="" coords="1106,40,1094,29,1056,20,998,12,925,7,843,5,762,7,688,12,630,20,593,29,580,40,593,50,630,60,688,68,762,72,843,74,925,72,998,68,1056,60,1094,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="435,103,661,67,662,72,436,109"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_magic_accuracy.html#a9bc3d8d9dc95d31697d2b1fa8232595e" title=" " alt="" coords="1106,133,1094,122,1056,113,998,105,925,100,843,99,762,100,688,105,630,113,593,122,580,133,593,144,630,153,688,161,762,166,843,167,925,166,998,161,1056,153,1094,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="532,130,564,130,564,136,532,136"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_magic_accuracy.html#ac681b25accf9e35bd3ca4e9ee6243437" title=" " alt="" coords="1106,226,1094,216,1056,206,998,199,925,194,843,192,762,194,688,199,630,206,593,216,580,226,593,237,630,247,688,254,762,259,843,261,925,259,998,254,1056,247,1094,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="436,158,662,194,661,200,435,163"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a15c70b1ab880b5e8dab6a8a3006df952" title=" " alt="" coords="1591,40,1581,29,1552,20,1508,12,1452,7,1389,5,1327,7,1271,12,1227,20,1198,29,1188,40,1198,50,1227,60,1271,68,1327,72,1389,74,1452,72,1508,68,1552,60,1581,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1107,37,1173,37,1173,42,1107,42"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer_book.html#ab410a6704bdd57b8f722a17f2d874a93" title="Checks if all given prayers are active." alt="" coords="1624,226,1613,216,1580,206,1528,199,1462,194,1389,192,1317,194,1251,199,1199,206,1166,216,1154,226,1166,237,1199,247,1251,254,1317,259,1389,261,1462,259,1528,254,1580,247,1613,237"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1107,224,1139,224,1139,229,1107,229"/>
+</map>

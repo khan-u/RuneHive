@@ -1,0 +1,6 @@
+<map id="com.runehive.content.activity.inferno.InfernoCavesListener.onDeath" name="com.runehive.content.activity.inferno.InfernoCavesListener.onDeath">
+<area shape="poly" id="Node000001" title=" " alt="" coords="405,64,395,53,366,44,322,36,267,31,205,29,143,31,88,36,43,44,15,53,5,64,15,74,43,84,88,92,143,96,205,98,267,96,322,92,366,84,395,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity_listener.html#a7ab2bd0ef551644eae0bd6fc3644b755" title=" " alt="" coords="777,64,769,53,746,44,710,36,665,31,615,29,565,31,519,36,484,44,461,53,453,64,461,74,484,84,519,92,565,96,615,98,665,96,710,92,746,84,769,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="405,61,437,61,437,66,405,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="537,33,537,21,551,11,576,5,615,3,662,6,687,16,686,21,661,12,615,8,577,10,553,16,542,24,542,33"/>
+</map>

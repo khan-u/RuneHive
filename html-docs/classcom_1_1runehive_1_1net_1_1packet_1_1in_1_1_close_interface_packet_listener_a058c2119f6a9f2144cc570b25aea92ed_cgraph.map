@@ -1,0 +1,10 @@
+<map id="com.runehive.net.packet.in.CloseInterfacePacketListener.handlePacket" name="com.runehive.net.packet.in.CloseInterfacePacketListener.handlePacket">
+<area shape="poly" id="Node000001" title="Handles the packet that has just been received." alt="" coords="405,110,395,96,366,82,322,72,267,65,205,63,143,65,88,72,43,82,15,96,5,110,15,125,43,139,88,149,143,156,205,158,267,156,322,149,366,139,395,125"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_interface_manager.html#ab004f0e8cea2bce0b57cd15b35ca0fbe" title=" " alt="" coords="921,110,910,100,876,90,825,83,759,78,687,76,615,78,549,83,497,90,464,100,453,110,464,121,497,131,549,138,615,143,687,145,759,143,825,138,876,131,910,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="405,108,437,108,437,113,405,113"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_interface_manager.html#a65d407a9697f338303700d4eca5cc7dc" title="Clears the player&#39;s screen." alt="" coords="1438,64,1426,53,1393,44,1341,36,1276,31,1203,29,1131,31,1066,36,1014,44,981,53,969,64,981,74,1014,84,1066,92,1131,96,1203,98,1276,96,1341,92,1393,84,1426,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="887,90,987,81,988,86,888,95"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_interface_manager.html#abeef1b9c5738fda1822c862657bb1383" title="Checks if a certain interface is enter." alt="" coords="1438,157,1426,146,1393,137,1341,129,1276,124,1203,123,1131,124,1066,129,1014,137,981,146,969,157,981,168,1014,177,1066,185,1131,190,1203,191,1276,190,1341,185,1393,177,1426,168"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="888,126,988,135,987,140,887,131"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="1105,32,1107,20,1124,11,1156,5,1203,3,1262,6,1294,15,1293,21,1261,11,1203,8,1157,10,1126,16,1111,23,1111,32"/>
+</map>

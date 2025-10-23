@@ -1,0 +1,10 @@
+<map id="com.runehive.game.world.pathfinding.TraversalMap.isTraversableSouthEast" name="com.runehive.game.world.pathfinding.TraversalMap.isTraversableSouthEast">
+<area shape="poly" id="Node000001" title="Tests if the specified position can be traversed south east." alt="" coords="419,110,409,100,379,90,334,83,276,78,212,76,148,78,91,83,45,90,15,100,5,110,15,121,45,131,91,138,148,143,212,145,276,143,334,138,379,131,409,121"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1_traversal_map.html#a73e4a15199bbceb5e9e979ec6140689a" title="Checks whether or not the specified flag is not active on the specified position." alt="" coords="879,110,869,100,839,90,794,83,736,78,673,76,609,78,552,83,506,90,477,100,467,110,477,121,506,131,552,138,609,143,673,145,736,143,794,138,839,131,869,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="419,108,451,108,451,113,419,113"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_manager.html#a47cc7e1ea2d7610c5d496d5b659c7d53" title="Gets a region by position." alt="" coords="1291,64,1282,53,1256,44,1216,36,1165,31,1109,29,1052,31,1002,36,962,44,936,53,927,64,936,74,962,84,1002,92,1052,96,1109,98,1165,96,1216,92,1256,84,1282,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="847,89,934,80,935,85,847,94"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#af3702492a0bfe700e150763e8e976efe" title=" " alt="" coords="1256,157,1249,146,1228,137,1195,129,1154,124,1109,123,1063,124,1022,129,990,137,969,146,961,157,969,168,990,177,1022,185,1063,190,1109,191,1154,190,1195,185,1228,177,1249,168"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="847,126,959,138,958,144,847,132"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="1026,32,1026,21,1041,11,1068,5,1109,3,1158,6,1185,16,1184,21,1157,11,1109,8,1069,10,1043,16,1031,23,1031,33"/>
+</map>

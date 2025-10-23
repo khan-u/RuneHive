@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_venenatis_1_1_prayer_drain =
+[
+    [ "PrayerDrain", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_venenatis_1_1_prayer_drain.html#acc68708df19e3149ac923462dbbb44c0", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_venenatis_1_1_prayer_drain.html#a805c02eaaedb616b409b699ea598e696", null ],
+    [ "hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_venenatis_1_1_prayer_drain.html#addf1030670062c3b582d00b40386de67", null ]
+];

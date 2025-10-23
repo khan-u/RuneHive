@@ -1,0 +1,7 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_dragonfire_attack =
+[
+    [ "DragonfireAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_dragonfire_attack.html#acfaa0735d203fae03934a1114aa8deed", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_dragonfire_attack.html#a4bb0d5734e499f8c97c2120002ffc5fa", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_dragonfire_attack.html#ae71ae5bd2517e78ae9ade59a9cdba1e6", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_dragonfire_attack.html#acbe5b67ab15b8300a627d133d63e8898", null ]
+];

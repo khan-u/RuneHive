@@ -1,0 +1,5 @@
+<map id="dev.advo.fs.dispatch.ChannelRequest&lt; T &gt;" name="dev.advo.fs.dispatch.ChannelRequest&lt; T &gt;">
+<area shape="poly" id="Node000001" title="A specialised request which contains a channel as well as the request object itself." alt="" coords="340,157,332,146,309,136,273,129,228,124,177,122,127,124,82,129,46,136,22,146,15,157,22,167,46,177,82,184,127,189,177,191,228,189,273,184,309,177,332,167"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="349,40,341,29,317,20,279,12,231,7,177,5,124,7,76,12,38,20,14,29,5,40,14,50,38,60,76,68,124,72,177,74,231,72,279,68,317,60,341,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,90,180,122,175,122,175,90"/>
+</map>

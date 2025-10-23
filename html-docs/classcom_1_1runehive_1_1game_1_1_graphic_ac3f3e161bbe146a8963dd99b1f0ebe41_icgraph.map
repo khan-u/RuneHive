@@ -1,0 +1,5 @@
+<map id="com.runehive.game.Graphic.compareTo" name="com.runehive.game.Graphic.compareTo">
+<area shape="poly" id="Node000001" title=" " alt="" coords="886,40,875,33,845,27,797,23,737,20,671,19,604,20,544,23,497,27,466,33,455,40,466,46,497,52,544,57,604,60,671,61,737,60,797,57,845,52,875,46"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a0e326b4fec07c597f223bd7b98af98a3" title="Plays a graphic." alt="" coords="407,40,398,29,369,20,325,12,269,7,206,5,144,7,88,12,44,20,15,29,5,40,15,50,44,60,88,68,144,72,206,74,269,72,325,68,369,60,398,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,42,408,42,408,37,440,37"/>
+</map>

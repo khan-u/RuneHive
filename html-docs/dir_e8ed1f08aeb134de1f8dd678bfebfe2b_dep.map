@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/skill/impl/farming" name="java/com/runehive/content/skill/impl/farming">
+<area shape="poly" id="node2" href="dir_7a4826af0a85af01a470ce320ecc469e.html" title="patches" alt="" coords="245,85,243,78,235,73,223,68,208,65,191,64,174,65,159,68,146,73,139,78,136,85,139,91,146,97,159,102,174,105,191,106,208,105,223,102,235,97,243,91"/>
+<area shape="poly" id="node3" href="dir_8493b121f3a1c1c94fa6a459594b4bde.html" title="plants" alt="" coords="360,85,358,78,351,73,341,68,329,65,315,64,301,65,288,68,278,73,271,78,269,85,271,91,278,97,288,102,301,105,315,106,329,105,341,102,351,97,358,91"/>
+<area shape="poly" id="node4" href="dir_68c50e03b7b964b19dd0de084ec98e8f.html" title="zones" alt="" coords="475,85,473,78,466,73,456,68,443,65,429,64,415,65,403,68,393,73,386,78,384,85,386,91,393,97,403,102,415,105,429,106,443,105,456,102,466,97,473,91"/>
+<area shape="rect" id="clust2" href="dir_e8ed1f08aeb134de1f8dd678bfebfe2b.html" alt="" coords="27,53,485,117"/>
+<area shape="rect" id="clust1" href="dir_008527c31759837636c022d137266fe6.html" title="impl" alt="" coords="16,16,496,127"/>
+</map>

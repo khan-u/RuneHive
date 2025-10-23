@@ -1,0 +1,7 @@
+<map id="com.runehive.game.task.Task.baseExecute" name="com.runehive.game.task.Task.baseExecute">
+<area shape="poly" id="Node000001" title=" " alt="" coords="388,66,378,56,351,46,309,38,256,34,196,32,137,34,84,38,42,46,15,56,5,66,15,77,42,87,84,94,137,99,196,101,256,99,309,94,351,87,378,77"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a709b6996621fb24090a29fca83e77b81" title="A function representing the unit of work that will be carried out." alt="" coords="848,26,838,20,808,14,763,9,705,6,642,5,578,6,521,9,475,14,446,20,436,26,446,33,475,39,521,43,578,46,642,47,705,46,763,43,808,39,838,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="368,48,469,39,470,44,369,54"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#aa373287b7c5574a525654a6ca7cec5fc" title=" " alt="" coords="823,106,814,96,788,86,748,78,698,74,642,72,586,74,535,78,495,86,469,96,460,106,469,117,495,127,535,134,586,139,642,141,698,139,748,134,788,127,814,117"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="369,79,462,88,462,93,368,84"/>
+</map>

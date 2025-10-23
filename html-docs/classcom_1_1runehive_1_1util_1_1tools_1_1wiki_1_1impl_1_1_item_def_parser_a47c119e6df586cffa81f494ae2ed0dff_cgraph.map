@@ -1,0 +1,5 @@
+<map id="com.runehive.util.tools.wiki.impl.ItemDefParser.finish" name="com.runehive.util.tools.wiki.impl.ItemDefParser.finish">
+<area shape="poly" id="Node000001" title=" " alt="" coords="359,40,351,29,326,20,286,12,237,7,182,5,128,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,128,72,182,74,237,72,286,68,326,60,351,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1tools_1_1wiki_1_1parser_1_1_wiki_table_parser.html#a26d31d7cd03506c514e9344f765a94af" title="Writes the parsed wiki dump to a json file in ./data/wiki named as the name parameter." alt="" coords="781,40,772,29,745,20,704,12,652,7,594,5,537,7,484,12,443,20,417,29,407,40,417,50,443,60,484,68,537,72,594,74,652,72,704,68,745,60,772,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="360,37,392,37,392,42,360,42"/>
+</map>

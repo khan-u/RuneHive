@@ -1,0 +1,7 @@
+<map id="com.runehive.util.parser.old.EquipmentParser.Loader" name="com.runehive.util.parser.old.EquipmentParser.Loader">
+<area shape="poly" id="Node000001" title=" " alt="" coords="338,299,331,288,308,279,274,271,230,266,182,264,134,266,91,271,56,279,34,288,27,299,34,309,56,319,91,327,134,331,182,333,230,331,274,327,308,319,331,309"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_skill_requirement.html" title="The skill&#45;related requirement." alt="" coords="359,158,351,147,326,138,286,130,237,125,182,123,128,125,78,130,39,138,14,147,5,158,14,169,39,178,78,186,128,191,182,192,237,191,286,186,326,178,351,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,208,185,264,180,264,180,208"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1items_1_1_requirable.html" title="The requirable itemcontainer that allows any implementing class the ability to become a requirement." alt="" coords="359,40,351,29,326,20,286,12,237,7,182,5,128,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,128,72,182,74,237,72,286,68,326,60,351,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="185,90,185,123,180,123,180,90"/>
+</map>

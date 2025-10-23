@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.in.PrivacyOptionPacketListener" name="com.runehive.net.packet.in.PrivacyOptionPacketListener">
+<area shape="poly" id="Node000001" title=" " alt="" coords="327,157,319,146,296,136,261,129,216,124,166,122,116,124,72,129,36,136,13,146,5,157,13,167,36,177,72,184,116,189,166,191,216,189,261,184,296,177,319,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1net_1_1packet_1_1_packet_listener.html" title="The itemcontainer that allows any implementing {@Packet}s." alt="" coords="306,40,299,29,280,20,249,12,209,7,166,5,123,7,84,12,53,20,33,29,26,40,33,50,53,60,84,68,123,72,166,74,209,72,249,68,280,60,299,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,90,169,122,163,122,163,90"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="com.runehive.content.shootingstar.ShootingStarData.getXPDrop" name="com.runehive.content.shootingstar.ShootingStarData.getXPDrop">
+<area shape="poly" id="Node000001" title="The xp the player gets for the current star." alt="" coords="1662,40,1652,29,1625,20,1584,12,1531,7,1473,5,1414,7,1361,12,1320,20,1293,29,1284,40,1293,50,1320,60,1361,68,1414,72,1473,74,1531,72,1584,68,1625,60,1652,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1shootingstar_1_1_shooting_star_data.html#a53cb111ce74045aac1ff3127518250c1" title="Handles decreasing the dust for a star." alt="" coords="1236,40,1226,29,1199,20,1158,12,1105,7,1046,5,988,7,935,12,894,20,867,29,857,40,867,50,894,60,935,68,988,72,1046,74,1105,72,1158,68,1199,60,1226,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1268,42,1236,42,1236,37,1268,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1shootingstar_1_1_shooting_star_action.html#adb473a4c726a27a8b30e8eb63e3020c3" title=" " alt="" coords="809,40,800,29,773,20,732,12,679,7,620,5,562,7,509,12,468,20,441,29,431,40,441,50,468,60,509,68,562,72,620,74,679,72,732,68,773,60,800,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="842,42,810,42,810,37,842,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1shootingstar_1_1_shooting_star_action.html#ab36cd94caf0cbf2e6f3743190de8f904" title="A function representing the unit of work that will be carried out." alt="" coords="383,40,374,29,347,20,305,12,253,7,194,5,136,7,83,12,41,20,15,29,5,40,15,50,41,60,83,68,136,72,194,74,253,72,305,68,347,60,374,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="416,42,384,42,384,37,416,37"/>
+</map>

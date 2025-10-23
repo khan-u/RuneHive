@@ -1,0 +1,14 @@
+<map id="com.runehive.content.skill.impl.slayer.SlayerOfferings.OfferingData.OfferingData" name="com.runehive.content.skill.impl.slayer.SlayerOfferings.OfferingData.OfferingData">
+<area shape="poly" id="Node000001" title="Constructs a new OfferingData." alt="" coords="2709,76,2698,65,2666,56,2616,48,2553,43,2483,41,2413,43,2350,48,2300,56,2268,65,2257,76,2268,86,2300,96,2350,104,2413,108,2483,110,2553,108,2616,104,2666,96,2698,86"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_slayer_offerings_1_1_offering_data.html#a814b0e516eaa2dd8443150a934b9ef31" title=" " alt="" coords="2209,76,2199,65,2170,56,2125,48,2068,43,2005,41,1941,43,1884,48,1839,56,1810,65,1800,76,1810,86,1839,96,1884,104,1941,108,2005,110,2068,108,2125,104,2170,96,2199,86"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2242,78,2210,78,2210,73,2242,73"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_slayer_offerings.html#aa8f8c694c45ac80211a7b2296dbcd5b0" title=" " alt="" coords="1752,40,1742,29,1713,20,1668,12,1611,7,1548,5,1484,7,1427,12,1382,20,1353,29,1343,40,1353,50,1382,60,1427,68,1484,72,1548,74,1611,72,1668,68,1713,60,1742,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1803,63,1734,57,1734,52,1804,57"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_slayer_offerings.html#a5094ec2cd6dccfc8a6275c3b8416080b" title=" " alt="" coords="1295,76,1285,65,1256,56,1211,48,1154,43,1090,41,1027,43,970,48,925,56,896,65,886,76,896,86,925,96,970,104,1027,108,1090,110,1154,108,1211,104,1256,96,1285,86"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="1792,88,1752,89,1548,92,1343,89,1288,88,1289,82,1343,84,1548,87,1752,84,1791,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1346,58,1277,64,1277,58,1346,53"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1impl_1_1_nieve_dialogue.html#a28773f293435d963472bdfcbbd3e1efa" title=" " alt="" coords="838,76,828,65,800,56,757,48,702,43,642,41,581,43,526,48,483,56,455,65,446,76,455,86,483,96,526,104,581,108,642,110,702,108,757,104,800,96,828,86"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="870,78,838,78,838,73,870,73"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1impl_1_1_nieve_dialogue.html#a6996439e3d4bd3504a2e2e9da7c51dec" title="Sends a player a dialogue." alt="" coords="398,76,388,65,360,56,317,48,262,43,201,41,141,43,86,48,43,56,15,65,5,76,15,86,43,96,86,104,141,108,201,110,262,108,317,104,360,96,388,86"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="430,78,398,78,398,73,430,73"/>
+</map>

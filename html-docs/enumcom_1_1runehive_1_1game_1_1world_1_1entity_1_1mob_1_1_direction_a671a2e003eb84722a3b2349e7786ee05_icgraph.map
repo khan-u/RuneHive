@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.Direction.valid" name="com.runehive.game.world.entity.mob.Direction.valid">
+<area shape="poly" id="Node000001" title=" " alt="" coords="965,40,955,29,927,20,882,12,826,7,764,5,702,7,646,12,601,20,573,29,563,40,573,50,601,60,646,68,702,72,764,74,826,72,882,68,927,60,955,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1path_1_1impl_1_1_a_star_path_finder.html#a7c75d6f10ec8a9ecb86fead1b5faf902" title="Performs the path finding calculations to find the path using the A* algorithm." alt="" coords="515,40,502,29,466,20,410,12,339,7,260,5,181,7,110,12,54,20,18,29,5,40,18,50,54,60,110,68,181,72,260,74,339,72,410,68,466,60,502,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="547,42,515,42,515,37,547,37"/>
+</map>

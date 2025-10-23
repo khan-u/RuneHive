@@ -1,0 +1,18 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen =
+[
+    [ "LightingRain", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_lighting_rain.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_lighting_rain" ],
+    [ "Magic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_magic.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_magic" ],
+    [ "Melee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_melee.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_melee" ],
+    [ "TeleGrab", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_tele_grab.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_tele_grab" ],
+    [ "Derwen", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen.html#ada2ad617d58c0085d353773a85f1e4d2", null ],
+    [ "canAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen.html#ad3427b8f9137ba6304503e9d3ec8c3d3", null ],
+    [ "finishOutgoing", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen.html#a1a26a53033f654d3885603ec43ed94d5", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen.html#a74fa28b8e84c3e64e1cfbf8534300519", null ],
+    [ "FULL_STRATEGIES", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen.html#afd9280e9b3514ee0b28addd4c4547281", null ],
+    [ "LIGHTNING_RAIN", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen.html#a206294b871c2af9933ea6aa59201bd7d", null ],
+    [ "MAGIC", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen.html#a38687a8bc1368565794726c4e9de9807", null ],
+    [ "MAGIC_STRATEGIES", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen.html#af66dd7e6198e52bb05c67bd3d5674379", null ],
+    [ "MELEE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen.html#a0f0b42c99319a5e119e1b32c24db7ae4", null ],
+    [ "NON_MELEE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen.html#a0c3ed097ddb1e7a3265292449ff99f55", null ],
+    [ "TELE_GRAB", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen.html#a04aea4a88ff38e66ac222185913d634c", null ]
+];

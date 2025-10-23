@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.recipefordisaster.RecipeForDisaster.RecipeForDisaster" name="com.runehive.content.activity.impl.recipefordisaster.RecipeForDisaster.RecipeForDisaster">
+<area shape="poly" id="Node000001" title="Constructs a new SequencedMinigame object." alt="" coords="1140,40,1127,29,1088,20,1028,12,953,7,869,5,785,7,709,12,649,20,610,29,597,40,610,50,649,60,709,68,785,72,869,74,953,72,1028,68,1088,60,1127,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1recipefordisaster_1_1_recipe_for_disaster.html#a124900dc9fa0738d12198f54e4451cc8" title="Handles creating a recipe for disaster activity." alt="" coords="549,40,536,29,497,20,437,12,361,7,277,5,193,7,117,12,57,20,19,29,5,40,19,50,57,60,117,68,193,72,277,74,361,72,437,68,497,60,536,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="581,42,549,42,549,37,581,37"/>
+</map>

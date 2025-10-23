@@ -1,0 +1,6 @@
+<map id="com.runehive.content.activity.impl.pestcontrol.PestControlGame.PestControlNode.start" name="com.runehive.content.activity.impl.pestcontrol.PestControlGame.PestControlNode.start">
+<area shape="poly" id="Node000001" title="Starts the next activity stage." alt="" coords="494,50,482,40,447,30,393,22,325,18,250,16,174,18,106,22,52,30,17,40,5,50,17,61,52,71,106,78,174,83,250,85,325,83,393,78,447,71,482,61"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a0961417523881e9a3bef6e9da541942a" title=" " alt="" coords="886,50,877,44,853,38,815,33,767,30,714,29,661,30,613,33,575,38,550,44,542,50,550,57,575,63,613,67,661,70,714,71,767,70,815,67,853,63,877,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="494,48,526,48,526,53,494,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="633,33,624,21,636,11,666,5,714,3,769,6,798,14,796,19,768,11,714,8,667,10,638,16,629,22,637,29"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="com.runehive.content.skill.impl.crafting.Craftable.getCraftableItems" name="com.runehive.content.skill.impl.crafting.Craftable.getCraftableItems">
+<area shape="poly" id="Node000001" title="Gets the craftable items." alt="" coords="1371,180,1361,169,1331,160,1284,152,1225,147,1160,145,1094,147,1035,152,988,160,958,169,948,180,958,190,988,200,1035,208,1094,212,1160,214,1225,212,1284,208,1331,200,1361,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#a814c36a1cec7d58e856ab5e5de78eab5" title=" " alt="" coords="900,133,890,122,860,113,813,105,754,100,688,99,623,100,564,105,517,113,487,122,477,133,487,144,517,153,564,161,623,166,688,167,754,166,813,161,860,153,890,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="962,163,870,154,870,148,963,158"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#a101ad0220984f206671ae0b477ec1c69" title=" " alt="" coords="900,226,890,216,860,206,813,199,754,194,688,192,623,194,564,199,517,206,487,216,477,226,487,237,517,247,564,254,623,259,688,261,754,259,813,254,860,247,890,237"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="963,202,870,211,870,206,962,197"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#acdc6407666d305a07a73c8827c05a15a" title=" " alt="" coords="429,40,418,29,388,20,341,12,282,7,217,5,152,7,93,12,46,20,16,29,5,40,16,50,46,60,93,68,152,72,217,74,282,72,341,68,388,60,418,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="537,106,353,69,354,64,538,101"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#acbabb58013cca74f46d233e6fa85d117" title=" " alt="" coords="429,133,418,122,388,113,341,105,282,100,217,99,152,100,93,105,46,113,16,122,5,133,16,144,46,153,93,161,152,166,217,167,282,166,341,161,388,153,418,144"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="468,145,422,145,422,139,468,139"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="437,121,483,121,483,127,437,127"/>
+</map>

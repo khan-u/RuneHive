@@ -1,0 +1,12 @@
+<map id="com.runehive.content.activity.inferno.Inferno.update" name="com.runehive.content.activity.inferno.Inferno.update">
+<area shape="poly" id="Node000001" title="The update method." alt="" coords="405,173,395,162,366,153,322,145,267,140,205,139,143,140,88,145,43,153,15,162,5,173,15,184,43,193,88,201,143,206,205,207,267,206,322,201,366,193,395,184"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a490026d68b72e2dea391680a7d49a844" title="Formats digits for integers." alt="" coords="811,40,803,29,779,20,743,12,697,7,646,5,595,7,549,12,512,20,489,29,481,40,489,50,512,60,549,68,595,72,646,74,697,72,743,68,779,60,803,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,139,452,84,516,66,518,71,453,89,290,144"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a493263be718b90fac4e54a5fd5f960c4" title="Gets a percentage amount." alt="" coords="795,133,788,122,767,113,734,105,692,100,646,99,600,100,558,105,525,113,504,122,496,133,504,144,525,153,558,161,600,166,646,167,692,166,734,161,767,153,788,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="382,154,491,144,491,150,383,160"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a9d880a8e3188a9193421cc25bc0eef46" title="Gets the current server time and formats it." alt="" coords="820,213,812,207,787,201,748,196,700,193,646,192,592,193,544,196,505,201,480,207,472,213,480,220,505,225,544,230,592,233,646,234,700,233,748,230,787,225,812,220"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="383,187,490,196,489,202,382,192"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1activity_1_1panel_1_1_activity_panel.html#a7ffba562a8efc282cfbd57985eba70ef" title="Sends all the information for the activity panel." alt="" coords="839,317,830,306,802,297,759,289,706,284,646,283,586,284,532,289,490,297,462,306,453,317,462,328,490,337,532,345,586,350,646,351,706,350,759,345,802,337,830,328"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="301,201,538,279,537,284,299,206"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="562,286,563,274,577,264,605,258,646,256,696,260,723,269,722,274,695,265,646,261,606,264,580,269,567,277,568,286"/>
+</map>

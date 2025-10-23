@@ -1,0 +1,7 @@
+<map id="com.runehive.game.task.impl.SkullRemoveTask.tick" name="com.runehive.game.task.impl.SkullRemoveTask.tick">
+<area shape="poly" id="Node000001" title=" " alt="" coords="334,40,326,29,303,20,266,12,220,7,170,5,119,7,73,12,37,20,13,29,5,40,13,50,37,60,73,68,119,72,170,74,220,72,266,68,303,60,326,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a2fc8d15b55a8f0a55a20c0b78f77007c" title="Cancels all subsequent executions." alt="" coords="781,40,771,33,743,27,699,23,643,20,582,19,520,20,464,23,420,27,392,33,382,40,392,46,420,52,464,57,520,60,582,61,643,60,699,57,743,52,771,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="334,37,366,37,366,42,334,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#aef9b4245ff3b594dd844c44da99d51a3" title="A function executed on cancellation." alt="" coords="1187,40,1179,29,1153,20,1114,12,1064,7,1008,5,953,7,903,12,863,20,838,29,829,40,838,50,863,60,903,68,953,72,1008,74,1064,72,1114,68,1153,60,1179,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="781,37,814,37,814,42,781,42"/>
+</map>

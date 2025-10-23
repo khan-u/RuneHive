@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.object.CustomGameObject.removeFromRegion" name="com.runehive.game.world.object.CustomGameObject.removeFromRegion">
+<area shape="poly" id="Node000001" title="Removes this entity from the specified region." alt="" coords="1289,160,1278,149,1247,140,1199,132,1137,127,1069,125,1001,127,940,132,891,140,860,149,849,160,860,170,891,180,940,188,1001,193,1069,194,1137,193,1199,188,1247,180,1278,170"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_custom_game_object.html#aa15bdd9916ec99bfbc4ea7d249644a19" title="Unregisters an entity from the World." alt="" coords="801,160,792,149,766,140,727,132,676,127,620,125,565,127,514,132,474,140,449,149,440,160,449,170,474,180,514,188,565,193,620,194,676,193,727,188,766,180,792,170"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="833,163,801,163,801,157,833,157"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1ai_1_1_a_i_dialogue_handler.html#a9af7dee35fb38f105336f4cce35e794c" title=" " alt="" coords="392,53,382,38,355,25,312,14,258,8,199,5,139,8,85,14,42,25,15,38,5,53,15,68,42,81,85,92,139,99,199,101,258,99,312,92,355,81,382,68"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="495,131,334,90,336,85,496,126"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_custom_game_object.html#a0d104be79fb91b6a76e0d8c276160593" title=" " alt="" coords="379,160,370,149,345,140,305,132,254,127,199,125,143,127,92,132,53,140,27,149,18,160,27,170,53,180,92,188,143,193,199,194,254,193,305,188,345,180,370,170"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="425,163,380,163,380,157,425,157"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_custom_game_object.html#ad0c0d6547f6ff6d6d23f35699c87df88" title=" " alt="" coords="379,253,370,243,345,233,305,225,254,220,199,219,143,220,92,225,53,233,27,243,18,253,27,264,53,273,92,281,143,286,199,288,254,286,305,281,345,273,370,264"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="487,192,319,229,317,224,486,187"/>
+</map>

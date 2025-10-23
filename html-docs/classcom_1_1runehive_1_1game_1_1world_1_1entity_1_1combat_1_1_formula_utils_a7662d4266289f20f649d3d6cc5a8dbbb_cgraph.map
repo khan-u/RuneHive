@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.FormulaUtils.obbyArmour" name="com.runehive.game.world.entity.combat.FormulaUtils.obbyArmour">
+<area shape="poly" id="Node000001" title=" " alt="" coords="437,40,427,29,396,20,348,12,288,7,221,5,155,7,94,12,47,20,16,29,5,40,16,50,47,60,94,68,155,72,221,74,288,72,348,68,396,60,427,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a8acf6f1c920076daea6c80e5afbe3404" title="Determines if this container contains id." alt="" coords="949,40,938,29,905,20,854,12,789,7,717,5,646,7,581,12,529,20,497,29,485,40,497,50,529,60,581,68,646,72,717,74,789,72,854,68,905,60,938,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="438,37,469,37,469,42,438,42"/>
+</map>

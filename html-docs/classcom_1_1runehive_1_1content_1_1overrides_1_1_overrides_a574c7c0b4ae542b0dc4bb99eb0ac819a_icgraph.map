@@ -1,0 +1,17 @@
+<map id="com.runehive.content.overrides.Overrides.removeOverride" name="com.runehive.content.overrides.Overrides.removeOverride">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1969,86,1960,76,1935,66,1897,59,1848,54,1794,52,1740,54,1691,59,1652,66,1628,76,1619,86,1628,97,1652,107,1691,114,1740,119,1794,121,1848,119,1897,114,1935,107,1960,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#ac821f81fc48965f85b28d3f89f553352" title=" " alt="" coords="1571,40,1563,29,1538,20,1499,12,1450,7,1396,5,1342,7,1293,12,1255,20,1230,29,1221,40,1230,50,1255,60,1293,68,1342,72,1396,74,1450,72,1499,68,1538,60,1563,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1627,70,1547,60,1548,55,1628,64"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#a87acfc80422b27d673d0ef1d34978efa" title=" " alt="" coords="1571,133,1563,122,1538,113,1499,105,1450,100,1396,99,1342,100,1293,105,1255,113,1230,122,1221,133,1230,144,1255,153,1293,161,1342,166,1396,167,1450,166,1499,161,1538,153,1563,144"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1628,109,1548,118,1547,113,1627,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#abf0a4dda05eace6736b836313da7059d" title=" " alt="" coords="764,40,756,29,731,20,692,12,643,7,589,5,535,7,487,12,448,20,423,29,414,40,423,50,448,60,487,68,535,72,589,74,643,72,692,68,731,60,756,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1206,42,765,42,765,37,1206,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#aa8be30f3fce445d77dc8e590a8c9a545" title=" " alt="" coords="355,112,347,101,322,92,283,84,234,79,180,77,126,79,77,84,39,92,14,101,5,112,14,122,39,132,77,140,126,144,180,146,234,144,283,140,322,132,347,122"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="443,68,313,91,312,86,442,63"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#aff072f80491a0b99f492886a37b62af3" title=" " alt="" coords="1173,133,1165,122,1140,113,1101,105,1052,100,998,99,944,100,896,105,857,113,832,122,824,133,832,144,857,153,896,161,944,166,998,167,1052,166,1101,161,1140,153,1165,144"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1206,136,1174,136,1174,130,1206,130"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="809,131,354,119,354,114,809,126"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#a7a08d79defd71435ce299853059c462f" title=" " alt="" coords="776,184,766,173,740,164,699,156,647,151,589,149,532,151,480,156,439,164,412,173,403,184,412,194,439,204,480,212,532,216,589,218,647,216,699,212,740,204,766,194"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="834,156,746,167,745,162,834,151"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="438,160,312,138,313,132,439,155"/>
+</map>

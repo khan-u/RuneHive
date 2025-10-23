@@ -1,0 +1,11 @@
+<map id="com.runehive.fs.cache.decoder.AnimationDefinitionDecoder" name="com.runehive.fs.cache.decoder.AnimationDefinitionDecoder">
+<area shape="poly" id="Node000001" title="A class which parses animation definitions." alt="" coords="352,321,344,311,319,301,281,294,232,289,179,287,125,289,77,294,38,301,14,311,5,321,14,332,38,342,77,349,125,354,179,356,232,354,281,349,319,342,344,332"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="222,181,219,174,210,168,195,164,177,161,157,160,138,161,120,164,105,168,96,174,93,181,96,187,105,193,120,198,138,201,157,202,177,201,195,198,210,193,219,187"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,216,176,286,171,287,160,217"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1_file_system.html" title="Represents a file system of Caches and Archives." alt="" coords="546,181,538,170,517,160,484,153,442,148,396,146,350,148,308,153,275,160,254,170,247,181,254,191,275,201,308,208,350,213,396,215,442,213,484,208,517,201,538,191"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="335,224,231,290,228,286,332,219"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1_cache.html" title="Represents a Sector and Index cache." alt="" coords="381,40,373,33,350,27,314,23,268,20,217,19,167,20,121,23,85,27,62,33,54,40,62,46,85,52,121,57,167,60,217,61,268,60,314,57,350,52,373,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="257,68,356,145,353,149,254,72"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1archive_1_1_archive.html" title="Represents an archive within the Cache." alt="" coords="745,40,736,29,712,20,675,12,627,7,575,5,522,7,475,12,437,20,413,29,405,40,413,50,437,60,475,68,522,72,575,74,627,72,675,68,712,60,736,50"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="523,85,439,149,436,145,519,81"/>
+</map>

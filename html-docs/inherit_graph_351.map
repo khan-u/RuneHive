@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="poly" id="Node000000" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html" title="A Hit object holds the damage amount and hitsplat data." alt="" coords="495,40,483,33,448,27,394,23,326,20,250,19,175,20,106,23,52,27,17,33,5,40,17,46,52,52,106,57,175,60,250,61,326,60,394,57,448,52,483,46"/>
+<area shape="poly" id="Node000001" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_combat_hit.html" title="A wrapper for a Hit object, adding additional variables for hit and hitsplat delays." alt="" coords="1005,40,993,29,961,20,910,12,845,7,774,5,703,7,638,12,587,20,554,29,543,40,554,50,587,60,638,68,703,72,774,74,845,72,910,68,961,60,993,50"/>
+<area shape="poly" id="edge650_Node000000_Node000001" title=" " alt="" coords="511,37,542,37,542,42,511,42"/>
+</map>

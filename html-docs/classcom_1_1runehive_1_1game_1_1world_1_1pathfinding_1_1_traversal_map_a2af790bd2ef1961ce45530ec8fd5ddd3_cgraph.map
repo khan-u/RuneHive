@@ -1,0 +1,12 @@
+<map id="com.runehive.game.world.pathfinding.TraversalMap.markObject" name="com.runehive.game.world.pathfinding.TraversalMap.markObject">
+<area shape="poly" id="Node000001" title="Marks a GameObject with the specified attributes on the specified Position to the TraversalMap." alt="" coords="417,133,407,122,378,113,332,105,275,100,211,99,148,100,90,105,45,113,15,122,5,133,15,144,45,153,90,161,148,166,211,167,275,166,332,161,378,153,407,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1_traversal_map.html#ad640cb52b419921b71e984ae796ef4af" title="Marks the specified coordinates occupied by some object." alt="" coords="877,40,867,29,838,20,792,12,735,7,671,5,608,7,550,12,505,20,475,29,465,40,475,50,505,60,550,68,608,72,671,74,735,72,792,68,838,60,867,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="343,104,523,67,524,72,344,109"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1_traversal_map.html#ab9e0de1d8780593774974152f2e42765" title="Informs the region of an existing wall." alt="" coords="877,133,867,122,838,113,792,105,735,100,671,99,608,100,550,105,505,113,475,122,465,133,475,144,505,153,550,161,608,166,671,167,735,166,792,161,838,153,867,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="418,130,449,130,449,136,418,136"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1_traversal_map.html#acb9cebf6ef660b3f43b097013cd8d69d" title="Informs the region of an existing wall being removed." alt="" coords="877,226,867,216,838,206,792,199,735,194,671,192,608,194,550,199,505,206,475,216,465,226,475,237,505,247,550,254,608,259,671,261,735,259,792,254,838,247,867,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="344,157,524,194,523,199,343,162"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1_traversal_map.html#a9b155eeee0f84b0b97125e24a6302b60" title="Unsets the specified flag from the specified position." alt="" coords="1337,133,1327,122,1298,113,1252,105,1195,100,1131,99,1068,100,1010,105,965,113,935,122,925,133,935,144,965,153,1010,161,1068,166,1131,167,1195,166,1252,161,1298,153,1327,144"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="804,64,984,101,983,106,803,69"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="803,197,983,160,984,166,804,202"/>
+</map>

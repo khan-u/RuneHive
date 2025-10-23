@@ -1,0 +1,5 @@
+var _spritual_mage_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.godwar.SpritualMage", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar_1_1_spritual_mage.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar_1_1_spritual_mage" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.godwar.SpritualMage.MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar5b13e7b13210c2ffb7bee5025975024b.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar5b13e7b13210c2ffb7bee5025975024b" ]
+];

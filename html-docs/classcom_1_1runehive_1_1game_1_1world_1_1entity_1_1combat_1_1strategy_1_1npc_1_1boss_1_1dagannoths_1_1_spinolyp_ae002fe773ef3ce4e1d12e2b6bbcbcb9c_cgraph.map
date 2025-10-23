@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.dagannoths.Spinolyp.getAttackDelay" name="com.runehive.game.world.entity.combat.strategy.npc.boss.dagannoths.Spinolyp.getAttackDelay">
+<area shape="poly" id="Node000001" title=" " alt="" coords="741,40,723,29,671,20,590,12,487,7,373,5,260,7,157,12,76,20,23,29,5,40,23,50,76,60,157,68,260,72,373,74,487,72,590,68,671,60,723,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1definition_1_1_npc_definition.html#a522d31b2e71934158feea3352eb21b7f" title=" " alt="" coords="1331,40,1318,29,1280,20,1220,12,1144,7,1060,5,976,7,901,12,841,20,802,29,789,40,802,50,841,60,901,68,976,72,1060,74,1144,72,1220,68,1280,60,1318,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="742,37,773,37,773,42,742,42"/>
+</map>

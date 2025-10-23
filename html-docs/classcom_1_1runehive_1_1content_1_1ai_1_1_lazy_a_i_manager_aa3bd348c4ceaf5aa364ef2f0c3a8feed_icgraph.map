@@ -1,0 +1,7 @@
+<map id="com.runehive.content.ai.LazyAIManager.isInitialized" name="com.runehive.content.ai.LazyAIManager.isInitialized">
+<area shape="poly" id="Node000001" title=" " alt="" coords="794,86,786,76,765,66,731,59,688,54,641,52,594,54,551,59,517,66,495,76,488,86,495,97,517,107,551,114,594,119,641,121,688,119,731,114,765,107,786,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1cronjobs_1_1impl_1_1_open_a_i_relay_job.html#a5744b63e8de3da1ea1f224a7a7f9a996" title=" " alt="" coords="440,40,429,29,398,20,350,12,290,7,223,5,155,7,95,12,47,20,16,29,5,40,16,50,47,60,95,68,155,72,223,74,290,72,350,68,398,60,429,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="488,72,401,62,402,57,488,67"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1ai_1_1_a_i_dialogue_handler.html#a6e07507bba5cd2fbdbc57e0ce5d8ea6e" title="Process AI command input (called from command handler)" alt="" coords="434,133,424,122,394,113,347,105,288,100,223,99,157,100,98,105,51,113,21,122,11,133,21,144,51,153,98,161,157,166,223,167,288,166,347,161,394,153,424,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="488,106,399,116,398,111,488,101"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="com.runehive.game.task.TaskManager.cancel" name="com.runehive.game.task.TaskManager.cancel">
+<area shape="poly" id="Node000001" title="Cancels a task that has a specific attachment." alt="" coords="332,64,324,53,301,44,265,36,219,31,169,29,118,31,73,36,37,44,13,53,5,64,13,74,37,84,73,92,118,96,169,98,219,96,265,92,301,84,324,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="106,31,107,20,119,11,139,5,169,3,205,6,225,14,223,19,203,11,169,8,140,10,121,15,112,23,111,32"/>
+</map>

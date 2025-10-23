@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.skill.Skill.Skill" name="com.runehive.game.world.entity.skill.Skill.Skill">
+<area shape="poly" id="Node000001" title="Constructs a new Skill." alt="" coords="403,64,393,53,365,44,321,36,266,31,204,29,143,31,87,36,43,44,15,53,5,64,15,74,43,84,87,92,143,96,204,98,266,96,321,92,365,84,393,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a36501346a8b435a10918cd89a7677cc0" title="Gets the level for a given experience amount." alt="" coords="849,64,839,53,811,44,767,36,712,31,650,29,589,31,533,36,489,44,461,53,451,64,461,74,489,84,533,92,589,96,650,98,712,96,767,92,811,84,839,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="403,61,436,61,436,66,403,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a8ccd3bb8873995593a36bebea52b5b9a" title="Performs a binary search to quickly search for the level at the given experience." alt="" coords="1295,64,1285,53,1257,44,1213,36,1157,31,1096,29,1035,31,979,36,935,44,907,53,897,64,907,74,935,84,979,92,1035,96,1096,98,1157,96,1213,92,1257,84,1285,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="849,61,881,61,881,66,849,66"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="1011,32,1012,20,1027,11,1055,5,1096,3,1146,6,1174,15,1172,20,1145,11,1096,8,1056,10,1029,16,1017,23,1016,32"/>
+</map>

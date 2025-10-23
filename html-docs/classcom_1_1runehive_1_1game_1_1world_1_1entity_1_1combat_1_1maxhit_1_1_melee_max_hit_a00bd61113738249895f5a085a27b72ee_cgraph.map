@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.maxhit.MeleeMaxHit.slayerPerkBonus" name="com.runehive.game.world.entity.combat.maxhit.MeleeMaxHit.slayerPerkBonus">
+<area shape="poly" id="Node000001" title=" " alt="" coords="509,64,497,53,461,44,405,36,335,31,257,29,179,31,109,36,53,44,18,53,5,64,18,74,53,84,109,92,179,96,257,98,335,96,405,92,461,84,497,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="161,31,163,20,181,11,212,5,257,3,313,6,345,15,344,20,313,11,257,8,212,10,182,16,168,23,167,32"/>
+</map>

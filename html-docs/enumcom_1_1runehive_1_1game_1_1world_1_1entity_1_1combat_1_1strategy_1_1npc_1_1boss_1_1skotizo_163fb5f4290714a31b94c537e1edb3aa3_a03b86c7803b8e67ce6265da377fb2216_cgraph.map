@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.SkotizoUtility.SpawnData.generate" name="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.SkotizoUtility.SpawnData.generate">
+<area shape="poly" id="Node000001" title=" " alt="" coords="693,86,676,76,627,66,551,59,455,54,349,52,243,54,147,59,71,66,22,76,5,86,22,97,71,107,147,114,243,119,349,121,455,119,551,114,627,107,676,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a6b7f2d3477a5cc439ea612233a45ce0b" title="Picks a random element out of any array type." alt="" coords="1257,40,1249,29,1224,20,1186,12,1138,7,1085,5,1032,7,984,12,946,20,921,29,913,40,921,50,946,60,984,68,1032,72,1085,74,1138,72,1186,68,1224,60,1249,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="641,65,905,48,905,54,642,71"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html#a0e95cf2e86e6d1c868b4d06bdd55024b" title=" " alt="" coords="1429,133,1412,122,1363,113,1287,105,1191,100,1085,99,979,100,883,105,807,113,758,122,741,133,758,144,807,153,883,161,979,166,1085,167,1191,166,1287,161,1363,153,1412,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="642,102,778,111,777,116,641,108"/>
+</map>

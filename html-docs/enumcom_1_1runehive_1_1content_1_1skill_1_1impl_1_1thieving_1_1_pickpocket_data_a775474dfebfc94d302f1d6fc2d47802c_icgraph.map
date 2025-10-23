@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.thieving.PickpocketData.forId" name="com.runehive.content.skill.impl.thieving.PickpocketData.forId">
+<area shape="poly" id="Node000001" title="Gets the pickpocket data for npc." alt="" coords="911,40,901,29,870,20,823,12,763,7,697,5,631,7,571,12,523,20,493,29,482,40,493,50,523,60,571,68,631,72,697,74,763,72,823,68,870,60,901,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1thieving_1_1_thieving.html#a03342bf879d7fd0201114b949ebb0637" title=" " alt="" coords="434,40,424,29,393,20,346,12,286,7,220,5,154,7,94,12,46,20,16,29,5,40,16,50,46,60,94,68,154,72,220,74,286,72,346,68,393,60,424,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,42,435,42,435,37,467,37"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="com.runehive.content.lms.LMSGame.setLevels" name="com.runehive.content.lms.LMSGame.setLevels">
+<area shape="poly" id="Node000001" title="Handles setting the correct stats of the player It also makes a copy of the player his stats." alt="" coords="297,98,290,88,269,78,237,71,196,66,151,64,106,66,65,71,33,78,12,88,5,98,12,109,33,119,65,126,106,131,151,133,196,131,237,126,269,119,290,109"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a8167146b6fbdc949d0d7950e5e7e3b34" title="Gets the skill for an id." alt="" coords="743,40,733,29,705,20,661,12,606,7,544,5,483,7,427,12,383,20,355,29,345,40,355,50,383,60,427,68,483,72,544,74,606,72,661,68,705,60,733,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,77,377,62,377,67,276,83"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a9d2f706cb24e30ca8451a4f49401df4c" title="Refreshes all the skills for the mob." alt="" coords="743,157,733,146,705,137,661,129,606,124,544,123,483,124,427,129,383,137,355,146,345,157,355,168,383,177,427,185,483,190,544,191,606,190,661,185,705,177,733,168"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="276,114,377,130,377,135,275,120"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="469,124,470,113,484,104,508,98,544,96,587,99,612,108,610,113,586,105,544,101,509,103,486,109,475,116,474,125"/>
+</map>

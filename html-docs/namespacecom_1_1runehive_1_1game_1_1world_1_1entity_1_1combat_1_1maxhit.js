@@ -1,0 +1,5 @@
+var namespacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1maxhit =
+[
+    [ "MeleeMaxHit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1maxhit_1_1_melee_max_hit.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1maxhit_1_1_melee_max_hit" ],
+    [ "RangeMaxHit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1maxhit_1_1_range_max_hit.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1maxhit_1_1_range_max_hit" ]
+];

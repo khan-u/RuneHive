@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.player.Player.isValid" name="com.runehive.game.world.entity.mob.player.Player.isValid">
+<area shape="poly" id="Node000001" title="Validates this npc based on its current region and registered state." alt="" coords="1391,86,1380,76,1346,66,1295,59,1229,54,1157,52,1084,54,1019,59,967,66,934,76,923,86,934,97,967,107,1019,114,1084,119,1157,121,1229,119,1295,114,1346,107,1380,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1combat_1_1cannon_1_1_cannon.html#aee654aa7d1ef9d4e5a472ef1a8eeab1f" title="Adds this entity to the specified region." alt="" coords="875,40,864,29,835,20,790,12,733,7,669,5,606,7,549,12,503,20,474,29,464,40,474,50,503,60,549,68,606,72,669,74,733,72,790,68,835,60,864,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="944,69,848,60,849,54,944,63"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1combat_1_1cannon_1_1_cannon.html#a7f36b1cae0f70598a4da492570fab13c" title="Removes this entity from the specified region." alt="" coords="875,133,864,122,835,113,790,105,733,100,669,99,606,100,549,105,503,113,474,122,464,133,474,144,503,153,549,161,606,166,669,167,733,166,790,161,835,153,864,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="944,109,849,119,848,113,944,104"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1combat_1_1cannon_1_1_cannon.html#a3987d3353fca81eb9866febabffc5b0d" title="Registers an entity to the World." alt="" coords="416,40,406,29,377,20,331,12,274,7,211,5,147,7,90,12,45,20,15,29,5,40,15,50,45,60,90,68,147,72,211,74,274,72,331,68,377,60,406,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,42,416,42,416,37,448,37"/>
+</map>

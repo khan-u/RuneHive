@@ -1,0 +1,5 @@
+<map id="com.runehive.game.event.impl.log.LogEvent" name="com.runehive.game.event.impl.log.LogEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="385,157,376,146,349,136,307,129,254,124,195,122,136,124,84,129,42,136,15,146,5,157,15,167,42,177,84,184,136,189,195,191,254,189,307,184,349,177,376,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1event_1_1_event.html" title="Represents something that happens." alt="" coords="342,40,335,29,314,20,282,12,241,7,195,5,150,7,108,12,76,20,55,29,48,40,55,50,76,60,108,68,150,72,195,74,241,72,282,68,314,60,335,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,90,198,122,192,122,192,90"/>
+</map>

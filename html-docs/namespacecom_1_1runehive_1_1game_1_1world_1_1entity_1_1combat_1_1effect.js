@@ -1,0 +1,8 @@
+var namespacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect =
+[
+    [ "impl", "namespacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect_1_1impl.html", "namespacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect_1_1impl" ],
+    [ "AntifireDetails", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect_1_1_antifire_details.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect_1_1_antifire_details" ],
+    [ "CombatEffect", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect_1_1_combat_effect.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect_1_1_combat_effect" ],
+    [ "CombatEffectTask", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect_1_1_combat_effect_task.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect_1_1_combat_effect_task" ],
+    [ "CombatEffectType", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect_1_1_combat_effect_type.html", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect_1_1_combat_effect_type" ]
+];

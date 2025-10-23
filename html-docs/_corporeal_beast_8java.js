@@ -1,0 +1,6 @@
+var _corporeal_beast_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.CorporealBeast", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.CorporealBeast.CrushMelee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_crush_melee.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_crush_melee" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.CorporealBeast.MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_magic_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_magic_attack" ]
+];

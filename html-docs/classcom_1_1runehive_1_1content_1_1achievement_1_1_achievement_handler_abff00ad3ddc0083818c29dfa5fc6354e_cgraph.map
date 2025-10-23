@@ -1,0 +1,5 @@
+<map id="com.runehive.content.achievement.AchievementHandler.getTotalCompleted" name="com.runehive.content.achievement.AchievementHandler.getTotalCompleted">
+<area shape="poly" id="Node000001" title="Gets the total amount of achievements completed." alt="" coords="441,40,431,29,400,20,352,12,291,7,223,5,156,7,95,12,47,20,16,29,5,40,16,50,47,60,95,68,156,72,223,74,291,72,352,68,400,60,431,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1achievement_1_1_achievement_handler.html#aa5cd8779fd809711e8dafc366c6365a1" title="Checks if the reward is completed." alt="" coords="875,40,865,29,838,20,795,12,741,7,682,5,622,7,569,12,526,20,499,29,489,40,499,50,526,60,569,68,622,72,682,74,741,72,795,68,838,60,865,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="442,37,474,37,474,42,442,42"/>
+</map>

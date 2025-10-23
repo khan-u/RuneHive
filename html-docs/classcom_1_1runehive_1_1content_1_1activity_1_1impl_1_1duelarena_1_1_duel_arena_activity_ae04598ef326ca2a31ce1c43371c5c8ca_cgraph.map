@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.duelarena.DuelArenaActivity.canUseSpecial" name="com.runehive.content.activity.impl.duelarena.DuelArenaActivity.canUseSpecial">
+<area shape="poly" id="Node000001" title=" " alt="" coords="485,40,473,29,439,20,386,12,319,7,245,5,171,7,104,12,51,20,17,29,5,40,17,50,51,60,104,68,171,72,245,74,319,72,386,68,439,60,473,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#aa1f8bdf272e21ec87f9128996d1190aa" title="Removes all mobs from the activity." alt="" coords="858,40,850,29,827,20,791,12,745,7,695,5,645,7,600,12,564,20,541,29,533,40,541,50,564,60,600,68,645,72,695,74,745,72,791,68,827,60,850,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="485,37,518,37,518,42,485,42"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.util.MutableNumber.set" name="com.runehive.util.MutableNumber.set">
+<area shape="poly" id="Node000001" title="Sets the value within this container to rarity." alt="" coords="689,40,682,29,662,20,630,12,590,7,545,5,501,7,461,12,429,20,409,29,402,40,409,50,429,60,461,68,501,72,545,74,590,72,630,68,662,60,682,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1consume_1_1_potion_data.html#a97bb7fbdf9f800507a2f8ba8ae738f73" title="The method that executes the anti&#45;poison potion action." alt="" coords="354,40,345,29,320,20,282,12,233,7,180,5,126,7,77,12,39,20,14,29,5,40,14,50,39,60,77,68,126,72,180,74,233,72,282,68,320,60,345,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,42,354,42,354,37,386,37"/>
+</map>

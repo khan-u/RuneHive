@@ -1,0 +1,7 @@
+<map id="com.runehive.content.dialogue.DialogueFactory.appendKeywords" name="com.runehive.content.dialogue.DialogueFactory.appendKeywords">
+<area shape="poly" id="Node000001" title="Appends keywords to an existing dialogue text." alt="" coords="795,86,786,76,759,66,717,59,665,54,606,52,548,54,495,59,453,66,427,76,417,86,427,97,453,107,495,114,548,119,606,121,665,119,717,114,759,107,786,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#a614023ba6e79323b03ebae302b1d3f3f" title="Sends a dialogue with a npc talking." alt="" coords="359,40,351,29,326,20,288,12,240,7,187,5,134,7,86,12,48,20,24,29,15,40,24,50,48,60,86,68,134,72,187,74,240,72,288,68,326,60,351,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="429,69,338,59,339,54,429,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#a6fc07bb651bbbb3308ec43aef96437d5" title="Sends a dialogue with a player talking." alt="" coords="369,133,360,122,335,113,294,105,244,100,187,99,131,100,80,105,40,113,14,122,5,133,14,144,40,153,80,161,131,166,187,167,244,166,294,161,335,153,360,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="429,109,345,118,345,113,429,103"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="com.runehive.content.activity.impl.magearena.MageArena.meteors" name="com.runehive.content.activity.impl.magearena.MageArena.meteors">
+<area shape="poly" id="Node000001" title="Handles the meteors." alt="" coords="1039,64,1027,53,992,44,937,36,868,31,792,29,716,31,647,36,593,44,558,53,546,64,558,74,593,84,647,92,716,96,792,98,868,96,937,92,992,84,1027,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="886,21,852,11,792,8,744,10,711,16,695,24,694,27,695,31,690,33,688,26,691,20,709,11,743,5,792,3,853,6,887,15"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1magearena_1_1_mage_arena.html#afc6477dead5a5c635fcfbec6e5fb370b" title="Starts the next activity stage." alt="" coords="498,64,486,53,451,44,396,36,328,31,252,29,176,31,107,36,52,44,17,53,5,64,17,74,52,84,107,92,176,96,252,98,328,96,396,92,451,84,486,74"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="530,66,498,66,498,61,530,61"/>
+</map>

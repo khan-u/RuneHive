@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.player.PlayerAssistant.reset" name="com.runehive.game.world.entity.mob.player.PlayerAssistant.reset">
+<area shape="poly" id="Node000001" title="Resets the player&#39;s variables." alt="" coords="1507,86,1496,76,1462,66,1410,59,1345,54,1273,52,1200,54,1135,59,1083,66,1050,76,1038,86,1050,97,1083,107,1135,114,1200,119,1273,121,1345,119,1410,114,1462,107,1496,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_assistant.html#ae959f7086eabbe319912af17ae5f975e" title="Handles initializing all the player assistant methods on login." alt="" coords="990,40,979,29,946,20,894,12,829,7,756,5,684,7,618,12,567,20,533,29,522,40,533,50,567,60,618,68,684,72,756,74,829,72,894,68,946,60,979,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1057,70,957,61,958,55,1057,64"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_assistant.html#a7c6a36de6fbbbe33eb0d7d2124d56bcd" title="Resets the player&#39;s variables." alt="" coords="990,133,979,122,946,113,894,105,829,100,756,99,684,100,618,105,567,113,533,122,522,133,533,144,567,153,618,161,684,166,756,167,829,166,894,161,946,153,979,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1057,109,958,118,957,112,1057,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_assistant.html#a97f8f5f4569f166d479c5b190a5d7449" title=" " alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,42,475,42,475,37,507,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.clanchannel.channel.ClanChannelHandler.disconnect" name="com.runehive.content.clanchannel.channel.ClanChannelHandler.disconnect">
+<area shape="poly" id="Node000001" title="Handles player joining a clan channel." alt="" coords="988,40,976,29,943,20,892,12,827,7,755,5,683,7,618,12,566,20,533,29,522,40,533,50,566,60,618,68,683,72,755,74,827,72,892,68,943,60,976,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a2f63e67e6e58a4919fd1140aff2d91a6" title="Unregisters an entity from the World." alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="507,42,475,42,475,37,507,37"/>
+</map>

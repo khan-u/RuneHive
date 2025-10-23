@@ -1,0 +1,7 @@
+<map id="com.runehive.content.clanchannel.channel.ClanChannel.load" name="com.runehive.content.clanchannel.channel.ClanChannel.load">
+<area shape="poly" id="Node000001" title=" " alt="" coords="471,86,460,76,427,66,375,59,310,54,238,52,166,54,101,59,50,66,17,76,5,86,17,97,50,107,101,114,166,119,238,121,310,119,375,114,427,107,460,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1_clan_repository.html#a29c0b51f8ab917ca217fcc62b2aa275c" title="Adds the channel." alt="" coords="942,40,932,29,905,20,863,12,811,7,752,5,693,7,640,12,598,20,572,29,562,40,572,50,598,60,640,68,693,72,752,74,811,72,863,68,905,60,932,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="438,66,566,54,566,59,438,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1channel_1_1_clan_channel.html#aa2df8efc445aadf4b1052897e3acef95" title=" " alt="" coords="985,133,973,122,940,113,889,105,824,100,752,99,680,100,615,105,564,113,530,122,519,133,530,144,564,153,615,161,680,166,752,167,824,166,889,161,940,153,973,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="438,102,538,111,537,116,438,107"/>
+</map>

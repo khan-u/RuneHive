@@ -1,0 +1,5 @@
+<map id="com.runehive.content.collectionlog.CollectionLogSaving.load" name="com.runehive.content.collectionlog.CollectionLogSaving.load">
+<area shape="poly" id="Node000001" title=" " alt="" coords="389,40,380,29,352,20,310,12,256,7,197,5,138,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,138,72,197,74,256,72,310,68,352,60,380,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#abc025401d6c96ea483428bfbfbbe59f4" title=" " alt="" coords="906,40,894,29,861,20,809,12,744,7,671,5,599,7,534,12,482,20,449,29,437,40,449,50,482,60,534,68,599,72,671,74,744,72,809,68,861,60,894,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,37,421,37,421,42,390,42"/>
+</map>

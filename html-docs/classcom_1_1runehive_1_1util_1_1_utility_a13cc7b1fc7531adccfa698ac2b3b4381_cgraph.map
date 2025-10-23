@@ -1,0 +1,6 @@
+<map id="com.runehive.util.Utility.nameToLong" name="com.runehive.util.Utility.nameToLong">
+<area shape="poly" id="Node000001" title="Converts the first 12 characters in a string of text to a hash." alt="" coords="330,50,322,40,299,30,263,22,218,18,167,16,117,18,72,22,36,30,13,40,5,50,13,61,36,71,72,78,117,83,167,85,218,83,263,78,299,71,322,61"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a31d61a706664cf644fd3780f89897e26" title=" " alt="" coords="695,50,687,44,665,38,630,33,585,30,536,29,487,30,443,33,408,38,385,44,378,50,385,57,408,63,443,67,487,70,536,71,585,70,630,67,665,63,687,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,48,362,48,362,53,330,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="471,32,465,21,474,11,498,5,536,3,579,6,602,13,601,18,578,11,536,8,499,10,477,16,470,22,475,29"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.mob.Direction.getRandomDirection" name="com.runehive.game.world.entity.mob.Direction.getRandomDirection">
+<area shape="poly" id="Node000001" title=" " alt="" coords="407,92,398,81,369,72,325,64,269,59,206,57,144,59,88,64,44,72,15,81,5,92,15,102,44,112,88,120,144,124,206,126,269,124,325,120,369,112,398,102"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_direction.html#a8b0c9cd92772067ca662f10b70a6a487" title=" " alt="" coords="858,40,848,29,819,20,775,12,719,7,656,5,594,7,538,12,494,20,465,29,455,40,465,50,494,60,538,68,594,72,656,74,719,72,775,68,819,60,848,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="374,70,473,58,474,64,375,75"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a0961417523881e9a3bef6e9da541942a" title=" " alt="" coords="829,144,820,137,796,131,758,127,710,124,656,123,603,124,555,127,517,131,493,137,484,144,493,150,517,156,555,161,603,164,656,165,710,164,758,161,796,156,820,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="375,108,515,125,514,130,374,114"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="578,126,569,115,581,104,610,98,657,96,710,99,737,107,736,112,709,104,656,101,611,104,583,109,575,115,582,123"/>
+</map>

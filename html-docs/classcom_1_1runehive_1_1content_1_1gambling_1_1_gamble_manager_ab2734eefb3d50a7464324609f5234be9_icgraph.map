@@ -1,0 +1,7 @@
+<map id="com.runehive.content.gambling.GambleManager.open" name="com.runehive.content.gambling.GambleManager.open">
+<area shape="poly" id="Node000001" title="Handles opening the interface." alt="" coords="1155,40,1146,29,1122,20,1083,12,1034,7,980,5,926,7,877,12,839,20,814,29,805,40,814,50,839,60,877,68,926,72,980,74,1034,72,1083,68,1122,60,1146,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#a1fd51a6469bf0ad07fca657775c00c83" title="Handles accepting a request." alt="" coords="757,40,748,29,723,20,684,12,635,7,580,5,525,7,476,12,437,20,412,29,403,40,412,50,437,60,476,68,525,72,580,74,635,72,684,68,723,60,748,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="790,42,757,42,757,37,790,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#af04d04634de71f45d850a958ca247be7" title="Handles sending a request to another player." alt="" coords="355,40,347,29,322,20,283,12,234,7,180,5,126,7,77,12,39,20,14,29,5,40,14,50,39,60,77,68,126,72,180,74,234,72,283,68,322,60,347,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,42,355,42,355,37,388,37"/>
+</map>

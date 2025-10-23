@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.other.VengeanceListener.finishIncoming" name="com.runehive.game.world.entity.combat.attack.listener.other.VengeanceListener.finishIncoming">
+<area shape="poly" id="Node000001" title=" " alt="" coords="635,40,620,29,575,20,505,12,418,7,320,5,223,7,135,12,65,20,21,29,5,40,21,50,65,60,135,68,223,72,320,74,418,72,505,68,575,60,620,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#abf224666b7cf62d0ebd3020de51a55d9" title="The combat of the mob." alt="" coords="1152,40,1140,29,1107,20,1055,12,990,7,917,5,845,7,780,12,728,20,695,29,683,40,695,50,728,60,780,68,845,72,917,74,990,72,1055,68,1107,60,1140,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="635,37,668,37,668,42,635,42"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="poly" id="Node000000" href="$classcom_1_1runehive_1_1content_1_1dailyeffect_1_1_daily_effect.html" title=" " alt="" coords="364,133,355,122,329,113,290,105,240,100,184,99,129,100,79,105,40,113,14,122,5,133,14,144,40,153,79,161,129,166,184,167,240,166,290,161,329,153,355,144"/>
+<area shape="poly" id="Node000001" href="$classcom_1_1runehive_1_1content_1_1dailyeffect_1_1impl_1_1_daily_slayer_task_skip.html" title=" " alt="" coords="818,40,808,29,779,20,734,12,678,7,615,5,552,7,495,12,450,20,422,29,412,40,422,50,450,60,495,68,552,72,615,74,678,72,734,68,779,60,808,50"/>
+<area shape="poly" id="edge108_Node000000_Node000001" title=" " alt="" coords="319,101,487,65,488,70,320,106"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dailyeffect_1_1impl_1_1_daily_slayer_task_teleport.html" title=" " alt="" coords="818,133,808,122,779,113,734,105,678,100,615,99,552,100,495,105,450,113,422,122,412,133,422,144,450,153,495,161,552,166,615,167,678,166,734,161,779,153,808,144"/>
+<area shape="poly" id="edge109_Node000000_Node000002" title=" " alt="" coords="379,130,411,130,411,136,379,136"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1dailyeffect_1_1impl_1_1_daily_spell_book_swap.html" title=" " alt="" coords="818,226,808,216,779,206,734,199,678,194,615,192,552,194,495,199,450,206,422,216,412,226,422,237,450,247,495,254,552,259,615,261,678,259,734,254,779,247,808,237"/>
+<area shape="poly" id="edge110_Node000000_Node000003" title=" " alt="" coords="320,160,488,196,487,202,319,165"/>
+</map>

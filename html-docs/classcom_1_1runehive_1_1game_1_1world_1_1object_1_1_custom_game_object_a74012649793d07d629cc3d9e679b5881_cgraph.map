@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.object.CustomGameObject.CustomGameObject" name="com.runehive.game.world.object.CustomGameObject.CustomGameObject">
+<area shape="poly" id="Node000001" title=" " alt="" coords="448,40,438,29,406,20,357,12,295,7,227,5,158,7,97,12,48,20,16,29,5,40,16,50,48,60,97,68,158,72,227,74,295,72,357,68,406,60,438,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_game_object_definition.html#af18ccc7987c5c1c7e26621409e3bd00c" title="Gets an object definition by its id." alt="" coords="858,40,849,29,823,20,783,12,733,7,677,5,621,7,571,12,531,20,505,29,496,40,505,50,531,60,571,68,621,72,677,74,733,72,783,68,823,60,849,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="449,37,481,37,481,42,449,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_game_object_definition.html#a759bf0a4530cdae9a23f33030801d8f5" title="Creates the definition." alt="" coords="1385,40,1374,29,1340,20,1287,12,1220,7,1145,5,1071,7,1004,12,951,20,917,29,906,40,917,50,951,60,1004,68,1071,72,1145,74,1220,72,1287,68,1340,60,1374,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="858,37,890,37,890,42,858,42"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.ItemCreation.CreationData.forItems" name="com.runehive.content.ItemCreation.CreationData.forItems">
+<area shape="poly" id="Node000001" title="Handles finding the creation data based off the items used." alt="" coords="347,86,338,76,314,66,276,59,229,54,176,52,123,54,76,59,38,66,14,76,5,86,14,97,38,107,76,114,123,119,176,121,229,119,276,114,314,107,338,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1_item_creation_1_1_creation_data.html#aaf7c4834846972cdaff11d0e15018eff" title="Constructs a new CreationData." alt="" coords="791,40,781,29,753,20,709,12,654,7,593,5,532,7,476,12,432,20,404,29,395,40,404,50,432,60,476,68,532,72,593,74,654,72,709,68,753,60,781,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="326,67,410,58,410,63,327,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1cec21ca5ef1783808d4ca9de1051a29" title="Gets the identification of this item." alt="" coords="770,133,761,122,736,113,697,105,648,100,593,99,538,100,489,105,450,113,425,122,416,133,425,144,450,153,489,161,538,166,593,167,648,166,697,161,736,153,761,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="327,101,423,111,423,117,326,106"/>
+</map>

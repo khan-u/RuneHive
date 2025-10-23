@@ -1,0 +1,8 @@
+var _mutant_tarn_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.MutantTarn", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.MutantTarn.FrozenSpecial", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_frozen_special.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_frozen_special" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.MutantTarn.IceSpecial", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_ice_special.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_ice_special" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.MutantTarn.MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_magic_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_magic_attack" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.MutantTarn.RangedAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_ranged_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_ranged_attack" ]
+];

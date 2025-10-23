@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_melee =
+[
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_melee.html#a5ebc3c0bd88f1062fcb1f6bf87a474d1", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_melee.html#ac91feaea4687729b2430e5e290437482", null ],
+    [ "ANIMATION", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_melee.html#acf3ea411eeff0d32b9f02038fff0c451", null ]
+];

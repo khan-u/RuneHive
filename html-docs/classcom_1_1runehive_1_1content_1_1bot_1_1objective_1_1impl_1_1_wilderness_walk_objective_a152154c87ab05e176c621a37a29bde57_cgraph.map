@@ -1,0 +1,9 @@
+<map id="com.runehive.content.bot.objective.impl.WildernessWalkObjective.init" name="com.runehive.content.bot.objective.impl.WildernessWalkObjective.init">
+<area shape="poly" id="Node000001" title=" " alt="" coords="437,86,427,76,396,66,348,59,288,54,221,52,155,54,94,59,47,66,16,76,5,86,16,97,47,107,94,114,155,119,221,121,288,119,348,114,396,107,427,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#adf2962cfa5b23d5d094f4b8fb894bba3" title="Creates a location." alt="" coords="865,40,855,29,828,20,786,12,734,7,675,5,616,7,563,12,521,20,494,29,485,40,494,50,521,60,563,68,616,72,675,74,734,72,786,68,828,60,855,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="404,65,494,56,494,61,404,70"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1_random_utils.html#a6eefd5d224df61485cc6c99b738dce80" title="Returns a pseudo&#45;random int value between inclusive min and inclusive max." alt="" coords="821,133,814,122,793,113,761,105,720,100,675,99,630,100,589,105,556,113,535,122,528,133,535,144,556,153,589,161,630,166,675,167,720,166,761,161,793,153,814,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="404,103,525,115,524,120,404,108"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a7803ff05a7b4b99d2883898ade9427f7" title="Creates a location with a default height of 0." alt="" coords="1292,40,1283,29,1256,20,1214,12,1161,7,1102,5,1044,7,991,12,949,20,922,29,913,40,922,50,949,60,991,68,1044,72,1102,74,1161,72,1214,68,1256,60,1283,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="865,37,897,37,897,42,865,42"/>
+</map>

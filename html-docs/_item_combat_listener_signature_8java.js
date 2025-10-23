@@ -1,0 +1,4 @@
+var _item_combat_listener_signature_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.ItemCombatListenerSignature", "interfacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1_item_combat_listener_signature.html", "interfacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1_item_combat_listener_signature" ]
+];

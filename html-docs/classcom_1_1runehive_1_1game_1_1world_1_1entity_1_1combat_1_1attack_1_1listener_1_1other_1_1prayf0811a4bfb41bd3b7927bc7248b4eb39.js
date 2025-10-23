@@ -1,0 +1,4 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1prayf0811a4bfb41bd3b7927bc7248b4eb39 =
+[
+    [ "modifyDefenceLevel", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1prayf0811a4bfb41bd3b7927bc7248b4eb39.html#aa586d1ea2bf17bb5689534695ae8ee65", null ]
+];

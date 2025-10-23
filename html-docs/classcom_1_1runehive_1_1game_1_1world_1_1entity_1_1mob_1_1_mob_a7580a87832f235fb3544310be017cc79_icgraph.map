@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.Mob.getId" name="com.runehive.game.world.entity.mob.Mob.getId">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1149,86,1139,76,1110,66,1066,59,1010,54,948,52,886,54,830,59,785,66,757,76,747,86,757,97,785,107,830,114,886,119,948,121,1010,119,1066,114,1110,107,1139,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragonebcf87035683d44d093d657e45c43c11.html#a7de729ea5e2df395dbcd0bd08ff9689c" title=" " alt="" coords="699,40,682,29,633,20,556,12,459,7,352,5,245,7,148,12,72,20,22,29,5,40,22,50,72,60,148,68,245,72,352,74,459,72,556,68,633,60,682,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="749,74,626,64,627,59,749,68"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragonebcf87035683d44d093d657e45c43c11.html#a5f56e89a8ff970e2b29726a552708b6e" title=" " alt="" coords="699,133,682,122,633,113,556,105,459,100,352,99,245,100,148,105,72,113,22,122,5,133,22,144,72,153,148,161,245,166,352,167,459,166,556,161,633,153,682,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="749,105,627,114,626,109,749,99"/>
+</map>

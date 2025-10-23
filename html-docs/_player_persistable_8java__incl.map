@@ -1,0 +1,7 @@
+<map id="java/com/runehive/game/world/entity/mob/player/persist/PlayerPersistable.java" name="java/com/runehive/game/world/entity/mob/player/persist/PlayerPersistable.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="617,53,609,38,585,25,549,14,502,8,450,5,399,8,352,14,315,25,291,38,283,53,291,68,315,81,352,92,399,99,450,101,502,99,549,92,585,81,609,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="474,183,462,173,429,163,377,156,312,151,240,149,167,151,102,156,50,163,17,173,5,183,17,194,50,204,102,211,167,216,240,218,312,216,377,211,429,204,462,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="382,99,308,144,305,139,379,95"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="827,183,819,173,796,163,759,156,713,151,662,149,611,151,565,156,529,163,505,173,497,183,505,194,529,204,565,211,611,216,662,218,713,216,759,211,796,204,819,194"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="522,95,598,140,595,145,520,99"/>
+</map>

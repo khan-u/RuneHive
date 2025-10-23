@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.items.containers.bank.BankVault.withdraw" name="com.runehive.game.world.items.containers.bank.BankVault.withdraw">
+<area shape="poly" id="Node000001" title="Withdraws a certain amount into the player&#39;s bank vault container." alt="" coords="525,133,512,122,475,113,418,105,345,100,265,99,185,100,112,105,55,113,18,122,5,133,18,144,55,153,112,161,185,166,265,167,345,166,418,161,475,153,512,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a490026d68b72e2dea391680a7d49a844" title="Formats digits for integers." alt="" coords="998,40,989,29,966,20,930,12,884,7,833,5,782,7,736,12,699,20,676,29,668,40,676,50,699,60,736,68,782,72,833,74,884,72,930,68,966,60,989,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,103,686,61,687,66,431,109"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#aa8c4b4ec3217020b4d6a5e993b4d2bca" title="Formats a price for longs." alt="" coords="998,133,989,122,966,113,930,105,884,100,833,99,782,100,736,105,699,113,676,122,668,133,676,144,699,153,736,161,782,166,833,167,884,166,930,161,966,153,989,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="525,130,652,130,652,136,525,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1bank_1_1_bank_vault.html#a172765da33fa01167dee02050668e885" title=" " alt="" coords="1092,226,1080,216,1043,206,985,199,913,194,833,192,752,194,680,199,622,206,586,216,573,226,586,237,622,247,680,254,752,259,833,261,913,259,985,254,1043,247,1080,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="431,158,653,194,652,199,430,163"/>
+</map>

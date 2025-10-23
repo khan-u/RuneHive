@@ -1,0 +1,4 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_occult_necklace_listener =
+[
+    [ "modifyDamage", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_occult_necklace_listener.html#ab606e608d823c53825d24b30dda52e10", null ]
+];

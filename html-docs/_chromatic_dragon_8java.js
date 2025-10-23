@@ -1,0 +1,6 @@
+var _chromatic_dragon_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.dragon.ChromaticDragon", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_chromatic_dragon.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_chromatic_dragon" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.dragon.ChromaticDragon.CrushMelee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon14c7d0bfdb1096ceaae9b95864d8e3a6.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon14c7d0bfdb1096ceaae9b95864d8e3a6" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.dragon.ChromaticDragon.StabMelee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon4d7be3d9b1938df111095c188a02bc83.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon4d7be3d9b1938df111095c188a02bc83" ]
+];

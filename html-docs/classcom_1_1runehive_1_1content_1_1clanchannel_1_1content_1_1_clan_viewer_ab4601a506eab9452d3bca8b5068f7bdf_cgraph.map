@@ -1,0 +1,5 @@
+<map id="com.runehive.content.clanchannel.content.ClanViewer.drawClanList" name="com.runehive.content.clanchannel.content.ClanViewer.drawClanList">
+<area shape="poly" id="Node000001" title=" " alt="" coords="464,40,453,29,420,20,369,12,306,7,235,5,164,7,100,12,49,20,17,29,5,40,17,50,49,60,100,68,164,72,235,74,306,72,369,68,420,60,453,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1_clan_repository.html#a723f62b0d4f4f474b8d513aa143e3aaa" title=" " alt="" coords="891,40,882,29,855,20,813,12,760,7,702,5,643,7,590,12,548,20,521,29,512,40,521,50,548,60,590,68,643,72,702,74,760,72,813,68,855,60,882,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="464,37,496,37,496,42,464,42"/>
+</map>

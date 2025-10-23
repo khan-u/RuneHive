@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.in.MagicOnItemPacketListener" name="com.runehive.net.packet.in.MagicOnItemPacketListener">
+<area shape="poly" id="Node000001" title="The GamePacket responsible for using magic on inventory items." alt="" coords="318,157,311,146,288,136,254,129,210,124,162,122,113,124,70,129,35,136,13,146,5,157,13,167,35,177,70,184,113,189,162,191,210,189,254,184,288,177,311,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1net_1_1packet_1_1_packet_listener.html" title="The itemcontainer that allows any implementing {@Packet}s." alt="" coords="302,40,295,29,275,20,244,12,205,7,162,5,119,7,79,12,48,20,28,29,22,40,28,50,48,60,79,68,119,72,162,74,205,72,244,68,275,60,295,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,90,165,122,159,122,159,90"/>
+</map>

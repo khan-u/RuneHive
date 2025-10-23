@@ -1,0 +1,4 @@
+var namespacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1camera =
+[
+    [ "DialogueCameraDirector", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1camera_1_1_dialogue_camera_director.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1camera_1_1_dialogue_camera_director" ]
+];

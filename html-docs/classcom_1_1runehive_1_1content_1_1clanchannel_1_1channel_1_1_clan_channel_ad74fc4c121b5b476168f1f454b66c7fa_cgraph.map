@@ -1,0 +1,13 @@
+<map id="com.runehive.content.clanchannel.channel.ClanChannel.establish" name="com.runehive.content.clanchannel.channel.ClanChannel.establish">
+<area shape="poly" id="Node000001" title=" " alt="" coords="471,226,460,216,427,206,375,199,310,194,238,192,166,194,101,199,50,206,17,216,5,226,17,237,50,247,101,254,166,259,238,261,310,259,375,254,427,247,460,237"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1channel_1_1_clan_channel.html#a6735952017270fcd29612ef4b401563a" title=" " alt="" coords="985,40,973,29,940,20,889,12,824,7,752,5,680,7,615,12,564,20,530,29,519,40,530,50,564,60,615,68,680,72,752,74,824,72,889,68,940,60,973,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,190,397,136,457,108,518,84,578,66,580,72,520,89,459,113,399,140,297,195"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1channel_1_1_clan_channel.html#a32aae574c9a82075f96903522e839284" title=" " alt="" coords="985,133,973,122,940,113,889,105,824,100,752,99,680,100,615,105,564,113,530,122,519,133,530,144,564,153,615,161,680,166,752,167,824,166,889,161,940,153,973,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="387,197,588,160,589,165,388,202"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1_utility.html#afa0a0d50c1682352638f8357ed3313e6" title="Gets the date of server." alt="" coords="901,226,894,216,873,206,840,199,798,194,752,192,706,194,664,199,631,206,610,216,603,226,610,237,631,247,664,254,706,259,752,261,798,259,840,254,873,247,894,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="472,224,587,224,587,229,472,229"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1channel_1_1_clan_channel.html#a5a3de68b7da910b28800e1ed8d2d8b59" title=" " alt="" coords="985,320,973,309,940,300,889,292,824,287,752,285,680,287,615,292,564,300,530,309,519,320,530,330,564,340,615,348,680,352,752,354,824,352,889,348,940,340,973,330"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="388,251,589,287,588,293,387,256"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1_clan_repository.html#a5798a5e98fa975470c82a1d929939026" title=" " alt="" coords="942,413,932,402,905,393,863,385,811,380,752,379,693,380,640,385,598,393,572,402,562,413,572,424,598,433,640,441,693,446,752,447,811,446,863,441,905,433,932,424"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="297,258,399,312,459,340,520,364,594,385,592,390,518,369,457,345,397,317,295,263"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="poly" id="Node000000" title=" " alt="" coords="212,40,207,33,193,27,170,23,141,20,109,19,77,20,48,23,25,27,10,33,5,40,10,46,25,52,48,57,77,60,109,61,141,60,170,57,193,52,207,46"/>
+<area shape="poly" id="Node000001" href="$classcom_1_1runehive_1_1net_1_1_server_pipeline_initializer.html" title="The ChannelInitializer implementation that will setup the games networking pipeline." alt="" coords="619,40,610,29,584,20,545,12,495,7,439,5,384,7,334,12,294,20,269,29,260,40,269,50,294,60,334,68,384,72,439,74,495,72,545,68,584,60,610,50"/>
+<area shape="poly" id="edge6_Node000000_Node000001" title=" " alt="" coords="228,37,260,37,260,42,228,42"/>
+</map>

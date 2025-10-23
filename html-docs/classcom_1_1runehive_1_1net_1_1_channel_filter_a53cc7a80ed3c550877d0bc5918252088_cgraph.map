@@ -1,0 +1,7 @@
+<map id="com.runehive.net.ChannelFilter.channelActive" name="com.runehive.net.ChannelFilter.channelActive">
+<area shape="poly" id="Node000001" title=" " alt="" coords="300,86,293,76,272,66,239,59,198,54,153,52,107,54,66,59,33,66,13,76,5,86,13,97,33,107,66,114,107,119,153,121,198,119,239,114,272,107,293,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1_channel_filter.html#aefdb3db109b2c4f48af5d0aad5fd81db" title="Gets the host address of the user logging in." alt="" coords="677,40,670,29,649,20,617,12,575,7,530,5,484,7,443,12,411,20,390,29,383,40,390,50,411,60,443,68,484,72,530,74,575,72,617,68,649,60,670,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,68,384,55,384,60,284,73"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1_channel_filter_1_1_connection.html#a4f4bebe06899f7f9bca43c897c9e33e3" title=" " alt="" coords="712,133,703,122,677,113,637,105,586,100,530,99,474,100,423,105,383,113,357,122,348,133,357,144,383,153,423,161,474,166,530,167,586,166,637,161,677,153,703,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="284,100,362,110,361,115,283,105"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.position.Area.inArea" name="com.runehive.game.world.position.Area.inArea">
+<area shape="poly" id="Node000001" title=" " alt="" coords="385,133,376,122,349,113,307,105,254,100,195,99,136,100,84,105,42,113,15,122,5,133,15,144,42,153,84,161,136,166,195,167,254,166,307,161,349,153,376,144"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#a49e07a60c6643c0ba33bc9754305c352" title=" " alt="" coords="770,40,763,29,742,20,709,12,668,7,623,5,577,7,536,12,503,20,482,29,475,40,482,50,503,60,536,68,577,72,623,74,668,72,709,68,742,60,763,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="318,104,498,64,499,69,319,109"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a7bfa5292d8c3f79100a6bc85ea27b5ea" title="Gets the absolute x coordinate." alt="" coords="812,133,803,122,776,113,734,105,681,100,623,99,564,100,511,105,469,113,442,122,433,133,442,144,469,153,511,161,564,166,623,167,681,166,734,161,776,153,803,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="385,130,417,130,417,136,385,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a55498d0fafce9fdeedca16984d79aee5" title="Gets the absolute y coordinate." alt="" coords="812,226,803,216,776,206,734,199,681,194,623,192,564,194,511,199,469,206,442,216,433,226,442,237,469,247,511,254,564,259,623,261,681,259,734,254,776,247,803,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="319,157,485,194,484,199,318,162"/>
+</map>

@@ -1,0 +1,7 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_verac_listener_1_1_verac_modifier =
+[
+    [ "get", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_verac_listener_1_1_verac_modifier.html#ab68503f68a42e74646722657f35ccfd9", null ],
+    [ "modifyDefenceLevel", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_verac_listener_1_1_verac_modifier.html#a5991eb378e9ce8106184a4fa7361a903", null ],
+    [ "modifyDefensiveBonus", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_verac_listener_1_1_verac_modifier.html#ad46e0b45ccbda6933dd7ccef50306bae", null ],
+    [ "INSTANCE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_verac_listener_1_1_verac_modifier.html#ab9e080282159511cdbbb80b9fbe54394", null ]
+];

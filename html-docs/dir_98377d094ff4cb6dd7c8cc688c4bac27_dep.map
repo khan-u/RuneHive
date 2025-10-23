@@ -1,0 +1,6 @@
+<map id="java/com/runehive/game/world/pathfinding" name="java/com/runehive/game/world/pathfinding">
+<area shape="poly" id="node2" href="dir_9ad665f9df9a4b1e4d745231b8c1e78c.html" title="distance" alt="" coords="278,85,275,78,267,73,254,68,238,65,220,64,202,65,186,68,173,73,165,78,162,85,165,91,173,97,186,102,202,105,220,106,238,105,254,102,267,97,275,91"/>
+<area shape="poly" id="node3" href="dir_44061ed3c5bee94a908577a4e39d702e.html" title="path" alt="" coords="376,85,374,78,369,73,360,68,350,65,339,64,327,65,317,68,309,73,303,78,302,85,303,91,309,97,317,102,327,105,339,106,350,105,360,102,369,97,374,91"/>
+<area shape="rect" id="clust2" href="dir_98377d094ff4cb6dd7c8cc688c4bac27.html" alt="" coords="27,53,387,117"/>
+<area shape="rect" id="clust1" href="dir_0e158cc66fee42ffc2a291826fa54905.html" title="world" alt="" coords="16,16,397,127"/>
+</map>

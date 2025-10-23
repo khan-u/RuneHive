@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.World.sendKillFeed" name="com.runehive.game.world.World.sendKillFeed">
+<area shape="poly" id="Node000001" title="Sends a kill feed notification." alt="" coords="750,40,743,29,722,20,689,12,648,7,603,5,557,7,516,12,484,20,463,29,455,40,463,50,484,60,516,68,557,72,603,74,648,72,689,68,722,60,743,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob_death.html#a4c541a7d2eaba3454ad0134f4f4704a1" title="A function representing the unit of work that will be carried out." alt="" coords="407,40,398,29,369,20,325,12,269,7,206,5,144,7,88,12,44,20,15,29,5,40,15,50,44,60,88,68,144,72,206,74,269,72,325,68,369,60,398,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,42,408,42,408,37,440,37"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.panel.Activity_Panel.setProgress" name="com.runehive.content.activity.panel.Activity_Panel.setProgress">
+<area shape="poly" id="Node000001" title=" " alt="" coords="928,86,919,76,891,66,849,59,795,54,735,52,675,54,621,59,579,66,551,76,542,86,551,97,579,107,621,114,675,119,735,121,795,119,849,114,891,107,919,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1duelarena_1_1_duel_arena_activity_1_1_duel_panel.html#a7014c48149b4b9f67b54ed955a0c9104" title=" " alt="" coords="489,40,478,29,444,20,391,12,324,7,250,5,175,7,108,12,55,20,21,29,10,40,21,50,55,60,108,68,175,72,250,74,324,72,391,68,444,60,478,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="548,71,450,62,451,56,549,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_game_1_1_pest_control_panel.html#a14569cdbcd716d8096fe492747b89093" title=" " alt="" coords="494,133,482,122,447,113,393,105,325,100,250,99,174,100,106,105,52,113,17,122,5,133,17,144,52,153,106,161,174,166,250,167,325,166,393,161,447,153,482,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="549,107,453,116,453,111,548,102"/>
+</map>

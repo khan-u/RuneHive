@@ -1,0 +1,5 @@
+<map id="com.runehive.content.store.impl.SkillcapeStore" name="com.runehive.content.store.impl.SkillcapeStore">
+<area shape="poly" id="Node000001" title="Handles the recipe for disaster store." alt="" coords="359,157,351,146,326,136,286,129,237,124,182,122,128,124,78,129,39,136,14,146,5,157,14,167,39,177,78,184,128,189,182,191,237,189,286,184,326,177,351,167"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1store_1_1_store.html" title="The class which holds support for further abstraction for shops." alt="" coords="335,40,328,29,306,20,272,12,230,7,182,5,135,7,92,12,59,20,37,29,29,40,37,50,59,60,92,68,135,72,182,74,230,72,272,68,306,60,328,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,90,185,122,180,122,180,90"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.player.Player.setLastModification" name="com.runehive.game.world.entity.mob.player.Player.setLastModification">
+<area shape="poly" id="Node000001" title=" " alt="" coords="945,133,934,122,900,113,849,105,783,100,711,99,639,100,573,105,521,113,488,122,477,133,488,144,521,153,573,161,639,166,711,167,783,166,849,161,900,153,934,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#a56924b654fefe2715f99e723aded4da6" title="Deposit a item into the gamble session." alt="" coords="392,40,383,29,358,20,320,12,271,7,217,5,163,7,114,12,76,20,51,29,42,40,51,50,76,60,114,68,163,72,217,74,271,72,320,68,358,60,383,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="550,105,344,66,345,61,551,100"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#ab6353c17a01bffc179c4719bba34a972" title="Handles setting the different game types." alt="" coords="429,133,418,122,388,113,341,105,282,100,217,99,152,100,93,105,46,113,16,122,5,133,16,144,46,153,93,161,152,166,217,167,282,166,341,161,388,153,418,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="461,136,429,136,429,130,461,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#aee4a52a9a2e119838f132af2939ca829" title="Withdraw an item from the gamble session." alt="" coords="392,226,383,216,358,206,320,199,271,194,217,192,163,194,114,199,76,206,51,216,42,226,51,237,76,247,114,254,163,259,217,261,271,259,320,254,358,247,383,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="551,166,345,205,344,200,550,161"/>
+</map>

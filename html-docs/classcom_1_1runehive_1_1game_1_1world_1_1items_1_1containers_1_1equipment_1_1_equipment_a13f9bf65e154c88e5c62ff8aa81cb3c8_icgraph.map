@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.items.containers.equipment.Equipment.unEquip" name="com.runehive.game.world.items.containers.equipment.Equipment.unEquip">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1246,64,1232,53,1191,44,1128,36,1047,31,958,29,869,31,789,36,725,44,684,53,670,64,684,74,725,84,789,92,869,96,958,98,1047,96,1128,92,1191,84,1232,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_flambleed.html#a44c1f0be8fee07ad42600ab10836ca1e" title=" " alt="" coords="622,64,607,53,563,44,495,36,409,31,314,29,219,31,133,36,64,44,20,53,5,64,20,74,64,84,133,92,219,96,314,98,409,96,495,92,563,84,607,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="655,66,623,66,623,61,655,61"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="426,21,386,12,314,8,256,10,217,16,198,24,196,27,197,31,192,33,190,26,194,20,215,11,255,5,314,3,387,6,427,16"/>
+</map>

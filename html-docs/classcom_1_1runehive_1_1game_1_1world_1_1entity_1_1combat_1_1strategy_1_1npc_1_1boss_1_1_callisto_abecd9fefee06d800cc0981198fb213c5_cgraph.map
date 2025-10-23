@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.Callisto.canAttack" name="com.runehive.game.world.entity.combat.strategy.npc.boss.Callisto.canAttack">
+<area shape="poly" id="Node000001" title=" " alt="" coords="617,40,602,29,558,20,491,12,406,7,311,5,217,7,131,12,64,20,20,29,5,40,20,50,64,60,131,68,217,72,311,74,406,72,491,68,558,60,602,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_random_utils.html#ae851906399232ad944de15c2fd29c5b8" title="Determines if a pseudorandomly generated double rounded to two decimal places is below or equal to va..." alt="" coords="958,40,951,29,930,20,898,12,857,7,811,5,766,7,725,12,693,20,672,29,665,40,672,50,693,60,725,68,766,72,811,74,857,72,898,68,930,60,951,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="617,37,649,37,649,42,617,42"/>
+</map>

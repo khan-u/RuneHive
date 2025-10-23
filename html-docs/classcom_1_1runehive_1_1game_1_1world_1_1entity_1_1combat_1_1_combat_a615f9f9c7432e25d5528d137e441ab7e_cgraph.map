@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.Combat.finishOutgoing" name="com.runehive.game.world.entity.combat.Combat.finishOutgoing">
+<area shape="poly" id="Node000001" title=" " alt="" coords="437,40,427,29,396,20,348,12,288,7,221,5,155,7,94,12,47,20,16,29,5,40,16,50,47,60,94,68,155,72,221,74,288,72,348,68,396,60,427,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a385dc0248234fddaae1b093594d7bf58" title="The combat of the mob." alt="" coords="887,40,877,29,849,20,804,12,748,7,686,5,624,7,568,12,524,20,495,29,485,40,495,50,524,60,568,68,624,72,686,74,748,72,804,68,849,60,877,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,37,469,37,469,42,437,42"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.game.action.impl.SpellAction.execute" name="com.runehive.game.action.impl.SpellAction.execute">
+<area shape="poly" id="Node000001" title="A function representing the unit of work that will be carried out." alt="" coords="354,40,345,29,320,20,282,12,233,7,180,5,126,7,77,12,39,20,14,29,5,40,14,50,39,60,77,68,126,72,180,74,233,72,282,68,320,60,345,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a2fc8d15b55a8f0a55a20c0b78f77007c" title="Cancels all subsequent executions." alt="" coords="801,40,791,33,763,27,719,23,663,20,601,19,540,20,484,23,440,27,411,33,402,40,411,46,440,52,484,57,540,60,601,61,663,60,719,57,763,52,791,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="354,37,386,37,386,42,354,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#aef9b4245ff3b594dd844c44da99d51a3" title="A function executed on cancellation." alt="" coords="1207,40,1198,29,1173,20,1133,12,1083,7,1028,5,973,7,923,12,883,20,858,29,849,40,858,50,883,60,923,68,973,72,1028,74,1083,72,1133,68,1173,60,1198,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="801,37,834,37,834,42,801,42"/>
+</map>

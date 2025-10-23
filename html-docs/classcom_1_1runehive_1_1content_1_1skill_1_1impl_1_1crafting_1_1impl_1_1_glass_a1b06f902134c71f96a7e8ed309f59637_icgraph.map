@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.crafting.impl.Glass.click" name="com.runehive.content.skill.impl.crafting.impl.Glass.click">
+<area shape="poly" id="Node000001" title="Handles clicking on the interface." alt="" coords="948,40,937,29,903,20,851,12,785,7,712,5,640,7,574,12,522,20,488,29,477,40,488,50,522,60,574,68,640,72,712,74,785,72,851,68,903,60,937,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#acdc6407666d305a07a73c8827c05a15a" title=" " alt="" coords="429,40,418,29,388,20,341,12,282,7,217,5,152,7,93,12,46,20,16,29,5,40,16,50,46,60,93,68,152,72,217,74,282,72,341,68,388,60,418,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="461,42,429,42,429,37,461,37"/>
+</map>

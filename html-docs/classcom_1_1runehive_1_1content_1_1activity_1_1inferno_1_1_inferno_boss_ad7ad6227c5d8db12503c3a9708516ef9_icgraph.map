@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.inferno.InfernoBoss.execute" name="com.runehive.content.activity.inferno.InfernoBoss.execute">
+<area shape="poly" id="Node000001" title="A function representing the unit of work that will be carried out." alt="" coords="852,40,842,29,814,20,770,12,714,7,652,5,591,7,535,12,491,20,462,29,453,40,462,50,491,60,535,68,591,72,652,74,714,72,770,68,814,60,842,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1inferno_1_1_inferno_boss.html#a028e897fe532862b4eae1d25bbcf635a" title=" " alt="" coords="405,40,395,29,366,20,322,12,267,7,205,5,143,7,88,12,43,20,15,29,5,40,15,50,43,60,88,68,143,72,205,74,267,72,322,68,366,60,395,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,42,405,42,405,37,437,37"/>
+</map>

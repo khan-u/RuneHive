@@ -1,0 +1,4 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1voidk496d7d29097df37b581ef8aec05db428 =
+[
+    [ "modifyMagicLevel", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1voidk496d7d29097df37b581ef8aec05db428.html#aed9dc2e2c4a7d59c2f5e8f835c59fe22", null ]
+];

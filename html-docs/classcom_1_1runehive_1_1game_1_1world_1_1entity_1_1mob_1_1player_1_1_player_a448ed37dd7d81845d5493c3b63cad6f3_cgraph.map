@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.Player.getName" name="com.runehive.game.world.entity.mob.player.Player.getName">
+<area shape="poly" id="Node000001" title="Gets the name of this entity." alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a04d5eb201f824f0f367a9fb60f2f2814" title=" " alt="" coords="913,40,903,33,875,27,832,23,778,20,717,19,657,20,602,23,559,27,531,33,522,40,531,46,559,52,602,57,657,60,717,61,778,60,832,57,875,52,903,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,37,506,37,506,42,474,42"/>
+</map>

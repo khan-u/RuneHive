@@ -1,0 +1,6 @@
+<map id="com.runehive.content.skill.impl.magic.spell.SpellCasting.openBoltEnchant" name="com.runehive.content.skill.impl.magic.spell.SpellCasting.openBoltEnchant">
+<area shape="poly" id="Node000001" title=" " alt="" coords="982,64,971,53,938,44,886,36,822,31,750,29,678,31,613,36,562,44,529,53,518,64,529,74,562,84,613,92,678,96,750,98,822,96,886,92,938,84,971,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1magic_1_1spell_1_1_spell_casting.html#a44798a56d3150d0f8194f36c09696779" title=" " alt="" coords="470,64,458,53,425,44,374,36,309,31,238,29,166,31,101,36,50,44,17,53,5,64,17,74,50,84,101,92,166,96,238,98,309,96,374,92,425,84,458,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="502,66,470,66,470,61,502,61"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="325,20,294,11,237,8,191,10,161,16,146,23,146,32,140,32,142,20,159,11,191,5,238,3,295,6,327,15"/>
+</map>

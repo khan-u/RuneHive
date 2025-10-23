@@ -1,0 +1,13 @@
+<map id="com.runehive.content.clanchannel.content.ClanViewer.viewAchievements" name="com.runehive.content.clanchannel.content.ClanViewer.viewAchievements">
+<area shape="poly" id="Node000001" title=" " alt="" coords="464,129,453,118,420,109,369,101,306,96,235,95,164,96,100,101,49,109,17,118,5,129,17,140,49,149,100,157,164,162,235,163,306,162,369,157,420,149,453,140"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#aee0a7bdbeff3436403f9d4192eff4455" title="Formats name of enum." alt="" coords="936,42,927,36,899,30,856,25,802,22,741,21,681,22,627,25,584,30,556,36,547,42,556,49,584,55,627,59,681,62,741,63,802,62,856,59,899,55,927,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="387,100,619,60,620,66,388,106"/>
+<area shape="poly" id="Node000004" href="$enumcom_1_1runehive_1_1content_1_1clanchannel_1_1content_1_1_clan_achievement.html#a882e53b16f96d4dfa3c160aea24bfa51" title="Gets the clan achivement based on the ordinal." alt="" coords="971,129,959,118,927,109,876,101,812,96,741,95,670,96,607,101,556,109,523,118,512,129,523,140,556,149,607,157,670,162,741,163,812,162,876,157,927,149,959,140"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="464,126,496,126,496,132,464,132"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a493263be718b90fac4e54a5fd5f960c4" title="Gets a percentage amount." alt="" coords="891,222,883,212,862,202,829,195,788,190,741,188,695,190,654,195,620,202,599,212,592,222,599,233,620,243,654,250,695,255,741,257,788,255,829,250,862,243,883,233"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="382,153,609,195,608,201,381,159"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a306c0370300580d03034da52e33e4db9" title="Capitalize each letter after ." alt="" coords="1430,40,1421,29,1395,20,1355,12,1304,7,1248,5,1192,7,1141,12,1101,20,1075,29,1066,40,1075,50,1101,60,1141,68,1192,72,1248,74,1304,72,1355,68,1395,60,1421,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="936,39,1050,38,1050,43,936,44"/>
+<area shape="poly" id="Node000005" href="$enumcom_1_1runehive_1_1content_1_1clanchannel_1_1content_1_1_clan_achievement.html#a20fa8a605e39bd95c8062386e91f7823" title="Constructs a new ClanAchievement." alt="" coords="1477,133,1466,122,1434,113,1383,105,1319,100,1248,99,1177,100,1113,105,1062,113,1030,122,1019,133,1030,144,1062,153,1113,161,1177,166,1248,167,1319,166,1383,161,1434,153,1466,144"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="971,128,1003,128,1003,134,971,134"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.npc.NpcAssistant.isDragon" name="com.runehive.game.world.entity.mob.npc.NpcAssistant.isDragon">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1121,40,1110,29,1078,20,1029,12,967,7,898,5,830,7,768,12,719,20,687,29,676,40,687,50,719,60,768,68,830,72,898,74,967,72,1029,68,1078,60,1110,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_dragon_hunter_crossbow_listener.html#a958d4331d1815a78db1cb346e7e5ba03" title=" " alt="" coords="628,40,613,29,569,20,500,12,413,7,317,5,220,7,134,12,65,20,21,29,5,40,21,50,65,60,134,68,220,72,317,74,413,72,500,68,569,60,613,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="660,42,629,42,629,37,660,37"/>
+</map>

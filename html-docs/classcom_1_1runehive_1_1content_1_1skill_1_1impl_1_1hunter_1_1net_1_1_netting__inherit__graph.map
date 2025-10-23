@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.hunter.net.Netting" name="com.runehive.content.skill.impl.hunter.net.Netting">
+<area shape="poly" id="Node000001" title="Created by Daniel on 2018&#45;02&#45;07." alt="" coords="454,130,443,119,411,109,362,102,299,97,230,95,160,97,98,102,48,109,16,119,5,130,16,140,48,150,98,158,160,162,230,164,299,162,362,158,411,150,443,140"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="393,26,385,20,362,14,326,9,280,6,230,5,179,6,134,9,97,14,74,20,66,26,74,33,97,39,134,43,179,46,230,47,280,46,326,43,362,39,385,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,63,232,95,227,95,227,63"/>
+</map>

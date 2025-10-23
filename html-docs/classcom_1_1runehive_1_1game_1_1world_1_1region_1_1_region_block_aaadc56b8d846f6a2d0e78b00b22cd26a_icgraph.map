@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.region.RegionBlock.getGroundItem" name="com.runehive.game.world.region.RegionBlock.getGroundItem">
+<area shape="poly" id="Node000001" title="The method that retrieves the item with id on position." alt="" coords="781,40,772,29,746,20,706,12,655,7,599,5,543,7,492,12,452,20,426,29,417,40,426,50,452,60,492,68,543,72,599,74,655,72,706,68,746,60,772,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region.html#ae32b2dc0506d9e319e113c9bcfaaf07d" title=" " alt="" coords="369,40,360,29,335,20,294,12,244,7,187,5,131,7,80,12,40,20,14,29,5,40,14,50,40,60,80,68,131,72,187,74,244,72,294,68,335,60,360,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="402,42,370,42,370,37,402,37"/>
+</map>

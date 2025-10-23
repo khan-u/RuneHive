@@ -1,0 +1,17 @@
+<map id="com.runehive.content.collectionlog.CollectionLogPage.getCategory" name="com.runehive.content.collectionlog.CollectionLogPage.getCategory">
+<area shape="poly" id="Node000001" title=" " alt="" coords="2116,62,2107,51,2079,42,2037,34,1983,29,1924,28,1865,29,1811,34,1769,42,1742,51,1732,62,1742,73,1769,82,1811,90,1865,95,1924,96,1983,95,2037,90,2079,82,2107,73"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1collectionlog_1_1_collection_log_data.html#a2f3513ab5f20cf2e6da1a2ce34b96803" title=" " alt="" coords="1684,62,1675,51,1648,42,1605,34,1552,29,1492,28,1433,29,1380,34,1337,42,1310,51,1301,62,1310,73,1337,82,1380,90,1433,95,1492,96,1552,95,1605,90,1648,82,1675,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1717,65,1685,65,1685,59,1717,59"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1collectionlog_1_1_collection_log.html#ad814b6a2dc37133c3ece8b62e734c73e" title=" " alt="" coords="821,41,811,30,784,20,742,13,688,8,629,6,570,8,516,13,474,20,446,30,437,41,446,51,474,61,516,69,570,73,629,75,688,73,742,69,784,61,811,51"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1359,34,1252,18,1145,10,1061,8,869,18,789,24,789,19,869,13,1061,3,1145,4,1253,13,1360,29"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1collectionlog_1_1_collection_log.html#aeafa45260ddf1ed53e48b5eca8b78837" title=" " alt="" coords="821,134,811,123,784,114,742,106,688,101,629,100,570,101,516,106,474,114,446,123,437,134,446,145,474,154,516,162,570,167,629,168,688,167,742,162,784,154,811,145"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1357,95,1253,111,1029,129,821,136,821,131,1029,124,1252,106,1356,89"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1content_1_1collectionlog_1_1_collection_log.html#a64c4fc187a17e866d646d24feeefdea9" title=" " alt="" coords="1253,62,1243,51,1216,42,1173,34,1120,29,1061,28,1001,29,948,34,905,42,878,51,869,62,878,73,905,82,948,90,1001,95,1061,96,1120,95,1173,90,1216,82,1243,73"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="1285,65,1253,65,1253,59,1285,59"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1collectionlog_1_1_collection_log.html#abd3b46fc4330a357a3cd090dfda05ac9" title=" " alt="" coords="389,134,380,123,352,114,310,106,256,101,197,100,138,101,84,106,42,114,15,123,5,134,15,145,42,154,84,162,138,167,197,168,256,167,310,162,352,154,380,145"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="491,73,322,110,321,105,489,68"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1collectionlog_1_1_collection_log.html#a574589d8e818e6db41a0d1652c98a812" title=" " alt="" coords="389,41,380,30,352,20,310,13,256,8,197,6,138,8,84,13,42,20,15,30,5,41,15,51,42,61,84,69,138,73,197,75,256,73,310,69,352,61,380,51"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="422,43,390,43,390,38,422,38"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="422,137,390,137,390,131,422,131"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="860,55,814,53,815,47,860,49"/>
+</map>

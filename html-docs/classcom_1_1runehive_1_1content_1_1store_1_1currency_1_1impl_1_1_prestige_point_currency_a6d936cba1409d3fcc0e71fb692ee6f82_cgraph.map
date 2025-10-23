@@ -1,0 +1,5 @@
+<map id="com.runehive.content.store.currency.impl.PrestigePointCurrency.currencyAmount" name="com.runehive.content.store.currency.impl.PrestigePointCurrency.currencyAmount">
+<area shape="poly" id="Node000001" title="The method that retrieves the amount of currency player currently has." alt="" coords="450,40,439,29,407,20,358,12,296,7,228,5,159,7,97,12,48,20,16,29,5,40,16,50,48,60,97,68,159,72,228,74,296,72,358,68,407,60,439,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1prestige_1_1_prestige.html#a387d89f928298791548034a14241018e" title=" " alt="" coords="835,40,827,29,803,20,765,12,718,7,666,5,614,7,567,12,530,20,506,29,498,40,506,50,530,60,567,68,614,72,666,74,718,72,765,68,803,60,827,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="450,37,482,37,482,42,450,42"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="com.runehive.content.wintertodt.Wintertodt.pyromancerText" name="com.runehive.content.wintertodt.Wintertodt.pyromancerText">
+<area shape="poly" id="Node000001" title="Handles the pyromancer speech." alt="" coords="359,50,351,40,326,30,286,22,237,18,182,16,128,18,78,22,39,30,14,40,5,50,14,61,39,71,78,78,128,83,182,85,237,83,286,78,326,71,351,61"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a0961417523881e9a3bef6e9da541942a" title=" " alt="" coords="751,50,743,44,719,38,681,33,633,30,579,29,526,30,478,33,440,38,416,44,407,50,416,57,440,63,478,67,526,70,579,71,633,70,681,67,719,63,743,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="360,48,392,48,392,53,360,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="509,32,502,21,513,11,539,5,579,3,625,6,650,13,648,18,624,11,579,8,540,10,516,16,508,22,513,29"/>
+</map>

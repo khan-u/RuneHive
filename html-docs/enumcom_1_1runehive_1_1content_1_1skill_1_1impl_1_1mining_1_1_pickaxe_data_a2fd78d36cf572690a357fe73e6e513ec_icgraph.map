@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.mining.PickaxeData.getBestPickaxe" name="com.runehive.content.skill.impl.mining.PickaxeData.getBestPickaxe">
+<area shape="poly" id="Node000001" title="Gets the definition for this pickaxe." alt="" coords="1354,86,1344,76,1314,66,1268,59,1210,54,1145,52,1081,54,1023,59,977,66,947,76,937,86,947,97,977,107,1023,114,1081,119,1145,121,1210,119,1268,114,1314,107,1344,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1mining_1_1_mining.html#a379e5c25b5cdbc1f74260e7aa4a003c3" title=" " alt="" coords="889,40,878,29,849,20,803,12,744,7,680,5,615,7,557,12,511,20,481,29,471,40,481,50,511,60,557,68,615,72,680,74,744,72,803,68,849,60,878,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="950,70,859,60,860,55,951,64"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1shootingstar_1_1_shooting_star.html#a82b94f2d275a77b770516667495d1c67" title="Handles the mine option of the shooting star." alt="" coords="869,133,860,122,833,113,791,105,738,100,680,99,621,100,569,105,527,113,500,122,491,133,500,144,527,153,569,161,621,166,680,167,738,166,791,161,833,153,860,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="951,109,847,119,846,114,950,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1mining_1_1_mining.html#a145b39571d00a5af0c973742dc1ffa02" title=" " alt="" coords="423,40,413,29,383,20,337,12,279,7,214,5,150,7,91,12,45,20,16,29,5,40,16,50,45,60,91,68,150,72,214,74,279,72,337,68,383,60,413,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,42,423,42,423,37,455,37"/>
+</map>

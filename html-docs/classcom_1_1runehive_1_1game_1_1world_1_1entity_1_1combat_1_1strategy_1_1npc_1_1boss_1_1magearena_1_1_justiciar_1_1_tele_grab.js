@@ -1,0 +1,8 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_tele_grab =
+[
+    [ "TeleGrab", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_tele_grab.html#a5cf299f72ffe4f9e3d44cef10ed0bbdd", null ],
+    [ "attack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_tele_grab.html#a57381373ea9e2c3150c1ba33dcc2cbef", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_tele_grab.html#aff1c0d9a14de72f6537ea7373dabed72", null ],
+    [ "hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_tele_grab.html#ad6a6f363c5af393e3737959743898298", null ],
+    [ "start", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_tele_grab.html#ab9d9d8dc0e883e3a3d737b8d726f214e", null ]
+];

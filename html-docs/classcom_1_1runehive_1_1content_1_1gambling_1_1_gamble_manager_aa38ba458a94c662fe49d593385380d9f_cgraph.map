@@ -1,0 +1,9 @@
+<map id="com.runehive.content.gambling.GambleManager.removeFlowers" name="com.runehive.content.gambling.GambleManager.removeFlowers">
+<area shape="poly" id="Node000001" title=" " alt="" coords="364,133,355,122,329,113,290,105,240,100,184,99,129,100,79,105,40,113,14,122,5,133,14,144,40,153,79,161,129,166,184,167,240,166,290,161,329,153,355,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#a7c9a955e4efb0c7c92a74e0f5b534f9c" title=" " alt="" coords="821,40,812,29,787,20,749,12,700,7,646,5,592,7,543,12,504,20,480,29,471,40,480,50,504,60,543,68,592,72,646,74,700,72,749,68,787,60,812,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,105,411,84,506,65,507,70,412,89,309,110"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#ae3a63af66233e7d2d2f296f4af384fe4" title=" " alt="" coords="880,133,869,122,835,113,784,105,718,100,646,99,573,100,508,105,456,113,423,122,412,133,423,144,456,153,508,161,573,166,646,167,718,166,784,161,835,153,869,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="364,130,396,130,396,136,364,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#ac0d09d4036c08d31a86236a62b9dc121" title=" " alt="" coords="834,226,824,216,798,206,756,199,704,194,646,192,588,194,536,199,494,206,467,216,458,226,467,237,494,247,536,254,588,259,646,261,704,259,756,254,798,247,824,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="309,156,412,177,503,195,501,201,411,182,308,161"/>
+</map>

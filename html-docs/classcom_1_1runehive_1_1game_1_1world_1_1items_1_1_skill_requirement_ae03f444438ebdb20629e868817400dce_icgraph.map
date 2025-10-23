@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.SkillRequirement.SkillRequirement" name="com.runehive.game.world.items.SkillRequirement.SkillRequirement">
+<area shape="poly" id="Node000001" title="Creates a new SkillRequirement." alt="" coords="808,40,799,29,771,20,729,12,675,7,616,5,557,7,503,12,461,20,434,29,424,40,434,50,461,60,503,68,557,72,616,74,675,72,729,68,771,60,799,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_equipment_requirement.html#a5a1be63af55aaef0ba939649a316cce7" title="Determines if a player can equip a specified item." alt="" coords="376,40,367,29,341,20,300,12,248,7,191,5,134,7,82,12,41,20,14,29,5,40,14,50,41,60,82,68,134,72,191,74,248,72,300,68,341,60,367,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,42,377,42,377,37,409,37"/>
+</map>

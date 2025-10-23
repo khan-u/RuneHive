@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.PacketRepository" name="com.runehive.net.packet.PacketRepository">
+<area shape="poly" id="Node000001" title="The repository that stores packets sizes and listeners for how to execute the packets." alt="" coords="286,181,279,170,259,160,228,153,189,148,146,146,102,148,63,153,32,160,12,170,5,181,12,191,32,201,63,208,102,213,146,215,189,213,228,208,259,201,279,191"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1net_1_1packet_1_1_packet_listener.html" title="The itemcontainer that allows any implementing {@Packet}s." alt="" coords="286,40,279,29,259,20,228,12,189,7,146,5,102,7,63,12,32,20,12,29,5,40,12,50,32,60,63,68,102,72,146,74,189,72,228,68,259,60,279,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,89,148,146,143,146,143,89"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.npc.drop.NpcDropManager.handleAshSanctifier" name="com.runehive.game.world.entity.mob.npc.drop.NpcDropManager.handleAshSanctifier">
+<area shape="poly" id="Node000001" title=" " alt="" coords="501,40,489,29,453,20,399,12,330,7,253,5,177,7,107,12,53,20,17,29,5,40,17,50,53,60,107,68,177,72,253,74,330,72,399,68,453,60,489,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_ash_data.html#a807b694e5b7eaf4b7c2d1f3aa8c1de3b" title=" " alt="" coords="961,40,951,29,921,20,876,12,818,7,755,5,691,7,634,12,588,20,559,29,549,40,559,50,588,60,634,68,691,72,755,74,818,72,876,68,921,60,951,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,37,533,37,533,42,501,42"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.mob.player.PlayerDeath.postDeath" name="com.runehive.game.world.entity.mob.player.PlayerDeath.postDeath">
+<area shape="poly" id="Node000001" title="The last part of the death process where the character is reset." alt="" coords="474,64,462,53,429,44,377,36,312,31,240,29,167,31,102,36,50,44,17,53,5,64,17,74,50,84,102,92,167,96,240,98,312,96,377,92,429,84,462,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="319,20,290,11,240,8,198,10,170,16,156,23,155,32,150,31,152,20,168,11,197,5,240,3,291,6,321,15"/>
+</map>

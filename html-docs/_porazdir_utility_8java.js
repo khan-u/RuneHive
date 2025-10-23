@@ -1,0 +1,5 @@
+var _porazdir_utility_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.PorazdirUtility", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_porazdir_utility.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_porazdir_utility" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.PorazdirUtility.SpawnData", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena848e7590ce4f474c0844dbdc3e0b7506.html", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena848e7590ce4f474c0844dbdc3e0b7506" ]
+];

@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.out.SendCameraTurnPosition.encode" name="com.runehive.net.packet.out.SendCameraTurnPosition.encode">
+<area shape="poly" id="Node000001" title=" " alt="" coords="378,40,369,29,342,20,301,12,249,7,192,5,134,7,82,12,41,20,14,29,5,40,14,50,41,60,82,68,134,72,192,74,249,72,301,68,342,60,369,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a8afdd0de68f242bf7082076dfbfffe37" title=" " alt="" coords="778,40,770,29,745,20,706,12,657,7,602,5,548,7,498,12,459,20,434,29,426,40,434,50,459,60,498,68,548,72,602,74,657,72,706,68,745,60,770,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,37,410,37,410,42,378,42"/>
+</map>

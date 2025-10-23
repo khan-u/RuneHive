@@ -1,0 +1,7 @@
+<map id="com.runehive.game.action.ActionManager.clearNonWalkableActions" name="com.runehive.game.action.ActionManager.clearNonWalkableActions">
+<area shape="poly" id="Node000001" title="Purges actions in the queue with a WalkablePolicy of NON_WALKABLE." alt="" coords="940,86,930,72,904,58,863,48,810,41,753,39,695,41,643,48,601,58,575,72,566,86,575,101,601,115,643,125,695,132,753,134,810,132,863,125,904,115,930,101"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1magic_1_1spell_1_1impl_1_1_high_alchemy.html#a7247a9506aebe26d2086c293206e87bd" title="Executes the magic spell." alt="" coords="518,40,505,29,469,20,412,12,341,7,262,5,182,7,111,12,54,20,18,29,5,40,18,50,54,60,111,68,182,72,262,74,341,72,412,68,469,60,505,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="561,71,472,62,473,57,562,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1magic_1_1spell_1_1impl_1_1_low_alchemy.html#ab03aecbaca47565436d1802406f3ab7c" title="Executes the magic spell." alt="" coords="518,133,505,122,469,113,412,105,341,100,262,99,182,100,111,105,54,113,18,122,5,133,18,144,54,153,111,161,182,166,262,167,341,166,412,161,469,153,505,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="562,107,473,116,472,110,561,102"/>
+</map>

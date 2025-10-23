@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.record.GameRecord" name="com.runehive.content.activity.record.GameRecord">
+<area shape="poly" id="Node000001" title=" " alt="" coords="399,181,389,170,361,160,318,153,263,148,202,146,141,148,86,153,43,160,15,170,5,181,15,191,43,201,86,208,141,213,202,215,263,213,318,208,361,201,389,191"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1activity_1_1_activity_type.html" title="Holds all activity types that are timed." alt="" coords="364,40,356,29,333,20,297,12,252,7,202,5,152,7,107,12,71,20,48,29,40,40,48,50,71,60,107,68,152,72,202,74,252,72,297,68,333,60,356,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,89,205,146,199,146,199,89"/>
+</map>

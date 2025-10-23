@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.region.RegionDefinition.get" name="com.runehive.game.world.region.RegionDefinition.get">
+<area shape="poly" id="Node000001" title="Gets a RegionDefinition." alt="" coords="369,40,360,29,335,20,294,12,244,7,187,5,131,7,80,12,40,20,14,29,5,40,14,50,40,60,80,68,131,72,187,74,244,72,294,68,335,60,360,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_definition.html#aa3864d191f1db3ffcd7c3848bc217c38" title="Constructs a new RegionDefinition with the specified hash, terrain file id, object file id and preloa..." alt="" coords="792,40,783,29,757,20,715,12,663,7,605,5,547,7,495,12,453,20,426,29,417,40,426,50,453,60,495,68,547,72,605,74,663,72,715,68,757,60,783,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="369,37,402,37,402,42,369,42"/>
+</map>

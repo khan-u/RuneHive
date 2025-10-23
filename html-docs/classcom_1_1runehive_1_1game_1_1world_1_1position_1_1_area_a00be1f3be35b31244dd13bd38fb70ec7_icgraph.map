@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.position.Area.inRFD" name="com.runehive.game.world.position.Area.inRFD">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1417,86,1407,76,1380,66,1338,59,1285,54,1227,52,1168,54,1115,59,1073,66,1046,76,1037,86,1046,97,1073,107,1115,114,1168,119,1227,121,1285,119,1338,114,1380,107,1407,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html#a38adc89ccda694453823cc323fd2176e" title=" " alt="" coords="907,40,898,29,871,20,829,12,776,7,717,5,659,7,606,12,564,20,537,29,528,40,537,50,564,60,606,68,659,72,717,74,776,72,829,68,871,60,898,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1041,72,888,58,888,53,1042,67"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1recipefordisaster_1_1_recipe_for_disaster.html#a4f3b59858e7fcf938af82b344e27bf54" title="Called when the player changes region." alt="" coords="989,133,976,122,937,113,877,105,801,100,717,99,633,100,558,105,497,113,459,122,446,133,459,144,497,153,558,161,633,166,717,167,801,166,877,161,937,153,976,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1041,106,939,115,939,110,1041,101"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1_waypoints.html#a280712bf33d2f8ed046e34a395c4990e" title=" " alt="" coords="398,40,388,29,360,20,317,12,262,7,201,5,141,7,86,12,43,20,15,29,5,40,15,50,43,60,86,68,141,72,201,74,262,72,317,68,360,60,388,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="512,42,398,42,398,37,512,37"/>
+</map>

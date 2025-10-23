@@ -1,0 +1,7 @@
+<map id="com.runehive.content.lms.LMSGame.resupplyKiller" name="com.runehive.content.lms.LMSGame.resupplyKiller">
+<area shape="poly" id="Node000001" title="Handles resupplying the killer." alt="" coords="1154,40,1146,29,1126,20,1093,12,1053,7,1008,5,963,7,922,12,890,20,869,29,862,40,869,50,890,60,922,68,963,72,1008,74,1053,72,1093,68,1126,60,1146,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1lms_1_1_l_m_s_game.html#aebeeaee0a72460b1b123abae0679478a" title="Handles the killers stuff." alt="" coords="814,40,807,29,786,20,754,12,713,7,668,5,623,7,582,12,550,20,529,29,522,40,529,50,550,60,582,68,623,72,668,74,713,72,754,68,786,60,807,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="846,42,814,42,814,37,846,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_death.html#ad6c4804a8da435f521db971bcb2481c5" title="The main part of the death process where the killer is found for the character." alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="506,42,474,42,474,37,506,37"/>
+</map>

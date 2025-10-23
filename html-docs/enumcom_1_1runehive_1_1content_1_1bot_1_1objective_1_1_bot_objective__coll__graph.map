@@ -1,0 +1,6 @@
+<map id="com.runehive.content.bot.objective.BotObjective" name="com.runehive.content.bot.objective.BotObjective">
+<area shape="poly" id="Node000001" title=" " alt="" coords="389,181,380,170,352,160,310,153,256,148,197,146,138,148,84,153,42,160,15,170,5,181,15,191,42,201,84,208,138,213,197,215,256,213,310,208,352,201,380,191"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1bot_1_1objective_1_1_bot_objective_listener.html" title=" " alt="" coords="389,40,380,29,352,20,310,12,256,7,197,5,138,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,138,72,197,74,256,72,310,68,352,60,380,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,89,197,98,198,146,193,146,192,98,192,89"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="200,89,200,146,195,146,195,89"/>
+</map>

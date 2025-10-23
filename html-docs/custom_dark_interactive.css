@@ -1,0 +1,388 @@
+/* Git Bash Dark Theme with Java Syntax Highlighting */
+
+/* Override default Doxygen SVG styles - High Resolution */
+svg {
+    background-color: #0c0c0c !important;
+    font-family: monospace !important;
+    shape-rendering: geometricPrecision !important;
+    text-rendering: geometricPrecision !important;
+    image-rendering: -webkit-optimize-contrast !important;
+    image-rendering: -moz-crisp-edges !important;
+    image-rendering: crisp-edges !important;
+    width: 100% !important;
+    height: auto !important;
+    max-width: none !important;
+}
+
+/* Default graph styling */
+svg g.graph > polygon {
+    fill: #0c0c0c !important;
+    stroke: none !important;
+}
+
+/* Default node styling - Warm yellow textboxes */
+svg .node polygon,
+svg .node ellipse,
+svg .node rect {
+    fill: #FFEBA1 !important;
+    stroke: #569cd6 !important;
+    stroke-width: 0.8px !important;
+}
+
+svg .node text {
+    fill: #1e1e1e !important;
+    font-family: monospace !important;
+    font-size: 10px !important;
+    font-weight: normal !important;
+}
+
+/* Default edge styling */
+svg .edge path,
+svg .edge polygon {
+    stroke: #608b4e !important;
+    fill: #608b4e !important;
+    stroke-width: 1px !important;
+}
+
+svg .edge text {
+    fill: #d4d4d4 !important;
+    font-family: monospace !important;
+    font-size: 9px !important;
+}
+
+/* Java Syntax Highlighting - VS Code Style */
+
+/* Package names - Purple/Blue */
+a[href*="namespace"], 
+.memname a[href*="namespace"],
+code .n,
+.highlighted .packagename {
+    color: #569cd6 !important; /* Blue like VS Code namespaces */
+}
+
+/* Class names - Light Green */
+a[href*="class"],
+.memname a[href*="class"],
+code .nc,
+.classname {
+    color: #4ec9b0 !important; /* Teal like VS Code class names */
+}
+
+/* Method/Function names - Yellow */
+.memname,
+.memproto .memname,
+code .nf,
+.methodname {
+    color: #dcdcaa !important; /* Yellow like VS Code methods */
+}
+
+/* Keywords - Blue */
+code .k,
+.keyword,
+span:contains("public"),
+span:contains("private"), 
+span:contains("protected"),
+span:contains("static"),
+span:contains("final"),
+span:contains("abstract"),
+span:contains("class"),
+span:contains("interface"),
+span:contains("extends"),
+span:contains("implements") {
+    color: #569cd6 !important; /* VS Code keyword blue */
+}
+
+/* Types/Primitives - Blue */
+code .kt,
+.typename,
+span:contains("int"),
+span:contains("String"),
+span:contains("boolean"),
+span:contains("void"),
+span:contains("long"),
+span:contains("double"),
+span:contains("float") {
+    color: #569cd6 !important;
+}
+
+/* Comments - Green */
+.comment,
+code .c,
+code .c1,
+code .cm {
+    color: #608b4e !important; /* VS Code comment green */
+    font-style: italic;
+}
+
+/* Strings - Orange */
+code .s,
+code .s1,
+code .s2,
+.stringliteral {
+    color: #ce9178 !important; /* VS Code string orange */
+}
+
+/* Numbers - Light Green */
+code .m,
+code .mi,
+code .mf,
+.numberliteral {
+    color: #b5cea8 !important; /* VS Code number green */
+}
+
+/* Annotations - Yellow */
+code .nd,
+.annotation,
+span:contains("@Override"),
+span:contains("@Deprecated"),
+span:contains("@Nullable") {
+    color: #dcdcaa !important;
+}
+
+/* Variables/Fields - Light Blue */
+.memname:not(.memproto .memname),
+code .nv,
+.fieldname {
+    color: #9cdcfe !important; /* VS Code variable blue */
+}
+
+/* Main content area - VS Code Dark theme */
+.contents,
+.textblock,
+.memberdecls,
+.memitem {
+    background-color: #1e1e1e !important;
+    color: #d4d4d4 !important;
+}
+
+/* Code blocks - VS Code style */
+.fragment,
+.line,
+pre {
+    background-color: #262626 !important;
+    color: #d4d4d4 !important;
+    border: 1px solid #3c3c3c !important;
+    font-family: monospace !important;
+}
+
+/* Member tables */
+.memberdecls td,
+.fieldtable td {
+    background-color: #252526 !important;
+    color: #d4d4d4 !important;
+    border-color: #3c3c3c !important;
+}
+
+/* Navigation and sidebar */
+.navpath,
+.directory,
+#nav-tree {
+    background-color: #252526 !important;
+    color: #cccccc !important;
+}
+
+/* Links - VS Code style */
+a, a:link {
+    color: #4fc1ff !important; /* VS Code link blue */
+}
+
+a:visited {
+    color: #c586c0 !important; /* VS Code visited purple */
+}
+
+a:hover {
+    color: #9cdcfe !important; /* VS Code hover blue */
+    text-decoration: underline !important;
+}
+
+/* Package-based color coding for UML nodes - More subtle */
+
+/* Game package - Green */
+svg .cluster[id*="game"] polygon {
+    stroke: #4ec950 !important;
+}
+svg .node[id*="game"] ellipse,
+svg .node[id*="game"] polygon {
+    stroke: #4ec950 !important;
+}
+svg .node[id*="game"] text {
+    fill: #4ec950 !important;
+}
+
+/* Net package - Cyan */
+svg .cluster[id*="net"] polygon {
+    stroke: #00c5c7 !important;
+}
+svg .node[id*="net"] ellipse,
+svg .node[id*="net"] polygon {
+    stroke: #00c5c7 !important;
+}
+svg .node[id*="net"] text {
+    fill: #00c5c7 !important;
+}
+
+/* Content package - Yellow */
+svg .cluster[id*="content"] polygon {
+    stroke: #c7c329 !important;
+}
+svg .node[id*="content"] ellipse,
+svg .node[id*="content"] polygon {
+    stroke: #c7c329 !important;
+}
+svg .node[id*="content"] text {
+    fill: #c7c329 !important;
+}
+
+/* Util package - Magenta */
+svg .cluster[id*="util"] polygon {
+    stroke: #c930c7 !important;
+}
+svg .node[id*="util"] ellipse,
+svg .node[id*="util"] polygon {
+    stroke: #c930c7 !important;
+}
+svg .node[id*="util"] text {
+    fill: #c930c7 !important;
+}
+
+/* IO package - Blue */
+svg .cluster[id*="io"] polygon {
+    stroke: #2d72d9 !important;
+}
+svg .node[id*="io"] ellipse,
+svg .node[id*="io"] polygon {
+    stroke: #2d72d9 !important;
+}
+svg .node[id*="io"] text {
+    fill: #2d72d9 !important;
+}
+
+/* FS package - Red */
+svg .cluster[id*="fs"] polygon {
+    stroke: #c91b00 !important;
+}
+svg .node[id*="fs"] ellipse,
+svg .node[id*="fs"] polygon {
+    stroke: #c91b00 !important;
+}
+svg .node[id*="fs"] text {
+    fill: #c91b00 !important;
+}
+
+/* Inheritance lines - keep green */
+svg .edge path {
+    stroke: #4ec950 !important;
+}
+
+/* Composition lines - make dotted cyan */
+svg .edge[id*="composition"] path {
+    stroke: #00c5c7 !important;
+    stroke-dasharray: 5,3 !important;
+}
+
+/* Dependency lines - make thin gray */
+svg .edge[id*="dependency"] path {
+    stroke: #686868 !important;
+    stroke-width: 0.5 !important;
+}
+
+/* Interactive hover effects */
+svg .node {
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+svg .node:hover polygon {
+    stroke-width: 2px !important;
+    filter: drop-shadow(0 0 8px currentColor);
+}
+
+svg .node:hover text {
+    fill: #ffffff !important;
+    font-weight: bold;
+}
+
+/* Edge hover highlighting */
+svg .edge {
+    transition: all 0.2s ease;
+}
+
+svg .edge:hover path {
+    stroke-width: 2px !important;
+    stroke: #00c5c7 !important;
+}
+
+/* Collapsible indicators */
+.collapsible-indicator {
+    cursor: pointer;
+    user-select: none;
+}
+
+.collapsible-indicator:before {
+    content: "[-] ";
+    color: #4ec950;
+    font-family: monospace;
+}
+
+.collapsed .collapsible-indicator:before {
+    content: "[+] ";
+}
+
+/* Animation for diagram transitions */
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.7; }
+}
+
+svg .node.highlighted polygon {
+    animation: pulse 1.5s infinite;
+    stroke: #00ff00 !important;
+    stroke-width: 2px !important;
+}
+
+/* Terminal-style tooltips */
+.svg-tooltip {
+    position: absolute;
+    background: #0c0c0c;
+    border: 1px solid #4ec950;
+    color: #00c5c7;
+    padding: 5px 10px;
+    font-family: monospace;
+    font-size: 11px;
+    pointer-events: none;
+    z-index: 1000;
+    display: none;
+}
+
+.svg-tooltip.visible {
+    display: block;
+}
+
+/* Collapsible diagram sections */
+.diagram-wrapper {
+    position: relative;
+}
+
+.diagram-controls {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    background: #0c0c0c;
+    border: 1px solid #4ec950;
+    padding: 2px 5px;
+    font-family: monospace;
+    font-size: 11px;
+}
+
+.diagram-controls button {
+    background: none;
+    border: none;
+    color: #4ec950;
+    cursor: pointer;
+    font-family: monospace;
+    margin: 0 2px;
+}
+
+.diagram-controls button:hover {
+    color: #00c5c7;
+}

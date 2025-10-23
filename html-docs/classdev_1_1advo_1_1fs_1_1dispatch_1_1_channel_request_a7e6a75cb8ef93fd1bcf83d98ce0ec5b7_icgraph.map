@@ -1,0 +1,5 @@
+<map id="dev.advo.fs.dispatch.ChannelRequest.getChannel" name="dev.advo.fs.dispatch.ChannelRequest.getChannel">
+<area shape="poly" id="Node000001" title="Gets the channel." alt="" coords="735,40,727,29,703,20,667,12,622,7,572,5,521,7,476,12,440,20,417,29,409,40,417,50,440,60,476,68,521,72,572,74,622,72,667,68,703,60,727,50"/>
+<area shape="poly" id="Node000002" href="$classdev_1_1advo_1_1fs_1_1dispatch_1_1_on_demand_request_worker.html#ae0fced05ba23eb8f48377cb1377be892" title=" " alt="" coords="361,40,352,29,327,20,288,12,238,7,183,5,128,7,79,12,39,20,14,29,5,40,14,50,39,60,79,68,128,72,183,74,238,72,288,68,327,60,352,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,42,361,42,361,37,393,37"/>
+</map>

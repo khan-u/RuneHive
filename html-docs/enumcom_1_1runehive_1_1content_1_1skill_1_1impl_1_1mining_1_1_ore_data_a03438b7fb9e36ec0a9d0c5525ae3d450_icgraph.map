@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.mining.OreData.OreData" name="com.runehive.content.skill.impl.mining.OreData.OreData">
+<area shape="poly" id="Node000001" title="Creates the node." alt="" coords="1354,40,1344,29,1314,20,1268,12,1210,7,1145,5,1081,7,1023,12,977,20,947,29,937,40,947,50,977,60,1023,68,1081,72,1145,74,1210,72,1268,68,1314,60,1344,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1mining_1_1_ore_data.html#a1e0b374f42f3033527e7a8e7f5fb5c0f" title="Gets the ore data." alt="" coords="889,40,878,29,849,20,803,12,744,7,680,5,615,7,557,12,511,20,481,29,471,40,481,50,511,60,557,68,615,72,680,74,744,72,803,68,849,60,878,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="921,42,889,42,889,37,921,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1mining_1_1_mining.html#a145b39571d00a5af0c973742dc1ffa02" title=" " alt="" coords="423,40,413,29,383,20,337,12,279,7,214,5,150,7,91,12,45,20,16,29,5,40,16,50,45,60,91,68,150,72,214,74,279,72,337,68,383,60,413,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,42,423,42,423,37,455,37"/>
+</map>

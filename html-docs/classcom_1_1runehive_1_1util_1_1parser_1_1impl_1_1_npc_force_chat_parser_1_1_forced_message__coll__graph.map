@@ -1,0 +1,5 @@
+<map id="com.runehive.util.parser.impl.NpcForceChatParser.ForcedMessage" name="com.runehive.util.parser.impl.NpcForceChatParser.ForcedMessage">
+<area shape="poly" id="Node000001" title="The forced message class." alt="" coords="416,181,406,170,377,160,331,153,274,148,211,146,147,148,90,153,45,160,15,170,5,181,15,191,45,201,90,208,147,213,211,215,274,213,331,208,377,201,406,191"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1util_1_1parser_1_1impl_1_1_npc_force_chat_parser_1_1_message_type.html" title="The enum of message types." alt="" coords="405,40,396,29,368,20,325,12,271,7,211,5,150,7,96,12,53,20,25,29,16,40,25,50,53,60,96,68,150,72,211,74,271,72,325,68,368,60,396,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,89,213,146,208,146,208,89"/>
+</map>

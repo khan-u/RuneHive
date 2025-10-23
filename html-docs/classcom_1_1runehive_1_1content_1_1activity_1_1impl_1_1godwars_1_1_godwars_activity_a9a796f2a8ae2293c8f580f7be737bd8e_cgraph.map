@@ -1,0 +1,6 @@
+<map id="com.runehive.content.activity.impl.godwars.GodwarsActivity.update" name="com.runehive.content.activity.impl.godwars.GodwarsActivity.update">
+<area shape="poly" id="Node000001" title="The update method." alt="" coords="470,64,458,53,425,44,374,36,309,31,238,29,166,31,101,36,50,44,17,53,5,64,17,74,50,84,101,92,166,96,238,98,309,96,374,92,425,84,458,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1panel_1_1_activity_panel.html#a7ffba562a8efc282cfbd57985eba70ef" title="Sends all the information for the activity panel." alt="" coords="904,64,895,53,867,44,825,36,771,31,711,29,651,31,597,36,555,44,527,53,518,64,527,74,555,84,597,92,651,96,711,98,771,96,825,92,867,84,895,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,61,502,61,502,66,470,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="621,32,622,21,638,11,667,5,711,3,764,6,794,16,792,21,763,11,711,8,668,10,640,16,626,23,627,33"/>
+</map>

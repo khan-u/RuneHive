@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.attack.FightType.getCorrespondingBonus" name="com.runehive.game.world.entity.combat.attack.FightType.getCorrespondingBonus">
+<area shape="poly" id="Node000001" title="Determines the corresponding bonus for this fight type." alt="" coords="1063,40,1050,29,1015,20,960,12,891,7,814,5,737,7,668,12,613,20,578,29,566,40,578,50,613,60,668,68,737,72,814,74,891,72,960,68,1015,60,1050,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1formula_1_1_melee_formula.html#a46442b5c9856aace245889792ba8f63e" title=" " alt="" coords="518,40,505,29,469,20,412,12,341,7,262,5,182,7,111,12,54,20,18,29,5,40,18,50,54,60,111,68,182,72,262,74,341,72,412,68,469,60,505,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="550,42,518,42,518,37,550,37"/>
+</map>

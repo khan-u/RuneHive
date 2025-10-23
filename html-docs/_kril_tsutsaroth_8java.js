@@ -1,0 +1,5 @@
+var _kril_tsutsaroth_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.KrilTsutsaroth", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_kril_tsutsaroth.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_kril_tsutsaroth" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.KrilTsutsaroth.MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_kril_tsutsaroth_1_1_magic_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_kril_tsutsaroth_1_1_magic_attack" ]
+];

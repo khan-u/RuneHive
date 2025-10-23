@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.special.melee.GraniteMaul.getAttackDelay" name="com.runehive.game.world.entity.combat.strategy.player.special.melee.GraniteMaul.getAttackDelay">
+<area shape="poly" id="Node000001" title=" " alt="" coords="733,40,715,29,663,20,583,12,481,7,369,5,257,7,155,12,75,20,23,29,5,40,23,50,75,60,155,68,257,72,369,74,481,72,583,68,663,60,715,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1generic_1_1_generic_attributes.html#af9f5f730471d225b42169ed88b8a45ea" title="Checks if a key is in the list of generic attribute." alt="" coords="1068,40,1061,29,1041,20,1009,12,969,7,924,5,880,7,840,12,808,20,788,29,781,40,788,50,808,60,840,68,880,72,924,74,969,72,1009,68,1041,60,1061,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="733,37,765,37,765,42,733,42"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.object.CustomGameObject.getObjectType" name="com.runehive.game.world.object.CustomGameObject.getObjectType">
+<area shape="poly" id="Node000001" title="Gets the object type." alt="" coords="800,40,790,29,763,20,720,12,667,7,607,5,547,7,494,12,451,20,424,29,414,40,424,50,451,60,494,68,547,72,607,74,667,72,720,68,763,60,790,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_custom_game_object.html#a1a5a263fb242d76082497eabe7a974b7" title=" " alt="" coords="366,40,358,29,332,20,292,12,242,7,186,5,130,7,80,12,40,20,14,29,5,40,14,50,40,60,80,68,130,72,186,74,242,72,292,68,332,60,358,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="399,42,367,42,367,37,399,37"/>
+</map>

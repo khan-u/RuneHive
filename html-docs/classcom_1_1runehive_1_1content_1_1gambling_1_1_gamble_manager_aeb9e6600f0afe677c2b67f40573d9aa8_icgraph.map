@@ -1,0 +1,11 @@
+<map id="com.runehive.content.gambling.GambleManager.canGamble" name="com.runehive.content.gambling.GambleManager.canGamble">
+<area shape="poly" id="Node000001" title="Checks if the player is allowed to gamble or not." alt="" coords="1155,86,1146,76,1122,66,1083,59,1034,54,980,52,926,54,877,59,839,66,814,76,805,86,814,97,839,107,877,114,926,119,980,121,1034,119,1083,114,1122,107,1146,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#a1fd51a6469bf0ad07fca657775c00c83" title="Handles accepting a request." alt="" coords="757,40,748,29,723,20,684,12,635,7,580,5,525,7,476,12,437,20,412,29,403,40,412,50,437,60,476,68,525,72,580,74,635,72,684,68,723,60,748,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="813,70,732,60,733,55,814,64"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#ac800b2d841ee80d824c83068884d387d" title="Handles starting the gamble." alt="" coords="755,133,746,122,722,113,683,105,634,100,580,99,526,100,477,105,439,113,414,122,405,133,414,144,439,153,477,161,526,166,580,167,634,166,683,161,722,153,746,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="814,108,732,118,731,113,813,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#af04d04634de71f45d850a958ca247be7" title="Handles sending a request to another player." alt="" coords="355,40,347,29,322,20,283,12,234,7,180,5,126,7,77,12,39,20,14,29,5,40,14,50,39,60,77,68,126,72,180,74,234,72,283,68,322,60,347,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,42,355,42,355,37,388,37"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#a86dc8e6d9f3894f05fc93cbd4f510b13" title="Handles accepting the gamble." alt="" coords="355,133,347,122,322,113,283,105,234,100,180,99,126,100,77,105,39,113,14,122,5,133,14,144,39,153,77,161,126,166,180,167,234,166,283,161,322,153,347,144"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="390,136,355,136,355,130,390,130"/>
+</map>

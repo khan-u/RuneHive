@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.skill.Skill.getSkill" name="com.runehive.game.world.entity.skill.Skill.getSkill">
+<area shape="poly" id="Node000001" title="Gets the skill id." alt="" coords="768,40,759,29,730,20,686,12,631,7,570,5,508,7,453,12,409,20,380,29,371,40,380,50,409,60,453,68,508,72,570,74,631,72,686,68,730,60,759,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_skill.html#acdabf6f599771c7240b87f5865f7f159" title=" " alt="" coords="323,40,315,29,292,20,257,12,213,7,164,5,115,7,71,12,36,20,13,29,5,40,13,50,36,60,71,68,115,72,164,74,213,72,257,68,292,60,315,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,42,323,42,323,37,355,37"/>
+</map>

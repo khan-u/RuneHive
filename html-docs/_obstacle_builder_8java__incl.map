@@ -1,0 +1,5 @@
+<map id="java/com/runehive/content/skill/impl/agility/obstacle/ObstacleBuilder.java" name="java/com/runehive/content/skill/impl/agility/obstacle/ObstacleBuilder.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="342,53,335,38,314,25,281,14,240,8,195,5,150,8,109,14,76,25,56,38,48,53,56,68,76,81,109,92,150,99,195,101,240,99,281,92,314,81,335,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="385,183,376,173,349,163,307,156,254,151,195,149,136,151,84,156,42,163,15,173,5,183,15,194,42,204,84,211,136,216,195,218,254,216,307,211,349,204,376,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,102,198,133,192,133,192,102"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.clanchannel.channel.ClanChannel" name="com.runehive.content.clanchannel.channel.ClanChannel">
+<area shape="poly" id="Node000001" title="Handles the clan chat channel." alt="" coords="471,130,460,119,427,109,375,102,310,97,238,95,166,97,101,102,50,109,17,119,5,130,17,140,50,150,101,158,166,162,238,164,310,162,375,158,427,150,460,140"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="401,26,393,20,370,14,334,9,289,6,238,5,188,6,142,9,106,14,83,20,75,26,83,33,106,39,142,43,188,46,238,47,289,46,334,43,370,39,393,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,63,241,95,236,95,236,63"/>
+</map>

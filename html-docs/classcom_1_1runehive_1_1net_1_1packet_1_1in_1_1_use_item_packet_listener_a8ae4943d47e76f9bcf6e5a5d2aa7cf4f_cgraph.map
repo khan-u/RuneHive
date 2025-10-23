@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.in.UseItemPacketListener.handleItemOnPlayer" name="com.runehive.net.packet.in.UseItemPacketListener.handleItemOnPlayer">
+<area shape="poly" id="Node000001" title="Handles an randomevent when a player uses the &quot;Use&quot; option of an item with an in&#45;game player." alt="" coords="385,53,376,38,349,25,307,14,254,8,195,5,136,8,84,14,42,25,15,38,5,53,15,68,42,81,84,92,136,99,195,101,254,99,307,92,349,81,376,68"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a3505a700117a8389b24f27e50de411ca" title=" " alt="" coords="901,53,890,43,857,33,805,25,740,20,667,19,595,20,529,25,478,33,444,43,433,53,444,64,478,73,529,81,595,86,667,88,740,86,805,81,857,73,890,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,51,417,51,417,56,385,56"/>
+</map>

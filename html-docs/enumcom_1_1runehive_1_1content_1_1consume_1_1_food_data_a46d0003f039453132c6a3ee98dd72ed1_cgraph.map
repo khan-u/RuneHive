@@ -1,0 +1,6 @@
+<map id="com.runehive.content.consume.FoodData.anglerfishHeal" name="com.runehive.content.consume.FoodData.anglerfishHeal">
+<area shape="poly" id="Node000001" title=" " alt="" coords="354,64,345,53,320,44,282,36,233,31,180,29,126,31,77,36,39,44,14,53,5,64,14,74,39,84,77,92,126,96,180,98,233,96,282,92,320,84,345,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a5ff60aaa9a37a00040b2c69073326d1e" title="Gets the highest possible level of a skill." alt="" coords="800,64,790,53,762,44,718,36,662,31,601,29,539,31,484,36,440,44,411,53,402,64,411,74,440,84,484,92,539,96,601,98,662,96,718,92,762,84,790,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="354,61,386,61,386,66,354,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="520,32,521,20,536,11,562,5,601,3,647,6,674,15,672,20,646,11,601,8,563,10,538,16,526,23,526,32"/>
+</map>

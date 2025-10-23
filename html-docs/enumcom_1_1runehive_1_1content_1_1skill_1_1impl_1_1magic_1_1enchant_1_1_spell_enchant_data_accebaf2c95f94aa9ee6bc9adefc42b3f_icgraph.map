@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.magic.enchant.SpellEnchantData.getMagicLevel" name="com.runehive.content.skill.impl.magic.enchant.SpellEnchantData.getMagicLevel">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1015,40,1002,29,967,20,912,12,843,7,766,5,689,7,620,12,565,20,530,29,518,40,530,50,565,60,620,68,689,72,766,74,843,72,912,68,967,60,1002,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1magic_1_1spell_1_1_spell_casting.html#ac70288a82b48ea6504709a41fecd3ae5" title=" " alt="" coords="470,40,458,29,425,20,374,12,309,7,238,5,166,7,101,12,50,20,17,29,5,40,17,50,50,60,101,68,166,72,238,74,309,72,374,68,425,60,458,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="502,42,470,42,470,37,502,37"/>
+</map>

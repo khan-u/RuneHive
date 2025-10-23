@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.inferno.InfernoBoss" name="com.runehive.content.activity.inferno.InfernoBoss">
+<area shape="poly" id="Node000001" title=" " alt="" coords="405,130,395,119,366,109,322,102,267,97,205,95,143,97,88,102,43,109,15,119,5,130,15,140,43,150,88,158,143,162,205,164,267,162,322,158,366,150,395,140"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="369,26,361,20,337,14,301,9,256,6,205,5,154,6,109,9,73,14,49,20,41,26,49,33,73,39,109,43,154,46,205,47,256,46,301,43,337,39,361,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,63,208,95,202,95,202,63"/>
+</map>

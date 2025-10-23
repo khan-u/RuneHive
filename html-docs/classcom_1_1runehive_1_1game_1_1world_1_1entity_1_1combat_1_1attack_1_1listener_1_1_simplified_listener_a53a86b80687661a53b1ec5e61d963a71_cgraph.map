@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.SimplifiedListener.block" name="com.runehive.game.world.entity.combat.attack.listener.SimplifiedListener.block">
+<area shape="poly" id="Node000001" title=" " alt="" coords="580,64,566,53,525,44,462,36,381,31,293,29,204,31,124,36,60,44,19,53,5,64,19,74,60,84,124,92,204,96,293,98,381,96,462,92,525,84,566,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1_simplified_listener.html#a6883ea629959aaa051bbfe832c62b8da" title=" " alt="" coords="1203,64,1189,53,1148,44,1084,36,1004,31,915,29,827,31,746,36,683,44,642,53,628,64,642,74,683,84,746,92,827,96,915,98,1004,96,1084,92,1148,84,1189,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="580,61,612,61,612,66,580,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="798,33,796,26,800,20,820,11,859,5,915,3,986,6,1025,16,1023,21,985,12,915,8,859,10,822,16,803,24,801,27,803,31"/>
+</map>

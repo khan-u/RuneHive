@@ -1,0 +1,10 @@
+<map id="com.runehive.content.activity.impl.duelarena.DuelArenaListener.preKill" name="com.runehive.content.activity.impl.duelarena.DuelArenaListener.preKill">
+<area shape="poly" id="Node000001" title="Called before attacker killed defender." alt="" coords="485,104,473,93,439,84,386,76,319,71,245,69,171,71,104,76,51,84,17,93,5,104,17,114,51,124,104,132,171,136,245,138,319,136,386,132,439,124,473,114"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity_listener.html#a7ab2bd0ef551644eae0bd6fc3644b755" title=" " alt="" coords="879,64,872,53,848,44,813,36,767,31,717,29,667,31,622,36,586,44,563,53,555,64,563,74,586,84,622,92,667,96,717,98,767,96,813,92,848,84,872,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,83,550,75,551,81,453,89"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_stopwatch.html#a07c61fd51248da8dd704ab2f68a71ba4" title=" " alt="" coords="901,144,892,137,866,131,826,127,774,124,717,123,660,124,609,127,568,131,542,137,533,144,542,150,568,156,609,161,660,164,717,165,774,164,826,161,866,156,892,150"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="453,119,553,127,552,132,453,124"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="643,32,643,21,656,11,681,5,717,3,761,6,786,15,784,20,760,11,717,8,682,10,659,16,648,23,648,33"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1_stopwatch.html#a3cf43f14f9d91dcd137fc56d42076945" title=" " alt="" coords="1268,144,1260,133,1238,124,1202,116,1158,111,1109,109,1059,111,1015,116,980,124,957,133,949,144,957,154,980,164,1015,172,1059,176,1109,178,1158,176,1202,172,1238,164,1260,154"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="902,141,934,141,934,146,902,146"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="com.runehive.game.world.entity.combat.Combat.hasPassed" name="com.runehive.game.world.entity.combat.Combat.hasPassed">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1397,273,1386,262,1356,253,1308,245,1248,240,1181,239,1114,240,1054,245,1006,253,976,262,965,273,976,284,1006,293,1054,301,1114,306,1181,307,1248,306,1308,301,1356,293,1386,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat.html#a244fb02e9bdd9d13bc5dc3a4028100f3" title=" " alt="" coords="917,133,906,122,876,113,828,105,768,100,701,99,634,100,574,105,526,113,496,122,485,133,496,144,526,153,574,161,634,166,701,167,768,166,828,161,876,153,906,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1083,238,916,182,838,163,839,157,918,177,1084,233"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat.html#a9d5d16be54337a7fd5ffeed15bebf048" title=" " alt="" coords="917,320,906,309,876,300,828,292,768,287,701,285,634,287,574,292,526,300,496,309,485,320,496,330,526,340,574,348,634,352,701,354,768,352,828,348,876,340,906,330"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="980,295,887,304,886,299,980,290"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat.html#a01ea7c6db2be6d1c3b5c740bcabe6467" title=" " alt="" coords="917,40,906,29,876,20,828,12,768,7,701,5,634,7,574,12,526,20,496,29,485,40,496,50,526,60,574,68,634,72,701,74,768,72,828,68,876,60,906,50"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1129,231,1034,157,976,120,916,89,853,67,855,62,918,84,979,116,1037,153,1132,227"/>
+<area shape="poly" id="Node000008" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat.html#ad7d2f1c7b66299979e2449fc631ee82b" title=" " alt="" coords="917,226,906,216,876,206,828,199,768,194,701,192,634,194,574,199,526,206,496,216,485,226,496,237,526,247,574,254,634,259,701,261,768,259,828,254,876,247,906,237"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="980,256,886,247,887,242,980,251"/>
+<area shape="poly" id="Node000009" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat.html#ad516bc5cf01b498df42b97c00b4ffd19" title=" " alt="" coords="917,413,906,402,876,393,828,385,768,380,701,379,634,380,574,385,526,393,496,402,485,413,496,424,526,433,574,441,634,446,701,447,768,446,828,441,876,433,906,424"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="1084,313,918,369,839,389,838,384,916,364,1083,308"/>
+<area shape="poly" id="Node000010" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat.html#ac52dfcceb5cd97ff3ce386802913d287" title=" " alt="" coords="917,506,906,496,876,486,828,479,768,474,701,472,634,474,574,479,526,486,496,496,485,506,496,517,526,527,574,534,634,539,701,541,768,539,828,534,876,527,906,517"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="1132,319,1037,393,979,431,918,462,855,484,853,479,916,457,976,426,1034,389,1129,315"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat.html#adf5a26d477ae184d7ed60f7423b7be6e" title=" " alt="" coords="437,40,427,29,396,20,348,12,288,7,221,5,155,7,94,12,47,20,16,29,5,40,16,50,47,60,94,68,155,72,221,74,288,72,348,68,396,60,427,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="547,106,359,69,360,64,548,101"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat.html#a179175def0f100c4d5db0d938c9de8e0" title=" " alt="" coords="437,226,427,216,396,206,348,199,288,194,221,192,155,194,94,199,47,206,16,216,5,226,16,237,47,247,94,254,155,259,221,261,288,259,348,254,396,247,427,237"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="548,165,360,202,359,197,547,160"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat.html#a6925068d9c8155b26890618494c7327b" title=" " alt="" coords="437,133,427,122,396,113,348,105,288,100,221,99,155,100,94,105,47,113,16,122,5,133,16,144,47,153,94,161,155,166,221,167,288,166,348,161,396,153,427,144"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="470,136,438,136,438,130,470,130"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="470,42,438,42,438,37,470,37"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="470,229,438,229,438,224,470,224"/>
+</map>

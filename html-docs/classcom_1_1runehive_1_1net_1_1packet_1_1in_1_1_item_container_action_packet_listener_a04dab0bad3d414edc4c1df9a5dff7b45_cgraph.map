@@ -1,0 +1,7 @@
+<map id="com.runehive.net.packet.in.ItemContainerActionPacketListener.modifiableXAction" name="com.runehive.net.packet.in.ItemContainerActionPacketListener.modifiableXAction">
+<area shape="poly" id="Node000001" title="Handles the randomevent when a player clicks on the sixth option of an item container itemcontainer." alt="" coords="499,86,487,72,452,58,398,48,329,41,252,39,176,41,107,48,53,58,17,72,5,86,17,101,53,115,107,125,176,132,252,134,329,132,398,125,452,115,487,101"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1plugin_1_1_plugin_manager.html#a2439a342310d9516b212d97399dcdf00" title=" " alt="" coords="870,40,862,29,840,20,806,12,763,7,716,5,668,7,626,12,592,20,570,29,562,40,570,50,592,60,626,68,668,72,716,74,763,72,806,68,840,60,862,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="472,62,560,53,560,58,473,67"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1event_1_1bus_1_1_player_data_bus.html#a7f8c663f1251dd796540371899961975" title=" " alt="" coords="884,133,876,122,852,113,815,105,768,100,716,99,664,100,617,105,580,113,556,122,547,133,556,144,580,153,617,161,664,166,716,167,768,166,815,161,852,153,876,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="473,106,549,114,548,119,472,111"/>
+</map>

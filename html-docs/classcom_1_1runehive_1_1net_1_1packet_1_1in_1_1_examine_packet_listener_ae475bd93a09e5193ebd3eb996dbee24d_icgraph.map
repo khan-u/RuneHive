@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.in.ExaminePacketListener.handleInterfaceExamine" name="com.runehive.net.packet.in.ExaminePacketListener.handleInterfaceExamine">
+<area shape="poly" id="Node000001" title=" " alt="" coords="894,53,884,38,853,25,806,14,746,8,680,5,614,8,554,14,506,25,476,38,465,53,476,68,506,81,554,92,614,99,680,101,746,99,806,92,853,81,884,68"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1in_1_1_examine_packet_listener.html#ae8872ad59133aeea9fadf845b10bcada" title="Handles the packet that has just been received." alt="" coords="417,53,407,43,378,33,332,25,275,20,211,19,148,20,90,25,45,33,15,43,5,53,15,64,45,73,90,81,148,86,211,88,275,86,332,81,378,73,407,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="450,56,418,56,418,51,450,51"/>
+</map>

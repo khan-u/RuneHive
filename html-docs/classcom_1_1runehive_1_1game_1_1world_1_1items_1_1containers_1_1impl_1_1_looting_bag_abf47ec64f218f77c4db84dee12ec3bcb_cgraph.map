@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.containers.impl.LootingBag.LootingBag" name="com.runehive.game.world.items.containers.impl.LootingBag.LootingBag">
+<area shape="poly" id="Node000001" title="Constructs a new LootingBag." alt="" coords="518,40,505,29,469,20,412,12,341,7,262,5,182,7,111,12,54,20,18,29,5,40,18,50,54,60,111,68,182,72,262,74,341,72,412,68,469,60,505,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a6f9f9b30415bd5fa8d12f2258f7e2532" title="Adds an ItemContainerListener to this container." alt="" coords="1030,40,1019,29,986,20,934,12,870,7,798,5,726,7,661,12,610,20,577,29,566,40,577,50,610,60,661,68,726,72,798,74,870,72,934,68,986,60,1019,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="518,37,550,37,550,42,518,42"/>
+</map>

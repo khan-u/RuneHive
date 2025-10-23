@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_guardian =
+[
+    [ "Guardian", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_guardian.html#abda2404b6ff4b2573810da16a0147293", null ],
+    [ "sequence", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_guardian.html#a7984ddd2f43ce11223ebeccc9641ff7d", null ],
+    [ "lastHeal", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_guardian.html#aa7acd68536c3e25288c330d395843fe6", null ]
+];

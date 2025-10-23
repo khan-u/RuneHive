@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.hunter.trap.TrapManager.hasLarupia" name="com.runehive.content.skill.impl.hunter.trap.TrapManager.hasLarupia">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1845,40,1834,29,1802,20,1751,12,1688,7,1618,5,1547,7,1484,12,1433,20,1401,29,1390,40,1401,50,1433,60,1484,68,1547,72,1618,74,1688,72,1751,68,1802,60,1834,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1hunter_1_1trap_1_1_trap_execution.html#a4c78222b003c84007972305eb750e56a" title=" " alt="" coords="1342,40,1330,29,1298,20,1248,12,1184,7,1114,5,1043,7,980,12,929,20,897,29,886,40,897,50,929,60,980,68,1043,72,1114,74,1184,72,1248,68,1298,60,1330,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1374,42,1342,42,1342,37,1374,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1hunter_1_1trap_1_1_trap_execution.html#afe397cf636ddfeb46fcc0f2d0449e5ea" title=" " alt="" coords="838,40,827,29,794,20,744,12,680,7,610,5,539,7,476,12,425,20,393,29,382,40,393,50,425,60,476,68,539,72,610,74,680,72,744,68,794,60,827,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="870,42,838,42,838,37,870,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_hunter_task.html#ae657c5fe06bd9d5adf0cfcf2df82bbc4" title="A function representing the unit of work that will be carried out." alt="" coords="334,40,326,29,303,20,266,12,220,7,170,5,119,7,73,12,37,20,13,29,5,40,13,50,37,60,73,68,119,72,170,74,220,72,266,68,303,60,326,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="366,42,334,42,334,37,366,37"/>
+</map>

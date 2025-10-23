@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.duelarena.DuelRule" name="com.runehive.content.activity.impl.duelarena.DuelRule">
+<area shape="poly" id="Node000001" title=" " alt="" coords="485,181,473,170,439,160,386,153,319,148,245,146,171,148,104,153,51,160,17,170,5,181,17,191,51,201,104,208,171,213,245,215,319,213,386,208,439,201,473,191"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1activity_1_1impl_1_1duelarena_1_1_duel_rule_1_1_rule_condition.html" title=" " alt="" coords="485,40,473,29,439,20,386,12,319,7,245,5,171,7,104,12,51,20,17,29,5,40,17,50,51,60,104,68,171,72,245,74,319,72,386,68,439,60,473,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,89,248,146,243,146,243,89"/>
+</map>

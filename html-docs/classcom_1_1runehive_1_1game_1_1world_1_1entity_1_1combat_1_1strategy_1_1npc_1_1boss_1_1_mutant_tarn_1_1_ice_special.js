@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_ice_special =
+[
+    [ "IceSpecial", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_ice_special.html#a6307a3fc3b8f3bc0296c0ee72fafc54a", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_ice_special.html#a3bbb4cb63fa8b5a2ccc865f4fbeca8ce", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_ice_special.html#acdc1132e72becc8e1c26ad6c2d2adbb5", null ]
+];

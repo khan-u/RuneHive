@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.JusticarUtility.SpawnData2" name="com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.JusticarUtility.SpawnData2">
+<area shape="poly" id="Node000001" title=" " alt="" coords="737,202,719,191,667,182,586,174,484,169,371,167,258,169,156,174,75,182,23,191,5,202,23,213,75,222,156,230,258,235,371,236,484,235,586,230,667,222,719,213"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="561,40,552,29,525,20,483,12,430,7,371,5,313,7,260,12,218,20,191,29,181,40,191,50,218,60,260,68,313,72,371,74,430,72,483,68,525,60,552,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="374,90,374,167,368,167,368,90"/>
+</map>

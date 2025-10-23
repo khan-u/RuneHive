@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.CombatDamage.DamageCounter" name="com.runehive.game.world.entity.combat.CombatDamage.DamageCounter">
+<area shape="poly" id="Node000001" title="A counter that will track the amount of damage dealt and whether that damaged has timed out or not." alt="" coords="437,154,427,143,396,133,348,126,288,121,221,119,155,121,94,126,47,133,16,143,5,154,16,164,47,174,94,182,155,186,221,188,288,186,348,182,396,174,427,164"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_stopwatch.html" title=" " alt="" coords="378,26,370,20,348,14,313,9,270,6,221,5,173,6,129,9,95,14,72,20,65,26,72,33,95,39,129,43,173,46,221,47,270,46,313,43,348,39,370,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,63,224,119,219,119,219,63"/>
+</map>

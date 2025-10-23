@@ -1,0 +1,9 @@
+<map id="com.runehive.game.task.impl.PvPTimerTask.execute" name="com.runehive.game.task.impl.PvPTimerTask.execute">
+<area shape="poly" id="Node000001" title="A function representing the unit of work that will be carried out." alt="" coords="334,80,326,69,303,60,266,52,220,47,170,45,119,47,73,52,37,60,13,69,5,80,13,90,37,100,73,108,119,112,170,114,220,112,266,108,303,100,326,90"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a2fc8d15b55a8f0a55a20c0b78f77007c" title="Cancels all subsequent executions." alt="" coords="781,40,771,33,743,27,699,23,643,20,582,19,520,20,464,23,420,27,392,33,382,40,392,46,420,52,464,57,520,60,582,61,643,60,699,57,743,52,771,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,63,417,53,418,58,320,68"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html#afb2b54c69cc34c6d616224da900fdc09" title=" " alt="" coords="771,120,762,109,735,100,693,92,640,87,582,85,523,87,470,92,428,100,401,109,392,120,401,130,428,140,470,148,523,152,582,154,640,152,693,148,735,140,762,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="320,92,399,99,398,105,319,97"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#aef9b4245ff3b594dd844c44da99d51a3" title="A function executed on cancellation." alt="" coords="1187,40,1179,29,1153,20,1114,12,1064,7,1008,5,953,7,903,12,863,20,838,29,829,40,838,50,863,60,903,68,953,72,1008,74,1064,72,1114,68,1153,60,1179,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="781,37,814,37,814,42,781,42"/>
+</map>

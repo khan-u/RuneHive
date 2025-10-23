@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.pestcontrol.PestControlGame.Portal.Portal" name="com.runehive.content.activity.impl.pestcontrol.PestControlGame.Portal.Portal">
+<area shape="poly" id="Node000001" title=" " alt="" coords="494,40,482,29,447,20,393,12,325,7,250,5,174,7,106,12,52,20,17,29,5,40,17,50,52,60,106,68,174,72,250,74,325,72,393,68,447,60,482,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1_npc.html#affd5bdbd86c41e122232c9c8e643b217" title="The combat of the mob." alt="" coords="986,40,975,29,944,20,895,12,833,7,764,5,695,7,633,12,584,20,553,29,542,40,553,50,584,60,633,68,695,72,764,74,833,72,895,68,944,60,975,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="494,37,526,37,526,42,494,42"/>
+</map>

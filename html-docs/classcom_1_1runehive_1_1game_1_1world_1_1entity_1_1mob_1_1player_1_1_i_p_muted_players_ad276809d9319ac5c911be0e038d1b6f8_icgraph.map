@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.player.IPMutedPlayers.isIpMuted" name="com.runehive.game.world.entity.mob.player.IPMutedPlayers.isIpMuted">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1524,100,1513,89,1479,80,1427,72,1362,67,1290,65,1217,67,1152,72,1100,80,1067,89,1055,100,1067,110,1100,120,1152,128,1217,133,1290,134,1362,133,1427,128,1479,120,1513,110"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1requests_1_1_player_punishment.html#a2acec47ed2c2bfe915fd289e95f9fb21" title=" " alt="" coords="1007,100,994,89,954,80,892,72,814,67,727,65,641,67,562,72,500,80,461,89,447,100,461,110,500,120,562,128,641,133,727,134,814,133,892,128,954,120,994,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1040,103,1008,103,1008,97,1040,97"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1packet_1_1in_1_1_chat_message_packet_listener.html#a5f7ebf4dc460f1f99c722d23071016d3" title="Handles the packet that has just been received." alt="" coords="399,53,389,38,361,25,318,14,263,8,202,5,141,8,86,14,43,25,15,38,5,53,15,68,43,81,86,92,141,99,202,101,263,99,318,92,361,81,389,68"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="483,81,388,72,388,67,484,76"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1_yell.html#a4eec8df3bad95521ab2c090ff502a2f7" title="Yells a message to the server." alt="" coords="366,147,358,140,335,134,299,130,253,127,202,126,151,127,106,130,69,134,46,140,38,147,46,153,69,159,106,163,151,166,202,167,253,166,299,163,335,159,358,153"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="484,124,339,137,339,132,484,119"/>
+</map>

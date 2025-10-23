@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.prayer.Prayer.forType" name="com.runehive.game.world.entity.mob.prayer.Prayer.forType">
+<area shape="poly" id="Node000001" title=" " alt="" coords="993,40,982,29,948,20,896,12,831,7,758,5,686,7,620,12,568,20,535,29,523,40,535,50,568,60,620,68,686,72,758,74,831,72,896,68,948,60,982,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer.html#a62abda2893df2dd33f7254e93749f346" title="Gets the prayers to disable after activating this prayer." alt="" coords="475,40,464,29,430,20,378,12,313,7,240,5,168,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,168,72,240,74,313,72,378,68,430,60,464,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="507,42,476,42,476,37,507,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.ItemCreation.CreationData.forItem" name="com.runehive.content.ItemCreation.CreationData.forItem">
+<area shape="poly" id="Node000001" title="Finds the creation data based off the product item." alt="" coords="677,40,668,29,645,20,609,12,563,7,512,5,461,7,415,12,378,20,355,29,347,40,355,50,378,60,415,68,461,72,512,74,563,72,609,68,645,60,668,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1_item_creation.html#a2cddbec7c67888b70e3ac594524693e1" title="Handles creation items on death." alt="" coords="299,40,291,29,271,20,238,12,197,7,152,5,107,7,66,12,33,20,13,29,5,40,13,50,33,60,66,68,107,72,152,74,197,72,238,68,271,60,291,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="331,42,299,42,299,37,331,37"/>
+</map>

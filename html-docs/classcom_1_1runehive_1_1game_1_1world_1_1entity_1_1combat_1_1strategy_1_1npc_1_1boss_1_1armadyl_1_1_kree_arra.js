@@ -1,0 +1,17 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra =
+[
+    [ "Magic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_magic.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_magic" ],
+    [ "Melee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_melee.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_melee" ],
+    [ "Ranged", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_ranged.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_ranged" ],
+    [ "KreeArra", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra.html#ae7d5587224ed3d15b1539b3c3aa78545", null ],
+    [ "canAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra.html#a4e2a9efc5e3675555c820cbb871766cf", null ],
+    [ "canOtherAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra.html#aedaf8a6b54bf0bdd1be91ec16568c5ed", null ],
+    [ "finishOutgoing", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra.html#a39e58c26fa8a6558223696c48fff684d", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra.html#afcb3db69b3755fbd89a0643fced6c9ba", null ],
+    [ "withinDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra.html#aa25d4a71d181bf52b0c481b3a842d653", null ],
+    [ "MAGIC", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra.html#a3f889e283c46274023d8009cb503d5b1", null ],
+    [ "MELEE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra.html#ae5ea2983ab2c3cf005e0ae17be91e4a2", null ],
+    [ "melee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra.html#aeee6d79d74148613f262b5dce883613c", null ],
+    [ "NON_MELEE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra.html#accd03aa3d8884b6aee0d8695791a2696", null ],
+    [ "RANGED", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra.html#a8661da59c1dc4dacc697b0239487f7b2", null ]
+];

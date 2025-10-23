@@ -1,0 +1,7 @@
+<map id="com.runehive.net.ChannelFilter.Connection.equals" name="com.runehive.net.ChannelFilter.Connection.equals">
+<area shape="poly" id="Node000001" title=" " alt="" coords="300,86,293,76,272,66,239,59,198,54,153,52,107,54,66,59,33,66,13,76,5,86,13,97,33,107,66,114,107,119,153,121,198,119,239,114,272,107,293,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1_channel_filter_1_1_connection.html#a230fd1e6954941a9fcf8fe013ccc164b" title="Constructs a new Connection object." alt="" coords="671,40,663,29,640,20,604,12,559,7,509,5,460,7,415,12,379,20,356,29,348,40,356,50,379,60,415,68,460,72,509,74,559,72,604,68,640,60,663,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,67,356,57,356,62,282,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1_channel_filter_1_1_connection.html#ad4b7b11cf52c46c22209134f208762cf" title="Gets the host address." alt="" coords="657,133,650,122,629,113,596,105,555,100,509,99,464,100,423,105,390,113,369,122,362,133,369,144,390,153,423,161,464,166,509,167,555,166,596,161,629,153,650,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,101,365,112,364,117,281,106"/>
+</map>

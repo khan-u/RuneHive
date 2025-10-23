@@ -1,0 +1,15 @@
+<map id="dev.advo.fs.dispatch.OnDemandRequestWorker.run" name="dev.advo.fs.dispatch.OnDemandRequestWorker.run">
+<area shape="poly" id="Node000001" title=" " alt="" coords="361,180,352,169,327,160,288,152,238,147,183,145,128,147,79,152,39,160,14,169,5,180,14,190,39,200,79,208,128,212,183,214,238,212,288,208,327,200,352,190"/>
+<area shape="poly" id="Node000002" href="$classdev_1_1advo_1_1fs_1_1dispatch_1_1_channel_request.html#a7e6a75cb8ef93fd1bcf83d98ce0ec5b7" title="Gets the channel." alt="" coords="749,40,741,29,718,20,682,12,637,7,586,5,536,7,491,12,455,20,432,29,424,40,432,50,455,60,491,68,536,72,586,74,637,72,682,68,718,60,741,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,145,327,114,408,84,462,67,463,72,410,89,329,119,255,150"/>
+<area shape="poly" id="Node000003" href="$classdev_1_1advo_1_1fs_1_1dispatch_1_1_channel_request.html#a7f157fdbc557538043332689b486254a" title="Gets the request." alt="" coords="749,133,741,122,718,113,682,105,637,100,586,99,536,100,491,105,455,113,432,122,424,133,432,144,455,153,491,161,536,166,586,167,637,166,682,161,718,153,741,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="336,159,428,149,428,154,337,165"/>
+<area shape="poly" id="Node000004" href="$classdev_1_1advo_1_1fs_1_1dispatch_1_1_on_demand_request_worker.html#ae659b715b2b808c85d10df656c8531a5" title=" " alt="" coords="764,226,756,216,730,206,691,199,641,194,586,192,532,194,482,199,443,206,417,216,409,226,417,237,443,247,482,254,532,259,586,261,641,259,691,254,730,247,756,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="337,195,419,204,418,210,336,200"/>
+<area shape="poly" id="Node000006" href="$classdev_1_1advo_1_1fs_1_1dispatch_1_1_on_demand_request_worker.html#a003379a4641d93442b9401fed71df1fe" title=" " alt="" coords="764,320,756,309,730,300,691,292,641,287,586,285,532,287,482,292,443,300,417,309,409,320,417,330,443,340,482,348,532,352,586,354,641,352,691,348,730,340,756,330"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="255,209,329,240,410,271,459,286,458,291,408,276,327,245,253,214"/>
+<area shape="poly" id="Node000005" href="$classdev_1_1advo_1_1fs_1_1dispatch_1_1_request_dispatcher.html#abee6d5967af62d4c0358c80c0ff55eec" title="Gets the next &#39;on&#45;demand&#39; request from the queue, blocking if none are available." alt="" coords="1199,226,1189,216,1162,206,1119,199,1065,194,1005,192,946,194,892,199,849,206,822,216,812,226,822,237,849,247,892,254,946,259,1005,261,1065,259,1119,254,1162,247,1189,237"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="764,224,796,224,796,229,764,229"/>
+<area shape="poly" id="Node000007" href="$classdev_1_1advo_1_1fs_1_1fs_1_1_file_descriptor.html#a105bf8e9f2fcf50d1bfa312ef15da586" title=" " alt="" coords="1173,320,1165,309,1141,300,1104,292,1057,287,1005,285,954,287,907,292,870,300,846,309,838,320,846,330,870,340,907,348,954,352,1005,354,1057,352,1104,348,1141,340,1165,330"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="764,317,822,317,822,322,764,322"/>
+</map>

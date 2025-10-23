@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.randomevent.impl.MimeEvent.create" name="com.runehive.content.activity.randomevent.impl.MimeEvent.create">
+<area shape="poly" id="Node000001" title="Creates a new Mime event." alt="" coords="515,40,502,29,466,20,410,12,339,7,260,5,181,7,110,12,54,20,18,29,5,40,18,50,54,60,110,68,181,72,260,74,339,72,410,68,466,60,502,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1randomevent_1_1impl_1_1_mime_event.html#afe1f7e1bb53c51312f507683cb56ea85" title="Constructs a new MimeEvent." alt="" coords="1073,40,1060,29,1024,20,967,12,896,7,818,5,739,7,668,12,612,20,575,29,563,40,575,50,612,60,668,68,739,72,818,74,896,72,967,68,1024,60,1060,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="515,37,547,37,547,42,515,42"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.farming.patches.impl.FlowerPatch.plantForSeed" name="com.runehive.content.skill.impl.farming.patches.impl.FlowerPatch.plantForSeed">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1774,40,1761,29,1721,20,1659,12,1582,7,1496,5,1409,7,1332,12,1270,20,1230,29,1217,40,1230,50,1270,60,1332,68,1409,72,1496,74,1582,72,1659,68,1721,60,1761,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1impl_1_1_flower_patch.html#a9f7898a3825f422cad9b16e4f17376e1" title="Plants a scarecrow in this patch if the requirements are met." alt="" coords="1169,40,1155,29,1115,20,1054,12,976,7,890,5,804,7,726,12,664,20,625,29,611,40,625,50,664,60,726,68,804,72,890,74,976,72,1054,68,1115,60,1155,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1201,42,1169,42,1169,37,1201,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1impl_1_1_flower_patch.html#a158f2267889ed9439979898180d4450b" title=" " alt="" coords="563,40,549,29,510,20,448,12,370,7,284,5,198,7,120,12,59,20,19,29,5,40,19,50,59,60,120,68,198,72,284,74,370,72,448,68,510,60,549,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="595,42,564,42,564,37,595,37"/>
+</map>

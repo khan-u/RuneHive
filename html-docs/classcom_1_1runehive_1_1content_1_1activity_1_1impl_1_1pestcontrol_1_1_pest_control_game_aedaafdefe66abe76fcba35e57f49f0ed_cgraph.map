@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.pestcontrol.PestControlGame.onRegionChange" name="com.runehive.content.activity.impl.pestcontrol.PestControlGame.onRegionChange">
+<area shape="poly" id="Node000001" title="Called when the player changes region." alt="" coords="494,86,482,76,447,66,393,59,325,54,250,52,174,54,106,59,52,66,17,76,5,86,17,97,52,107,106,114,174,119,250,121,325,119,393,114,447,107,482,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html#ac29258e5660404fd6cf1b479d166eb56" title=" " alt="" coords="921,40,912,29,885,20,843,12,790,7,731,5,673,7,620,12,578,20,551,29,542,40,551,50,578,60,620,68,673,72,731,74,790,72,843,68,885,60,912,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="452,64,548,55,548,60,453,69"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_group_activity.html#a5b04aa9051dd16268524558c97e3f4fc" title="Removes an activity from the activities group." alt="" coords="894,133,886,122,863,113,827,105,782,100,731,99,681,100,636,105,600,113,577,122,569,133,577,144,600,153,636,161,681,166,731,167,782,166,827,161,863,153,886,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="453,103,568,115,567,120,452,109"/>
+</map>

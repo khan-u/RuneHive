@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.maxhit.RangeMaxHit.getRangedlevel" name="com.runehive.game.world.entity.combat.maxhit.RangeMaxHit.getRangedlevel">
+<area shape="poly" id="Node000001" title=" " alt="" coords="509,64,497,53,461,44,405,36,335,31,257,29,179,31,109,36,53,44,18,53,5,64,18,74,53,84,109,92,179,96,257,98,335,96,405,92,461,84,497,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a413f91a2ac68dc4f5d610c7195caf347" title="Gets the level of a skill." alt="" coords="955,64,945,53,917,44,873,36,818,31,756,29,695,31,639,36,595,44,567,53,557,64,567,74,595,84,639,92,695,96,756,98,818,96,873,92,917,84,945,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,61,542,61,542,66,510,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="662,33,662,21,678,11,710,5,756,3,813,6,844,16,843,21,812,12,756,8,710,10,680,16,667,24,668,33"/>
+</map>

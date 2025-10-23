@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.mining.MiningAction.mine" name="com.runehive.content.skill.impl.mining.MiningAction.mine">
+<area shape="poly" id="Node000001" title=" " alt="" coords="889,40,878,29,849,20,803,12,744,7,680,5,615,7,557,12,511,20,481,29,471,40,481,50,511,60,557,68,615,72,680,74,744,72,803,68,849,60,878,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1mining_1_1_mining_action.html#ab6b9535d58e072a1376696ea5180f5c1" title="A function representing the unit of work that will be carried out." alt="" coords="423,40,413,29,383,20,337,12,279,7,214,5,150,7,91,12,45,20,16,29,5,40,16,50,45,60,91,68,150,72,214,74,279,72,337,68,383,60,413,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="455,42,423,42,423,37,455,37"/>
+</map>

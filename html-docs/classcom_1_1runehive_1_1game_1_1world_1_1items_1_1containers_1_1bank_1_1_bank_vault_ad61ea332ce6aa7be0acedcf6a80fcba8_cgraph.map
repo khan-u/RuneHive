@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.items.containers.bank.BankVault.add" name="com.runehive.game.world.items.containers.bank.BankVault.add">
+<area shape="poly" id="Node000001" title="Adds an amount into the player&#39;s bank vault with no checks." alt="" coords="525,64,512,53,475,44,418,36,345,31,265,29,185,31,112,36,55,44,18,53,5,64,18,74,55,84,112,92,185,96,265,98,345,96,418,92,475,84,512,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="166,31,168,20,186,11,218,5,265,3,323,6,356,15,354,20,322,11,265,8,219,10,188,16,173,23,171,32"/>
+</map>

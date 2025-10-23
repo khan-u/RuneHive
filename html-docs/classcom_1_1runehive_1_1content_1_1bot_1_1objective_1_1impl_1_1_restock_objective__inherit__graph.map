@@ -1,0 +1,5 @@
+<map id="com.runehive.content.bot.objective.impl.RestockObjective" name="com.runehive.content.bot.objective.impl.RestockObjective">
+<area shape="poly" id="Node000001" title=" " alt="" coords="437,157,427,146,396,136,348,129,288,124,221,122,155,124,94,129,47,136,16,146,5,157,16,167,47,177,94,184,155,189,221,191,288,189,348,184,396,177,427,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1bot_1_1objective_1_1_bot_objective_listener.html" title=" " alt="" coords="413,40,404,29,376,20,334,12,281,7,221,5,162,7,108,12,66,20,39,29,29,40,39,50,66,60,108,68,162,72,221,74,281,72,334,68,376,60,404,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,90,224,122,219,122,219,90"/>
+</map>

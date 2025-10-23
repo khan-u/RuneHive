@@ -1,0 +1,7 @@
+var _venenatis_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.Venenatis", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_venenatis.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_venenatis" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.Venenatis.Magic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_venenatis_1_1_magic.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_venenatis_1_1_magic" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.Venenatis.PrayerDrain", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_venenatis_1_1_prayer_drain.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_venenatis_1_1_prayer_drain" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.Venenatis.Web", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_venenatis_1_1_web.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_venenatis_1_1_web" ]
+];

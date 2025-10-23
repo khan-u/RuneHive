@@ -1,0 +1,8 @@
+<map id="com.runehive.util.StringUtils.hashArchive" name="com.runehive.util.StringUtils.hashArchive">
+<area shape="poly" id="Node000001" title="Hashes a String using Jagex&#39;s algorithm, this method should be used to convert actual names to hashed..." alt="" coords="272,64,265,53,246,44,217,36,180,31,139,29,97,31,60,36,31,44,12,53,5,64,12,74,31,84,60,92,97,96,139,98,180,96,217,92,246,84,265,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_string_utils.html#aef6f289aabb7940ede7050e28df33fda" title="Hashes a String using Jagex&#39;s algorithm, this method should be used to convert actual names to hashed..." alt="" coords="586,64,580,53,561,44,531,36,494,31,453,29,412,31,375,36,345,44,326,53,320,64,326,74,345,84,375,92,412,96,453,98,494,96,531,92,561,84,580,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,61,304,61,304,66,272,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_string_utils.html#ac78c213aaca74151e97754eab7c02214" title="Hashes a given string input." alt="" coords="900,64,894,53,875,44,845,36,808,31,767,29,726,31,689,36,659,44,641,53,634,64,641,74,659,84,689,92,726,96,767,98,808,96,845,92,875,84,894,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="586,61,618,61,618,66,586,66"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="707,32,707,21,718,11,738,5,767,3,803,6,823,16,821,20,802,11,767,8,739,10,720,16,712,23,712,33"/>
+</map>

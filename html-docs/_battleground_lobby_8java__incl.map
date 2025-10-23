@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/activity/impl/battleground/BattlegroundLobby.java" name="java/com/runehive/content/activity/impl/battleground/BattlegroundLobby.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="548,53,541,38,520,25,487,14,446,8,401,5,356,8,315,14,283,25,262,38,255,53,262,68,283,81,315,92,356,99,401,101,446,99,487,92,520,81,541,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="389,183,380,173,352,163,310,156,256,151,197,149,138,151,84,156,42,163,15,173,5,183,15,194,42,204,84,211,138,216,197,218,256,216,310,211,352,204,380,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="336,99,263,144,260,140,333,94"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="797,183,788,173,760,163,718,156,664,151,605,149,546,151,492,156,450,163,423,173,413,183,423,194,450,204,492,211,546,216,605,218,664,216,718,211,760,204,788,194"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="469,94,543,140,540,144,467,99"/>
+</map>

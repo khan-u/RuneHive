@@ -1,0 +1,6 @@
+<map id="com.runehive.fs.util.ByteBufferUtil.getJString" name="com.runehive.fs.util.ByteBufferUtil.getJString">
+<area shape="poly" id="Node000001" title="Gets a newline&#45;terminated String from the specified ByteBuffer." alt="" coords="280,64,273,53,254,44,224,36,185,31,143,29,100,31,62,36,32,44,12,53,5,64,12,74,32,84,62,92,100,96,143,98,185,96,224,92,254,84,273,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1fs_1_1util_1_1_byte_buffer_util.html#aa01563a1093496bdbbb4f3dcbc62bb28" title="Gets a null&#45;terminated String from the specified ByteBuffer." alt="" coords="603,64,596,53,577,44,546,36,508,31,466,29,423,31,385,36,354,44,335,53,328,64,335,74,354,84,385,92,423,96,466,98,508,96,546,92,577,84,596,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,61,313,61,313,66,281,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="404,32,404,21,415,11,435,5,466,3,502,6,523,16,521,21,501,11,466,8,436,10,418,16,409,23,409,33"/>
+</map>

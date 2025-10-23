@@ -1,0 +1,7 @@
+<map id="com.runehive.content.emote.EmoteHandler.selectRandom" name="com.runehive.content.emote.EmoteHandler.selectRandom">
+<area shape="poly" id="Node000001" title=" " alt="" coords="331,86,323,76,300,66,264,59,219,54,168,52,118,54,72,59,36,66,13,76,5,86,13,97,36,107,72,114,118,119,168,121,219,119,264,114,300,107,323,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1emote_1_1_emote_handler.html#a1cc341985456064a34bbc9942551dfaa" title=" " alt="" coords="710,40,703,29,680,20,645,12,600,7,551,5,502,7,457,12,422,20,400,29,392,40,400,50,422,60,457,68,502,72,551,74,600,72,645,68,680,60,703,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="310,67,397,56,397,61,310,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a6b7f2d3477a5cc439ea612233a45ce0b" title="Picks a random element out of any array type." alt="" coords="723,133,715,122,690,113,652,105,604,100,551,99,498,100,450,105,412,113,387,122,379,133,387,144,412,153,450,161,498,166,551,167,604,166,652,161,690,153,715,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="310,101,389,111,388,116,310,106"/>
+</map>

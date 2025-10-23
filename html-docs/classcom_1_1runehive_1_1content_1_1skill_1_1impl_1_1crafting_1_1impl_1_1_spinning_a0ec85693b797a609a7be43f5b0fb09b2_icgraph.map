@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.crafting.impl.Spinning.spin" name="com.runehive.content.skill.impl.crafting.impl.Spinning.spin">
+<area shape="poly" id="Node000001" title="The spinnable action." alt="" coords="1987,40,1975,29,1942,20,1890,12,1824,7,1751,5,1678,7,1613,12,1560,20,1527,29,1515,40,1527,50,1560,60,1613,68,1678,72,1751,74,1824,72,1890,68,1942,60,1975,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1impl_1_1_spinning.html#a83f92ed5f2490fd9a5df3f3d93973c85" title="Opens the spinnable dialogue." alt="" coords="1467,40,1456,29,1422,20,1370,12,1305,7,1232,5,1159,7,1093,12,1041,20,1008,29,996,40,1008,50,1041,60,1093,68,1159,72,1232,74,1305,72,1370,68,1422,60,1456,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1500,42,1468,42,1468,37,1500,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1impl_1_1_spinning.html#a45b2661e330d71cfd5159b4f1b6cc421" title="Handles opening the spinning dialogue." alt="" coords="948,40,937,29,903,20,851,12,785,7,712,5,640,7,574,12,522,20,488,29,477,40,488,50,522,60,574,68,640,72,712,74,785,72,851,68,903,60,937,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="980,42,949,42,949,37,980,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#a6c09c0e90ff9b04e8f14f7e12b9e0b7a" title=" " alt="" coords="429,40,418,29,388,20,341,12,282,7,217,5,152,7,93,12,46,20,16,29,5,40,16,50,46,60,93,68,152,72,217,74,282,72,341,68,388,60,418,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="461,42,429,42,429,37,461,37"/>
+</map>

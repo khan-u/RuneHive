@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.attack.FormulaFactory.rollOffensive" name="com.runehive.game.world.entity.combat.attack.FormulaFactory.rollOffensive">
+<area shape="poly" id="Node000001" title=" " alt="" coords="502,40,490,29,455,20,400,12,331,7,254,5,177,7,108,12,53,20,17,29,5,40,17,50,53,60,108,68,177,72,254,74,331,72,400,68,455,60,490,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a385dc0248234fddaae1b093594d7bf58" title="The combat of the mob." alt="" coords="952,40,942,29,914,20,869,12,813,7,751,5,689,7,633,12,589,20,560,29,550,40,560,50,589,60,633,68,689,72,751,74,813,72,869,68,914,60,942,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="503,37,535,37,535,42,503,42"/>
+</map>

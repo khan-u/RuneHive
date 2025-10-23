@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.woodcutting.Woodcutting.getBonus" name="com.runehive.content.skill.impl.woodcutting.Woodcutting.getBonus">
+<area shape="poly" id="Node000001" title=" " alt="" coords="923,40,911,29,878,20,825,12,760,7,687,5,614,7,548,12,496,20,463,29,451,40,463,50,496,60,548,68,614,72,687,74,760,72,825,68,878,60,911,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a8fb0667be1e14a9964056dbbd6b3eed8" title="Adds experience to a given skill." alt="" coords="403,40,393,29,365,20,321,12,266,7,204,5,143,7,87,12,43,20,15,29,5,40,15,50,43,60,87,68,143,72,204,74,266,72,321,68,365,60,393,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,42,404,42,404,37,436,37"/>
+</map>

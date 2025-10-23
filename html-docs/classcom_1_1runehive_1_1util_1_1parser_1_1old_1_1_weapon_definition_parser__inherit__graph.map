@@ -1,0 +1,9 @@
+<map id="com.runehive.util.parser.old.WeaponDefinitionParser" name="com.runehive.util.parser.old.WeaponDefinitionParser">
+<area shape="poly" id="Node000001" title=" " alt="" coords="317,363,309,353,287,343,253,336,209,331,161,329,113,331,70,336,35,343,13,353,5,363,13,374,35,384,70,391,113,396,161,398,209,396,253,391,287,384,309,374"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_gson_parser.html" title="This class provides an easy to use google gson parser specifically designed for parsing JSON files." alt="" coords="299,247,292,236,272,226,242,219,204,214,161,212,119,214,80,219,50,226,30,236,24,247,30,257,50,267,80,274,119,279,161,281,204,279,242,274,272,267,292,257"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,297,164,329,158,329,158,297"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_generic_parser.html" title="Represents an abstract parser." alt="" coords="299,130,292,119,272,109,242,102,204,97,161,95,119,97,80,102,50,109,30,119,24,130,30,140,50,150,80,158,119,162,161,164,204,162,242,158,272,150,292,140"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="164,180,164,212,158,212,158,180"/>
+<area shape="poly" id="Node000004" title=" " alt="" coords="226,26,223,20,213,14,199,9,181,6,161,5,141,6,123,9,109,14,100,20,97,26,100,33,109,39,123,43,141,46,161,47,181,46,199,43,213,39,223,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="164,63,164,95,158,95,158,63"/>
+</map>

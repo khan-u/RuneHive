@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.magic.MagicImpact.getEffect" name="com.runehive.game.world.entity.combat.magic.MagicImpact.getEffect">
+<area shape="poly" id="Node000001" title=" " alt="" coords="883,40,871,29,835,20,780,12,711,7,634,5,557,7,487,12,432,20,397,29,385,40,397,50,432,60,487,68,557,72,634,74,711,72,780,68,835,60,871,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1parser_1_1impl_1_1_combat_projectile_parser.html#a46c0981e73aa90a386e430b65046a543" title="The method allows a user to modify the data as its being parsed." alt="" coords="337,40,329,29,305,20,268,12,222,7,171,5,120,7,74,12,37,20,13,29,5,40,13,50,37,60,74,68,120,72,171,74,222,72,268,68,305,60,329,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="369,42,337,42,337,37,369,37"/>
+</map>

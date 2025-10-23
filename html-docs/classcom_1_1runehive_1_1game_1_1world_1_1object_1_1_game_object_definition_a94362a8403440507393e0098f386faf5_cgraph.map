@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.object.GameObjectDefinition.addDefinition" name="com.runehive.game.world.object.GameObjectDefinition.addDefinition">
+<area shape="poly" id="Node000001" title="Adds a definition." alt="" coords="398,40,388,29,360,20,317,12,262,7,201,5,141,7,86,12,43,20,15,29,5,40,15,50,43,60,86,68,141,72,201,74,262,72,317,68,360,60,388,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_game_object_definition.html#a759bf0a4530cdae9a23f33030801d8f5" title="Creates the definition." alt="" coords="925,40,914,29,880,20,827,12,760,7,685,5,611,7,544,12,491,20,457,29,446,40,457,50,491,60,544,68,611,72,685,74,760,72,827,68,880,60,914,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="398,37,430,37,430,42,398,42"/>
+</map>

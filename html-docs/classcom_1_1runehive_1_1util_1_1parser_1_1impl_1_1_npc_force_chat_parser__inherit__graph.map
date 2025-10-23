@@ -1,0 +1,9 @@
+<map id="com.runehive.util.parser.impl.NpcForceChatParser" name="com.runehive.util.parser.impl.NpcForceChatParser">
+<area shape="poly" id="Node000001" title="Parses through the npc spawn file and creates Npcs on startup." alt="" coords="328,363,320,353,297,343,262,336,217,331,167,329,117,331,72,336,36,343,13,353,5,363,13,374,36,384,72,391,117,396,167,398,217,396,262,391,297,384,320,374"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_gson_parser.html" title="This class provides an easy to use google gson parser specifically designed for parsing JSON files." alt="" coords="304,247,297,236,278,226,248,219,209,214,167,212,124,214,86,219,56,226,36,236,29,247,36,257,56,267,86,274,124,279,167,281,209,279,248,274,278,267,297,257"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,297,169,329,164,329,164,297"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_generic_parser.html" title="Represents an abstract parser." alt="" coords="304,130,297,119,278,109,248,102,209,97,167,95,124,97,86,102,56,109,36,119,29,130,36,140,56,150,86,158,124,162,167,164,209,162,248,158,278,150,297,140"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="169,180,169,212,164,212,164,180"/>
+<area shape="poly" id="Node000004" title=" " alt="" coords="231,26,228,20,219,14,205,9,187,6,167,5,147,6,129,9,115,14,105,20,102,26,105,33,115,39,129,43,147,46,167,47,187,46,205,43,219,39,228,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="169,63,169,95,164,95,164,63"/>
+</map>

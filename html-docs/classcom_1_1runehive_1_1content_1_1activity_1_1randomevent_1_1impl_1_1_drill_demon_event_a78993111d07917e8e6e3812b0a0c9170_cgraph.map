@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.randomevent.impl.DrillDemonEvent.clickNpc" name="com.runehive.content.activity.randomevent.impl.DrillDemonEvent.clickNpc">
+<area shape="poly" id="Node000001" title=" " alt="" coords="515,86,502,76,466,66,410,59,339,54,260,52,181,54,110,59,54,66,18,76,5,86,18,97,54,107,110,114,181,119,260,121,339,119,410,114,466,107,502,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1randomevent_1_1impl_1_1_drill_demon_event.html#a96c592cde12b81c2f0fed36745f2ad0d" title="The event npc identification." alt="" coords="1073,40,1060,29,1024,20,967,12,896,7,818,5,739,7,668,12,612,20,575,29,563,40,575,50,612,60,668,68,739,72,818,74,896,72,967,68,1024,60,1060,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="478,66,584,57,585,62,478,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#acbfce600b13e1f2629e4eb5835f34ea0" title="Sets the cooldown flag to FINISH." alt="" coords="980,133,972,122,949,113,913,105,868,100,818,99,768,100,722,105,687,113,663,122,656,133,663,144,687,153,722,161,768,166,818,167,868,166,913,161,949,153,972,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="478,102,651,117,651,122,478,107"/>
+</map>

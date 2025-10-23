@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.combat.strategy.basic.RangedStrategy.addCombatExperience" name="com.runehive.game.world.entity.combat.strategy.basic.RangedStrategy.addCombatExperience">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1351,133,1337,122,1296,113,1233,105,1153,100,1064,99,975,100,895,105,831,113,791,122,776,133,791,144,831,153,895,161,975,166,1064,167,1153,166,1233,161,1296,153,1337,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1custom_1_1_toxic_blowpipe_strategy.html#a54651eeed167672d81ac661783217bb7" title=" " alt="" coords="697,40,681,29,634,20,561,12,469,7,367,5,265,7,173,12,100,20,53,29,37,40,53,50,100,60,173,68,265,72,367,74,469,72,561,68,634,60,681,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="860,107,728,89,578,69,579,64,729,84,861,102"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1_player_ranged_strategy.html#aa7f52cd37bfd20a543955d00fe6e2962" title=" " alt="" coords="658,133,644,122,602,113,538,105,457,100,367,99,277,100,196,105,132,113,90,122,76,133,90,144,132,153,196,161,277,166,367,167,457,166,538,161,602,153,644,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="761,136,658,136,658,130,761,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1range_1_1_blowpipe.html#a94c350b5f94cdbe9874cd38d24278e2d" title=" " alt="" coords="728,226,711,216,659,206,579,199,479,194,367,192,255,194,154,199,74,206,23,216,5,226,23,237,74,247,154,254,255,259,367,261,479,259,579,254,659,247,711,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="861,164,729,182,586,201,586,196,728,177,860,159"/>
+</map>

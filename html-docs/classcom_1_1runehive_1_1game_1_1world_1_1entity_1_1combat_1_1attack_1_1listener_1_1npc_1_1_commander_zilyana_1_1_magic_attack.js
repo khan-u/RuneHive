@@ -1,0 +1,7 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_commander_zilyana_1_1_magic_attack =
+[
+    [ "MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_commander_zilyana_1_1_magic_attack.html#ab21492bb52eb3c8d9e63675ea9b98ed9", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_commander_zilyana_1_1_magic_attack.html#a8ea5283d333e6a7d2f6f8b604987fdce", null ],
+    [ "hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_commander_zilyana_1_1_magic_attack.html#ad486a42a93b9f97616d7c608e5d1cbdc", null ],
+    [ "start", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_commander_zilyana_1_1_magic_attack.html#a3488edb3dd253400f58a6debf279d124", null ]
+];

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.fletching.Fletching.modifier" name="com.runehive.content.skill.impl.fletching.Fletching.modifier">
+<area shape="poly" id="Node000001" title=" " alt="" coords="923,40,912,29,881,20,833,12,772,7,705,5,638,7,578,12,529,20,499,29,488,40,499,50,529,60,578,68,638,72,705,74,772,72,833,68,881,60,912,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1fletching_1_1_fletching.html#a7b100ccdc43fe5e772aff2e3d96abe57" title=" " alt="" coords="440,40,429,29,398,20,350,12,290,7,223,5,155,7,95,12,47,20,16,29,5,40,16,50,47,60,95,68,155,72,223,74,290,72,350,68,398,60,429,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="472,42,440,42,440,37,472,37"/>
+</map>

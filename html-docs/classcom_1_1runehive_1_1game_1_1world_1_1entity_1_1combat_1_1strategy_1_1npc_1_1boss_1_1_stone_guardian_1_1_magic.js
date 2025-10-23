@@ -1,0 +1,5 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_stone_guardian_1_1_magic =
+[
+    [ "Magic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_stone_guardian_1_1_magic.html#a515bb466d49b652d51b6aa2eb4a2e18f", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_stone_guardian_1_1_magic.html#a084ae62f72bf6b79a8be4f86b51a65c8", null ]
+];

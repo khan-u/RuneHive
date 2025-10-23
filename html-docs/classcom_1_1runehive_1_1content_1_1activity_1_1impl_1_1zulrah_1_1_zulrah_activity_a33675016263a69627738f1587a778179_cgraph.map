@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.zulrah.ZulrahActivity.getCloudPosition" name="com.runehive.content.activity.impl.zulrah.ZulrahActivity.getCloudPosition">
+<area shape="poly" id="Node000001" title="Gets the cloud position." alt="" coords="446,40,435,29,404,20,355,12,294,7,225,5,157,7,96,12,47,20,16,29,5,40,16,50,47,60,96,68,157,72,225,74,294,72,355,68,404,60,435,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a6b7f2d3477a5cc439ea612233a45ce0b" title="Picks a random element out of any array type." alt="" coords="838,40,829,29,805,20,767,12,719,7,666,5,613,7,565,12,526,20,502,29,494,40,502,50,526,60,565,68,613,72,666,74,719,72,767,68,805,60,829,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,37,478,37,478,42,446,42"/>
+</map>

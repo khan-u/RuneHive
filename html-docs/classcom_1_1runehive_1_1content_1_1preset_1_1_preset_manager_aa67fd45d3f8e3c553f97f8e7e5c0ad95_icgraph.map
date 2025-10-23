@@ -1,0 +1,14 @@
+<map id="com.runehive.content.preset.PresetManager.open" name="com.runehive.content.preset.PresetManager.open">
+<area shape="poly" id="Node000001" title="Opens the preset to the last viewed slot." alt="" coords="1057,180,1050,169,1027,160,992,152,947,147,898,145,849,147,804,152,769,160,746,169,739,180,746,190,769,200,804,208,849,212,898,214,947,212,992,208,1027,200,1050,190"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="961,137,938,127,898,124,865,126,843,132,833,139,833,149,828,148,828,137,841,127,864,121,898,119,940,122,963,132"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1preset_1_1_preset_manager.html#ac3b527c952699afe6b9554ec03bea2c8" title="Checks if the preset is valid." alt="" coords="691,180,683,169,660,160,625,152,581,147,531,145,482,147,438,152,402,160,380,169,372,180,380,190,402,200,438,208,482,212,531,214,581,212,625,208,660,200,683,190"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="723,182,691,182,691,177,723,177"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1preset_1_1_preset_manager.html#ad341cefcec9026a5e01e1f68e879e21c" title="Activates the preset." alt="" coords="324,40,316,29,294,20,258,12,214,7,165,5,115,7,71,12,36,20,13,29,5,40,13,50,36,60,71,68,115,72,165,74,214,72,258,68,294,60,316,50"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="451,144,323,89,265,69,267,64,325,84,453,139"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1preset_1_1_preset_manager.html#a14e91ee95d005942a3705ffbd3191861" title="Handles deleting the preset." alt="" coords="324,133,316,122,294,113,258,105,214,100,165,99,115,100,71,105,36,113,13,122,5,133,13,144,36,153,71,161,115,166,165,167,214,166,258,161,294,153,316,144"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="378,163,303,153,303,148,378,158"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1preset_1_1_preset_manager.html#a54851ab5597e0565496a2ccb086ed4e7" title="Opens the preset to a specific slot." alt="" coords="324,226,316,216,294,206,258,199,214,194,165,192,115,194,71,199,36,206,13,216,5,226,13,237,36,247,71,254,115,259,165,261,214,259,258,254,294,247,316,237"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="378,202,303,211,303,206,378,197"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1preset_1_1_preset_manager.html#a591d0b3d9cf806f1746fdd0c2e51761d" title="Handles uploading the preset content." alt="" coords="324,320,316,309,294,300,258,292,214,287,165,285,115,287,71,292,36,300,13,309,5,320,13,330,36,340,71,348,115,352,165,354,214,352,258,348,294,340,316,330"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="453,221,325,276,267,295,265,290,323,271,451,216"/>
+</map>

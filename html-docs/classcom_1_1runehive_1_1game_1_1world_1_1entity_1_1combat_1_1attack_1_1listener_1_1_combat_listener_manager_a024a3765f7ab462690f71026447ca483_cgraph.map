@@ -1,0 +1,12 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.CombatListenerManager.addListener" name="com.runehive.game.world.entity.combat.attack.listener.CombatListenerManager.addListener">
+<area shape="poly" id="Node000001" title=" " alt="" coords="580,133,566,122,525,113,462,105,381,100,293,99,204,100,124,105,60,113,19,122,5,133,19,144,60,153,124,161,204,166,293,167,381,166,462,161,525,153,566,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#aebdab14dd029dc2f4e35b60e677dfb97" title="Determines if this container contains all identifiers." alt="" coords="1094,40,1083,29,1050,20,999,12,934,7,862,5,791,7,726,12,674,20,641,29,630,40,641,50,674,60,726,68,791,72,862,74,934,72,999,68,1050,60,1083,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="464,102,689,65,690,71,465,108"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#ab45e9f23a35f49a620b43fa8508efa55" title="Determines if this container contains any identifiers." alt="" coords="1094,133,1083,122,1050,113,999,105,934,100,862,99,791,100,726,105,674,113,641,122,630,133,641,144,674,153,726,161,791,166,862,167,934,166,999,161,1050,153,1083,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="580,130,614,130,614,136,580,136"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#abf224666b7cf62d0ebd3020de51a55d9" title="The combat of the mob." alt="" coords="1097,226,1085,216,1052,206,1000,199,935,194,862,192,790,194,725,199,673,206,639,216,628,226,639,237,673,247,725,254,790,259,862,261,935,259,1000,254,1052,247,1085,237"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="465,159,689,195,688,201,464,164"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a8acf6f1c920076daea6c80e5afbe3404" title="Determines if this container contains id." alt="" coords="1609,86,1598,76,1565,66,1513,59,1448,54,1377,52,1305,54,1240,59,1189,66,1156,76,1145,86,1156,97,1189,107,1240,114,1305,119,1377,121,1448,119,1513,114,1565,107,1598,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1062,55,1162,64,1162,70,1061,60"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="1061,112,1162,103,1162,109,1062,118"/>
+</map>

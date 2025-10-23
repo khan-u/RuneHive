@@ -1,0 +1,13 @@
+<map id="com.runehive.content.activity.impl.CerberusActivity.onDeath" name="com.runehive.content.activity.impl.CerberusActivity.onDeath">
+<area shape="poly" id="Node000001" title="Called when the player die." alt="" coords="378,180,369,169,342,160,301,152,249,147,192,145,134,147,82,152,41,160,14,169,5,180,14,190,41,200,82,208,134,212,192,214,249,212,301,208,342,200,369,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1_cerberus_activity.html#ab1594793a4f7a0688a51bcc14c8758f9" title="Cleans up the activity when finished." alt="" coords="813,40,804,29,777,20,736,12,684,7,627,5,569,7,517,12,476,20,450,29,441,40,450,50,476,60,517,68,569,72,627,74,684,72,736,68,777,60,804,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,145,341,114,425,84,487,67,488,72,427,89,343,119,266,150"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a1bc291ddb555d1ee3a6a8b9bc1ee4a35" title=" " alt="" coords="828,133,818,122,789,113,745,105,689,100,627,99,565,100,509,105,464,113,436,122,426,133,436,144,464,153,509,161,565,166,627,167,689,166,745,161,789,153,818,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="353,160,440,150,440,156,354,165"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#ac7ddf988f32265b28e7af7283b406df1" title="Check if an entity is a player." alt="" coords="828,226,818,216,789,206,745,199,689,194,627,192,565,194,509,199,464,206,436,216,426,226,436,237,464,247,509,254,565,259,627,261,689,259,745,254,789,247,818,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="354,194,440,204,440,209,353,200"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a245edcc5b77cbc6d0a4aa8a0a0125d67" title="Submits a new event." alt="" coords="774,320,767,309,746,300,713,292,672,287,627,285,581,287,540,292,508,300,487,309,479,320,487,330,508,340,540,348,581,352,627,354,672,352,713,348,746,340,767,330"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="266,209,343,241,427,271,501,291,499,296,425,276,341,246,264,214"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a64f68055122aaf4af08787378c7ac356" title="Gets the EntityType." alt="" coords="1228,226,1220,216,1195,206,1156,199,1107,194,1052,192,998,194,949,199,910,206,884,216,876,226,884,237,910,247,949,254,998,259,1052,261,1107,259,1156,254,1195,247,1220,237"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="828,224,861,224,861,229,828,229"/>
+</map>

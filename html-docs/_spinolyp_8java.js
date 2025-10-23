@@ -1,0 +1,6 @@
+var _spinolyp_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.dagannoths.Spinolyp", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.dagannoths.Spinolyp.Magic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_magic.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_magic" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.dagannoths.Spinolyp.Ranged", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_ranged.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_ranged" ]
+];

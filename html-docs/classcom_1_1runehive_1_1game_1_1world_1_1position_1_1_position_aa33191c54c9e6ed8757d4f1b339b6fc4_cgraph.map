@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.position.Position.getLocalY" name="com.runehive.game.world.position.Position.getLocalY">
+<area shape="poly" id="Node000001" title="Gets the local y coordinate relative to this region." alt="" coords="385,64,376,53,349,44,307,36,254,31,195,29,136,31,84,36,42,44,15,53,5,64,15,74,42,84,84,92,136,96,195,98,254,96,307,92,349,84,376,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="122,31,124,20,137,11,161,5,195,3,237,6,261,15,259,20,236,11,195,8,161,10,139,16,128,23,127,32"/>
+</map>

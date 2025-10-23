@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.hunter.Hunter" name="com.runehive.content.skill.impl.hunter.Hunter">
+<area shape="poly" id="Node000001" title="Handles the hunter skill." alt="" coords="535,299,525,288,496,279,450,271,393,266,329,264,265,266,208,271,162,279,133,288,123,299,133,309,162,319,208,327,265,331,329,333,393,331,450,327,496,319,525,309"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html" title="Represents a trainable and usable skill." alt="" coords="528,181,518,170,490,160,446,153,391,148,329,146,268,148,212,153,168,160,140,170,130,181,140,191,168,201,212,208,268,213,329,215,391,213,446,208,490,201,518,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,231,332,264,326,264,326,231"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="317,40,309,29,287,20,253,12,209,7,161,5,113,7,70,12,35,20,13,29,5,40,13,50,35,60,70,68,113,72,161,74,209,72,253,68,287,60,309,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="214,81,291,145,288,149,211,85"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1_stopwatch.html" title=" " alt="" coords="654,40,646,33,624,27,589,23,545,20,497,19,449,20,405,23,371,27,348,33,341,40,348,46,371,52,405,57,449,60,497,61,545,60,589,57,624,52,646,46"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="463,73,370,149,367,145,460,68"/>
+</map>

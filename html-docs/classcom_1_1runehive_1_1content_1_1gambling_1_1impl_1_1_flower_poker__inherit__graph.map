@@ -1,0 +1,5 @@
+<map id="com.runehive.content.gambling.impl.FlowerPoker" name="com.runehive.content.gambling.impl.FlowerPoker">
+<area shape="poly" id="Node000001" title=" " alt="" coords="403,157,393,146,365,136,321,129,266,124,204,122,143,124,87,129,43,136,15,146,5,157,15,167,43,177,87,184,143,189,204,191,266,189,321,184,365,177,393,167"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble.html" title=" " alt="" coords="379,40,371,29,346,20,307,12,258,7,204,5,150,7,101,12,63,20,38,29,29,40,38,50,63,60,101,68,150,72,204,74,258,72,307,68,346,60,371,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,90,207,122,202,122,202,90"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.bot.botclass.impl.PureMelee.handleCombat" name="com.runehive.content.bot.botclass.impl.PureMelee.handleCombat">
+<area shape="poly" id="Node000001" title=" " alt="" coords="430,40,420,29,390,20,343,12,283,7,218,5,152,7,93,12,46,20,16,29,5,40,16,50,46,60,93,68,152,72,218,74,283,72,343,68,390,60,420,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer_book.html#ab410a6704bdd57b8f722a17f2d874a93" title="Checks if all given prayers are active." alt="" coords="948,40,937,29,903,20,851,12,786,7,713,5,640,7,575,12,523,20,490,29,478,40,490,50,523,60,575,68,640,72,713,74,786,72,851,68,903,60,937,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,37,463,37,463,42,430,42"/>
+</map>

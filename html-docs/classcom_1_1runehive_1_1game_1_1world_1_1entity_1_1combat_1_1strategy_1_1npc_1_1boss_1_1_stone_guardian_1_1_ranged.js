@@ -1,0 +1,5 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_stone_guardian_1_1_ranged =
+[
+    [ "Ranged", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_stone_guardian_1_1_ranged.html#a42a295be3416cab8bf080e243434a8b3", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_stone_guardian_1_1_ranged.html#ae3ccd3f2c8573825e9472772babd4f80", null ]
+];

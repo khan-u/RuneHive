@@ -1,0 +1,7 @@
+<map id="com.runehive.net.session.Session" name="com.runehive.net.session.Session">
+<area shape="poly" id="Node000001" title="Represents a session between a user and the server." alt="" coords="454,40,447,29,427,20,394,12,354,7,309,5,263,7,223,12,191,20,170,29,163,40,170,50,191,60,223,68,263,72,309,74,354,72,394,68,427,60,447,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1session_1_1_game_session.html" title="Represents a Session when a Player has been authenticated and active in the game world." alt="" coords="297,157,290,146,269,136,237,129,196,124,151,122,106,124,65,129,33,136,12,146,5,157,12,167,33,177,65,184,106,189,151,191,196,189,237,184,269,177,290,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,84,197,126,194,121,251,80"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1session_1_1_login_session.html" title="Represents a Session for authenticating users logging in." alt="" coords="613,157,606,146,585,136,553,129,512,124,467,122,422,124,381,129,349,136,328,146,321,157,328,167,349,177,381,184,422,189,467,191,512,189,553,184,585,177,606,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="366,79,424,121,421,125,363,84"/>
+</map>

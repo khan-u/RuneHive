@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.npc.drop.NpcDrop.toItem" name="com.runehive.game.world.entity.mob.npc.drop.NpcDrop.toItem">
+<area shape="poly" id="Node000001" title="Converts this NpcDrop to an item." alt="" coords="501,40,489,29,453,20,399,12,330,7,253,5,177,7,107,12,53,20,17,29,5,40,17,50,53,60,107,68,177,72,253,74,330,72,399,68,453,60,489,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_random_gen.html#abc530e024de89465a99af83d6fde0b9e" title="Returns a pseudo&#45;random int value between inclusive min and inclusive max." alt="" coords="842,40,835,29,814,20,782,12,741,7,695,5,650,7,609,12,577,20,556,29,549,40,556,50,577,60,609,68,650,72,695,74,741,72,782,68,814,60,835,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,37,533,37,533,42,501,42"/>
+</map>

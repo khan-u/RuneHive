@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.GroupActivity.cleanup" name="com.runehive.content.activity.GroupActivity.cleanup">
+<area shape="poly" id="Node000001" title="Cleans up the activity when finished." alt="" coords="761,40,753,29,730,20,695,12,649,7,599,5,549,7,504,12,468,20,445,29,437,40,445,50,468,60,504,68,549,72,599,74,649,72,695,68,730,60,753,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1lobby_1_1_lobby_manager.html#aca70241d469dcd0e98dfb814b089b83d" title=" " alt="" coords="389,40,380,29,352,20,310,12,256,7,197,5,138,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,138,72,197,74,256,72,310,68,352,60,380,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="422,42,389,42,389,37,422,37"/>
+</map>

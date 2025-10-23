@@ -1,0 +1,5 @@
+var _metalic_dragon_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.dragon.MetalicDragon", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_metalic_dragon.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_metalic_dragon" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.dragon.MetalicDragon.Dragonfire", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragona0795cb38dbfa93bd4a5562798ea3656.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragona0795cb38dbfa93bd4a5562798ea3656" ]
+];

@@ -1,0 +1,13 @@
+<map id="com.runehive.game.Projectile.setDuration" name="com.runehive.game.Projectile.setDuration">
+<area shape="poly" id="Node000001" title=" " alt="" coords="2263,86,2254,76,2228,66,2188,59,2137,54,2081,52,2024,54,1974,59,1933,66,1908,76,1899,86,1908,97,1933,107,1974,114,2024,119,2081,121,2137,119,2188,114,2228,107,2254,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1_projectile.html#a5403dfd9088aebd7b83e176b6b108889" title=" " alt="" coords="1764,40,1756,29,1732,20,1695,12,1648,7,1597,5,1545,7,1498,12,1461,20,1438,29,1430,40,1438,50,1461,60,1498,68,1545,72,1597,74,1648,72,1695,68,1732,60,1756,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1902,72,1749,57,1749,52,1903,67"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1ranged_1_1_ranged_ammunition.html#a3653e5d0bc4bf218212fc15ced7f4374" title=" " alt="" coords="1851,133,1838,122,1802,113,1746,105,1675,100,1597,99,1518,100,1447,105,1391,113,1355,122,1343,133,1355,144,1391,153,1447,161,1518,166,1597,167,1675,166,1746,161,1802,153,1838,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1903,106,1805,116,1805,110,1902,101"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1_player_ranged_strategy.html#ae9c625012254e6157087a10493c9b810" title=" " alt="" coords="1256,86,1241,76,1200,66,1136,59,1055,54,965,52,875,54,794,59,729,66,688,76,674,86,688,97,729,107,794,114,875,119,965,121,1055,119,1136,114,1200,107,1241,97"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1357,118,1213,107,1213,102,1357,113"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1custom_1_1_toxic_blowpipe_strategy.html#a54651eeed167672d81ac661783217bb7" title=" " alt="" coords="1295,180,1278,169,1232,160,1159,152,1067,147,965,145,863,147,771,152,698,160,651,169,635,180,651,190,698,200,771,208,863,212,965,214,1067,212,1159,208,1232,200,1278,190"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1357,153,1236,162,1235,157,1357,148"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1_player_ranged_strategy.html#aa7f52cd37bfd20a543955d00fe6e2962" title=" " alt="" coords="587,86,573,76,531,66,467,59,386,54,296,52,206,54,125,59,61,66,20,76,5,86,20,97,61,107,125,114,206,119,296,121,386,119,467,114,531,107,573,97"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="658,89,587,89,587,84,658,84"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.ProjectileTest" name="com.runehive.game.ProjectileTest">
+<area shape="poly" id="Node000001" title=" " alt="" coords="380,210,371,203,345,197,304,193,252,190,195,189,138,190,86,193,46,197,19,203,10,210,19,216,46,222,86,227,138,230,195,231,252,230,304,227,345,222,371,216"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="385,40,376,29,349,20,307,12,254,7,195,5,136,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,136,72,195,74,254,72,307,68,349,60,376,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,90,198,188,192,188,192,90"/>
+</map>

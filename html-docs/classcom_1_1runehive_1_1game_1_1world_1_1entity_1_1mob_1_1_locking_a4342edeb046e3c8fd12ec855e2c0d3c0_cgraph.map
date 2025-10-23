@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.Locking.lock" name="com.runehive.game.world.entity.mob.Locking.lock">
+<area shape="poly" id="Node000001" title="Locks the mob for a certain amount of time." alt="" coords="407,40,398,29,369,20,325,12,269,7,206,5,144,7,88,12,44,20,15,29,5,40,15,50,44,60,88,68,144,72,206,74,269,72,325,68,369,60,398,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1data_1_1_lock_type.html#a52a1f487bc7a00a00d46c9b7cefea806" title="Handles the execution of the lock." alt="" coords="907,40,896,29,864,20,814,12,751,7,681,5,611,7,549,12,499,20,466,29,455,40,466,50,499,60,549,68,611,72,681,74,751,72,814,68,864,60,896,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,37,440,37,440,42,408,42"/>
+</map>

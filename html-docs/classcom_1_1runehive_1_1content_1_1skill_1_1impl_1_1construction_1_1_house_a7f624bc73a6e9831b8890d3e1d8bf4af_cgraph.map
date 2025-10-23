@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.construction.House.location" name="com.runehive.content.skill.impl.construction.House.location">
+<area shape="poly" id="Node000001" title=" " alt="" coords="477,133,465,122,432,113,380,105,314,100,241,99,168,100,102,105,50,113,17,122,5,133,17,144,50,153,102,161,168,166,241,167,314,166,380,161,432,153,465,144"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1construction_1_1_buildable_map.html#ae6d8d071538df996354ab6ffffcfb2c6" title=" " alt="" coords="996,40,985,29,951,20,899,12,833,7,760,5,688,7,622,12,570,20,536,29,525,40,536,50,570,60,622,68,688,72,760,74,833,72,899,68,951,60,985,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="391,103,594,67,595,72,392,109"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1construction_1_1_buildable_map.html#abdc48374d4111cda20302ef9eb43734c" title=" " alt="" coords="996,133,985,122,951,113,899,105,833,100,760,99,688,100,622,105,570,113,536,122,525,133,536,144,570,153,622,161,688,166,760,167,833,166,899,161,951,153,985,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="477,130,509,130,509,136,477,136"/>
+<area shape="poly" id="Node000004" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1construction_1_1_buildable_map.html#a51f8b9b6ddb826706a916bf05b89602f" title=" " alt="" coords="996,226,985,216,951,206,899,199,833,194,760,192,688,194,622,199,570,206,536,216,525,226,536,237,570,247,622,254,688,259,760,261,833,259,899,254,951,247,985,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="392,157,595,194,594,199,391,163"/>
+</map>

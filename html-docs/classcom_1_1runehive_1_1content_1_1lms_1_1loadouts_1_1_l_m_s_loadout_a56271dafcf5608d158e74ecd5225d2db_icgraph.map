@@ -1,0 +1,15 @@
+<map id="com.runehive.content.lms.loadouts.LMSLoadout.getInventory" name="com.runehive.content.lms.loadouts.LMSLoadout.getInventory">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1769,86,1760,76,1732,66,1690,59,1637,54,1577,52,1518,54,1464,59,1422,66,1395,76,1385,86,1395,97,1422,107,1464,114,1518,119,1577,121,1637,119,1690,114,1732,107,1760,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1lms_1_1_l_m_s_game.html#a9a7a40fe5ba71a5710100cde5a6cf6b7" title="Handles resupplying the killer." alt="" coords="1291,40,1284,29,1264,20,1231,12,1191,7,1145,5,1100,7,1060,12,1027,20,1007,29,1000,40,1007,50,1027,60,1060,68,1100,72,1145,74,1191,72,1231,68,1264,60,1284,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1397,70,1279,57,1279,51,1397,64"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1lms_1_1loadouts_1_1_l_m_s_loadout.html#adac73041060ec66cb5ef1313e83986a0" title=" " alt="" coords="1337,133,1328,122,1301,113,1258,105,1205,100,1145,99,1086,100,1033,105,990,113,963,122,954,133,963,144,990,153,1033,161,1086,166,1145,167,1205,166,1258,161,1301,153,1328,144"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1397,109,1311,118,1311,113,1396,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1lms_1_1_l_m_s_game.html#aebeeaee0a72460b1b123abae0679478a" title="Handles the killers stuff." alt="" coords="860,40,853,29,832,20,800,12,759,7,714,5,669,7,628,12,596,20,575,29,568,40,575,50,596,60,628,68,669,72,714,74,759,72,800,68,832,60,853,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="985,42,860,42,860,37,985,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_death.html#ad6c4804a8da435f521db971bcb2481c5" title="The main part of the death process where the killer is found for the character." alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="553,42,474,42,474,37,553,37"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1lms_1_1loadouts_1_1_l_m_s_loadout_manager.html#a40f946c4283cae374013d0278e8de693" title=" " alt="" coords="906,133,896,122,869,113,827,105,773,100,714,99,654,100,601,105,559,113,531,122,522,133,531,144,559,153,601,161,654,166,714,167,773,166,827,161,869,153,896,144"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="938,136,906,136,906,130,938,130"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1_rune_hive.html#ab9a24653997a7d8bb955f26c59b7f8ea" title=" " alt="" coords="400,133,393,127,370,121,334,116,289,113,240,112,190,113,145,116,110,121,87,127,79,133,87,140,110,145,145,150,190,153,240,154,289,153,334,150,370,145,393,140"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="506,136,401,136,401,130,506,130"/>
+</map>

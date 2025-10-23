@@ -1,0 +1,20 @@
+<map id="com.runehive.content.gambling.GambleManager.getGame" name="com.runehive.content.gambling.GambleManager.getGame">
+<area shape="poly" id="Node000001" title=" " alt="" coords="2042,104,2034,93,2009,84,1970,76,1922,71,1868,69,1813,71,1765,76,1726,84,1701,93,1693,104,1701,114,1726,124,1765,132,1813,136,1868,138,1922,136,1970,132,2009,124,2034,114"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#a86dc8e6d9f3894f05fc93cbd4f510b13" title="Handles accepting the gamble." alt="" coords="1247,45,1238,34,1213,25,1175,17,1126,12,1072,11,1018,12,969,17,930,25,906,34,897,45,906,56,930,65,969,73,1018,78,1072,80,1126,78,1175,73,1213,65,1238,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1784,68,1717,43,1644,24,1530,11,1415,9,1305,15,1208,26,1207,20,1304,10,1414,4,1531,5,1645,18,1718,38,1786,63"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#a0476905b09dba8a2240d0fdd26a92fc2" title="Handles finishing up a automated gamble." alt="" coords="1247,164,1238,153,1213,144,1175,136,1126,131,1072,129,1018,131,969,136,930,144,906,153,897,164,906,174,930,184,969,192,1018,196,1072,198,1126,196,1175,192,1213,184,1238,174"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1689,120,1236,154,1236,149,1688,115"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#a27953e9535aaeefb93ac4852cd18286f" title="Handles giving the players the winnings or returning the items when its a draw." alt="" coords="1645,212,1636,201,1611,192,1573,184,1524,179,1470,177,1416,179,1367,184,1328,192,1303,201,1295,212,1303,222,1328,232,1367,240,1416,244,1470,246,1524,244,1573,240,1611,232,1636,222"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="1749,138,1575,186,1573,181,1748,133"/>
+<area shape="poly" id="Node000008" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#ac800b2d841ee80d824c83068884d387d" title="Handles starting the gamble." alt="" coords="1645,68,1636,57,1611,48,1573,40,1524,35,1470,33,1416,35,1367,40,1328,48,1303,57,1295,68,1303,78,1328,88,1367,96,1416,100,1470,102,1524,100,1573,96,1611,88,1636,78"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="1692,91,1629,85,1630,80,1693,85"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1impl_1_1_fifty_five.html#af5f6ed4cea71bfd23632adf9edf4a934" title=" " alt="" coords="849,92,839,81,811,72,767,64,712,59,650,57,589,59,533,64,489,72,461,81,451,92,461,102,489,112,533,120,589,124,650,126,712,124,767,120,811,112,839,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="923,141,793,119,794,114,924,136"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1impl_1_1_flower_poker.html#a76fa8a3673c57c4ff3454dfbb7f67fd4" title=" " alt="" coords="403,200,393,189,365,180,321,172,266,167,204,165,143,167,87,172,43,180,15,189,5,200,15,210,43,220,87,228,143,232,204,234,266,232,321,228,365,220,393,210"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="885,174,451,192,398,194,398,189,451,186,885,169"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1impl_1_1_flower_poker.html#a5775750835ce7be3868e8b33aafcc172" title=" " alt="" coords="849,236,839,225,811,216,767,208,712,203,650,201,589,203,533,208,489,216,461,225,451,236,461,246,489,256,533,264,589,268,650,270,712,268,767,264,811,256,839,246"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="924,192,794,214,793,209,923,186"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="454,223,385,217,386,212,454,217"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="1304,194,1222,184,1222,179,1305,189"/>
+<area shape="poly" id="edge10_Node000008_Node000002" title=" " alt="" coords="1286,60,1240,57,1240,52,1286,55"/>
+</map>

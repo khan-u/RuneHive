@@ -1,0 +1,5 @@
+<map id="com.runehive.net.session.LoginSession.FailedLoginAttempt" name="com.runehive.net.session.LoginSession.FailedLoginAttempt">
+<area shape="poly" id="Node000001" title="A data class that represents a failed login attempt." alt="" coords="376,154,367,143,341,133,300,126,248,121,191,119,134,121,82,126,41,133,14,143,5,154,14,164,41,174,82,182,134,186,191,188,248,186,300,182,341,174,367,164"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_stopwatch.html" title=" " alt="" coords="347,26,340,20,317,14,283,9,239,6,191,5,142,6,99,9,64,14,42,20,34,26,42,33,64,39,99,43,142,46,191,47,239,46,283,43,317,39,340,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,63,193,119,188,119,188,63"/>
+</map>

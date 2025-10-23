@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.GroupActivity.getNextInstance" name="com.runehive.content.activity.GroupActivity.getNextInstance">
+<area shape="poly" id="Node000001" title="Gets the next instance." alt="" coords="709,40,701,29,677,20,641,12,595,7,543,5,492,7,446,12,409,20,386,29,378,40,386,50,409,60,446,68,492,72,543,74,595,72,641,68,677,60,701,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_group_activity.html#afbc4217b52e25ed3cd69e130ac9547a3" title="Constructs a new GroupActivity object." alt="" coords="330,40,322,29,299,20,263,12,218,7,167,5,117,7,72,12,36,20,13,29,5,40,13,50,36,60,72,68,117,72,167,74,218,72,263,68,299,60,322,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="362,42,330,42,330,37,362,37"/>
+</map>

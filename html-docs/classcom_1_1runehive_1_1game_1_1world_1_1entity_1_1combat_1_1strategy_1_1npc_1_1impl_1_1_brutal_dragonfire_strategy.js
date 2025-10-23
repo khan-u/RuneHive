@@ -1,0 +1,7 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1impl_1_1_brutal_dragonfire_strategy =
+[
+    [ "BrutalDragonfireStrategy", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1impl_1_1_brutal_dragonfire_strategy.html#a9f4602b6d194a4a3404c45f0be76acb6", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1impl_1_1_brutal_dragonfire_strategy.html#acc2ff97e66763abd343efb1c1cb95189", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1impl_1_1_brutal_dragonfire_strategy.html#a2943ccaa0fe52d3e6d8be6377fddedc9", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1impl_1_1_brutal_dragonfire_strategy.html#a79012ab39042ee1f8e888390a800b898", null ]
+];

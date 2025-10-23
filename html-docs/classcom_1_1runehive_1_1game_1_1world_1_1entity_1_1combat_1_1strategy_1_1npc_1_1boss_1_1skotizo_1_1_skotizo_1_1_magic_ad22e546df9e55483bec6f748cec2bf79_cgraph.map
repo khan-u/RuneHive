@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.Skotizo.Magic.hit" name="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.Skotizo.Magic.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="693,64,676,53,627,44,551,36,455,31,349,29,243,31,147,36,71,44,22,53,5,64,22,74,71,84,147,92,243,96,349,98,455,96,551,92,627,84,676,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="219,32,218,26,222,19,245,10,287,5,349,3,427,6,470,16,469,21,426,12,349,8,288,10,246,16,226,23,223,27,224,31"/>
+</map>

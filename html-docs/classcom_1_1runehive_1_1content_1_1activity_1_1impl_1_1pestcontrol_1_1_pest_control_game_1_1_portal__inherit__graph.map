@@ -1,0 +1,11 @@
+<map id="com.runehive.content.activity.impl.pestcontrol.PestControlGame.Portal" name="com.runehive.content.activity.impl.pestcontrol.PestControlGame.Portal">
+<area shape="poly" id="Node000001" title=" " alt="" coords="494,453,482,443,447,433,393,425,325,421,250,419,174,421,106,425,52,433,17,443,5,453,17,464,52,474,106,481,174,486,250,488,325,486,393,481,447,474,482,464"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1_npc.html" title="Represents a non&#45;player character in the in&#45;game world." alt="" coords="492,350,480,343,446,338,392,333,325,330,250,329,174,330,107,333,53,338,19,343,7,350,19,356,53,362,107,367,174,370,250,371,325,370,392,367,446,362,480,356"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,386,252,418,247,418,247,386"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html" title="Handles the mob class." alt="" coords="472,260,462,253,430,248,381,243,318,240,250,239,181,240,118,243,69,248,37,253,27,260,37,266,69,272,118,277,181,280,250,281,318,280,381,277,430,272,462,266"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,297,252,328,247,328,247,297"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html" title="Represents a character in the game world, i.e." alt="" coords="426,157,417,146,392,136,353,129,304,124,250,122,195,124,146,129,107,136,82,146,73,157,82,167,107,177,146,184,195,189,250,191,304,189,353,184,392,177,417,167"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,207,252,238,247,238,247,207"/>
+<area shape="poly" id="Node000005" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="397,40,390,29,369,20,336,12,295,7,250,5,204,7,163,12,130,20,109,29,102,40,109,50,130,60,163,68,204,72,250,74,295,72,336,68,369,60,390,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="252,90,252,122,247,122,247,90"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="com.runehive.game.ProjectileTest.ProjectileTest" name="com.runehive.game.ProjectileTest.ProjectileTest">
+<area shape="poly" id="Node000001" title=" " alt="" coords="334,133,326,122,303,113,266,105,220,100,170,99,119,100,73,105,37,113,13,122,5,133,13,144,37,153,73,161,119,166,170,167,220,166,266,161,303,153,326,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a09cee7c391bb1206725815ce0f3cd1f1" title=" " alt="" coords="759,40,751,29,726,20,687,12,637,7,583,5,528,7,479,12,440,20,415,29,407,40,415,50,440,60,479,68,528,72,583,74,637,72,687,68,726,60,751,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,105,451,67,452,72,283,110"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a8afdd0de68f242bf7082076dfbfffe37" title=" " alt="" coords="759,133,751,122,726,113,687,105,637,100,583,99,528,100,479,105,440,113,415,122,407,133,415,144,440,153,479,161,528,166,583,167,637,166,687,161,726,153,751,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="334,130,391,130,391,136,334,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#ac7ddf988f32265b28e7af7283b406df1" title="Check if an entity is a player." alt="" coords="784,226,774,216,746,206,701,199,645,194,583,192,521,194,465,199,420,206,392,216,382,226,392,237,420,247,465,254,521,259,583,261,645,259,701,254,746,247,774,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,156,446,193,445,198,282,161"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a64f68055122aaf4af08787378c7ac356" title="Gets the EntityType." alt="" coords="1185,226,1176,216,1151,206,1112,199,1063,194,1008,192,954,194,905,199,866,206,841,216,832,226,841,237,866,247,905,254,954,259,1008,261,1063,259,1112,254,1151,247,1176,237"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="784,224,817,224,817,229,784,229"/>
+</map>

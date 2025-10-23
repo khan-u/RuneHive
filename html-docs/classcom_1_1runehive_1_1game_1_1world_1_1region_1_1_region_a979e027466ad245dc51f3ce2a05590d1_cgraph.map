@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.region.Region.containsPlayer" name="com.runehive.game.world.region.Region.containsPlayer">
+<area shape="poly" id="Node000001" title=" " alt="" coords="369,86,360,76,335,66,294,59,244,54,187,52,131,54,80,59,40,66,14,76,5,86,14,97,40,107,80,114,131,119,187,121,244,119,294,114,335,107,360,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_block.html#a0a54057ad5bd8c1ae1c013b57f5ed967" title=" " alt="" coords="781,40,772,29,746,20,706,12,655,7,599,5,543,7,492,12,452,20,426,29,417,40,426,50,452,60,492,68,543,72,599,74,655,72,706,68,746,60,772,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="344,66,427,57,427,62,345,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region.html#a1f0b74f12f68256ec8da477a64a1482c" title=" " alt="" coords="781,133,772,122,746,113,706,105,655,100,599,99,543,100,492,105,452,113,426,122,417,133,426,144,452,153,492,161,543,166,599,167,655,166,706,161,746,153,772,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="345,102,427,111,427,116,344,107"/>
+</map>

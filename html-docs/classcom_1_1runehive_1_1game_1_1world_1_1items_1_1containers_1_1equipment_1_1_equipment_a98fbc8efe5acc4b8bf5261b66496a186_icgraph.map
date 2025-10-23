@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.items.containers.equipment.Equipment.removeBonus" name="com.runehive.game.world.items.containers.equipment.Equipment.removeBonus">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1830,65,1815,55,1774,45,1711,37,1630,33,1541,31,1452,33,1372,37,1308,45,1268,55,1253,65,1268,76,1308,86,1372,93,1452,98,1541,100,1630,98,1711,93,1774,86,1815,76"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1equipment_1_1_equipment_1_1_equipment_listener.html#a7542eae12d6631c73114abd0966326e7" title="Fired when an Item is added, removed, or replaced." alt="" coords="581,65,567,55,526,45,463,37,382,33,293,31,204,33,124,37,60,45,19,55,5,65,19,76,60,86,124,93,204,98,293,100,382,98,463,93,526,86,567,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1355,38,1205,21,1043,11,917,8,791,11,630,21,464,40,464,34,629,16,791,6,917,3,1044,6,1206,16,1356,32"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1equipment_1_1_equipment.html#a5132877e4269c9a04a5d268898e75845" title=" " alt="" coords="1205,65,1191,55,1150,45,1087,37,1006,33,917,31,828,33,748,37,684,45,643,55,629,65,643,76,684,86,748,93,828,98,917,100,1006,98,1087,93,1150,86,1191,76"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1238,68,1206,68,1206,63,1238,63"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1equipment_1_1_equipment.html#a098f07f276790cc1870ec61206c79661" title=" " alt="" coords="1205,159,1191,148,1150,138,1087,131,1006,126,917,124,828,126,748,131,684,138,643,148,629,159,643,169,684,179,748,186,828,191,917,193,1006,191,1087,186,1150,179,1191,169"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="1345,97,1100,134,1099,129,1344,92"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="614,68,582,68,582,63,614,63"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="720,132,475,95,476,90,721,127"/>
+</map>

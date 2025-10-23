@@ -1,0 +1,4 @@
+var _void_knight_melee_listener_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.item.voidknight.VoidKnightMeleeListener", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1voidkccdc8acacf20156492ab9025c47bc03c.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1voidkccdc8acacf20156492ab9025c47bc03c" ]
+];

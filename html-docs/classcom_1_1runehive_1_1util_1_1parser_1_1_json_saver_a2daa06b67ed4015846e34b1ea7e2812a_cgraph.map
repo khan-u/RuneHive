@@ -1,0 +1,5 @@
+<map id="com.runehive.util.parser.JsonSaver.toString" name="com.runehive.util.parser.JsonSaver.toString">
+<area shape="poly" id="Node000001" title="Invocation of this function is expensive and should be cached or avoided whenever possible." alt="" coords="280,40,273,29,254,20,224,12,185,7,143,5,100,7,62,12,32,20,12,29,5,40,12,50,32,60,62,68,100,72,143,74,185,72,224,68,254,60,273,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_json_saver.html#a023b142424f0b3bf27f0587e8f8baac2" title="Adds the data within currentWriter to the internal JsonArray then instantiates a new writer,..." alt="" coords="603,40,596,29,577,20,546,12,508,7,466,5,423,7,385,12,354,20,335,29,328,40,335,50,354,60,385,68,423,72,466,74,508,72,546,68,577,60,596,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,37,313,37,313,42,281,42"/>
+</map>

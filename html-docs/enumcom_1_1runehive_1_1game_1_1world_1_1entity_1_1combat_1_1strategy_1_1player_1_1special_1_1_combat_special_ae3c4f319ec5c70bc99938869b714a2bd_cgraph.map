@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.special.CombatSpecial.forId" name="com.runehive.game.world.entity.combat.strategy.player.special.CombatSpecial.forId">
+<area shape="poly" id="Node000001" title=" " alt="" coords="665,40,649,29,602,20,529,12,437,7,335,5,233,7,141,12,68,20,21,29,5,40,21,50,68,60,141,68,233,72,335,74,437,72,529,68,602,60,649,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1_combat_special.html#ac1ebb4297ab12c0462734e3f9a32320a" title="Creates a new CombatSpecial." alt="" coords="1372,40,1356,29,1309,20,1236,12,1144,7,1043,5,941,7,849,12,776,20,729,29,713,40,729,50,776,60,849,68,941,72,1043,74,1144,72,1236,68,1309,60,1356,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="665,37,697,37,697,42,665,42"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.battleground.BattlegroundLobby" name="com.runehive.content.activity.impl.battleground.BattlegroundLobby">
+<area shape="poly" id="Node000001" title="Created by Daniel on 2018&#45;03&#45;10." alt="" coords="509,157,497,146,461,136,405,129,335,124,257,122,179,124,109,129,53,136,18,146,5,157,18,167,53,177,109,184,179,189,257,191,335,189,405,184,461,177,497,167"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1lobby_1_1_lobby_manager.html" title=" " alt="" coords="449,40,440,29,413,20,370,12,317,7,257,5,198,7,145,12,102,20,75,29,65,40,75,50,102,60,145,68,198,72,257,74,317,72,370,68,413,60,440,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,90,260,122,255,122,255,90"/>
+</map>

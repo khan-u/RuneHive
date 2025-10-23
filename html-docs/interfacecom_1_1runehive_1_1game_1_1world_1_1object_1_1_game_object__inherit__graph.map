@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.object.GameObject" name="com.runehive.game.world.object.GameObject">
+<area shape="poly" id="Node000001" title="Represents a game object." alt="" coords="709,86,700,76,675,66,635,59,584,54,529,52,473,54,422,59,382,66,357,76,348,86,357,97,382,107,422,114,473,119,529,121,584,119,635,114,675,107,700,97"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_custom_game_object.html" title="Represents a static game object loaded from the map fs." alt="" coords="1118,40,1109,29,1084,20,1044,12,993,7,938,5,882,7,831,12,792,20,766,29,757,40,766,50,792,60,831,68,882,72,938,74,993,72,1044,68,1084,60,1109,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="699,64,781,55,782,60,700,70"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_static_game_object.html" title="Represents a static game object loaded from the map fs." alt="" coords="1118,133,1109,122,1084,113,1044,105,993,100,938,99,882,100,831,105,792,113,766,122,757,133,766,144,792,153,831,161,882,166,938,167,993,166,1044,161,1084,153,1109,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="700,103,782,113,781,118,699,109"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="300,86,293,76,272,66,239,59,198,54,153,52,107,54,66,59,33,66,13,76,5,86,13,97,33,107,66,114,107,119,153,121,198,119,239,114,272,107,293,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="315,84,348,84,348,89,315,89"/>
+</map>

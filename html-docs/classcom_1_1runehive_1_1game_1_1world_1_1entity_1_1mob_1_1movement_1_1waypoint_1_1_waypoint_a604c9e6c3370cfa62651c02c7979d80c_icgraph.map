@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.movement.waypoint.Waypoint.onDestination" name="com.runehive.game.world.entity.mob.movement.waypoint.Waypoint.onDestination">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1927,40,1912,29,1869,20,1802,12,1717,7,1623,5,1529,7,1444,12,1377,20,1333,29,1318,40,1333,50,1377,60,1444,68,1529,72,1623,74,1717,72,1802,68,1869,60,1912,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1movement_1_1waypoint_1_1_waypoint.html#afab5b18bd980a3e6a642a3c432f2968b" title="A function representing the unit of work that will be carried out." alt="" coords="1270,40,1256,29,1212,20,1145,12,1060,7,966,5,872,7,787,12,720,20,677,29,662,40,677,50,720,60,787,68,872,72,966,74,1060,72,1145,68,1212,60,1256,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1303,42,1271,42,1271,37,1303,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1movement_1_1waypoint_1_1_waypoint.html#a206bf17b8fbc5604170d6bdb10ae3302" title=" " alt="" coords="614,40,599,29,556,20,488,12,404,7,310,5,216,7,131,12,63,20,20,29,5,40,20,50,63,60,131,68,216,72,310,74,404,72,488,68,556,60,599,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="646,42,614,42,614,37,646,37"/>
+</map>

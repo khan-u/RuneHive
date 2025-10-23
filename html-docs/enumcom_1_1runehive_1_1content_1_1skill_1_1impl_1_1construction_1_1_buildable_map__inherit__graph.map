@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.construction.BuildableMap" name="com.runehive.content.skill.impl.construction.BuildableMap">
+<area shape="poly" id="Node000001" title=" " alt="" coords="477,157,465,146,432,136,380,129,314,124,241,122,168,124,102,129,50,136,17,146,5,157,17,167,50,177,102,184,168,189,241,191,314,189,380,184,432,177,465,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1util_1_1generic_1_1_generic_void.html" title=" " alt="" coords="385,40,378,29,357,20,326,12,285,7,241,5,197,7,157,12,125,20,104,29,97,40,104,50,125,60,157,68,197,72,241,74,285,72,326,68,357,60,378,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,90,244,122,238,122,238,90"/>
+</map>

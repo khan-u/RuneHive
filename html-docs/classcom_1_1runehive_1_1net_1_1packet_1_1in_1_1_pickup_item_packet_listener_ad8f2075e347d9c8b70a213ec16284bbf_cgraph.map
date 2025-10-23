@@ -1,0 +1,9 @@
+<map id="com.runehive.net.packet.in.PickupItemPacketListener.handlePacket" name="com.runehive.net.packet.in.PickupItemPacketListener.handlePacket">
+<area shape="poly" id="Node000001" title="Handles the packet that has just been received." alt="" coords="371,86,362,72,336,58,295,48,244,41,188,39,132,41,81,48,40,58,14,72,5,86,14,101,40,115,81,125,132,132,188,134,244,132,295,125,336,115,362,101"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a3505a700117a8389b24f27e50de411ca" title=" " alt="" coords="887,40,876,29,843,20,791,12,725,7,653,5,581,7,515,12,463,20,430,29,419,40,430,50,463,60,515,68,581,72,653,74,725,72,791,68,843,60,876,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="359,67,443,58,443,63,359,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_locking.html#a7f6b95a95b463f7342801da10b62f73d" title="Checks if the mob is locked." alt="" coords="854,133,844,122,816,113,771,105,715,100,653,99,591,100,535,105,490,113,462,122,452,133,462,144,490,153,535,161,591,166,653,167,715,166,771,161,816,153,844,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="359,101,463,111,463,117,359,106"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_locking.html#a0e61be7290e47b8bb5d7db4801b99a96" title="Unlocks the mob." alt="" coords="1337,133,1328,122,1299,113,1254,105,1198,100,1136,99,1074,100,1018,105,974,113,945,122,935,133,945,144,974,153,1018,161,1074,166,1136,167,1198,166,1254,161,1299,153,1328,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="855,130,920,130,920,136,855,136"/>
+</map>

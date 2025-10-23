@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.prayer.BoneSacrifice.modifier" name="com.runehive.content.skill.impl.prayer.BoneSacrifice.modifier">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1337,40,1327,29,1298,20,1252,12,1195,7,1131,5,1068,7,1010,12,965,20,935,29,925,40,935,50,965,60,1010,68,1068,72,1131,74,1195,72,1252,68,1298,60,1327,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_sacrifice.html#a5a1fb68a0cc8817aba6a2ca03dbbc6bf" title=" " alt="" coords="877,40,867,29,838,20,792,12,735,7,671,5,608,7,550,12,505,20,475,29,465,40,475,50,505,60,550,68,608,72,671,74,735,72,792,68,838,60,867,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="909,42,878,42,878,37,909,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_sacrifice.html#a4e16866ee11fc93df2cdef8a68b0bce8" title=" " alt="" coords="417,40,407,29,378,20,332,12,275,7,211,5,148,7,90,12,45,20,15,29,5,40,15,50,45,60,90,68,148,72,211,74,275,72,332,68,378,60,407,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="449,42,418,42,418,37,449,37"/>
+</map>

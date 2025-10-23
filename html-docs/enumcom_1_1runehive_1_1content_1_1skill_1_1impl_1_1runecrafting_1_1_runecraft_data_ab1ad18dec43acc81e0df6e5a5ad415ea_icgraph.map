@@ -1,0 +1,8 @@
+<map id="com.runehive.content.skill.impl.runecrafting.RunecraftData.getMultiplier" name="com.runehive.content.skill.impl.runecrafting.RunecraftData.getMultiplier">
+<area shape="poly" id="Node000001" title="Gets the multiplier." alt="" coords="1507,64,1496,53,1462,44,1410,36,1345,31,1273,29,1200,31,1135,36,1083,44,1050,53,1038,64,1050,74,1083,84,1135,92,1200,96,1273,98,1345,96,1410,92,1462,84,1496,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1runecrafting_1_1_runecraft.html#a8dc1ad9dec39c67c2606b7cca9ae33e2" title="The runecrafting multiplier." alt="" coords="990,64,979,53,946,44,894,36,829,31,756,29,684,31,618,36,567,44,533,53,522,64,533,74,567,84,618,92,684,96,756,98,829,96,894,92,946,84,979,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1023,66,991,66,991,61,1023,61"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="845,21,814,11,756,8,710,10,679,16,664,23,664,32,658,32,659,20,677,11,709,5,756,3,814,6,847,15"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1runecrafting_1_1_runecraft.html#aa1f13c7e10dce38b8d41fe8b4c4be887" title=" " alt="" coords="474,64,462,53,429,44,377,36,312,31,240,29,167,31,102,36,50,44,17,53,5,64,17,74,50,84,102,92,167,96,240,98,312,96,377,92,429,84,462,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,66,475,66,475,61,507,61"/>
+</map>

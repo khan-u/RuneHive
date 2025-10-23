@@ -1,0 +1,9 @@
+<map id="com.runehive.util.parser.GenericParser.run" name="com.runehive.util.parser.GenericParser.run">
+<area shape="poly" id="Node000001" title=" " alt="" coords="280,133,273,122,254,113,224,105,185,100,143,99,100,100,62,105,32,113,12,122,5,133,12,144,32,153,62,161,100,166,143,167,185,166,224,161,254,153,273,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_generic_parser.html#addaa24766a394c8293bd32d1dc995386" title="The method that deserializes the file information." alt="" coords="619,40,611,29,591,20,559,12,518,7,473,5,428,7,388,12,356,20,335,29,328,40,335,50,356,60,388,68,428,72,473,74,518,72,559,68,591,60,611,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,105,364,68,365,73,236,110"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_generic_parser.html#af493f52b5d24dafa5cc4900a8de3708a" title="The method called after all the data has been parsed." alt="" coords="611,133,604,122,585,113,554,105,516,100,473,99,431,100,393,105,362,113,343,122,336,133,343,144,362,153,393,161,431,166,473,167,516,166,554,161,585,153,604,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,130,321,130,321,136,281,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_generic_parser.html#a17f266f25fb84337b2486c68833dee71" title=" " alt="" coords="611,226,604,216,585,206,554,199,516,194,473,192,431,194,393,199,362,206,343,216,336,226,343,237,362,247,393,254,431,259,473,261,516,259,554,254,585,247,604,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,157,367,194,366,199,235,162"/>
+</map>

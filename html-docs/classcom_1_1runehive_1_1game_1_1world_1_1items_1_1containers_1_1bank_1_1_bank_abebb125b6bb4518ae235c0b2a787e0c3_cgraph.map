@@ -1,0 +1,10 @@
+<map id="com.runehive.game.world.items.containers.bank.Bank.moveTab" name="com.runehive.game.world.items.containers.bank.Bank.moveTab">
+<area shape="poly" id="Node000001" title=" " alt="" coords="525,133,512,122,475,113,418,105,345,100,265,99,185,100,112,105,55,113,18,122,5,133,18,144,55,153,112,161,185,166,265,167,345,166,418,161,475,153,512,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a1fcee6e3c1a828da18574aff6ca9136a" title="Sets the value for firingEvents." alt="" coords="1065,40,1053,29,1020,20,969,12,904,7,833,5,761,7,696,12,645,20,612,29,600,40,612,50,645,60,696,68,761,72,833,74,904,72,969,68,1020,60,1053,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,103,660,65,661,71,431,109"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1bank_1_1_bank.html#a2316833d1fc26921f5cd46e1c6f2d8f7" title=" " alt="" coords="1092,133,1080,122,1043,113,985,105,913,100,833,99,752,100,680,105,622,113,586,122,573,133,586,144,622,153,680,161,752,166,833,167,913,166,985,161,1043,153,1080,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="525,130,557,130,557,136,525,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#affb390175dc28a2e4379015fd4d57bc1" title="Swaps the Items on oldIndex and newIndex." alt="" coords="1065,250,1053,240,1020,230,969,223,904,218,833,216,761,218,696,223,645,230,612,240,600,250,612,261,645,271,696,278,761,283,833,285,904,283,969,278,1020,271,1053,261"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="408,160,681,217,680,222,407,165"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="726,220,723,214,726,207,745,198,780,192,833,189,897,193,932,202,931,208,896,198,833,195,781,197,747,203,730,211,729,214,731,218"/>
+</map>

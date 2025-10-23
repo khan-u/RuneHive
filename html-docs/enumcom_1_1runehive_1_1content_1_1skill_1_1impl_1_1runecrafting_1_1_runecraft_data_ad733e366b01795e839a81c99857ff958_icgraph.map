@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.runecrafting.RunecraftData.getRunes" name="com.runehive.content.skill.impl.runecrafting.RunecraftData.getRunes">
+<area shape="poly" id="Node000001" title="Gets the runes obtained." alt="" coords="990,40,979,29,946,20,894,12,829,7,756,5,684,7,618,12,567,20,533,29,522,40,533,50,567,60,618,68,684,72,756,74,829,72,894,68,946,60,979,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1runecrafting_1_1_runecraft.html#aa1f13c7e10dce38b8d41fe8b4c4be887" title=" " alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="507,42,475,42,475,37,507,37"/>
+</map>

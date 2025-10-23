@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.mob.Mob.walkTo" name="com.runehive.game.world.entity.mob.Mob.walkTo">
+<area shape="poly" id="Node000001" title=" " alt="" coords="407,64,398,53,369,44,325,36,269,31,206,29,144,31,88,36,44,44,15,53,5,64,15,74,44,84,88,92,144,96,206,98,269,96,325,92,369,84,398,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#ad8c9a5ff8cbfc49c63ce5fee9b1873a4" title=" " alt="" coords="858,64,848,53,819,44,775,36,719,31,656,29,594,31,538,36,494,44,465,53,455,64,465,74,494,84,538,92,594,96,656,98,719,96,775,92,819,84,848,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,61,440,61,440,66,408,66"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="571,32,572,20,587,11,615,5,657,3,707,6,735,15,733,20,706,11,656,8,616,10,589,16,576,23,576,32"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a385dc0248234fddaae1b093594d7bf58" title="The combat of the mob." alt="" coords="1308,64,1298,53,1269,44,1225,36,1169,31,1107,29,1044,31,988,36,944,44,915,53,906,64,915,74,944,84,988,92,1044,96,1107,98,1169,96,1225,92,1269,84,1298,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="858,61,890,61,890,66,858,66"/>
+</map>

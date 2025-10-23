@@ -1,0 +1,7 @@
+<map id="com.runehive.content.teleport.Teleport" name="com.runehive.content.teleport.Teleport">
+<area shape="poly" id="Node000001" title="The teleport data." alt="" coords="929,86,921,76,897,66,861,59,814,54,763,52,712,54,666,59,629,66,606,76,598,86,606,97,629,107,666,114,712,119,763,121,814,119,861,114,897,107,921,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1magic_1_1teleport_1_1_teleport_type.html" title="The teleport types." alt="" coords="497,40,485,29,450,20,395,12,327,7,251,5,175,7,107,12,52,20,17,29,5,40,17,50,52,60,107,68,175,72,251,74,327,72,395,68,450,60,485,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,57,611,70,611,75,473,63"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="441,133,431,122,404,113,362,105,310,100,251,99,192,100,139,105,97,113,70,122,61,133,70,144,97,153,139,161,192,166,251,167,310,166,362,161,404,153,431,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="437,114,610,98,611,103,437,119"/>
+</map>

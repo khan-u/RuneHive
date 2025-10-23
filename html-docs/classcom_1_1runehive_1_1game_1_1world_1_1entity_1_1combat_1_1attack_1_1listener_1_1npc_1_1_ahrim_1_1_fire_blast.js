@@ -1,0 +1,5 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim_1_1_fire_blast =
+[
+    [ "FireBlast", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim_1_1_fire_blast.html#a262e328a2bcae766233586c6fe0fa893", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim_1_1_fire_blast.html#ac44d86c3a1f03d6b9174faaa785d65dd", null ]
+];

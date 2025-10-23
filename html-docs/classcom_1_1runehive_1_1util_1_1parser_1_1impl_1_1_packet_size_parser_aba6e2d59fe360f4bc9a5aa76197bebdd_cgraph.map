@@ -1,0 +1,5 @@
+<map id="com.runehive.util.parser.impl.PacketSizeParser.parse" name="com.runehive.util.parser.impl.PacketSizeParser.parse">
+<area shape="poly" id="Node000001" title="The method allows a user to modify the data as its being parsed." alt="" coords="328,40,320,29,297,20,262,12,217,7,167,5,117,7,72,12,36,20,13,29,5,40,13,50,36,60,72,68,117,72,167,74,217,72,262,68,297,60,320,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_repository.html#a4fc63c9912b999f6f9f8a118866961f5" title="Registers a type for a packet." alt="" coords="713,40,705,29,681,20,644,12,597,7,545,5,493,7,446,12,408,20,384,29,376,40,384,50,408,60,446,68,493,72,545,74,597,72,644,68,681,60,705,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="328,37,361,37,361,42,328,42"/>
+</map>

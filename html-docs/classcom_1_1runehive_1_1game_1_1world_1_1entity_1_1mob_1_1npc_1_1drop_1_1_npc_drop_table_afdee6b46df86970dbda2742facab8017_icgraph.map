@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.npc.drop.NpcDropTable.setRollData" name="com.runehive.game.world.entity.mob.npc.drop.NpcDropTable.setRollData">
+<area shape="poly" id="Node000001" title=" " alt="" coords="872,40,860,29,824,20,770,12,701,7,624,5,547,7,478,12,424,20,388,29,376,40,388,50,424,60,478,68,547,72,624,74,701,72,770,68,824,60,860,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1parser_1_1impl_1_1_npc_drop_parser.html#a050622535286b9c1e7f924a5c0f93457" title="The method allows a user to modify the data as its being parsed." alt="" coords="328,40,320,29,297,20,262,12,217,7,167,5,117,7,72,12,36,20,13,29,5,40,13,50,36,60,72,68,117,72,167,74,217,72,262,68,297,60,320,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="361,42,329,42,329,37,361,37"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.MobList.EntityListIterator.skipNullIndexes" name="com.runehive.game.world.entity.MobList.EntityListIterator.skipNullIndexes">
+<area shape="poly" id="Node000001" title="Forwards the curr marker until a non&#45;null element is found." alt="" coords="780,86,771,72,745,58,705,48,655,41,599,39,543,41,492,48,452,58,426,72,417,86,426,101,452,115,492,125,543,132,599,134,655,132,705,125,745,115,771,101"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_mob_list_1_1_entity_list_iterator.html#ac9a87b382f69268d6258ca52467f02eb" title=" " alt="" coords="369,40,360,29,335,20,294,12,244,7,187,5,131,7,80,12,40,20,14,29,5,40,14,50,40,60,80,68,131,72,187,74,244,72,294,68,335,60,360,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,68,344,60,345,55,417,63"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_mob_list_1_1_entity_list_iterator.html#ab9207e92ea485622e64df005bde44282" title=" " alt="" coords="364,133,355,122,330,113,291,105,242,100,187,99,133,100,84,105,45,113,20,122,11,133,20,144,45,153,84,161,133,166,187,167,242,166,291,161,330,153,355,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="417,110,341,118,340,113,416,104"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.items.containers.ItemContainer.copy" name="com.runehive.game.world.items.containers.ItemContainer.copy">
+<area shape="poly" id="Node000001" title="Creates a copy of the underlying item container." alt="" coords="470,86,458,76,425,66,374,59,309,54,238,52,166,54,101,59,50,66,17,76,5,86,17,97,50,107,101,114,166,119,238,121,309,119,374,114,425,107,458,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a1d29cdc85900ea92d5f8c578279e7001" title="Creates a new ItemContainer." alt="" coords="982,40,971,29,938,20,886,12,822,7,750,5,678,7,613,12,562,20,529,29,518,40,529,50,562,60,613,68,678,72,750,74,822,72,886,68,938,60,971,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,66,536,57,536,62,437,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#af80028a0ce5f11042f30e0ff42e19f39" title="Returns a shallow copy of the backing array." alt="" coords="982,133,971,122,938,113,886,105,822,100,750,99,678,100,613,105,562,113,529,122,518,133,529,144,562,153,613,161,678,166,750,167,822,166,886,161,938,153,971,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="437,102,536,111,536,116,436,107"/>
+</map>

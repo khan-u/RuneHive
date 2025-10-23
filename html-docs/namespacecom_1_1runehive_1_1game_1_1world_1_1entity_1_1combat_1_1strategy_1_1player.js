@@ -1,0 +1,8 @@
+var namespacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player =
+[
+    [ "custom", "namespacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1custom.html", "namespacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1custom" ],
+    [ "special", "namespacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special.html", "namespacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special" ],
+    [ "PlayerMagicStrategy", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1_player_magic_strategy.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1_player_magic_strategy" ],
+    [ "PlayerMeleeStrategy", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1_player_melee_strategy.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1_player_melee_strategy" ],
+    [ "PlayerRangedStrategy", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1_player_ranged_strategy.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1_player_ranged_strategy" ]
+];

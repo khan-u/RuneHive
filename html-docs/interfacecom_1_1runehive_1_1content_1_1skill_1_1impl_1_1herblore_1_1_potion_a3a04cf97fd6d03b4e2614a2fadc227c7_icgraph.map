@@ -1,0 +1,8 @@
+<map id="com.runehive.content.skill.impl.herblore.Potion.getAnimation" name="com.runehive.content.skill.impl.herblore.Potion.getAnimation">
+<area shape="poly" id="Node000001" title="Gets the potion animation." alt="" coords="1401,76,1390,65,1360,56,1312,48,1251,43,1184,41,1117,43,1057,48,1009,56,978,65,968,76,978,86,1009,96,1057,104,1117,108,1184,110,1251,108,1312,104,1360,96,1390,86"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1herblore_1_1_herblore.html#afd0f023571d3cdecfc68245c9ce9e99e" title="Handles the potion mixing action." alt="" coords="920,40,909,29,878,20,830,12,770,7,703,5,636,7,576,12,528,20,497,29,487,40,497,50,528,60,576,68,636,72,703,74,770,72,830,68,878,60,909,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="972,63,900,57,900,52,972,57"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1herblore_1_1_herblore.html#a110c5b1c50222c83e94a524e22dbe371" title=" " alt="" coords="439,76,428,65,397,56,349,48,289,43,222,41,155,43,95,48,47,56,16,65,5,76,16,86,47,96,95,104,155,108,222,110,289,108,349,104,397,96,428,86"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="960,88,920,89,703,92,487,89,431,88,431,82,487,84,703,87,920,84,960,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,58,419,64,419,58,491,53"/>
+</map>

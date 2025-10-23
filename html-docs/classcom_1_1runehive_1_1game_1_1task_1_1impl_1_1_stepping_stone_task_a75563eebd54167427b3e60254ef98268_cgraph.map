@@ -1,0 +1,7 @@
+<map id="com.runehive.game.task.impl.SteppingStoneTask.onSchedule" name="com.runehive.game.task.impl.SteppingStoneTask.onSchedule">
+<area shape="poly" id="Node000001" title="A function executed on registration." alt="" coords="359,40,351,29,326,20,286,12,237,7,182,5,128,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,128,72,182,74,237,72,286,68,326,60,351,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a2fc8d15b55a8f0a55a20c0b78f77007c" title="Cancels all subsequent executions." alt="" coords="807,40,797,33,769,27,724,23,669,20,607,19,545,20,490,23,445,27,417,33,407,40,417,46,445,52,490,57,545,60,607,61,669,60,724,57,769,52,797,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="360,37,392,37,392,42,360,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#aef9b4245ff3b594dd844c44da99d51a3" title="A function executed on cancellation." alt="" coords="1213,40,1204,29,1179,20,1139,12,1089,7,1034,5,978,7,928,12,889,20,863,29,855,40,863,50,889,60,928,68,978,72,1034,74,1089,72,1139,68,1179,60,1204,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="807,37,839,37,839,42,807,42"/>
+</map>

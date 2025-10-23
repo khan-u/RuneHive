@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.firemaking.Firemaking" name="com.runehive.content.skill.impl.firemaking.Firemaking">
+<area shape="poly" id="Node000001" title="The firemaking skill." alt="" coords="460,273,449,263,416,253,366,246,303,241,233,239,162,241,99,246,49,253,16,263,5,273,16,284,49,294,99,301,162,306,233,308,303,306,366,301,416,294,449,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html" title="Represents a trainable and usable skill." alt="" coords="431,157,422,146,393,136,349,129,294,124,233,122,171,124,116,129,72,136,43,146,34,157,43,167,72,177,116,184,171,189,233,191,294,189,349,184,393,177,422,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,207,235,239,230,239,230,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="388,40,381,29,359,20,324,12,281,7,233,5,184,7,141,12,107,20,84,29,77,40,84,50,107,60,141,68,184,72,233,74,281,72,324,68,359,60,381,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,90,235,122,230,122,230,90"/>
+</map>

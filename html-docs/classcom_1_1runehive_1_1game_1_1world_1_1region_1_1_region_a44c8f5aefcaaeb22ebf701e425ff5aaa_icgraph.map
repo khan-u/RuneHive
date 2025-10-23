@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.region.Region.getX" name="com.runehive.game.world.region.Region.getX">
+<area shape="poly" id="Node000001" title=" " alt="" coords="781,86,772,76,746,66,706,59,655,54,599,52,543,54,492,59,452,66,426,76,417,86,426,97,452,107,492,114,543,119,599,121,655,119,706,114,746,107,772,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region.html#a344330f1f990e7aeaeaaae8040973780" title=" " alt="" coords="369,40,360,29,335,20,294,12,244,7,187,5,131,7,80,12,40,20,14,29,5,40,14,50,40,60,80,68,131,72,187,74,244,72,294,68,335,60,360,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="427,70,344,60,345,55,427,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region.html#a8a13e45ad9db9b9004c9998da288f384" title=" " alt="" coords="369,133,360,122,335,113,294,105,244,100,187,99,131,100,80,105,40,113,14,122,5,133,14,144,40,153,80,161,131,166,187,167,244,166,294,161,335,153,360,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="427,109,345,118,344,113,427,103"/>
+</map>

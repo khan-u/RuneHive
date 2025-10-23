@@ -1,0 +1,7 @@
+<map id="com.runehive.content.clanchannel.channel.ClanChannelHandler.updateMemberList" name="com.runehive.content.clanchannel.channel.ClanChannelHandler.updateMemberList">
+<area shape="poly" id="Node000001" title="Handles updating the clan channel member list." alt="" coords="985,86,973,76,940,66,889,59,824,54,752,52,680,54,615,59,564,66,530,76,519,86,530,97,564,107,615,114,680,119,752,121,824,119,889,114,940,107,973,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1channel_1_1_clan_channel_handler.html#ad2b6ec3a18e232769f15d01190018a67" title="Handles connecting to the clan channel." alt="" coords="471,40,460,29,427,20,375,12,310,7,238,5,166,7,101,12,50,20,17,29,5,40,17,50,50,60,101,68,166,72,238,74,310,72,375,68,427,60,460,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="537,70,438,61,438,55,537,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_clan_update_event.html#a39bc94b890bc1b71ed896b19b94bf07e" title=" " alt="" coords="402,133,394,122,371,113,335,105,289,100,238,99,187,100,142,105,105,113,82,122,74,133,82,144,105,153,142,161,187,166,238,167,289,166,335,161,371,153,394,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="537,109,390,122,390,117,537,103"/>
+</map>

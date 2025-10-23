@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.exchange.duel.StakeSession" name="com.runehive.game.world.entity.mob.player.exchange.duel.StakeSession">
+<area shape="poly" id="Node000001" title="The exchange session where two players can agree to a stake." alt="" coords="628,157,613,146,569,136,500,129,413,124,317,122,220,124,134,129,65,136,21,146,5,157,21,167,65,177,134,184,220,189,317,191,413,189,500,184,569,177,613,167"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1exchange_1_1_exchange_session.html" title=" " alt="" coords="603,40,589,29,549,20,485,12,405,7,317,5,228,7,148,12,85,20,44,29,30,40,44,50,85,60,148,68,228,72,317,74,405,72,485,68,549,60,589,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,90,319,122,314,122,314,90"/>
+</map>

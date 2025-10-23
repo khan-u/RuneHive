@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.armadyl.KreeArra.Ranged.Ranged" name="com.runehive.game.world.entity.combat.strategy.npc.boss.armadyl.KreeArra.Ranged.Ranged">
+<area shape="poly" id="Node000001" title=" " alt="" coords="703,40,686,29,636,20,559,12,462,7,354,5,246,7,149,12,72,20,22,29,5,40,22,50,72,60,149,68,246,72,354,74,462,72,559,68,636,60,686,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1projectile_1_1_combat_projectile.html#a1e090708d8c4d96ce405306cd2e04830" title=" " alt="" coords="1280,40,1267,29,1230,20,1171,12,1098,7,1016,5,934,7,860,12,802,20,764,29,751,40,764,50,802,60,860,68,934,72,1016,74,1098,72,1171,68,1230,60,1267,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="703,37,736,37,736,42,703,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1projectile_1_1_combat_projectile.html#afbf68a4a19d1cd6d1224b6238ebaee23" title=" " alt="" coords="1858,40,1845,29,1807,20,1749,12,1675,7,1593,5,1511,7,1438,12,1379,20,1341,29,1328,40,1341,50,1379,60,1438,68,1511,72,1593,74,1675,72,1749,68,1807,60,1845,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1281,37,1313,37,1313,42,1281,42"/>
+</map>

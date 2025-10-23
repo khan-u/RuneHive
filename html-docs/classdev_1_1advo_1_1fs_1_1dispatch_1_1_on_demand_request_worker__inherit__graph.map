@@ -1,0 +1,5 @@
+<map id="dev.advo.fs.dispatch.OnDemandRequestWorker" name="dev.advo.fs.dispatch.OnDemandRequestWorker">
+<area shape="poly" id="Node000001" title="A worker which services &#39;on&#45;demand&#39; requests." alt="" coords="361,130,352,119,327,109,288,102,238,97,183,95,128,97,79,102,39,109,14,119,5,130,14,140,39,150,79,158,128,162,183,164,238,162,288,158,327,150,352,140"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="248,26,244,20,235,14,221,9,203,6,183,5,163,6,145,9,131,14,122,20,118,26,122,33,131,39,145,43,163,46,183,47,203,46,221,43,235,39,244,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,63,186,95,180,95,180,63"/>
+</map>

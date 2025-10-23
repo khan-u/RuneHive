@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_gowler_1_1_magic_attack =
+[
+    [ "MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_gowler_1_1_magic_attack.html#a9c83b8fe48881e1167aa8027b05f2407", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_gowler_1_1_magic_attack.html#a59eae6237d3c5878ca6eeb1f27350005", null ],
+    [ "start", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_gowler_1_1_magic_attack.html#a59b716bbfe04aab0b06bd40abf1f9ac5", null ]
+];

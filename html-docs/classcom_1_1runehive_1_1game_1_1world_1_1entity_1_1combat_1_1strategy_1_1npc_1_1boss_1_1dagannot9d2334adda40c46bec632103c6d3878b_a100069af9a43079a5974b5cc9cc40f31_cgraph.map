@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.dagannoths.DagannothRex.CrushMelee.finishOutgoing" name="com.runehive.game.world.entity.combat.strategy.npc.boss.dagannoths.DagannothRex.CrushMelee.finishOutgoing">
+<area shape="poly" id="Node000001" title=" " alt="" coords="741,40,723,29,671,20,590,12,487,7,373,5,260,7,157,12,76,20,23,29,5,40,23,50,76,60,157,68,260,72,373,74,487,72,590,68,671,60,723,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1_npc.html#affd5bdbd86c41e122232c9c8e643b217" title="The combat of the mob." alt="" coords="1234,40,1223,29,1191,20,1142,12,1080,7,1011,5,943,7,881,12,832,20,800,29,789,40,800,50,832,60,881,68,943,72,1011,74,1080,72,1142,68,1191,60,1223,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="742,37,773,37,773,42,742,42"/>
+</map>

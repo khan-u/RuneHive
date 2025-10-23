@@ -1,0 +1,7 @@
+<map id="com.runehive.util.StringUtils.determinePluralCheck" name="com.runehive.util.StringUtils.determinePluralCheck">
+<area shape="poly" id="Node000001" title="Determines the plural check of thing." alt="" coords="1033,40,1026,29,1004,20,970,12,928,7,880,5,833,7,790,12,757,20,735,29,727,40,735,50,757,60,790,68,833,72,880,74,928,72,970,68,1004,60,1026,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_string_utils.html#a553095c79e36bca529c4f46f5278edb8" title="Appends the determined plural check to thing." alt="" coords="679,40,672,29,652,20,621,12,582,7,538,5,495,7,456,12,424,20,404,29,397,40,404,50,424,60,456,68,495,72,538,74,582,72,621,68,652,60,672,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="712,42,680,42,680,37,712,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1_producing_skill_action.html#a6cb0238272468239195a1fa39ae64de9" title="Determines if the task can be ran." alt="" coords="349,40,341,29,317,20,279,12,231,7,177,5,124,7,76,12,38,20,14,29,5,40,14,50,38,60,76,68,124,72,177,74,231,72,279,68,317,60,341,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,42,350,42,350,37,382,37"/>
+</map>

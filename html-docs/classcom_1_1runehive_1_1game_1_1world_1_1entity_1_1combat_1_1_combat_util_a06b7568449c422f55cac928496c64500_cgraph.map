@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.CombatUtil.cancelEffect" name="com.runehive.game.world.entity.combat.CombatUtil.cancelEffect">
+<area shape="poly" id="Node000001" title="Cancels the effect in any context." alt="" coords="437,64,427,53,396,44,348,36,288,31,221,29,155,31,94,36,47,44,16,53,5,64,16,74,47,84,94,92,155,96,221,98,288,96,348,92,396,84,427,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_util.html#a59d6e62ebcc26a130e426dca2a2a02c9" title="Applies the effect in any context." alt="" coords="917,64,906,53,876,44,828,36,768,31,701,29,634,31,574,36,526,44,496,53,485,64,496,74,526,84,574,92,634,96,701,98,768,96,828,92,876,84,906,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="438,61,470,61,470,66,438,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="610,32,611,20,627,11,657,5,701,3,755,6,785,15,783,20,754,11,701,8,658,10,629,16,616,23,615,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.region.RegionBlock.getGameObjects" name="com.runehive.game.world.region.RegionBlock.getGameObjects">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1663,86,1654,76,1628,66,1588,59,1537,54,1481,52,1425,54,1374,59,1334,66,1308,76,1299,86,1308,97,1334,107,1374,114,1425,119,1481,121,1537,119,1588,114,1628,107,1654,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_block.html#a7a18a81a444e5b350e8214d22afe6f21" title=" " alt="" coords="1251,40,1242,29,1216,20,1176,12,1125,7,1069,5,1013,7,962,12,922,20,896,29,887,40,896,50,922,60,962,68,1013,72,1069,74,1125,72,1176,68,1216,60,1242,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1308,70,1226,60,1227,55,1309,64"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region.html#a45e423e27c2ab59d317cb4a7fbbc0537" title=" " alt="" coords="1251,133,1242,122,1216,113,1176,105,1125,100,1069,99,1013,100,962,105,922,113,896,122,887,133,896,144,922,153,962,161,1013,166,1069,167,1125,166,1176,161,1216,153,1242,144"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1309,109,1227,118,1226,113,1308,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region.html#a0604924f591cb53a31c19ff7faaecdd3" title=" " alt="" coords="839,40,830,29,804,20,764,12,713,7,657,5,601,7,550,12,510,20,484,29,475,40,484,50,510,60,550,68,601,72,657,74,713,72,764,68,804,60,830,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="871,42,839,42,839,37,871,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1_obelisks.html#af5592f22443103730174c91dbc118a21" title=" " alt="" coords="427,40,417,33,387,27,340,23,281,20,216,19,151,20,92,23,46,27,16,33,5,40,16,46,46,52,92,57,151,60,216,61,281,60,340,57,387,52,417,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="460,42,428,42,428,37,460,37"/>
+</map>

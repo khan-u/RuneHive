@@ -1,0 +1,5 @@
+<map id="com.runehive.content.writer.impl.SettingWriter" name="com.runehive.content.writer.impl.SettingWriter">
+<area shape="poly" id="Node000001" title="Class handles writing on the server settings itemcontainer." alt="" coords="364,157,355,146,329,136,290,129,240,124,184,122,129,124,79,129,40,136,14,146,5,157,14,167,40,177,79,184,129,189,184,191,240,189,290,184,329,177,355,167"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1writer_1_1_interface_writer.html" title="Handles writing on an itemcontainer." alt="" coords="340,40,332,29,310,20,276,12,232,7,184,5,137,7,93,12,59,20,37,29,29,40,37,50,59,60,93,68,137,72,184,74,232,72,276,68,310,60,332,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,90,187,122,182,122,182,90"/>
+</map>

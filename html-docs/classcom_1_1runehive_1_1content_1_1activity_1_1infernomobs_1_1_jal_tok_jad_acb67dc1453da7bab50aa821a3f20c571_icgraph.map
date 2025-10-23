@@ -1,0 +1,10 @@
+<map id="com.runehive.content.activity.infernomobs.JalTokJad.hit" name="com.runehive.content.activity.infernomobs.JalTokJad.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="962,133,951,122,919,113,869,105,805,100,735,99,665,100,601,105,551,113,519,122,508,133,519,144,551,153,601,161,665,166,735,167,805,166,869,161,919,153,951,144"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="821,90,790,81,735,77,690,79,660,85,645,93,645,101,640,101,641,90,658,80,689,74,735,72,791,75,823,85"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1infernomobs_1_1_jal_tok_jad.html#a1b0367614a02bb06837e6e66d185048d" title=" " alt="" coords="460,40,449,29,416,20,366,12,303,7,233,5,162,7,99,12,49,20,16,29,5,40,16,50,49,60,99,68,162,72,233,74,303,72,366,68,416,60,449,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="574,106,377,69,378,64,575,101"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1infernomobs_1_1_jal_tok_jad_1_1_magic_attack.html#a21768dbb81742599e14a3adc69d76359" title=" " alt="" coords="460,133,449,122,416,113,366,105,303,100,233,99,162,100,99,105,49,113,16,122,5,133,16,144,49,153,99,161,162,166,233,167,303,166,366,161,416,153,449,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="492,136,460,136,460,130,492,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1infernomobs_1_1_jal_tok_jad_1_1_melee_attack.html#ac978f80873f0d1b3c465dea1570ec1f1" title=" " alt="" coords="460,226,449,216,416,206,366,199,303,194,233,192,162,194,99,199,49,206,16,216,5,226,16,237,49,247,99,254,162,259,233,261,303,259,366,254,416,247,449,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="575,165,378,202,377,197,574,160"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.kraken.KrakenActivity.finish" name="com.runehive.content.activity.impl.kraken.KrakenActivity.finish">
+<area shape="poly" id="Node000001" title="Finishes the activity." alt="" coords="945,86,934,76,903,66,853,59,791,54,722,52,653,54,591,59,542,66,510,76,499,86,510,97,542,107,591,114,653,119,722,121,791,119,853,114,903,107,934,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1kraken_1_1_kraken_activity.html#a0266177d373a3706c3f86810ad1b5756" title="Called when the player logs out." alt="" coords="451,40,440,29,409,20,359,12,297,7,228,5,159,7,97,12,48,20,16,29,5,40,16,50,48,60,97,68,159,72,228,74,297,72,359,68,409,60,440,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="515,70,419,60,420,55,516,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1kraken_1_1_kraken_activity.html#a4311d67d447e127bded489ada1c75682" title="Called when the player changes region." alt="" coords="451,133,440,122,409,113,359,105,297,100,228,99,159,100,97,105,48,113,16,122,5,133,16,144,48,153,97,161,159,166,228,167,297,166,359,161,409,153,440,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="516,109,420,118,419,112,515,103"/>
+</map>

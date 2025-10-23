@@ -1,0 +1,15 @@
+<map id="com.runehive.game.world.region.RegionBlock.getCustomObject" name="com.runehive.game.world.region.RegionBlock.getCustomObject">
+<area shape="poly" id="Node000001" title=" " alt="" coords="369,180,360,169,335,160,294,152,244,147,187,145,131,147,80,152,40,160,14,169,5,180,14,190,40,200,80,208,131,212,187,214,244,212,294,208,335,200,360,190"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1object_1_1_game_object.html#abdc3e88e634b6529b03e7e0c0b357644" title="Gets the object id." alt="" coords="780,86,771,76,745,66,705,59,655,54,599,52,543,54,493,59,453,66,428,76,419,86,428,97,453,107,493,114,543,119,599,121,655,119,705,114,745,107,771,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,151,466,114,468,119,306,156"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_block.html#a1ee4e51dfd0c6a0be0135543c5b674e5" title=" " alt="" coords="781,180,772,169,746,160,706,152,655,147,599,145,543,147,492,152,452,160,426,169,417,180,426,190,452,200,492,208,543,212,599,214,655,212,706,208,746,200,772,190"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="370,177,402,177,402,182,370,182"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a7cb5d81a7a6e2b9caa37363357a52611" title="Validates this npc based on its current region and registered state." alt="" coords="776,273,767,262,742,253,703,245,654,240,599,239,545,240,496,245,457,253,432,262,423,273,432,284,457,293,496,301,545,306,599,307,654,306,703,301,742,293,767,284"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="306,204,468,241,467,246,305,209"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1object_1_1_game_object.html#a340537bd1c287fd05be25d75346a9854" title="Gets the object definition." alt="" coords="1190,40,1181,29,1156,20,1116,12,1066,7,1010,5,954,7,904,12,864,20,838,29,829,40,838,50,864,60,904,68,954,72,1010,74,1066,72,1116,68,1156,60,1181,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="755,66,838,57,839,62,756,71"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_game_object_definition.html#a074244fd8bb91933ec652feb23039a3e" title=" " alt="" coords="1190,133,1181,122,1156,113,1116,105,1066,100,1010,99,954,100,904,105,864,113,838,122,829,133,838,144,864,153,904,161,954,166,1010,167,1066,166,1116,161,1156,153,1181,144"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="756,101,839,111,838,116,755,107"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a6fbe05d5095666dd6a6ce87d3176c8dc" title=" " alt="" coords="1186,273,1177,262,1152,253,1113,245,1064,240,1010,239,955,240,906,245,867,253,842,262,833,273,842,284,867,293,906,301,955,306,1010,307,1064,306,1113,301,1152,293,1177,284"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="776,270,818,270,818,276,776,276"/>
+</map>

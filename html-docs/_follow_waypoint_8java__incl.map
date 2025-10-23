@@ -1,0 +1,5 @@
+<map id="java/com/runehive/game/world/entity/mob/movement/waypoint/FollowWaypoint.java" name="java/com/runehive/game/world/entity/mob/movement/waypoint/FollowWaypoint.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="400,53,391,38,367,25,329,14,281,8,228,5,175,8,128,14,90,25,65,38,57,53,65,68,90,81,128,92,175,99,228,101,281,99,329,92,367,81,391,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="451,170,440,164,409,158,359,153,297,150,228,149,159,150,97,153,48,158,16,164,5,170,16,176,48,182,97,187,159,190,228,191,297,190,359,187,409,182,440,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,102,231,134,226,134,226,102"/>
+</map>

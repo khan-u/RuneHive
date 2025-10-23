@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/event/impl/NpcInteractionEvent.java" name="java/com/runehive/content/event/impl/NpcInteractionEvent.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="657,40,647,29,619,20,575,12,520,7,459,5,398,7,342,12,298,20,270,29,261,40,270,50,298,60,342,68,398,72,459,74,520,72,575,68,619,60,647,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="491,157,479,150,445,144,391,140,323,137,248,136,173,137,105,140,52,144,17,150,5,157,17,163,52,169,105,174,173,177,248,178,323,177,391,174,445,169,479,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="401,76,300,130,297,126,398,71"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="827,157,819,146,797,136,762,129,719,124,671,122,623,124,579,129,545,136,523,146,515,157,523,167,545,177,579,184,623,189,671,191,719,189,762,184,797,177,819,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="520,71,601,115,598,119,517,76"/>
+</map>

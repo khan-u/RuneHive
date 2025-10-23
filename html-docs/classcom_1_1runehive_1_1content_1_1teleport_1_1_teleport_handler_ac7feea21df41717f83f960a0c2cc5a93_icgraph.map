@@ -1,0 +1,5 @@
+<map id="com.runehive.content.teleport.TeleportHandler.favorite" name="com.runehive.content.teleport.TeleportHandler.favorite">
+<area shape="poly" id="Node000001" title="Handles favorite a teleport." alt="" coords="716,40,708,29,684,20,648,12,602,7,550,5,499,7,453,12,416,20,393,29,385,40,393,50,416,60,453,68,499,72,550,74,602,72,648,68,684,60,708,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1teleport_1_1_teleport_handler.html#a764fbc29eb313b82b888b22ae1098866" title="Opens the teleport itemcontainer to a certain teleportNoChecks type." alt="" coords="337,40,329,29,305,20,268,12,222,7,171,5,120,7,74,12,37,20,13,29,5,40,13,50,37,60,74,68,120,72,171,74,222,72,268,68,305,60,329,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="369,42,337,42,337,37,369,37"/>
+</map>

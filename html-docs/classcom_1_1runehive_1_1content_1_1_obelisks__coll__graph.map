@@ -1,0 +1,6 @@
+<map id="com.runehive.content.Obelisks" name="com.runehive.content.Obelisks">
+<area shape="poly" id="Node000001" title="Created by Daniel on 2017&#45;11&#45;24." alt="" coords="344,140,336,134,311,128,274,123,227,120,175,119,122,120,75,123,38,128,14,134,5,140,14,147,38,153,75,157,122,160,175,161,227,160,274,157,311,153,336,147"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1_obelisks.html" title="Created by Daniel on 2017&#45;11&#45;24." alt="" coords="344,26,336,20,311,14,274,9,227,6,175,5,122,6,75,9,38,14,14,20,5,26,14,33,38,39,75,43,122,46,175,47,227,46,274,43,311,39,336,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,63,177,119,172,119,172,63"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="341,15,361,19,370,26,357,35,326,39,325,34,355,30,365,26,359,24,340,20"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.items.containers.inventory.Inventory.InventoryListener" name="com.runehive.game.world.items.containers.inventory.Inventory.InventoryListener">
+<area shape="poly" id="Node000001" title="An ItemContainerAdapter implementation that listens for changes to the inventory." alt="" coords="566,273,552,263,512,253,450,246,372,241,286,239,199,241,121,246,59,253,19,263,5,273,19,284,59,294,121,301,199,306,286,308,372,306,450,301,512,294,552,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container_adapter.html" title="An adapter for ItemContainerListener that updates Items on a widget whenever items change,..." alt="" coords="518,157,506,146,473,136,422,129,357,124,286,122,214,124,149,129,98,136,65,146,53,157,65,167,98,177,149,184,214,189,286,191,357,189,422,184,473,177,506,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="288,207,288,239,283,239,283,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container_listener.html" title="A listener that is fired by ItemContainer." alt="" coords="518,40,506,29,473,20,422,12,357,7,286,5,214,7,149,12,98,20,65,29,53,40,65,50,98,60,149,68,214,72,286,74,357,72,422,68,473,60,506,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="288,90,288,122,283,122,283,90"/>
+</map>

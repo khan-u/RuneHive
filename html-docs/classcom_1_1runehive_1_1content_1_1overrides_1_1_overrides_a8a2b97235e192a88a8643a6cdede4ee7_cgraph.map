@@ -1,0 +1,12 @@
+<map id="com.runehive.content.overrides.Overrides.hasWeaponOverride" name="com.runehive.content.overrides.Overrides.hasWeaponOverride">
+<area shape="poly" id="Node000001" title=" " alt="" coords="355,133,347,122,322,113,283,105,234,100,180,99,126,100,77,105,39,113,14,122,5,133,14,144,39,153,77,161,126,166,180,167,234,166,283,161,322,153,347,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#affac3f77467218623c8c85cef5725e0c" title=" " alt="" coords="753,133,744,122,719,113,681,105,632,100,578,99,524,100,475,105,437,113,412,122,403,133,412,144,437,153,475,161,524,166,578,167,632,166,681,161,719,153,744,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,139,394,139,394,145,350,145"/>
+<area shape="poly" id="edge3_Node000002_Node000001" title=" " alt="" coords="409,127,365,127,365,121,409,122"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#af6ada3e36781ba3e533a7e5bb8ac66c3" title=" " alt="" coords="1166,40,1157,29,1132,20,1093,12,1045,7,991,5,937,7,888,12,849,20,824,29,816,40,824,50,849,60,888,68,937,72,991,74,1045,72,1093,68,1132,60,1157,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="693,104,859,67,860,72,695,110"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html#ab1eaaf81e952a1be8d50b17a786b0b75" title=" " alt="" coords="1180,133,1171,122,1144,113,1102,105,1049,100,991,99,932,100,879,105,837,113,810,122,801,133,810,144,837,153,879,161,932,166,991,167,1049,166,1102,161,1144,153,1171,144"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="753,130,785,130,785,136,753,136"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html#ab9375a2c4a03fb08f1091f57b8ef70ba" title=" " alt="" coords="1180,226,1171,216,1144,206,1102,199,1049,194,991,192,932,194,879,199,837,206,810,216,801,226,810,237,837,247,879,254,932,259,991,261,1049,259,1102,254,1144,247,1171,237"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="695,157,856,193,855,199,693,162"/>
+</map>

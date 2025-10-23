@@ -1,0 +1,7 @@
+<map id="com.runehive.content.event.impl.OnStepEvent" name="com.runehive.content.event.impl.OnStepEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="365,299,356,288,331,279,291,271,241,266,185,264,130,266,79,271,40,279,14,288,5,299,14,309,40,319,79,327,130,331,185,333,241,331,291,327,331,319,356,309"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1event_1_1_interaction_event.html" title=" " alt="" coords="341,181,333,170,311,160,277,153,233,148,185,146,137,148,94,153,59,160,37,170,29,181,37,191,59,201,94,208,137,213,185,215,233,213,277,208,311,201,333,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,231,188,264,183,264,183,231"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1event_1_1_interaction_event_1_1_interaction_type.html" title=" " alt="" coords="361,40,353,29,328,20,289,12,240,7,185,5,131,7,82,12,43,20,17,29,9,40,17,50,43,60,82,68,131,72,185,74,240,72,289,68,328,60,353,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,89,188,146,183,146,183,89"/>
+</map>

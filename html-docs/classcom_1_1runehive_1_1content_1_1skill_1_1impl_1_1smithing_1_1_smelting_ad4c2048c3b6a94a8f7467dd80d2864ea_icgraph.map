@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.smithing.Smelting.Smelting" name="com.runehive.content.skill.impl.smithing.Smelting.Smelting">
+<area shape="poly" id="Node000001" title="Constructs a new Smelting." alt="" coords="1405,86,1395,76,1364,66,1316,59,1255,54,1188,52,1121,54,1060,59,1012,66,981,76,971,86,981,97,1012,107,1060,114,1121,119,1188,121,1255,119,1316,114,1364,107,1395,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1smithing_1_1_smelting.html#a12290d797db7b80cc67a1a45725cf206" title="Attempts to start smelting for the specified player." alt="" coords="923,40,912,29,881,20,833,12,772,7,705,5,638,7,578,12,529,20,499,29,488,40,499,50,529,60,578,68,638,72,705,74,772,72,833,68,881,60,912,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="986,70,892,60,892,55,986,64"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1smithing_1_1_smelting.html#ae2507c0398d0af59ccf1e9060623b101" title="Smelts the data for the specified player and produces the exact amount the player inputed if he has t..." alt="" coords="923,133,912,122,881,113,833,105,772,100,705,99,638,100,578,105,529,113,499,122,488,133,499,144,529,153,578,161,638,166,705,167,772,166,833,161,881,153,912,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="986,109,892,118,892,112,986,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1smithing_1_1_smithing.html#a24ca266adeeaaacd12e7312abf269764" title=" " alt="" coords="440,40,429,29,398,20,350,12,290,7,223,5,155,7,95,12,47,20,16,29,5,40,16,50,47,60,95,68,155,72,223,74,290,72,350,68,398,60,429,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,42,440,42,440,37,472,37"/>
+</map>

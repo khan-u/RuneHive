@@ -1,0 +1,5 @@
+<map id="java/com/runehive/game/world/object/ObjectWalkPosition.java" name="java/com/runehive/game/world/object/ObjectWalkPosition.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="415,40,404,29,375,20,330,12,273,7,210,5,147,7,90,12,44,20,15,29,5,40,15,50,44,60,90,68,147,72,210,74,273,72,330,68,375,60,404,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="400,157,390,146,363,136,321,129,269,124,210,122,151,124,98,129,56,136,29,146,20,157,29,167,56,177,98,184,151,189,210,191,269,189,321,184,363,177,390,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,75,213,107,207,107,207,75"/>
+</map>

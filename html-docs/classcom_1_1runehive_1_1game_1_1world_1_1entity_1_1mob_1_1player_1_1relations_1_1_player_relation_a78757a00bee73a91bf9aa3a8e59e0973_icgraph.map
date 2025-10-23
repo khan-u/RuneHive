@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.mob.player.relations.PlayerRelation.message" name="com.runehive.game.world.entity.mob.player.relations.PlayerRelation.message">
+<area shape="poly" id="Node000001" title=" " alt="" coords="566,64,552,53,512,44,450,36,372,31,286,29,199,31,121,36,59,44,19,53,5,64,19,74,59,84,121,92,199,96,286,98,372,96,450,92,512,84,552,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="382,20,347,11,286,8,236,10,202,16,185,23,183,27,184,31,179,32,178,26,182,19,201,11,235,5,286,3,348,6,383,15"/>
+</map>

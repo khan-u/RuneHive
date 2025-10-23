@@ -1,0 +1,7 @@
+<map id="com.runehive.content.mysterybox.MysteryItem" name="com.runehive.content.mysterybox.MysteryItem">
+<area shape="poly" id="Node000001" title=" " alt="" coords="389,220,380,209,354,199,313,192,261,187,204,185,146,187,95,192,53,199,27,209,18,220,27,230,53,240,95,247,146,252,204,254,261,252,313,247,354,240,380,230"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="402,116,392,110,364,104,320,99,265,96,204,95,142,96,87,99,43,104,15,110,5,116,15,123,43,129,87,133,142,136,204,137,265,136,320,133,364,129,392,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,153,206,185,201,185,201,153"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="271,26,268,20,258,14,243,9,224,6,204,5,183,6,164,9,149,14,139,20,136,26,139,33,149,39,164,43,183,46,204,47,224,46,243,43,258,39,268,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,63,206,95,201,95,201,63"/>
+</map>

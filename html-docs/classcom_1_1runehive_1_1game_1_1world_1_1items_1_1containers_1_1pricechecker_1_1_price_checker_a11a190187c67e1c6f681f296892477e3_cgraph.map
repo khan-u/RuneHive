@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.containers.pricechecker.PriceChecker.PriceChecker" name="com.runehive.game.world.items.containers.pricechecker.PriceChecker.PriceChecker">
+<area shape="poly" id="Node000001" title="Creates a new PriceChecker." alt="" coords="603,40,588,29,546,20,480,12,396,7,304,5,212,7,128,12,62,20,20,29,5,40,20,50,62,60,128,68,212,72,304,74,396,72,480,68,546,60,588,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a6f9f9b30415bd5fa8d12f2258f7e2532" title="Adds an ItemContainerListener to this container." alt="" coords="1115,40,1104,29,1071,20,1019,12,955,7,883,5,811,7,746,12,695,20,662,29,651,40,662,50,695,60,746,68,811,72,883,74,955,72,1019,68,1071,60,1104,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="603,37,635,37,635,42,603,42"/>
+</map>

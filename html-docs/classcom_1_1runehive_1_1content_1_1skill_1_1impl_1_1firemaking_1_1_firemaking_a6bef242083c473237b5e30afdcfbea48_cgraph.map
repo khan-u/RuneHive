@@ -1,0 +1,10 @@
+<map id="com.runehive.content.skill.impl.firemaking.Firemaking.useItem" name="com.runehive.content.skill.impl.firemaking.Firemaking.useItem">
+<area shape="poly" id="Node000001" title=" " alt="" coords="460,157,449,146,416,137,366,129,303,124,233,123,162,124,99,129,49,137,16,146,5,157,16,168,49,177,99,185,162,190,233,191,303,190,366,185,416,177,449,168"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action_manager.html#a9c429bf1d7f162f6c7f8ff0aa4e44d7e" title=" " alt="" coords="885,64,878,53,856,44,823,36,781,31,735,29,689,31,647,36,614,44,592,53,585,64,592,74,614,84,647,92,689,96,735,98,781,96,823,92,856,84,878,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,128,602,86,603,91,379,133"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1firemaking_1_1_firemaking_data.html#abe7f825fed80c0cb6ba90831cfc19135" title=" " alt="" coords="962,157,951,146,919,137,869,129,805,124,735,123,665,124,601,129,551,137,519,146,508,157,519,168,551,177,601,185,665,190,735,191,805,190,869,185,919,177,951,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="460,154,492,154,492,160,460,160"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1cec21ca5ef1783808d4ca9de1051a29" title="Gets the identification of this item." alt="" coords="912,250,903,240,878,230,839,223,790,218,735,216,680,218,631,223,592,230,567,240,558,250,567,261,592,271,631,278,680,283,735,285,790,283,839,278,878,271,903,261"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="379,181,591,221,590,226,378,187"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="643,37,639,31,639,23,654,12,686,5,735,3,797,7,816,12,827,18,825,23,814,17,796,12,735,8,686,11,656,17,644,26,644,29,648,34"/>
+</map>

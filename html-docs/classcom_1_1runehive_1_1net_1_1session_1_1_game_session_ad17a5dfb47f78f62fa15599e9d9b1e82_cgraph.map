@@ -1,0 +1,5 @@
+<map id="com.runehive.net.session.GameSession.onClose" name="com.runehive.net.session.GameSession.onClose">
+<area shape="poly" id="Node000001" title="The method called after a session has been closed." alt="" coords="297,40,290,29,269,20,237,12,196,7,151,5,106,7,65,12,33,20,12,29,5,40,12,50,33,60,65,68,106,72,151,74,196,72,237,68,269,60,290,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#af892530f5c6a8363373619cde1388677" title="Handles queueing the player logouts." alt="" coords="640,40,633,29,612,20,579,12,538,7,492,5,447,7,406,12,373,20,352,29,345,40,352,50,373,60,406,68,447,72,492,74,538,72,579,68,612,60,633,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,37,330,37,330,42,298,42"/>
+</map>

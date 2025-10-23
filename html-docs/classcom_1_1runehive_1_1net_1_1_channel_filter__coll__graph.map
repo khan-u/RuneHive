@@ -1,0 +1,5 @@
+<map id="com.runehive.net.ChannelFilter" name="com.runehive.net.ChannelFilter">
+<area shape="poly" id="Node000001" title="The ChannelInboundHandlerAdapter implementation that will filter out unwanted connections from propag..." alt="" coords="332,130,325,119,304,109,271,102,230,97,184,95,139,97,98,102,65,109,44,119,37,130,44,140,65,150,98,158,139,162,184,164,230,162,271,158,304,150,325,140"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="364,26,355,20,329,14,290,9,240,6,184,5,129,6,79,9,40,14,14,20,5,26,14,33,40,39,79,43,129,46,184,47,240,46,290,43,329,39,355,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,63,187,95,182,95,182,63"/>
+</map>

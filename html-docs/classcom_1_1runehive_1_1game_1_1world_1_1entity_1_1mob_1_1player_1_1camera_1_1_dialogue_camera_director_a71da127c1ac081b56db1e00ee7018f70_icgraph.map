@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.camera.DialogueCameraDirector.shoulderShot" name="com.runehive.game.world.entity.mob.player.camera.DialogueCameraDirector.shoulderShot">
+<area shape="poly" id="Node000001" title="Place camera behind &#39;from&#39; and turn toward &#39;to&#39;." alt="" coords="1152,40,1138,29,1099,20,1039,12,962,7,877,5,792,7,716,12,655,20,616,29,603,40,616,50,655,60,716,68,792,72,877,74,962,72,1039,68,1099,60,1138,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1camera_1_1_dialogue_camera_director.html#a4196040f12e22d77c507cd3f3e5cb2a9" title="Recompute and send camera on each tick while active." alt="" coords="555,40,541,29,502,20,441,12,365,7,280,5,195,7,119,12,58,20,19,29,5,40,19,50,58,60,119,68,195,72,280,74,365,72,441,68,502,60,541,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="587,42,555,42,555,37,587,37"/>
+</map>

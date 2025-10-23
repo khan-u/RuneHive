@@ -1,0 +1,7 @@
+<map id="com.runehive.content.bot.botclass.impl.PureRangeMelee.checkSkill" name="com.runehive.content.bot.botclass.impl.PureRangeMelee.checkSkill">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1376,40,1365,29,1335,20,1288,12,1229,7,1163,5,1098,7,1038,12,991,20,961,29,951,40,961,50,991,60,1038,68,1098,72,1163,74,1229,72,1288,68,1335,60,1365,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1bot_1_1botclass_1_1impl_1_1_pure_range_melee.html#afbad10999cacbc9fad31123951f36ef9" title=" " alt="" coords="903,40,892,29,862,20,815,12,756,7,690,5,625,7,566,12,519,20,488,29,478,40,488,50,519,60,566,68,625,72,690,74,756,72,815,68,862,60,892,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="935,42,903,42,903,37,935,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1bot_1_1botclass_1_1impl_1_1_pure_range_melee.html#aa155173e43b7cb0610103281c56dcd3f" title=" " alt="" coords="430,40,420,29,390,20,343,12,283,7,218,5,152,7,93,12,46,20,16,29,5,40,16,50,46,60,93,68,152,72,218,74,283,72,343,68,390,60,420,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,42,431,42,431,37,462,37"/>
+</map>

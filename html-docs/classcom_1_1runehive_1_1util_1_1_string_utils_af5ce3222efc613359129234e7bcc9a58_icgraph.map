@@ -1,0 +1,11 @@
+<map id="com.runehive.util.StringUtils.determineIndefiniteArticle" name="com.runehive.util.StringUtils.determineIndefiniteArticle">
+<area shape="poly" id="Node000001" title="Determines the indefinite article of thing." alt="" coords="1223,133,1215,122,1191,113,1153,105,1106,100,1054,99,1002,100,955,105,918,113,894,122,886,133,894,144,918,153,955,161,1002,166,1054,167,1106,166,1153,161,1191,153,1215,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_string_utils.html#a6111b654554177cd43476fdf8a51eb7f" title="Appends the determined indefinite article to thing." alt="" coords="838,133,830,122,808,113,773,105,730,100,681,99,633,100,589,105,555,113,532,122,525,133,532,144,555,153,589,161,633,166,681,167,730,166,773,161,808,153,830,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="870,136,838,136,838,130,870,130"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1smithing_1_1_smithing_armour.html#afe7d9080d7e55fd1d7dae1c93b27a4b3" title="Determines if this action can be initialized." alt="" coords="458,40,448,29,417,20,369,12,308,7,241,5,174,7,113,12,65,20,34,29,24,40,34,50,65,60,113,68,174,72,241,74,308,72,369,68,417,60,448,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="557,107,476,89,380,69,381,64,477,84,558,102"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1_harvesting_skill_action.html#a6cfc2d89736eaef3fed6c65fe358ac9d" title="Determines if the task can be ran." alt="" coords="413,133,405,122,380,113,342,105,294,100,241,99,188,100,140,105,102,113,77,122,69,133,77,144,102,153,140,161,188,166,241,167,294,166,342,161,380,153,405,144"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="509,136,414,136,414,130,509,130"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1woodcutting_1_1_woodcutting.html#a2649c022a8c56985f7bfd5aaaaa1b804" title=" " alt="" coords="477,226,465,216,432,206,380,199,314,194,241,192,168,194,102,199,50,206,17,216,5,226,17,237,50,247,102,254,168,259,241,261,314,259,380,254,432,247,465,237"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="558,164,477,182,386,201,384,196,476,177,557,159"/>
+</map>

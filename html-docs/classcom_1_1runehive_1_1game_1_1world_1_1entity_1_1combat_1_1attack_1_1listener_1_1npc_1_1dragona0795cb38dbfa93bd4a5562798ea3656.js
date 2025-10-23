@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragona0795cb38dbfa93bd4a5562798ea3656 =
+[
+    [ "Dragonfire", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragona0795cb38dbfa93bd4a5562798ea3656.html#a8b44f20b398cbf6a2c87ac585cfa2a94", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragona0795cb38dbfa93bd4a5562798ea3656.html#aa09f88614b5b405781271d1541af7ff7", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragona0795cb38dbfa93bd4a5562798ea3656.html#a2e2f2d8c0db94d65d9af9db1d0695238", null ]
+];

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.puzzle.PuzzleDisplay.open" name="com.runehive.content.puzzle.PuzzleDisplay.open">
+<area shape="poly" id="Node000001" title="Opens the puzzle interface." alt="" coords="756,40,748,29,725,20,689,12,644,7,594,5,544,7,499,12,464,20,441,29,433,40,441,50,464,60,499,68,544,72,594,74,644,72,689,68,725,60,748,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1bloodmoney_1_1_blood_money_chest.html#a05d5b3b7af046a71a8ec47659447744a" title="Handles opening the blood money chest." alt="" coords="385,40,376,29,349,20,307,12,254,7,195,5,136,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,136,72,195,74,254,72,307,68,349,60,376,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="417,42,385,42,385,37,417,37"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="com.runehive.content.skill.impl.farming.patches.impl.AllotmentPatch" name="com.runehive.content.skill.impl.farming.patches.impl.AllotmentPatch">
+<area shape="poly" id="Node000001" title="An implementation of an allotment patch." alt="" coords="563,507,549,496,510,487,448,479,370,474,284,473,198,474,120,479,59,487,19,496,5,507,19,518,59,527,120,535,198,540,284,541,370,540,448,535,510,527,549,518"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1_waterable_patch.html" title="A DiseasablePatch that can prevent disease with water." alt="" coords="539,390,526,380,490,370,434,362,363,357,284,356,205,357,134,362,78,370,42,380,29,390,42,401,78,410,134,418,205,423,284,425,363,423,434,418,490,410,526,401"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,440,287,472,282,472,282,440"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1_diseasable_patch.html" title=" " alt="" coords="539,273,526,263,490,253,434,246,363,241,284,239,205,241,134,246,78,253,42,263,29,273,42,284,78,294,134,301,205,306,284,308,363,306,434,301,490,294,526,284"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="287,324,287,355,282,355,282,324"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1_harvestable_patch.html" title="A WaterablePatch that can harvest produce." alt="" coords="539,157,526,146,490,136,434,129,363,124,284,122,205,124,134,129,78,136,42,146,29,157,42,167,78,177,134,184,205,189,284,191,363,189,434,184,490,177,526,167"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="287,207,287,239,282,239,282,207"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1patches_1_1_farming_patch.html" title=" " alt="" coords="539,40,526,29,490,20,434,12,363,7,284,5,205,7,134,12,78,20,42,29,29,40,42,50,78,60,134,68,205,72,284,74,363,72,434,68,490,60,526,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="287,90,287,122,282,122,282,90"/>
+</map>

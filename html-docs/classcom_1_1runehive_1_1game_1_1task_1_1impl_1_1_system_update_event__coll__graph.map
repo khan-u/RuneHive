@@ -1,0 +1,7 @@
+<map id="com.runehive.game.task.impl.SystemUpdateEvent" name="com.runehive.game.task.impl.SystemUpdateEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="376,220,368,209,344,199,308,192,262,187,211,185,161,187,115,192,78,199,55,209,47,220,55,230,78,240,115,247,161,252,211,254,262,252,308,247,344,240,368,230"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_tickable_task.html" title=" " alt="" coords="417,116,407,110,378,104,332,99,275,96,211,95,148,96,90,99,45,104,15,110,5,116,15,123,45,129,90,133,148,136,211,137,275,136,332,133,378,129,407,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,153,214,185,209,185,209,153"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="375,26,367,20,344,14,307,9,262,6,211,5,161,6,115,9,79,14,56,20,48,26,56,33,79,39,115,43,161,46,211,47,262,46,307,43,344,39,367,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="214,63,214,95,209,95,209,63"/>
+</map>

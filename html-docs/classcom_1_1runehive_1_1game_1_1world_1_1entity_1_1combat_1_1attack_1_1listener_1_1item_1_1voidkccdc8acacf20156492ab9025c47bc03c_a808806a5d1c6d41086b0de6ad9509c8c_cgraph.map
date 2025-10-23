@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.item.voidknight.VoidKnightMeleeListener.modifyAttackLevel" name="com.runehive.game.world.entity.combat.attack.listener.item.voidknight.VoidKnightMeleeListener.modifyAttackLevel">
+<area shape="poly" id="Node000001" title=" " alt="" coords="737,40,719,29,667,20,586,12,484,7,371,5,258,7,156,12,75,20,23,29,5,40,23,50,75,60,156,68,258,72,371,74,484,72,586,68,667,60,719,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a2ea2f5bf2add5da240394b746dc89ce4" title="The combat strategy of the mob." alt="" coords="1254,40,1242,29,1209,20,1157,12,1092,7,1019,5,947,7,882,12,830,20,796,29,785,40,796,50,830,60,882,68,947,72,1019,74,1092,72,1157,68,1209,60,1242,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="737,37,770,37,770,42,737,42"/>
+</map>

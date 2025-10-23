@@ -1,0 +1,13 @@
+<map id="com.runehive.content.ItemCreation.CreationData" name="com.runehive.content.ItemCreation.CreationData">
+<area shape="poly" id="Node000001" title="Holds the creation data." alt="" coords="1227,93,1220,82,1199,72,1167,65,1126,60,1081,58,1036,60,995,65,962,72,941,82,934,93,941,103,962,113,995,121,1036,125,1081,127,1126,125,1167,121,1199,113,1220,103"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="832,51,822,45,794,39,750,34,695,31,633,30,572,31,517,34,473,39,445,45,435,51,445,58,473,64,517,68,572,71,633,72,695,71,750,68,794,64,822,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="800,64,944,77,943,83,800,69"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="229,51,226,45,216,39,201,34,183,31,162,30,141,31,122,34,107,39,98,45,94,51,98,58,107,64,122,68,141,71,162,72,183,71,201,68,216,64,226,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,49,435,49,435,54,245,54"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html" title="Represents a trainable and usable skill." alt="" coords="832,131,822,121,794,111,750,103,695,99,633,97,572,99,516,103,472,111,444,121,434,131,444,142,472,152,516,159,572,164,633,166,695,164,750,159,794,152,822,142"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="834,115,910,109,948,105,948,110,910,114,835,120"/>
+<area shape="poly" id="Node000005" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="318,131,310,121,288,111,253,103,210,99,162,97,114,99,70,103,36,111,14,121,6,131,14,142,36,152,70,159,114,164,162,166,210,164,253,159,288,152,310,142"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="333,129,434,129,434,134,333,134"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1util_1_1_stopwatch.html" title=" " alt="" coords="318,211,311,205,288,199,254,194,210,191,162,190,113,191,70,194,35,199,13,205,5,211,13,218,35,224,70,228,113,231,162,232,210,231,254,228,288,224,311,218"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="276,189,489,153,490,158,276,195"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.weapon.WeaponInterface.execute" name="com.runehive.game.world.entity.combat.weapon.WeaponInterface.execute">
+<area shape="poly" id="Node000001" title="The method executed when weapon item is equipped or unequipped that assigns a weapon interface to pla..." alt="" coords="523,64,511,53,474,44,417,36,344,31,264,29,184,31,112,36,55,44,18,53,5,64,18,74,55,84,112,92,184,96,264,98,344,96,417,92,474,84,511,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="166,31,168,20,186,11,218,5,264,3,322,6,355,15,353,20,321,11,264,8,218,10,187,16,172,23,171,32"/>
+</map>

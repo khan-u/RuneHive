@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.custom.ToxicBlowpipeStrategy.getAttackDistance" name="com.runehive.game.world.entity.combat.strategy.player.custom.ToxicBlowpipeStrategy.getAttackDistance">
+<area shape="poly" id="Node000001" title=" " alt="" coords="665,40,649,29,602,20,529,12,437,7,335,5,233,7,141,12,68,20,21,29,5,40,21,50,68,60,141,68,233,72,335,74,437,72,529,68,602,60,649,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1_fight_type.html#a5889ef95d96c210d9a7b3677330519f5" title="Gets the attack distance." alt="" coords="1210,40,1198,29,1162,20,1107,12,1038,7,961,5,884,7,815,12,760,20,725,29,713,40,725,50,760,60,815,68,884,72,961,74,1038,72,1107,68,1162,60,1198,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="665,37,697,37,697,42,665,42"/>
+</map>

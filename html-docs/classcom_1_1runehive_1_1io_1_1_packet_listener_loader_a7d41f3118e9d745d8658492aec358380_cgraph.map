@@ -1,0 +1,7 @@
+<map id="com.runehive.io.PacketListenerLoader.run" name="com.runehive.io.PacketListenerLoader.run">
+<area shape="poly" id="Node000001" title=" " alt="" coords="351,86,342,76,318,66,280,59,231,54,178,52,125,54,77,59,38,66,14,76,5,86,14,97,38,107,77,114,125,119,178,121,231,119,280,114,318,107,342,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_repository.html#a066d699ebc6aed15b2917027cc2b600d" title="Registers a listener to listen for client &#45;&gt; server packet events." alt="" coords="767,40,758,29,732,20,691,12,640,7,583,5,526,7,475,12,434,20,408,29,399,40,408,50,434,60,475,68,526,72,583,74,640,72,691,68,732,60,758,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="328,66,410,57,411,62,329,72"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1net_1_1packet_1_1_packet_listener_meta.html#ab301721977161fb6047dd6e9d320e970" title="The client&#45;server packet identifiers that this annotated listener can listen to." alt="" coords="728,133,721,122,700,113,668,105,628,100,583,99,538,100,498,105,465,113,445,122,438,133,445,144,465,153,498,161,538,166,583,167,628,166,668,161,700,153,721,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="329,101,437,114,437,119,328,106"/>
+</map>

@@ -1,0 +1,5 @@
+var enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_state =
+[
+    [ "FIGHTING", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_state.html#aebfe42ebe067ee1774bb6c90cfe22f85", null ],
+    [ "ROAMING", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_state.html#a838dacf407808fc5a12f4bf1371e559b", null ]
+];

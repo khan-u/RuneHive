@@ -1,0 +1,5 @@
+<map id="com.runehive.game.Projectile.getClientTicks" name="com.runehive.game.Projectile.getClientTicks">
+<area shape="poly" id="Node000001" title=" " alt="" coords="371,40,362,29,336,20,295,12,244,7,188,5,132,7,81,12,40,20,14,29,5,40,14,50,40,60,81,68,132,72,188,74,244,72,295,68,336,60,362,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1_projectile.html#a64edeedaa0ab60682f77b619ec792727" title=" " alt="" coords="784,40,775,29,749,20,709,12,658,7,601,5,545,7,494,12,454,20,428,29,419,40,428,50,454,60,494,68,545,72,601,74,658,72,709,68,749,60,775,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="371,37,403,37,403,42,371,42"/>
+</map>

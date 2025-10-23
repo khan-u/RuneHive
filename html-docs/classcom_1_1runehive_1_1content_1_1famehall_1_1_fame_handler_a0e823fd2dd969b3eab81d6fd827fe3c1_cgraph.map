@@ -1,0 +1,7 @@
+<map id="com.runehive.content.famehall.FameHandler.getEntry" name="com.runehive.content.famehall.FameHandler.getEntry">
+<area shape="poly" id="Node000001" title="Gets the fame by the fame entry." alt="" coords="348,86,340,76,315,66,277,59,230,54,177,52,124,54,76,59,38,66,14,76,5,86,14,97,38,107,76,114,124,119,177,121,230,119,277,114,315,107,340,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1famehall_1_1_fame_handler.html#a578bf0ecc8da0f74e70bf39623547926" title="Filters the hall of fame entries for a certain fame type." alt="" coords="739,40,730,29,706,20,668,12,620,7,567,5,514,7,467,12,429,20,404,29,396,40,404,50,429,60,467,68,514,72,567,74,620,72,668,68,706,60,730,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="324,66,404,57,405,62,325,71"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1famehall_1_1_fame_entry.html#ae643558785eab4827c6345d0130b9c20" title="Gets the fame type." alt="" coords="739,133,730,122,706,113,668,105,620,100,567,99,514,100,467,105,429,113,404,122,396,133,404,144,429,153,467,161,514,166,567,167,620,166,668,161,706,153,730,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="325,101,405,111,404,116,324,107"/>
+</map>

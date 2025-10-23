@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar_1_1_armadyl_spritual_mage =
+[
+    [ "MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar89511b2bf01a4883fdb91bf1d6ae44eb.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar89511b2bf01a4883fdb91bf1d6ae44eb" ],
+    [ "start", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar_1_1_armadyl_spritual_mage.html#a975240f049efe9add6e3b4187f3d611b", null ],
+    [ "MAGIC", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar_1_1_armadyl_spritual_mage.html#a1dfddd9023ed113fa0cbf0cd65869c02", null ]
+];

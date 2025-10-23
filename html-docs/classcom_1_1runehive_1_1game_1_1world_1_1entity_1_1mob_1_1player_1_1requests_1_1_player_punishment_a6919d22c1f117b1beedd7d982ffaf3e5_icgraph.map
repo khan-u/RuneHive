@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.requests.PlayerPunishment.isJailed" name="com.runehive.game.world.entity.mob.player.requests.PlayerPunishment.isJailed">
+<area shape="poly" id="Node000001" title=" " alt="" coords="942,40,929,29,889,20,827,12,749,7,662,5,576,7,497,12,435,20,396,29,382,40,396,50,435,60,497,68,576,72,662,74,749,72,827,68,889,60,929,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1_yell.html#a4eec8df3bad95521ab2c090ff502a2f7" title="Yells a message to the server." alt="" coords="334,40,326,33,303,27,266,23,220,20,170,19,119,20,73,23,37,27,13,33,5,40,13,46,37,52,73,57,119,60,170,61,220,60,266,57,303,52,326,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="367,42,334,42,334,37,367,37"/>
+</map>

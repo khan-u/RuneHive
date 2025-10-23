@@ -1,0 +1,5 @@
+<map id="com.runehive.game.action.impl.SpadeAction.onSchedule" name="com.runehive.game.action.impl.SpadeAction.onSchedule">
+<area shape="poly" id="Node000001" title="A function executed on registration." alt="" coords="354,40,345,29,320,20,282,12,233,7,180,5,126,7,77,12,39,20,14,29,5,40,14,50,39,60,77,68,126,72,180,74,233,72,282,68,320,60,345,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="702,40,695,29,673,20,640,12,598,7,552,5,505,7,464,12,430,20,409,29,402,40,409,50,430,60,464,68,505,72,552,74,598,72,640,68,673,60,695,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="354,37,386,37,386,42,354,42"/>
+</map>

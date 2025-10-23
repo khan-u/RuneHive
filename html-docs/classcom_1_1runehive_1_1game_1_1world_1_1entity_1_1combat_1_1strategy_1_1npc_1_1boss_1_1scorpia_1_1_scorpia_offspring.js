@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_offspring =
+[
+    [ "ScorpiaOffspring", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_offspring.html#a7c7a5802589cef88cb25381ae25375ff", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_offspring.html#a5d243c84f0a34faac1ae5cfbf5e197dc", null ],
+    [ "hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_offspring.html#ad560d0aa85bb56708ece78e985616953", null ]
+];

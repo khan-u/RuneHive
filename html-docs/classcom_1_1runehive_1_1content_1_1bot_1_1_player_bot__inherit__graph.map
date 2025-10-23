@@ -1,0 +1,11 @@
+<map id="com.runehive.content.bot.PlayerBot" name="com.runehive.content.bot.PlayerBot">
+<area shape="poly" id="Node000001" title="The player bot entity." alt="" coords="383,480,376,470,356,460,324,452,284,447,240,446,195,447,155,452,123,460,103,470,96,480,103,491,123,500,155,508,195,513,240,515,284,513,324,508,356,500,376,491"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html" title="This class represents a character controlled by a player." alt="" coords="474,363,462,353,429,343,377,336,312,331,240,329,167,331,102,336,50,343,17,353,5,363,17,374,50,384,102,391,167,396,240,398,312,396,377,391,429,384,462,374"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,414,242,445,237,445,237,414"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html" title="Handles the mob class." alt="" coords="463,260,452,253,420,248,371,243,309,240,240,239,171,240,109,243,59,248,28,253,17,260,28,266,59,272,109,277,171,280,240,281,309,280,371,277,420,272,452,266"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="242,296,242,328,237,328,237,296"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html" title="Represents a character in the game world, i.e." alt="" coords="416,157,407,146,382,136,343,129,294,124,240,122,185,124,136,129,97,136,72,146,63,157,72,167,97,177,136,184,185,189,240,191,294,189,343,184,382,177,407,167"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="242,207,242,238,237,238,237,207"/>
+<area shape="poly" id="Node000005" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="387,40,380,29,359,20,326,12,285,7,240,5,194,7,153,12,120,20,100,29,92,40,100,50,120,60,153,68,194,72,240,74,285,72,326,68,359,60,380,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="242,90,242,122,237,122,237,90"/>
+</map>

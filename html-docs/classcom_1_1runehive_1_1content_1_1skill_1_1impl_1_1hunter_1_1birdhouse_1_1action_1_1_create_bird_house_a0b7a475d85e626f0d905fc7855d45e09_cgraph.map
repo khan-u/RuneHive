@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.hunter.birdhouse.action.CreateBirdHouse.execute" name="com.runehive.content.skill.impl.hunter.birdhouse.action.CreateBirdHouse.execute">
+<area shape="poly" id="Node000001" title="A function representing the unit of work that will be carried out." alt="" coords="590,40,576,29,534,20,469,12,388,7,298,5,207,7,126,12,61,20,20,29,5,40,20,50,61,60,126,68,207,72,298,74,388,72,469,68,534,60,576,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="938,40,931,29,909,20,876,12,834,7,788,5,742,7,700,12,667,20,645,29,638,40,645,50,667,60,700,68,742,72,788,74,834,72,876,68,909,60,931,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="590,37,622,37,622,42,590,42"/>
+</map>

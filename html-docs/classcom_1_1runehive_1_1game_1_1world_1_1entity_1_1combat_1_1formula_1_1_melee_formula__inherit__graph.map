@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.entity.combat.formula.MeleeFormula" name="com.runehive.game.world.entity.combat.formula.MeleeFormula">
+<area shape="poly" id="Node000001" title=" " alt="" coords="518,508,505,498,469,488,412,480,341,475,262,474,182,475,111,480,54,488,18,498,5,508,18,519,54,528,111,536,182,541,262,543,341,541,412,536,469,528,505,519"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_formula_modifier.html" title=" " alt="" coords="477,390,467,379,436,370,388,362,328,357,262,356,195,357,135,362,87,370,56,379,46,390,56,401,87,410,135,418,195,423,262,424,328,423,388,418,436,410,467,401"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,440,264,473,259,473,259,440"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html" title="Handles the mob class." alt="" coords="485,263,474,256,442,250,393,246,330,243,262,242,193,243,130,246,81,250,49,256,39,263,49,269,81,275,130,280,193,283,262,284,330,283,393,280,442,275,474,269"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="264,299,264,355,259,355,259,299"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html" title="Represents a character in the game world, i.e." alt="" coords="438,158,429,147,404,138,365,130,316,125,262,123,207,125,158,130,119,138,94,147,85,158,94,169,119,178,158,186,207,191,262,192,316,191,365,186,404,178,429,169"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="264,208,264,241,259,241,259,208"/>
+<area shape="poly" id="Node000005" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="409,40,402,29,381,20,348,12,307,7,262,5,216,7,175,12,142,20,121,29,114,40,121,50,142,60,175,68,216,72,262,74,307,72,348,68,381,60,402,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="264,90,264,123,259,123,259,90"/>
+</map>

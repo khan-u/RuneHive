@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.custom.TridentOfTheSeasStrategy.hit" name="com.runehive.game.world.entity.combat.strategy.player.custom.TridentOfTheSeasStrategy.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="665,64,649,53,602,44,529,36,437,31,335,29,233,31,141,36,68,44,21,53,5,64,21,74,68,84,141,92,233,96,335,98,437,96,529,92,602,84,649,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="210,32,209,26,213,19,235,10,276,5,335,3,410,6,451,16,450,21,409,12,335,8,276,10,237,16,217,23,214,27,215,31"/>
+</map>

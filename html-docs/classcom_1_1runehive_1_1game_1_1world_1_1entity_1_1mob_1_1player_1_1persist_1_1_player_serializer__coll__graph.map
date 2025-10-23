@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.persist.PlayerSerializer" name="com.runehive.game.world.entity.mob.player.persist.PlayerSerializer">
+<area shape="poly" id="Node000001" title=" " alt="" coords="546,181,533,170,494,160,435,153,359,148,276,146,192,148,117,153,57,160,19,170,5,181,19,191,57,201,117,208,192,213,276,215,359,213,435,208,494,201,533,191"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1persist_1_1_player_persistable.html" title=" " alt="" coords="546,40,533,29,494,20,435,12,359,7,276,5,192,7,117,12,57,20,19,29,5,40,19,50,57,60,117,68,192,72,276,74,359,72,435,68,494,60,533,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,89,278,146,273,146,273,89"/>
+</map>

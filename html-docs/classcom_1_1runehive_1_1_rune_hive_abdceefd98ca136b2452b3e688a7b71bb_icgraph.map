@@ -1,0 +1,5 @@
+<map id="com.runehive.RuneHive.onStart" name="com.runehive.RuneHive.onStart">
+<area shape="poly" id="Node000001" title="Called when the game engine is running and all the startup tasks have finished loading." alt="" coords="679,40,672,29,650,20,617,12,574,7,527,5,480,7,438,12,404,20,382,29,375,40,382,50,404,60,438,68,480,72,527,74,574,72,617,68,650,60,672,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1_rune_hive.html#ab9a24653997a7d8bb955f26c59b7f8ea" title=" " alt="" coords="327,40,319,33,296,27,261,23,216,20,166,19,116,20,72,23,36,27,13,33,5,40,13,46,36,52,72,57,116,60,166,61,216,60,261,57,296,52,319,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="359,42,327,42,327,37,359,37"/>
+</map>

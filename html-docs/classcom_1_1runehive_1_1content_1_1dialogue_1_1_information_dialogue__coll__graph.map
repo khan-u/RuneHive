@@ -1,0 +1,7 @@
+<map id="com.runehive.content.dialogue.InformationDialogue" name="com.runehive.content.dialogue.InformationDialogue">
+<area shape="poly" id="Node000001" title="Handles the information box dialogue." alt="" coords="349,247,341,236,317,226,279,219,231,214,177,212,124,214,76,219,38,226,14,236,5,247,14,257,38,267,76,274,124,279,177,281,231,279,279,274,317,267,341,257"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1dialogue_1_1_chainable.html" title="The chain&#45;able itemcontainer that allows implementing dialogue factories the ability to chain togethe..." alt="" coords="349,130,341,119,317,109,279,102,231,97,177,95,124,97,76,102,38,109,14,119,5,130,14,140,38,150,76,158,124,162,177,164,231,162,279,158,317,150,341,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,180,180,212,175,212,175,180"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="347,26,338,20,314,14,277,9,230,6,177,5,125,6,78,9,40,14,16,20,8,26,16,33,40,39,78,43,125,46,177,47,230,46,277,43,314,39,338,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,63,180,95,175,95,175,63"/>
+</map>

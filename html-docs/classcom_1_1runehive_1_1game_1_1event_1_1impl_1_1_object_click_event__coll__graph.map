@@ -1,0 +1,9 @@
+<map id="com.runehive.game.event.impl.ObjectClickEvent" name="com.runehive.game.event.impl.ObjectClickEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="348,299,340,288,315,279,277,271,230,266,177,264,124,266,76,271,38,279,14,288,5,299,14,309,38,319,76,327,124,331,177,333,230,331,277,327,315,319,340,309"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1event_1_1_event.html" title="Represents something that happens." alt="" coords="303,158,295,147,275,138,242,130,201,125,155,123,110,125,69,130,36,138,15,147,8,158,15,169,36,178,69,186,110,191,155,192,201,191,242,186,275,178,295,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,207,174,263,169,264,160,208"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1object_1_1_game_object.html" title="Represents a game object." alt="" coords="688,158,679,147,653,138,613,130,563,125,507,123,452,125,401,130,361,138,336,147,327,158,336,169,361,178,401,186,452,191,507,192,563,191,613,186,653,178,679,169"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="421,198,250,270,248,265,419,193"/>
+<area shape="poly" id="Node000004" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="655,40,647,29,627,20,594,12,553,7,507,5,462,7,421,12,388,20,367,29,360,40,367,50,388,60,421,68,462,72,507,74,553,72,594,68,627,60,647,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="510,90,510,123,505,123,505,90"/>
+</map>

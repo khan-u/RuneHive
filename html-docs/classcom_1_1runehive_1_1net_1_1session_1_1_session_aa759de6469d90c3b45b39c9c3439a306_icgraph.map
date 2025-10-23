@@ -1,0 +1,5 @@
+<map id="com.runehive.net.session.Session.getChannel" name="com.runehive.net.session.Session.getChannel">
+<area shape="poly" id="Node000001" title="Gets the underlying Channel for this Session." alt="" coords="637,40,630,29,609,20,577,12,536,7,491,5,446,7,405,12,373,20,352,29,345,40,352,50,373,60,405,68,446,72,491,74,536,72,577,68,609,60,630,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1session_1_1_session.html#a18fe96a79a92ff1167ee468ac76d6948" title="Gets the users host address." alt="" coords="297,40,290,29,269,20,237,12,196,7,151,5,106,7,65,12,33,20,12,29,5,40,12,50,33,60,65,68,106,72,151,74,196,72,237,68,269,60,290,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,42,297,42,297,37,330,37"/>
+</map>

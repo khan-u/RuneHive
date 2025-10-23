@@ -1,0 +1,5 @@
+<map id="com.runehive.game.Graphic" name="com.runehive.game.Graphic">
+<area shape="poly" id="Node000001" title="Represents a single graphic that can be used by entities." alt="" coords="318,116,311,110,288,104,254,99,210,96,162,95,113,96,70,99,35,104,13,110,5,116,13,123,35,129,70,133,113,136,162,137,210,136,254,133,288,129,311,123"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="297,26,291,20,271,14,241,9,204,6,162,5,120,6,82,9,52,14,33,20,27,26,33,33,52,39,82,43,120,46,162,47,204,46,241,43,271,39,291,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,63,165,95,159,95,159,63"/>
+</map>

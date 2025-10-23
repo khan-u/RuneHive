@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.mining.MiningAction.onSchedule" name="com.runehive.content.skill.impl.mining.MiningAction.onSchedule">
+<area shape="poly" id="Node000001" title="A function executed on registration." alt="" coords="423,40,413,29,383,20,337,12,279,7,214,5,150,7,91,12,45,20,16,29,5,40,16,50,45,60,91,68,150,72,214,74,279,72,337,68,383,60,413,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="771,40,764,29,743,20,709,12,668,7,621,5,575,7,533,12,500,20,478,29,471,40,478,50,500,60,533,68,575,72,621,74,668,72,709,68,743,60,764,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="424,37,455,37,455,42,424,42"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.Combat.checkDistances" name="com.runehive.game.world.entity.combat.Combat.checkDistances">
+<area shape="poly" id="Node000001" title=" " alt="" coords="917,40,906,29,876,20,828,12,768,7,701,5,634,7,574,12,526,20,496,29,485,40,496,50,526,60,574,68,634,72,701,74,768,72,828,68,876,60,906,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat.html#a6925068d9c8155b26890618494c7327b" title=" " alt="" coords="437,40,427,29,396,20,348,12,288,7,221,5,155,7,94,12,47,20,16,29,5,40,16,50,47,60,94,68,155,72,221,74,288,72,348,68,396,60,427,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,42,438,42,438,37,470,37"/>
+</map>

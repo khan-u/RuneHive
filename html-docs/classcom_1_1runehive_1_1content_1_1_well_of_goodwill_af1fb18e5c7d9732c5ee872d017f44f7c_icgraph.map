@@ -1,0 +1,7 @@
+<map id="com.runehive.content.WellOfGoodwill.open" name="com.runehive.content.WellOfGoodwill.open">
+<area shape="poly" id="Node000001" title="Opens the well itemcontainer." alt="" coords="787,86,780,76,759,66,726,59,685,54,639,52,593,54,552,59,519,66,498,76,491,86,498,97,519,107,552,114,593,119,639,121,685,119,726,114,759,107,780,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1_well_of_goodwill.html#a2ed3c78059bd07baeea164f5788ce050" title="Handles contributing to the well." alt="" coords="372,40,365,29,344,20,311,12,270,7,224,5,178,7,137,12,104,20,83,29,76,40,83,50,104,60,137,68,178,72,224,74,270,72,311,68,344,60,365,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="489,72,358,57,358,52,490,67"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1impl_1_1_well_of_goodwill_dialogue.html#a17d848384873eb4852205f66a7a83ff8" title="Sends a player a dialogue." alt="" coords="443,133,432,122,401,113,353,105,292,100,224,99,156,100,95,105,47,113,16,122,5,133,16,144,47,153,95,161,156,166,224,167,292,166,353,161,401,153,432,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="490,106,404,116,403,110,490,100"/>
+</map>

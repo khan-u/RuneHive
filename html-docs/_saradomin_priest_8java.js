@@ -1,0 +1,5 @@
+var _saradomin_priest_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.godwar.SaradominPriest", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar_1_1_saradomin_priest.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar_1_1_saradomin_priest" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.godwar.SaradominPriest.MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwarf5e7899e7b00af2676e7b27d0259b291.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwarf5e7899e7b00af2676e7b27d0259b291" ]
+];

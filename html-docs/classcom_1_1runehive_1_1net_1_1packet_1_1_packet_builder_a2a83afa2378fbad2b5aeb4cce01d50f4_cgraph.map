@@ -1,0 +1,9 @@
+<map id="com.runehive.net.packet.PacketBuilder.writeInt" name="com.runehive.net.packet.PacketBuilder.writeInt">
+<area shape="poly" id="Node000001" title=" " alt="" coords="286,40,279,29,259,20,228,12,189,7,146,5,102,7,63,12,32,20,12,29,5,40,12,50,32,60,63,68,102,72,146,74,189,72,228,68,259,60,279,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_builder.html#a8af8ccb250104b80abcc50f2b4db7608" title=" " alt="" coords="980,40,972,29,949,20,914,12,870,7,821,5,772,7,728,12,693,20,670,29,662,40,670,50,693,60,728,68,772,72,821,74,870,72,914,68,949,60,972,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,20,334,14,474,9,614,14,668,18,667,24,614,20,474,14,334,20,269,25"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_builder.html#a8f33868284aaa55fd60ce47d5b8d5170" title=" " alt="" coords="614,88,607,77,588,68,556,60,517,55,474,53,431,55,392,60,361,68,341,77,334,88,341,98,361,108,392,116,431,120,474,122,517,120,556,116,588,108,607,98"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="267,55,338,65,337,70,266,60"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="597,68,671,58,672,63,598,73"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="411,56,411,45,423,35,443,29,474,27,512,30,532,40,530,45,510,35,474,32,444,34,425,40,416,47,416,57"/>
+</map>

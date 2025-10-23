@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.movement.waypoint.WalkToWaypoint" name="com.runehive.game.world.entity.mob.movement.waypoint.WalkToWaypoint">
+<area shape="poly" id="Node000001" title=" " alt="" coords="614,247,599,236,556,226,488,219,404,214,310,212,216,214,131,219,63,226,20,236,5,247,20,257,63,267,131,274,216,279,310,281,404,279,488,274,556,267,599,257"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1movement_1_1waypoint_1_1_waypoint.html" title=" " alt="" coords="614,130,599,119,556,109,488,102,404,97,310,95,216,97,131,102,63,109,20,119,5,130,20,140,63,150,131,158,216,162,310,164,404,162,488,158,556,150,599,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="312,180,312,212,307,212,307,180"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="473,26,465,20,442,14,406,9,360,6,310,5,259,6,213,9,177,14,154,20,146,26,154,33,177,39,213,43,259,46,310,47,360,46,406,43,442,39,465,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="312,63,312,95,307,95,307,63"/>
+</map>

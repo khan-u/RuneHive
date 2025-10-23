@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.accuracy.MagicAccuracyNpc.getMagicLevel" name="com.runehive.game.world.entity.combat.accuracy.MagicAccuracyNpc.getMagicLevel">
+<area shape="poly" id="Node000001" title=" " alt="" coords="532,64,519,53,482,44,423,36,350,31,269,29,187,31,114,36,56,44,18,53,5,64,18,74,56,84,114,92,187,96,269,98,350,96,423,92,482,84,519,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a413f91a2ac68dc4f5d610c7195caf347" title="Gets the level of a skill." alt="" coords="978,64,968,53,940,44,896,36,840,31,779,29,717,31,662,36,618,44,590,53,580,64,590,74,618,84,662,92,717,96,779,98,840,96,896,92,940,84,968,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="532,61,564,61,564,66,532,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="683,33,682,21,699,11,731,5,779,3,837,6,869,16,867,21,836,12,779,8,732,10,701,16,687,24,688,33"/>
+</map>

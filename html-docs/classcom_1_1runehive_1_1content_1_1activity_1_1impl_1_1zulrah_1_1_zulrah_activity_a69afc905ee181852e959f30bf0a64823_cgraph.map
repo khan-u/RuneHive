@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.zulrah.ZulrahActivity.finish" name="com.runehive.content.activity.impl.zulrah.ZulrahActivity.finish">
+<area shape="poly" id="Node000001" title="Finishes the activity." alt="" coords="446,80,435,69,404,60,355,52,294,47,225,45,157,47,96,52,47,60,16,69,5,80,16,90,47,100,96,108,157,112,225,114,294,112,355,108,404,100,435,90"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1zulrah_1_1_zulrah_activity.html#a962f9ba5cf30d5491b91b3f7d9c99932" title="Cleans up the activity when finished." alt="" coords="934,40,923,29,892,20,843,12,782,7,714,5,646,7,584,12,536,20,504,29,494,40,504,50,536,60,584,68,646,72,714,74,782,72,843,68,892,60,923,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="421,61,502,54,503,60,422,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a9d880a8e3188a9193421cc25bc0eef46" title="Gets the current server time and formats it." alt="" coords="888,120,879,113,855,107,816,103,768,100,714,99,660,100,611,103,573,107,548,113,540,120,548,126,573,132,611,137,660,140,714,141,768,140,816,137,855,132,879,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="422,93,553,104,553,109,421,98"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.item.VeracListener.VeracModifier" name="com.runehive.game.world.entity.combat.attack.listener.item.VeracListener.VeracModifier">
+<area shape="poly" id="Node000001" title=" " alt="" coords="628,508,613,498,569,488,500,480,413,475,317,474,220,475,134,480,65,488,21,498,5,508,21,519,65,528,134,536,220,541,317,543,413,541,500,536,569,528,613,519"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_formula_modifier.html" title=" " alt="" coords="533,390,522,379,491,370,444,362,383,357,317,356,250,357,190,362,142,370,111,379,101,390,111,401,142,410,190,418,250,423,317,424,383,423,444,418,491,410,522,401"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,440,319,473,314,473,314,440"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html" title="Handles the mob class." alt="" coords="540,263,529,256,497,250,448,246,386,243,317,242,248,243,186,246,136,250,105,256,94,263,105,269,136,275,186,280,248,283,317,284,386,283,448,280,497,275,529,269"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="319,299,319,355,314,355,314,299"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html" title="Represents a character in the game world, i.e." alt="" coords="493,158,484,147,459,138,420,130,371,125,317,123,262,125,213,130,174,138,149,147,140,158,149,169,174,178,213,186,262,191,317,192,371,191,420,186,459,178,484,169"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="319,208,319,241,314,241,314,208"/>
+<area shape="poly" id="Node000005" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="464,40,457,29,436,20,403,12,362,7,317,5,271,7,230,12,198,20,177,29,169,40,177,50,198,60,230,68,271,72,317,74,362,72,403,68,436,60,457,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="319,90,319,123,314,123,314,90"/>
+</map>

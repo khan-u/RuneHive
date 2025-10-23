@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.godwars.GodwarsActivity.canEnter" name="com.runehive.content.activity.impl.godwars.GodwarsActivity.canEnter">
+<area shape="poly" id="Node000001" title="Checks if the player can enter the godwars chambers." alt="" coords="470,40,458,29,425,20,374,12,309,7,238,5,166,7,101,12,50,20,17,29,5,40,17,50,50,60,101,68,166,72,238,74,309,72,374,68,425,60,458,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_right.html#ab8ab8cc648ab71bd3d8bc202279f95ac" title=" " alt="" coords="986,40,975,29,941,20,890,12,824,7,752,5,680,7,614,12,562,20,529,29,518,40,529,50,562,60,614,68,680,72,752,74,824,72,890,68,941,60,975,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,37,502,37,502,42,470,42"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="com.runehive.util.tools.wiki.parser.WikiTableParser.writeToJson" name="com.runehive.util.tools.wiki.parser.WikiTableParser.writeToJson">
+<area shape="poly" id="Node000001" title="Writes the parsed wiki dump to a json file in ./data/wiki named as the name parameter." alt="" coords="781,133,772,122,745,113,704,105,652,100,594,99,537,100,484,105,443,113,417,122,407,133,417,144,443,153,484,161,537,166,594,167,652,166,704,161,745,153,772,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1tools_1_1wiki_1_1impl_1_1_bonus_parser.html#a0fd9ce478ddc1c6dba2137867af1784d" title=" " alt="" coords="359,40,351,29,326,20,286,12,237,7,182,5,128,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,128,72,182,74,237,72,286,68,326,60,351,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="460,105,299,69,300,64,461,100"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1tools_1_1wiki_1_1impl_1_1_item_def_parser.html#a47c119e6df586cffa81f494ae2ed0dff" title=" " alt="" coords="359,133,351,122,326,113,286,105,237,100,182,99,128,100,78,105,39,113,14,122,5,133,14,144,39,153,78,161,128,166,182,167,237,166,286,161,326,153,351,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="392,136,360,136,360,130,392,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1tools_1_1wiki_1_1impl_1_1_npc_drops_parser.html#a81d912a4c0607e4ad96ffb49a0e40661" title=" " alt="" coords="359,226,351,216,326,206,286,199,237,194,182,192,128,194,78,199,39,206,14,216,5,226,14,237,39,247,78,254,128,259,182,261,237,259,286,254,326,247,351,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="461,166,300,203,299,197,460,161"/>
+</map>

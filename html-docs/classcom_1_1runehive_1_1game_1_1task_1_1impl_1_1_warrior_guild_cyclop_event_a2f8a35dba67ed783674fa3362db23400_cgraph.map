@@ -1,0 +1,7 @@
+<map id="com.runehive.game.task.impl.WarriorGuildCyclopEvent.WarriorGuildCyclopEvent" name="com.runehive.game.task.impl.WarriorGuildCyclopEvent.WarriorGuildCyclopEvent">
+<area shape="poly" id="Node000001" title="Constructs a new WarriorGuildCyclopEvent." alt="" coords="371,53,362,38,336,25,295,14,244,8,188,5,132,8,81,14,40,25,14,38,5,53,14,68,40,81,81,92,132,99,188,101,244,99,295,92,336,81,362,68"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a805b523ab614960ec10465a923860253" title="Attaches a new key." alt="" coords="812,53,803,47,775,41,731,36,676,33,615,32,555,33,500,36,456,41,428,47,419,53,428,60,456,66,500,70,555,73,615,74,676,73,731,70,775,66,803,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="371,51,403,51,403,56,371,56"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a8fd9ca2bfc396f359956ba04785ee083" title="Creates a new Task." alt="" coords="1240,53,1230,47,1204,41,1162,36,1109,33,1050,32,991,33,939,36,897,41,870,47,860,53,870,60,897,66,939,70,991,73,1050,74,1109,73,1162,70,1204,66,1230,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="813,51,845,51,845,56,813,56"/>
+</map>

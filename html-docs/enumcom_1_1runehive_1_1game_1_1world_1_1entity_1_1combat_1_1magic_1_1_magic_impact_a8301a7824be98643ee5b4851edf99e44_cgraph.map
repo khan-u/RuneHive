@@ -1,0 +1,10 @@
+<map id="com.runehive.game.world.entity.combat.magic.MagicImpact.teleblock" name="com.runehive.game.world.entity.combat.magic.MagicImpact.teleblock">
+<area shape="poly" id="Node000001" title=" " alt="" coords="504,110,491,100,456,90,401,83,331,78,254,76,177,78,108,83,53,90,18,100,5,110,18,121,53,131,108,138,177,143,254,145,331,143,401,138,456,131,491,121"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_util.html#a59d6e62ebcc26a130e426dca2a2a02c9" title="Applies the effect in any context." alt="" coords="983,64,973,53,942,44,894,36,834,31,768,29,701,31,641,36,593,44,562,53,552,64,562,74,593,84,641,92,701,96,768,98,834,96,894,92,942,84,973,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="464,89,563,80,564,85,464,94"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#ac7ddf988f32265b28e7af7283b406df1" title="Check if an entity is a player." alt="" coords="969,157,959,146,930,137,886,129,830,124,768,123,705,124,649,129,605,137,576,146,566,157,576,168,605,177,649,185,705,190,768,191,830,190,886,185,930,177,959,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="464,127,574,137,573,142,464,132"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="683,31,685,20,700,11,728,5,768,3,816,6,844,15,842,20,815,11,767,8,728,10,702,16,690,23,689,32"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a64f68055122aaf4af08787378c7ac356" title="Gets the EntityType." alt="" coords="1384,157,1375,146,1350,137,1311,129,1262,124,1208,123,1153,124,1104,129,1065,137,1040,146,1031,157,1040,168,1065,177,1104,185,1153,190,1208,191,1262,190,1311,185,1350,177,1375,168"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="969,154,1016,154,1016,160,969,160"/>
+</map>

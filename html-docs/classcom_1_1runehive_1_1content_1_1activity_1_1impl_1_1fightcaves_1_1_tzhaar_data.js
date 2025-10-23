@@ -1,0 +1,4 @@
+var classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1fightcaves_1_1_tzhaar_data =
+[
+    [ "WaveData", "enumcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1fightcaves_1_1_tzhaar_data_1_1_wave_data.html", "enumcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1fightcaves_1_1_tzhaar_data_1_1_wave_data" ]
+];

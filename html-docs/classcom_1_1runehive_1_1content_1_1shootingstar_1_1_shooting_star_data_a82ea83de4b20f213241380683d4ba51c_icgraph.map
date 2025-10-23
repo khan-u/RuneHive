@@ -1,0 +1,5 @@
+<map id="com.runehive.content.shootingstar.ShootingStarData.getLevel" name="com.runehive.content.shootingstar.ShootingStarData.getLevel">
+<area shape="poly" id="Node000001" title="Gets the random star level." alt="" coords="826,40,817,29,790,20,749,12,696,7,637,5,579,7,526,12,484,20,458,29,448,40,458,50,484,60,526,68,579,72,637,74,696,72,749,68,790,60,817,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1shootingstar_1_1_shooting_star_data.html#af38c1174f16384d796044682fa6cd1d4" title=" " alt="" coords="400,40,391,29,363,20,319,12,264,7,203,5,142,7,87,12,43,20,15,29,5,40,15,50,43,60,87,68,142,72,203,74,264,72,319,68,363,60,391,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="433,42,401,42,401,37,433,37"/>
+</map>

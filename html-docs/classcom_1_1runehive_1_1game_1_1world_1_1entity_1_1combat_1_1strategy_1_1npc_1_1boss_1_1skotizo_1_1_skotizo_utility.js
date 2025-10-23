@@ -1,0 +1,9 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_utility =
+[
+    [ "SpawnData", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3" ],
+    [ "defeated", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_utility.html#a99b2af7370791643ebe5a7add904261e", null ],
+    [ "generateSpawn", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_utility.html#ab927a91125e54289b23a489ddd50dc0d", null ],
+    [ "getInformation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_utility.html#abb9aeedf32fa99627c876aca7ba4a3ca", null ],
+    [ "data", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_utility.html#a7ef030deed9fc287c14d2dc41ad83a42", null ],
+    [ "skotizo", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_utility.html#aa318fe461f42b455f7f058e930f24e64", null ]
+];

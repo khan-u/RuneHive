@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.zulrah.ZulrahActivity.nextForm" name="com.runehive.content.activity.impl.zulrah.ZulrahActivity.nextForm">
+<area shape="poly" id="Node000001" title="Gets the next Zulrah form." alt="" coords="446,40,435,29,404,20,355,12,294,7,225,5,157,7,96,12,47,20,16,29,5,40,16,50,47,60,96,68,157,72,225,74,294,72,355,68,404,60,435,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_random_utils.html#a4393ae0e07595cf2eff354ff17894f39" title="Returns a pseudo&#45;random int value between inclusive min and inclusive max excluding the specified num..." alt="" coords="787,40,780,29,759,20,726,12,686,7,640,5,595,7,554,12,522,20,501,29,494,40,501,50,522,60,554,68,595,72,640,74,686,72,726,68,759,60,780,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,37,478,37,478,42,446,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_random_utils.html#af5ca705d36edb35274dfe19aaaf57fce" title="Pseudo&#45;randomly retrieves a element from array." alt="" coords="1128,40,1121,29,1100,20,1068,12,1027,7,981,5,936,7,895,12,863,20,842,29,835,40,842,50,863,60,895,68,936,72,981,74,1027,72,1068,68,1100,60,1121,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="787,37,819,37,819,42,787,42"/>
+</map>

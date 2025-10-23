@@ -1,0 +1,6 @@
+<map id="java/com/runehive/game/world/entity/combat/attack/listener/npc" name="java/com/runehive/game/world/entity/combat/attack/listener/npc">
+<area shape="poly" id="node2" href="dir_18c85d197fdcb0852ed92477cb93123d.html" title="dragon" alt="" coords="234,85,232,78,225,73,214,68,200,65,184,64,168,65,154,68,143,73,136,78,134,85,136,91,143,97,154,102,168,105,184,106,200,105,214,102,225,97,232,91"/>
+<area shape="poly" id="node3" href="dir_e6749e3a0832d9d7e6d232bcea42d87b.html" title="godwar" alt="" coords="363,85,361,78,353,73,342,68,327,65,311,64,294,65,280,68,268,73,261,78,258,85,261,91,268,97,280,102,294,105,311,106,327,105,342,102,353,97,361,91"/>
+<area shape="rect" id="clust2" href="dir_85c1ccac5c44ae0e1541b39076481d1b.html" alt="" coords="27,53,373,117"/>
+<area shape="rect" id="clust1" href="dir_9bef2b4c368130ff3782e03b64fe89e8.html" title="listener" alt="" coords="16,16,384,127"/>
+</map>

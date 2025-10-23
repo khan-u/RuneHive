@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/skill/impl/firemaking/FiremakingData.java" name="java/com/runehive/content/skill/impl/firemaking/FiremakingData.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="347,53,339,38,319,25,286,14,245,8,200,5,155,8,114,14,81,25,61,38,53,53,61,68,81,81,114,92,155,99,200,101,245,99,286,92,319,81,339,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="184,170,180,164,167,158,147,153,122,150,95,149,67,150,42,153,22,158,10,164,5,170,10,176,22,182,42,187,67,190,95,191,122,190,147,187,167,182,180,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,101,125,140,121,136,156,98"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="406,170,401,164,387,158,365,153,337,150,307,149,276,150,248,153,226,158,212,164,207,170,212,176,226,182,248,187,276,190,307,191,337,190,365,187,387,182,401,176"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,98,280,136,276,140,240,101"/>
+</map>

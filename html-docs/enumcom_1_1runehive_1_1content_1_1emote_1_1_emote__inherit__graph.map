@@ -1,0 +1,5 @@
+<map id="com.runehive.content.emote.Emote" name="com.runehive.content.emote.Emote">
+<area shape="poly" id="Node000001" title="Holds all the emote data." alt="" coords="324,157,316,146,294,136,258,129,214,124,165,122,115,124,71,129,36,136,13,146,5,157,13,167,36,177,71,184,115,189,165,191,214,189,258,184,294,177,316,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1util_1_1generic_1_1_boolean_interface.html" title=" " alt="" coords="308,40,301,29,281,20,249,12,209,7,165,5,120,7,80,12,48,20,28,29,21,40,28,50,48,60,80,68,120,72,165,74,209,72,249,68,281,60,301,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,90,167,122,162,122,162,90"/>
+</map>

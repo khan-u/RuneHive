@@ -1,0 +1,9 @@
+<map id="com.runehive.content.dialogue.PlayerDialogue" name="com.runehive.content.dialogue.PlayerDialogue">
+<area shape="poly" id="Node000001" title="A Chainable implementation that represents a player talking." alt="" coords="625,272,617,261,593,252,555,244,507,239,453,237,400,239,352,244,314,252,290,261,281,272,290,282,314,292,352,300,400,305,453,306,507,305,555,300,593,292,617,282"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1dialogue_1_1_chainable.html" title="The chain&#45;able itemcontainer that allows implementing dialogue factories the ability to chain togethe..." alt="" coords="349,131,341,120,317,111,279,103,231,98,177,97,124,98,76,103,38,111,14,120,5,131,14,142,38,151,76,159,124,164,177,165,231,164,279,159,317,151,341,142"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,168,392,237,390,242,252,173"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="347,26,338,20,314,14,277,9,230,6,177,5,125,6,78,9,40,14,16,20,8,26,16,33,40,39,78,43,125,46,177,47,230,46,277,43,314,39,338,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,63,180,96,175,96,175,63"/>
+<area shape="poly" id="Node000004" href="$enumcom_1_1runehive_1_1content_1_1dialogue_1_1_expression.html" title="Represents the expressions of entities for dialogue." alt="" coords="717,131,709,120,685,111,647,103,599,98,545,97,492,98,444,103,406,111,382,120,373,131,382,142,406,151,444,159,492,164,545,165,599,164,647,159,685,151,709,142"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="517,180,478,239,473,236,513,177"/>
+</map>

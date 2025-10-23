@@ -1,0 +1,7 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_dark_beast_1_1_magic_attack =
+[
+    [ "MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_dark_beast_1_1_magic_attack.html#a8da9da082364db7cbea90ed8f46a947b", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_dark_beast_1_1_magic_attack.html#a89d267701ad0a565fc4572ab8c22d098", null ],
+    [ "hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_dark_beast_1_1_magic_attack.html#a9dfcdd9ab9d1ac4126a3fae8540c52cf", null ],
+    [ "start", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_dark_beast_1_1_magic_attack.html#a0a4ba99c05e53d57bc218c72360c2e17", null ]
+];

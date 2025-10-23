@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.NpcMagicStrategy.getHits" name="com.runehive.game.world.entity.combat.strategy.npc.NpcMagicStrategy.getHits">
+<area shape="poly" id="Node000001" title=" " alt="" coords="563,64,549,53,510,44,448,36,370,31,284,29,198,31,120,36,59,44,19,53,5,64,19,74,59,84,120,92,198,96,284,98,370,96,448,92,510,84,549,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1_combat_strategy.html#ad83f68e523849bd85a67db2efa48eb32" title=" " alt="" coords="1126,64,1114,53,1077,44,1020,36,948,31,869,29,789,31,717,36,660,44,624,53,611,64,624,74,660,84,717,92,789,96,869,98,948,96,1020,92,1077,84,1114,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="564,61,595,61,595,66,564,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="758,33,756,26,760,20,779,11,815,5,869,3,934,6,971,15,970,21,934,12,869,8,816,10,781,16,764,24,762,27,763,31"/>
+</map>

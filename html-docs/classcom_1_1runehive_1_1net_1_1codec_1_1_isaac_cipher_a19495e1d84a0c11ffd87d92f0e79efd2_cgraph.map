@@ -1,0 +1,5 @@
+<map id="com.runehive.net.codec.IsaacCipher.init" name="com.runehive.net.codec.IsaacCipher.init">
+<area shape="poly" id="Node000001" title="Initializes the ISAAC." alt="" coords="334,40,326,29,303,20,266,12,220,7,170,5,119,7,73,12,37,20,13,29,5,40,13,50,37,60,73,68,119,72,170,74,220,72,266,68,303,60,326,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1codec_1_1_isaac_cipher.html#ae83655d471833494dc25ac60c08b580b" title="Generates 256 results." alt="" coords="710,40,702,29,679,20,643,12,597,7,546,5,495,7,450,12,413,20,390,29,382,40,390,50,413,60,450,68,495,72,546,74,597,72,643,68,679,60,702,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="334,37,367,37,367,42,334,42"/>
+</map>

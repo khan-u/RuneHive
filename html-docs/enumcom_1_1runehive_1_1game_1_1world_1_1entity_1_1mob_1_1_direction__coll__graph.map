@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.Direction" name="com.runehive.game.world.entity.mob.Direction">
+<area shape="poly" id="Node000001" title="Represents the enumerated directions an entity can walk or face." alt="" coords="1413,42,1403,31,1375,21,1330,14,1274,9,1212,7,1150,9,1094,14,1049,21,1021,31,1011,42,1021,52,1049,62,1094,69,1150,74,1212,76,1274,74,1330,69,1375,62,1403,52"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="385,63,376,52,349,43,307,35,254,30,195,29,136,30,84,35,42,43,15,52,5,63,15,74,42,83,84,91,136,96,195,97,254,96,307,91,349,83,376,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="373,41,515,31,716,27,917,31,1014,33,1014,38,917,36,716,32,515,36,374,46"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_direction.html" title="Represents the enumerated directions an entity can walk or face." alt="" coords="917,128,907,118,879,108,834,100,778,96,716,94,654,96,598,100,553,108,525,118,515,128,525,139,553,148,598,156,654,161,716,163,778,161,834,156,879,148,907,139"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="368,82,553,105,552,110,367,87"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="872,98,1069,64,1070,69,873,104"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="674,78,690,70,716,67,738,69,754,75,763,84,765,94,759,95,758,86,751,79,737,74,716,73,691,75,676,83"/>
+</map>

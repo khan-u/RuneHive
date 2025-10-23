@@ -1,0 +1,4 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_melee =
+[
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_melee.html#a74b77aa6a0a26ce53a8c78c2ac0e6f04", null ]
+];

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.containers.ItemContainer.ItemContainerIterator.ItemContainerIterator" name="com.runehive.game.world.items.containers.ItemContainer.ItemContainerIterator.ItemContainerIterator">
+<area shape="poly" id="Node000001" title="Creates a new ItemContainerIterator." alt="" coords="470,53,458,38,425,25,374,14,309,8,238,5,166,8,101,14,50,25,17,38,5,53,17,68,50,81,101,92,166,99,238,101,309,99,374,92,425,81,458,68"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a1d29cdc85900ea92d5f8c578279e7001" title="Creates a new ItemContainer." alt="" coords="982,53,971,43,938,33,886,25,822,20,750,19,678,20,613,25,562,33,529,43,518,53,529,64,562,73,613,81,678,86,750,88,822,86,886,81,938,73,971,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,51,502,51,502,56,470,56"/>
+</map>

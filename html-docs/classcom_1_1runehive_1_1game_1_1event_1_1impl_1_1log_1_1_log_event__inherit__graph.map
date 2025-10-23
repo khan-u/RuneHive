@@ -1,0 +1,17 @@
+<map id="com.runehive.game.event.impl.log.LogEvent" name="com.runehive.game.event.impl.log.LogEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="727,273,718,262,691,253,649,245,596,240,538,239,479,240,426,245,384,253,357,262,348,273,357,284,384,293,426,301,479,306,538,307,596,306,649,301,691,293,718,284"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1event_1_1impl_1_1log_1_1_chat_log_event.html" title=" " alt="" coords="1155,40,1146,29,1119,20,1077,12,1024,7,965,5,907,7,854,12,812,20,785,29,775,40,785,50,812,60,854,68,907,72,965,74,1024,72,1077,68,1119,60,1146,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="582,226,667,153,719,116,774,84,831,62,833,67,777,89,722,120,670,157,585,230"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1event_1_1impl_1_1log_1_1_command_log_event.html" title=" " alt="" coords="1155,133,1146,122,1119,113,1077,105,1024,100,965,99,907,100,854,105,812,113,785,122,775,133,785,144,812,153,854,161,907,166,965,167,1024,166,1077,161,1119,153,1146,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="626,233,775,177,844,158,845,163,776,182,628,238"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1event_1_1impl_1_1log_1_1_drop_item_log_event.html" title=" " alt="" coords="1155,226,1146,216,1119,206,1077,199,1024,194,965,192,907,194,854,199,812,206,785,216,775,226,785,237,812,247,854,254,907,259,965,261,1024,259,1077,254,1119,247,1146,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="716,251,801,242,802,247,717,256"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1event_1_1impl_1_1log_1_1_pickup_item_log_event.html" title=" " alt="" coords="1155,320,1146,309,1119,300,1077,292,1024,287,965,285,907,287,854,292,812,300,785,309,775,320,785,330,812,340,854,348,907,352,965,354,1024,352,1077,348,1119,340,1146,330"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="717,290,802,299,801,305,716,295"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1game_1_1event_1_1impl_1_1log_1_1_private_message_chat_log_event.html" title=" " alt="" coords="1155,413,1146,402,1119,393,1077,385,1024,380,965,379,907,380,854,385,812,393,785,402,775,413,785,424,812,433,854,441,907,446,965,447,1024,446,1077,441,1119,433,1146,424"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="628,308,776,364,845,384,844,389,775,369,626,313"/>
+<area shape="poly" id="Node000008" href="$classcom_1_1runehive_1_1game_1_1event_1_1impl_1_1log_1_1_trade_log_event.html" title=" " alt="" coords="1155,506,1146,496,1119,486,1077,479,1024,474,965,472,907,474,854,479,812,486,785,496,775,506,785,517,812,527,854,534,907,539,965,541,1024,539,1077,534,1119,527,1146,517"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="585,316,670,389,722,426,777,457,833,479,831,484,774,462,719,430,667,393,582,320"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1event_1_1_event.html" title="Represents something that happens." alt="" coords="300,273,293,262,272,253,239,245,198,240,153,239,107,240,66,245,33,253,13,262,5,273,13,284,33,293,66,301,107,306,153,307,198,306,239,301,272,293,293,284"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="315,270,348,270,348,276,315,276"/>
+</map>

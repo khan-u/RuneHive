@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.crafting.CraftableItem" name="com.runehive.content.skill.impl.crafting.CraftableItem">
+<area shape="poly" id="Node000001" title="The craftable item." alt="" coords="429,266,418,256,388,246,341,238,282,234,217,232,152,234,93,238,46,246,16,256,5,266,16,277,46,287,93,294,152,299,217,301,282,299,341,294,388,287,418,277"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="415,118,406,111,377,105,334,101,278,98,217,97,156,98,100,101,57,105,28,111,19,118,28,124,57,130,100,135,156,138,217,139,278,138,334,135,377,130,406,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,154,220,231,214,231,214,154"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="284,26,281,20,272,14,257,9,238,6,217,5,196,6,177,9,162,14,153,20,150,26,153,33,162,39,177,43,196,46,217,47,238,46,257,43,272,39,281,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="220,63,220,96,214,96,214,63"/>
+</map>

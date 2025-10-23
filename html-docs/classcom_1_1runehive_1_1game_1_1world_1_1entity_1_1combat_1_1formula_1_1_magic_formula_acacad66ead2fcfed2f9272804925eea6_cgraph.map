@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.combat.formula.MagicFormula.modifyAccuracy" name="com.runehive.game.world.entity.combat.formula.MagicFormula.modifyAccuracy">
+<area shape="poly" id="Node000001" title=" " alt="" coords="518,98,505,88,469,78,412,71,341,66,262,64,182,66,111,71,54,78,18,88,5,98,18,109,54,119,111,126,182,131,262,133,341,131,412,126,469,119,505,109"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a385dc0248234fddaae1b093594d7bf58" title="The combat of the mob." alt="" coords="968,40,958,29,929,20,885,12,829,7,767,5,705,7,649,12,604,20,576,29,566,40,576,50,604,60,649,68,705,72,767,74,829,72,885,68,929,60,958,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="457,73,584,58,584,64,458,78"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a413f91a2ac68dc4f5d610c7195caf347" title="Gets the level of a skill." alt="" coords="966,157,956,146,928,137,884,129,828,124,767,123,705,124,650,129,606,137,578,146,568,157,578,168,606,177,650,185,705,190,767,191,828,190,884,185,928,177,956,168"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="458,118,585,133,585,139,457,124"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="672,127,671,115,688,105,720,98,767,96,824,100,856,109,854,114,824,105,767,101,720,104,690,110,676,117,677,126"/>
+</map>

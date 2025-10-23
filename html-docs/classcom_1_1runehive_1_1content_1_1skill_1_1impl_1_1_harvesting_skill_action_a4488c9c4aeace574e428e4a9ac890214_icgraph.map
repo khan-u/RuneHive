@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.HarvestingSkillAction.harvestItems" name="com.runehive.content.skill.impl.HarvestingSkillAction.harvestItems">
+<area shape="poly" id="Node000001" title="The items to be harvested upon a successful harvest." alt="" coords="792,40,783,29,756,20,714,12,661,7,603,5,544,7,491,12,449,20,422,29,413,40,422,50,449,60,491,68,544,72,603,74,661,72,714,68,756,60,783,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1_harvesting_skill_action.html#ac8631e82e19083c3978493e906f9c488" title="The method which is called on intervals of the specified #delay;." alt="" coords="365,40,356,29,331,20,291,12,241,7,185,5,130,7,79,12,40,20,14,29,5,40,14,50,40,60,79,68,130,72,185,74,241,72,291,68,331,60,356,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="398,42,365,42,365,37,398,37"/>
+</map>

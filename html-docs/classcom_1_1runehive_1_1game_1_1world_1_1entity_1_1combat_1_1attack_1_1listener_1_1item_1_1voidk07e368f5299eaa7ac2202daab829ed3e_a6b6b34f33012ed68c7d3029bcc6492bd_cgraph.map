@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.item.voidknight.elite.EliteKnightMagicListener.modifyDamage" name="com.runehive.game.world.entity.combat.attack.listener.item.voidknight.elite.EliteKnightMagicListener.modifyDamage">
+<area shape="poly" id="Node000001" title=" " alt="" coords="785,40,766,29,711,20,624,12,516,7,395,5,275,7,166,12,80,20,24,29,5,40,24,50,80,60,166,68,275,72,395,74,516,72,624,68,711,60,766,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a2ea2f5bf2add5da240394b746dc89ce4" title="The combat strategy of the mob." alt="" coords="1302,40,1290,29,1257,20,1205,12,1140,7,1067,5,995,7,930,12,878,20,845,29,833,40,845,50,878,60,930,68,995,72,1067,74,1140,72,1205,68,1257,60,1290,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="785,37,818,37,818,42,785,42"/>
+</map>

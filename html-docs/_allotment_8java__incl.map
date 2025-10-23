@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/skill/impl/farming/plants/Allotment.java" name="java/com/runehive/content/skill/impl/farming/plants/Allotment.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="362,53,354,38,334,25,301,14,260,8,215,5,170,8,129,14,96,25,75,38,68,53,75,68,96,81,129,92,170,99,215,101,260,99,301,92,334,81,354,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="217,170,211,164,196,158,173,153,144,150,111,149,78,150,49,153,26,158,11,164,5,170,11,176,26,182,49,187,78,190,111,191,144,190,173,187,196,182,211,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,101,141,140,137,136,172,98"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="398,170,394,164,383,158,365,153,343,150,319,149,295,150,273,153,255,158,244,164,240,170,244,176,255,182,273,187,295,190,319,191,343,190,365,187,383,182,394,176"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,98,293,136,289,140,254,101"/>
+</map>

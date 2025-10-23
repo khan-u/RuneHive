@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.out.SendScreenshot" name="com.runehive.net.packet.out.SendScreenshot">
+<area shape="poly" id="Node000001" title=" " alt="" coords="323,157,315,146,292,136,257,129,213,124,164,122,115,124,71,129,36,136,13,146,5,157,13,167,36,177,71,184,115,189,164,191,213,189,257,184,292,177,315,167"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_outgoing_packet.html" title=" " alt="" coords="304,40,297,29,277,20,246,12,207,7,164,5,121,7,82,12,51,20,31,29,24,40,31,50,51,60,82,68,121,72,164,74,207,72,246,68,277,60,297,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,90,167,122,161,122,161,90"/>
+</map>

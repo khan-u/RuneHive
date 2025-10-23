@@ -1,0 +1,5 @@
+<map id="com.runehive.content.bot.objective.impl.CombatObjective.init" name="com.runehive.content.bot.objective.impl.CombatObjective.init">
+<area shape="poly" id="Node000001" title=" " alt="" coords="437,40,427,29,396,20,348,12,288,7,221,5,155,7,94,12,47,20,16,29,5,40,16,50,47,60,94,68,155,72,221,74,288,72,348,68,396,60,427,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a6b7f2d3477a5cc439ea612233a45ce0b" title="Picks a random element out of any array type." alt="" coords="829,40,821,29,796,20,758,12,710,7,657,5,604,7,556,12,518,20,494,29,485,40,494,50,518,60,556,68,604,72,657,74,710,72,758,68,796,60,821,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,37,470,37,470,42,437,42"/>
+</map>

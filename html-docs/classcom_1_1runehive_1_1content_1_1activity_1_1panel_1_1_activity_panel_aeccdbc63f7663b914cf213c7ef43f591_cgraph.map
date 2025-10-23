@@ -1,0 +1,6 @@
+<map id="com.runehive.content.activity.panel.ActivityPanel.update" name="com.runehive.content.activity.panel.ActivityPanel.update">
+<area shape="poly" id="Node000001" title="Sends all the information for the activity panel." alt="" coords="392,64,382,53,355,44,312,36,258,31,199,29,139,31,85,36,42,44,15,53,5,64,15,74,42,84,85,92,139,96,199,98,258,96,312,92,355,84,382,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1panel_1_1_activity_panel.html#a7ffba562a8efc282cfbd57985eba70ef" title="Sends all the information for the activity panel." alt="" coords="826,64,817,53,790,44,747,36,693,31,633,29,573,31,520,36,477,44,449,53,440,64,449,74,477,84,520,92,573,96,633,98,693,96,747,92,790,84,817,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,61,424,61,424,66,393,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="550,32,551,20,566,11,593,5,633,3,682,6,709,15,707,20,681,11,633,8,594,10,568,16,556,23,556,32"/>
+</map>

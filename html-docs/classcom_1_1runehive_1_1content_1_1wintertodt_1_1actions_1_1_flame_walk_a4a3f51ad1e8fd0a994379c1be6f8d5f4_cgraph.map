@@ -1,0 +1,5 @@
+<map id="com.runehive.content.wintertodt.actions.FlameWalk.execute" name="com.runehive.content.wintertodt.actions.FlameWalk.execute">
+<area shape="poly" id="Node000001" title="A function representing the unit of work that will be carried out." alt="" coords="437,40,427,29,396,20,348,12,288,7,221,5,155,7,94,12,47,20,16,29,5,40,16,50,47,60,94,68,155,72,221,74,288,72,348,68,396,60,427,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="785,40,778,29,757,20,724,12,682,7,635,5,589,7,547,12,514,20,492,29,485,40,492,50,514,60,547,68,589,72,635,74,682,72,724,68,757,60,778,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,37,469,37,469,42,437,42"/>
+</map>

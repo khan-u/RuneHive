@@ -1,0 +1,14 @@
+<map id="com.runehive.content.mysterybox.MysteryBoxEvent.onCancel" name="com.runehive.content.mysterybox.MysteryBoxEvent.onCancel">
+<area shape="poly" id="Node000001" title="A function executed on cancellation." alt="" coords="376,133,367,122,341,113,300,105,248,100,191,99,134,100,82,105,41,113,14,122,5,133,14,144,41,153,82,161,134,166,191,167,248,166,300,161,341,153,367,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1mysterybox_1_1_mystery_box_event.html#ae4a1de78531be42c45b5ec756b2b4528" title=" " alt="" coords="795,133,786,122,760,113,719,105,667,100,610,99,553,100,501,105,460,113,433,122,424,133,433,144,460,153,501,161,553,166,610,167,667,166,719,161,760,153,786,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="377,130,409,130,409,136,377,136"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="530,101,531,90,545,80,571,74,610,72,656,75,683,84,681,89,655,81,610,77,572,79,547,85,535,92,535,101"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a949eda7f39a8a3e15e29283f8b0d0623" title="A or an." alt="" coords="1189,40,1182,29,1160,20,1127,12,1086,7,1039,5,993,7,952,12,919,20,897,29,890,40,897,50,919,60,952,68,993,72,1039,74,1086,72,1127,68,1160,60,1182,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="731,104,914,64,915,69,732,109"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1mysterybox_1_1_mystery_box_event.html#ad41786baef45ab47d12166e73537bd74" title=" " alt="" coords="1236,133,1226,122,1198,113,1155,105,1100,100,1039,99,979,100,924,105,881,113,853,122,843,133,853,144,881,153,924,161,979,166,1039,167,1100,166,1155,161,1198,153,1226,144"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="796,130,828,130,828,136,796,136"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a9a241d1bef16b172bbbf1df6767443b2" title="Sends a global message." alt="" coords="1187,226,1180,216,1159,206,1126,199,1085,194,1039,192,994,194,953,199,920,206,899,216,892,226,899,237,920,247,953,254,994,259,1039,261,1085,259,1126,254,1159,247,1180,237"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="732,157,916,197,915,202,731,162"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#aea9414faed608c5daf7defab8f0a1f07" title=" " alt="" coords="1578,226,1571,216,1550,206,1517,199,1476,194,1431,192,1385,194,1344,199,1312,206,1291,216,1284,226,1291,237,1312,247,1344,254,1385,259,1431,261,1476,259,1517,254,1550,247,1571,237"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="1187,224,1268,224,1268,229,1187,229"/>
+</map>

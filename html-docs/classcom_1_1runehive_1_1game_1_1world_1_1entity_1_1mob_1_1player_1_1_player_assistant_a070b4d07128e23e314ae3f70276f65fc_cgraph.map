@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.player.PlayerAssistant.updateSpecial" name="com.runehive.game.world.entity.mob.player.PlayerAssistant.updateSpecial">
+<area shape="poly" id="Node000001" title="Updates the special amount." alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1_combat_special.html#a942c531f16e0387e5dc8804eb97a9504" title="Restores the special bar for player." alt="" coords="1181,40,1165,29,1118,20,1045,12,954,7,852,5,750,7,658,12,585,20,538,29,522,40,538,50,585,60,658,68,750,72,852,74,954,72,1045,68,1118,60,1165,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,37,506,37,506,42,474,42"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1_combat_special.html#a573e2c51bf1fb13475436cf36a5521ab" title="Updates the special bar with the amount of special energy player has." alt="" coords="1889,40,1873,29,1826,20,1753,12,1661,7,1559,5,1457,7,1365,12,1292,20,1246,29,1229,40,1246,50,1292,60,1365,68,1457,72,1559,74,1661,72,1753,68,1826,60,1873,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1182,37,1214,37,1214,42,1182,42"/>
+</map>

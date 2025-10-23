@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.profile.ProfileRepository.exist" name="com.runehive.game.world.entity.mob.player.profile.ProfileRepository.exist">
+<area shape="poly" id="Node000001" title="Checks if a profile is registered to the parameter." alt="" coords="1061,40,1048,29,1010,20,951,12,876,7,793,5,710,7,635,12,576,20,538,29,525,40,538,50,576,60,635,68,710,72,793,74,876,72,951,68,1010,60,1048,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1construction_1_1_house.html#a766da602319f20ded81ef3d6a85b6f94" title=" " alt="" coords="477,40,465,29,432,20,380,12,314,7,241,5,168,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,168,72,241,74,314,72,380,68,432,60,465,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="509,42,477,42,477,37,509,37"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="com.runehive.content.CrystalChest" name="com.runehive.content.CrystalChest">
+<area shape="poly" id="Node000001" title="Handles opening the crystal chest." alt="" coords="1397,75,1389,64,1366,54,1330,47,1286,42,1236,40,1186,42,1141,47,1106,54,1083,64,1075,75,1083,85,1106,95,1141,103,1186,107,1236,109,1286,107,1330,103,1366,95,1389,85"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="906,27,896,20,868,14,824,10,769,7,707,6,646,7,591,10,547,14,519,20,509,27,519,33,547,39,591,44,646,47,707,48,769,47,824,44,868,39,896,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="875,39,1087,59,1087,64,875,45"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="216,27,213,20,203,14,188,10,169,7,148,6,128,7,109,10,94,14,84,20,81,27,84,33,94,39,109,44,128,47,148,48,169,47,188,44,203,39,213,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="231,24,509,24,509,29,231,29"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1chance_1_1_chance.html" title=" " alt="" coords="933,120,922,105,890,92,840,81,777,74,707,72,638,74,575,81,525,92,493,105,481,120,493,135,525,148,575,159,638,166,707,168,777,166,840,159,890,148,922,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="933,98,1051,88,1086,85,1087,90,1051,93,933,104"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1util_1_1chance_1_1_chance.html" title="Handles a random chance." alt="" coords="291,120,284,109,264,100,232,92,193,87,148,86,104,87,64,92,33,100,12,109,5,120,12,131,33,140,64,148,104,153,148,154,193,153,232,148,264,140,284,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="307,117,481,117,481,123,307,123"/>
+</map>

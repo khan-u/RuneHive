@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.Vetion.onDeath" name="com.runehive.game.world.entity.combat.strategy.npc.boss.Vetion.onDeath">
+<area shape="poly" id="Node000001" title=" " alt="" coords="617,64,602,53,558,44,491,36,406,31,311,29,217,31,131,36,64,44,20,53,5,64,20,74,64,84,131,92,217,96,311,98,406,96,491,92,558,84,602,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1_multi_strategy.html#a3f821aaef212395cad92cc41e4aae9e0" title=" " alt="" coords="1222,64,1209,53,1169,44,1107,36,1030,31,944,29,857,31,780,36,718,44,678,53,665,64,678,74,718,84,780,92,857,96,944,98,1030,96,1107,92,1169,84,1209,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="617,61,649,61,649,66,617,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="824,33,822,26,826,20,847,11,886,5,944,3,1015,6,1055,16,1053,21,1015,12,944,8,886,10,848,16,830,24,828,27,829,31"/>
+</map>

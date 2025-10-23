@@ -1,0 +1,4 @@
+<map id="java/com/runehive/game/world/entity/combat/ranged" name="java/com/runehive/game/world/entity/combat/ranged">
+<area shape="poly" id="node1" href="dir_e6c643399e6f81921bfd6676f2215d9b.html" title="ranged" alt="" coords="128,74,125,68,118,62,107,57,93,54,77,53,62,54,48,57,37,62,29,68,27,74,29,81,37,87,48,91,62,94,77,95,93,94,107,91,118,87,125,81"/>
+<area shape="rect" id="clust1" href="dir_3ec186578be7a39c228d6f5cffad0c2b.html" title="combat" alt="" coords="16,16,139,106"/>
+</map>

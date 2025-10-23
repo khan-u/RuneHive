@@ -1,0 +1,5 @@
+<map id="com.runehive.content.preloads.impl.PureRangePreload" name="com.runehive.content.preloads.impl.PureRangePreload">
+<area shape="poly" id="Node000001" title="The pure melee equipment preload." alt="" coords="398,157,388,146,360,136,317,129,262,124,201,122,141,124,86,129,43,136,15,146,5,157,15,167,43,177,86,184,141,189,201,191,262,189,317,184,360,177,388,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1preloads_1_1_preload.html" title=" " alt="" coords="374,40,365,29,341,20,303,12,255,7,201,5,148,7,100,12,62,20,38,29,29,40,38,50,62,60,100,68,148,72,201,74,255,72,303,68,341,60,365,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,90,204,122,199,122,199,90"/>
+</map>

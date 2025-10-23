@@ -1,0 +1,5 @@
+<map id="com.runehive.game.action.ActionManager.cancel" name="com.runehive.game.action.ActionManager.cancel">
+<area shape="poly" id="Node000001" title="Cancels the current Action for the underlying Mob." alt="" coords="654,40,647,29,625,20,592,12,550,7,504,5,457,7,416,12,382,20,361,29,354,40,361,50,382,60,416,68,457,72,504,74,550,72,592,68,625,60,647,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action_manager.html#a9b3c7fe1e31dda53b0f42d09ac20c2c0" title="Resets all the actions for the underlying Mob." alt="" coords="306,40,298,29,277,20,244,12,202,7,155,5,109,7,67,12,34,20,13,29,5,40,13,50,34,60,67,68,109,72,155,74,202,72,244,68,277,60,298,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="338,42,306,42,306,37,338,37"/>
+</map>

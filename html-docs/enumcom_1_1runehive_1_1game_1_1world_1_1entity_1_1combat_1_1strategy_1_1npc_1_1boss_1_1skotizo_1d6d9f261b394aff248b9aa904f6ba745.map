@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.SkotizoUtility.SpawnData" name="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.SkotizoUtility.SpawnData">
+<area shape="poly" id="Node000001" title=" " alt="" coords="693,181,676,170,627,160,551,153,455,148,349,146,243,148,147,153,71,160,22,170,5,181,22,191,71,201,147,208,243,213,349,215,455,213,551,208,627,201,676,191"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="539,40,530,29,503,20,461,12,408,7,349,5,291,7,238,12,196,20,169,29,159,40,169,50,196,60,238,68,291,72,349,74,408,72,461,68,503,60,530,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="352,89,352,146,347,146,347,89"/>
+</map>

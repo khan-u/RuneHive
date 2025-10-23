@@ -1,0 +1,9 @@
+<map id="com.runehive.util.generic.GenericAttributes.is" name="com.runehive.util.generic.GenericAttributes.is">
+<area shape="poly" id="Node000001" title="Gets the state of a key." alt="" coords="1068,133,1061,122,1041,113,1009,105,969,100,924,99,880,100,840,105,808,113,788,122,781,133,788,144,808,153,840,161,880,166,924,167,969,166,1009,161,1041,153,1061,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus.html#ad0afde9a1d0f2bfa88615569c482e2ae" title=" " alt="" coords="675,40,660,29,616,20,549,12,463,7,369,5,275,7,189,12,122,20,78,29,63,40,78,50,122,60,189,68,275,72,369,74,463,72,549,68,616,60,660,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="812,106,732,89,589,67,590,61,733,84,813,101"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman.html#a964e263bd8df2bec9046116564cfc6ae" title=" " alt="" coords="675,133,660,122,616,113,549,105,463,100,369,99,275,100,189,105,122,113,78,122,63,133,78,144,122,153,189,161,275,166,369,167,463,166,549,161,616,153,660,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="765,136,675,136,675,130,765,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1melee_1_1_granite_maul.html#ab0525a9978b9a131aa257f0094beedb7" title=" " alt="" coords="733,226,715,216,663,206,583,199,481,194,369,192,257,194,155,199,75,206,23,216,5,226,23,237,75,247,155,254,257,259,369,261,481,259,583,254,663,247,715,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="813,165,733,182,607,202,606,197,732,177,812,160"/>
+</map>

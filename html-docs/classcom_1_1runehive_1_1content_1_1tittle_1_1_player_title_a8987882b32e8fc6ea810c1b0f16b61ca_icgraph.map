@@ -1,0 +1,5 @@
+<map id="com.runehive.content.tittle.PlayerTitle.create" name="com.runehive.content.tittle.PlayerTitle.create">
+<area shape="poly" id="Node000001" title="Creates a player title." alt="" coords="729,40,722,29,700,20,668,12,626,7,580,5,534,7,493,12,460,20,439,29,431,40,439,50,460,60,493,68,534,72,580,74,626,72,668,68,700,60,722,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1in_1_1_color_packet_listener.html#a66ec467962dc8ee41ba865d7577f5fe3" title="Handles the packet that has just been received." alt="" coords="383,40,374,29,347,20,305,12,253,7,194,5,136,7,83,12,41,20,15,29,5,40,15,50,41,60,83,68,136,72,194,74,253,72,305,68,347,60,374,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,42,384,42,384,37,416,37"/>
+</map>

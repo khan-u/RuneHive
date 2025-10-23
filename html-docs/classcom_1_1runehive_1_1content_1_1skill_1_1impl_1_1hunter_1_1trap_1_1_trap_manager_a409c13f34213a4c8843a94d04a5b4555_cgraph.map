@@ -1,0 +1,13 @@
+<map id="com.runehive.content.skill.impl.hunter.trap.TrapManager.handleLogout" name="com.runehive.content.skill.impl.hunter.trap.TrapManager.handleLogout">
+<area shape="poly" id="Node000001" title=" " alt="" coords="461,228,450,217,418,208,367,200,304,195,233,193,163,195,99,200,49,208,16,217,5,228,16,238,49,248,99,256,163,260,233,262,304,260,367,256,418,248,450,238"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a34ef6eb550fba45ee27cbd55cd1b1c26" title="Attempts to deposit item into this container." alt="" coords="976,64,964,53,931,44,880,36,815,31,743,29,672,31,607,36,556,44,523,53,511,64,523,74,556,84,607,92,672,96,743,98,815,96,880,92,931,84,964,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,192,398,149,508,108,574,90,575,96,510,113,400,154,303,197"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a763d4a9979297da0ff66b8f4b86fd5bc" title=" " alt="" coords="945,181,935,170,906,161,862,153,806,148,743,147,681,148,625,153,581,161,552,170,542,181,552,192,581,201,625,209,681,214,743,215,806,214,862,209,906,201,935,192"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="429,207,550,196,550,201,430,212"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1hunter_1_1trap_1_1_trap_manager.html#ae3aee97794faba90f944088cd9f2dfec" title=" " alt="" coords="971,274,960,264,928,254,877,247,814,242,743,240,673,242,609,247,559,254,527,264,516,274,527,285,559,295,609,302,673,307,743,309,814,307,877,302,928,295,960,285"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="430,243,532,252,532,258,429,248"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#abc025401d6c96ea483428bfbfbbe59f4" title=" " alt="" coords="978,368,966,357,933,348,881,340,816,335,743,333,671,335,606,340,554,348,521,357,509,368,521,378,554,388,606,396,671,400,743,402,816,400,881,396,933,388,966,378"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="321,258,412,289,510,319,579,335,578,340,508,324,410,294,319,263"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="647,32,648,20,665,11,697,5,743,3,800,6,832,15,831,20,800,11,743,8,698,10,667,16,652,23,652,32"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="647,151,647,139,664,129,696,122,743,120,802,124,833,133,832,138,801,129,743,125,696,128,666,134,652,141,653,150"/>
+</map>

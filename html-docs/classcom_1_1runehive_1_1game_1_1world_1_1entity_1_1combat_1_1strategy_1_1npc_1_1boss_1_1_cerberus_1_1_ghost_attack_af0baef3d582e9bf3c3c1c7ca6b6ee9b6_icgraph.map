@@ -1,0 +1,10 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.Cerberus.GhostAttack.hit" name="com.runehive.game.world.entity.combat.strategy.npc.boss.Cerberus.GhostAttack.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1936,86,1921,76,1877,66,1810,59,1724,54,1630,52,1535,54,1450,59,1383,66,1339,76,1324,86,1339,97,1383,107,1450,114,1535,119,1630,121,1724,119,1810,114,1877,107,1921,97"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="1744,44,1704,34,1630,31,1570,33,1531,39,1511,46,1509,50,1511,54,1506,55,1504,49,1508,42,1529,33,1570,27,1630,25,1705,29,1746,38"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_ghost_attack.html#a413692486edabb91a3f3ecbc3bc0a2eb" title=" " alt="" coords="1276,40,1261,29,1218,20,1150,12,1065,7,970,5,876,7,791,12,723,20,680,29,665,40,680,50,723,60,791,68,876,72,970,74,1065,72,1150,68,1218,60,1261,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1354,70,1231,61,1231,55,1355,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_ghost_attack.html#a08ad2c5f28469f279d9815a6552a8624" title=" " alt="" coords="1276,133,1261,122,1218,113,1150,105,1065,100,970,99,876,100,791,105,723,113,680,122,665,133,680,144,723,153,791,161,876,166,970,167,1065,166,1150,161,1218,153,1261,144"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="1355,109,1231,117,1231,112,1354,103"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_ghost_attack.html#aceb9d21535f91d22093134004a4ae6dc" title=" " alt="" coords="617,133,602,122,558,113,491,105,406,100,311,99,217,100,131,105,64,113,20,122,5,133,20,144,64,153,131,161,217,166,311,167,406,166,491,161,558,153,602,144"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="649,136,617,136,617,130,649,130"/>
+</map>

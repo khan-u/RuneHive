@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.World.queueLogin" name="com.runehive.game.world.World.queueLogin">
+<area shape="poly" id="Node000001" title="Handles queueing the player logins." alt="" coords="300,86,293,76,272,66,239,59,198,54,153,52,107,54,66,59,33,66,13,76,5,86,13,97,33,107,66,114,107,119,153,121,198,119,239,114,272,107,293,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a908fb61974719a74180d6300b838bfe1" title=" " alt="" coords="817,40,805,29,772,20,720,12,655,7,582,5,510,7,445,12,393,20,359,29,348,40,359,50,393,60,445,68,510,72,582,74,655,72,720,68,772,60,805,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,69,377,59,377,65,287,75"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a18b7d62253b5c8d79814b9bcbe212ab0" title=" " alt="" coords="730,133,722,122,701,113,669,105,628,100,582,99,537,100,496,105,463,113,442,122,435,133,442,144,463,153,496,161,537,166,582,167,628,166,669,161,701,153,722,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,98,433,114,432,120,286,104"/>
+</map>

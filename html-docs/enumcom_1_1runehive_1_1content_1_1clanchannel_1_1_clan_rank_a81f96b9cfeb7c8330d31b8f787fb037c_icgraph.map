@@ -1,0 +1,7 @@
+<map id="com.runehive.content.clanchannel.ClanRank.getName" name="com.runehive.content.clanchannel.ClanRank.getName">
+<area shape="poly" id="Node000001" title=" " alt="" coords="899,86,889,76,862,66,820,59,767,54,709,52,650,54,597,59,555,66,528,76,519,86,528,97,555,107,597,114,650,119,709,121,767,119,820,114,862,107,889,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1channel_1_1_clan_management.html#a54e8dd8ec41d3841a831572196aca8d4" title="Sets the enter rank." alt="" coords="471,40,460,29,427,20,375,12,310,7,238,5,166,7,101,12,50,20,17,29,5,40,17,50,50,60,101,68,166,72,238,74,310,72,375,68,427,60,460,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="526,71,433,62,433,56,527,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1channel_1_1_clan_management.html#a3993a429ea975b11dade287682f98642" title="Sets the talk rank." alt="" coords="471,133,460,122,427,113,375,105,310,100,238,99,166,100,101,105,50,113,17,122,5,133,17,144,50,153,101,161,166,166,238,167,310,166,375,161,427,153,460,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="527,107,433,116,433,111,526,102"/>
+</map>

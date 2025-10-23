@@ -1,0 +1,7 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_tele_grab =
+[
+    [ "TeleGrab", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_tele_grab.html#a64e1637836b50930303ca18dd57b9928", null ],
+    [ "attack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_tele_grab.html#af5f647608fe72276e6f39ba3019ca84b", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_tele_grab.html#ac427e288d9757475266e9ce50b7a77b8", null ],
+    [ "hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_tele_grab.html#ae6f2772256f2e03900498d44e80babde", null ]
+];

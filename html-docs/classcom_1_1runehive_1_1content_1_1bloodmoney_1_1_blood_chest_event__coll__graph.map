@@ -1,0 +1,5 @@
+<map id="com.runehive.content.bloodmoney.BloodChestEvent" name="com.runehive.content.bloodmoney.BloodChestEvent">
+<area shape="poly" id="Node000001" title="Handles the blood chest event." alt="" coords="385,130,376,119,349,109,307,102,254,97,195,95,136,97,84,102,42,109,15,119,5,130,15,140,42,150,84,158,136,162,195,164,254,162,307,158,349,150,376,140"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="359,26,351,20,327,14,291,9,246,6,195,5,145,6,99,9,63,14,40,20,31,26,40,33,63,39,99,43,145,46,195,47,246,46,291,43,327,39,351,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,63,198,95,192,95,192,63"/>
+</map>

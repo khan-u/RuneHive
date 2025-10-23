@@ -1,0 +1,7 @@
+<map id="com.runehive.content.ActivityLogger.add" name="com.runehive.content.ActivityLogger.add">
+<area shape="poly" id="Node000001" title=" " alt="" coords="328,40,320,29,297,20,262,12,217,7,167,5,117,7,72,12,36,20,13,29,5,40,13,50,36,60,72,68,117,72,167,74,217,72,262,68,297,60,320,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#aee0a7bdbeff3436403f9d4192eff4455" title="Formats name of enum." alt="" coords="766,40,756,33,728,27,685,23,631,20,571,19,511,20,456,23,413,27,386,33,376,40,386,46,413,52,456,57,511,60,571,61,631,60,685,57,728,52,756,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,37,360,37,360,42,329,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a306c0370300580d03034da52e33e4db9" title="Capitalize each letter after ." alt="" coords="1178,40,1169,29,1143,20,1103,12,1052,7,996,5,939,7,889,12,848,20,823,29,814,40,823,50,848,60,889,68,939,72,996,74,1052,72,1103,68,1143,60,1169,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="766,37,798,37,798,42,766,42"/>
+</map>

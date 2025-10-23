@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.Activity.isPaused" name="com.runehive.content.activity.Activity.isPaused">
+<area shape="poly" id="Node000001" title="Checks if the cooldown is paused." alt="" coords="858,86,850,76,827,66,791,59,745,54,695,52,645,54,600,59,564,66,541,76,533,86,541,97,564,107,600,114,645,119,695,121,745,119,791,114,827,107,850,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1duelarena_1_1_duel_arena_activity.html#a1ee6ede3b0d0b477df985c4d813d49f8" title="Sequences the activity." alt="" coords="485,40,473,29,439,20,386,12,319,7,245,5,171,7,104,12,51,20,17,29,5,40,17,50,51,60,104,68,171,72,245,74,319,72,386,68,439,60,473,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="533,72,441,63,441,57,534,67"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1duelarena_1_1_duel_arena_activity.html#ad76a04ce25977ea80965dcc5faf1044f" title="The update method." alt="" coords="485,133,473,122,439,113,386,105,319,100,245,99,171,100,104,105,51,113,17,122,5,133,17,144,51,153,104,161,171,166,245,167,319,166,386,161,439,153,473,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="534,106,441,115,441,110,533,100"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.DestructionSkillAction.successFactor" name="com.runehive.content.skill.impl.DestructionSkillAction.successFactor">
+<area shape="poly" id="Node000001" title=" " alt="" coords="822,40,812,29,784,20,739,12,683,7,620,5,558,7,502,12,457,20,429,29,419,40,429,50,457,60,502,68,558,72,620,74,683,72,739,68,784,60,812,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1_destruction_skill_action.html#ae3bf610adcbd9cda2260cde28e4e5602" title="The method which is called on intervals of the specified #delay;." alt="" coords="371,40,362,29,336,20,295,12,244,7,188,5,132,7,81,12,40,20,14,29,5,40,14,50,40,60,81,68,132,72,188,74,244,72,295,68,336,60,362,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="403,42,371,42,371,37,403,37"/>
+</map>

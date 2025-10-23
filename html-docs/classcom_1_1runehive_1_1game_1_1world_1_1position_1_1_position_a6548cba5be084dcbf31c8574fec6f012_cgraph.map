@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.position.Position.isViewableFrom" name="com.runehive.game.world.position.Position.isViewableFrom">
+<area shape="poly" id="Node000001" title=" " alt="" coords="385,98,376,88,349,78,307,71,254,66,195,64,136,66,84,71,42,78,15,88,5,98,15,109,42,119,84,126,136,131,195,133,254,131,307,126,349,119,376,109"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a202230fcd2cc99ecde3c3013707f1f77" title=" " alt="" coords="812,98,803,88,776,78,734,71,681,66,623,64,564,66,511,71,469,78,442,88,433,98,442,109,469,119,511,126,564,131,623,133,681,131,734,126,776,119,803,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,96,417,96,417,101,385,101"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a2fcda274378da97b14a6c4f7d3b08095" title="Gets the height coordinate, or height." alt="" coords="1240,40,1230,29,1204,20,1162,12,1109,7,1050,5,991,7,939,12,897,20,870,29,860,40,870,50,897,60,939,68,991,72,1050,74,1109,72,1162,68,1204,60,1230,50"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="313,68,432,49,538,40,646,35,846,32,846,37,646,40,539,45,433,54,314,74"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a7803ff05a7b4b99d2883898ade9427f7" title="Creates a location with a default height of 0." alt="" coords="1240,145,1230,134,1204,125,1162,117,1109,112,1050,111,991,112,939,117,897,125,870,134,860,145,870,156,897,165,939,173,991,178,1050,179,1109,178,1162,173,1204,165,1230,156"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="313,123,433,142,540,150,649,154,851,152,851,157,649,159,540,156,433,148,312,129"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="774,75,882,60,883,65,775,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="787,114,872,123,871,128,786,119"/>
+</map>

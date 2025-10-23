@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.magic.Magic" name="com.runehive.content.skill.impl.magic.Magic">
+<area shape="poly" id="Node000001" title=" " alt="" coords="416,245,406,234,377,225,331,217,274,212,211,211,147,212,90,217,45,225,15,234,5,245,15,256,45,265,90,273,147,278,211,279,274,278,331,273,377,265,406,256"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="409,118,399,111,371,105,327,101,272,98,211,97,149,98,94,101,50,105,22,111,12,118,22,124,50,130,94,135,149,138,211,139,272,138,327,135,371,130,399,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,154,213,210,208,210,208,154"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="278,26,275,20,265,14,250,9,231,6,211,5,190,6,171,9,156,14,147,20,143,26,147,33,156,39,171,43,190,46,211,47,231,46,250,43,265,39,275,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="213,63,213,96,208,96,208,63"/>
+</map>

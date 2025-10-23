@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.special.CombatSpecial.enable" name="com.runehive.game.world.entity.combat.strategy.player.special.CombatSpecial.enable">
+<area shape="poly" id="Node000001" title=" " alt="" coords="665,40,649,29,602,20,529,12,437,7,335,5,233,7,141,12,68,20,21,29,5,40,21,50,68,60,141,68,233,72,335,74,437,72,529,68,602,60,649,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#aca809d07e972e77c942bf91754907afe" title=" " alt="" coords="1037,40,1029,29,1006,20,970,12,925,7,875,5,825,7,780,12,744,20,721,29,713,40,721,50,744,60,780,68,825,72,875,74,925,72,970,68,1006,60,1029,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="665,37,697,37,697,42,665,42"/>
+</map>

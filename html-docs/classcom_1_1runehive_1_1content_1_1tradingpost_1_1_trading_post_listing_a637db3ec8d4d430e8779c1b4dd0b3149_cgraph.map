@@ -1,0 +1,15 @@
+<map id="com.runehive.content.tradingpost.TradingPostListing.setPrice" name="com.runehive.content.tradingpost.TradingPostListing.setPrice">
+<area shape="poly" id="Node000001" title=" " alt="" coords="374,133,364,122,338,113,298,105,246,100,189,99,133,100,81,105,40,113,14,122,5,133,14,144,40,153,81,161,133,166,189,167,246,166,298,161,338,153,364,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#ab8309e5d532b7540f48bf25f8dea92a8" title=" " alt="" coords="890,86,879,76,845,66,793,59,728,54,656,52,583,54,518,59,466,66,433,76,422,86,433,97,466,107,518,114,583,119,656,121,728,119,793,114,845,107,879,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,114,445,105,446,110,353,119"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_trading_post.html#a243975af818fa7a44328051380a437c1" title=" " alt="" coords="840,180,831,169,805,160,764,152,713,147,656,145,599,147,548,152,507,160,481,169,472,180,481,190,507,200,548,208,599,212,656,214,713,212,764,208,805,200,831,190"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="353,147,478,159,477,165,353,152"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_outgoing_packet.html#a3dde4d77b8c8bbd686b8e121fd6514a7" title=" " alt="" coords="1243,86,1236,76,1217,66,1186,59,1146,54,1103,52,1060,54,1021,59,990,66,970,76,963,86,970,97,990,107,1021,114,1060,119,1103,121,1146,119,1186,114,1217,107,1236,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="890,84,947,84,947,89,890,89"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_outgoing_packet.html#a74fc13c106ab76f87daec1e8bab6a2a1" title=" " alt="" coords="1691,40,1684,29,1664,20,1633,12,1594,7,1550,5,1507,7,1468,12,1437,20,1417,29,1410,40,1417,50,1437,60,1468,68,1507,72,1550,74,1594,72,1633,68,1664,60,1684,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1233,70,1405,52,1406,57,1233,76"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a908fb61974719a74180d6300b838bfe1" title=" " alt="" coords="1785,133,1773,122,1740,113,1688,105,1623,100,1550,99,1478,100,1413,105,1361,113,1328,122,1316,133,1328,144,1361,153,1413,161,1478,166,1550,167,1623,166,1688,161,1740,153,1773,144"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1233,97,1343,109,1343,114,1233,103"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a490026d68b72e2dea391680a7d49a844" title="Formats digits for integers." alt="" coords="1268,180,1260,169,1237,160,1200,152,1154,147,1103,145,1052,147,1006,152,970,160,946,169,938,180,946,190,970,200,1006,208,1052,212,1103,214,1154,212,1200,208,1237,200,1260,190"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="841,177,922,177,922,182,841,182"/>
+</map>

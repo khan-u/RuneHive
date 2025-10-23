@@ -1,0 +1,5 @@
+var _justicar_utility_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.JusticarUtility", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justicar_utility.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justicar_utility" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.JusticarUtility.SpawnData2", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenaec73a20b3d2315cf8cdb76b31dc00524.html", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenaec73a20b3d2315cf8cdb76b31dc00524" ]
+];

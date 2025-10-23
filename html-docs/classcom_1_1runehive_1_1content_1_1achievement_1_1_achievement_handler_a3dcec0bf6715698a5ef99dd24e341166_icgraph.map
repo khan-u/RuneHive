@@ -1,0 +1,7 @@
+<map id="com.runehive.content.achievement.AchievementHandler.set" name="com.runehive.content.achievement.AchievementHandler.set">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1282,40,1273,29,1245,20,1203,12,1149,7,1090,5,1030,7,976,12,934,20,906,29,897,40,906,50,934,60,976,68,1030,72,1090,74,1149,72,1203,68,1245,60,1273,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a60120e26dd79dee03e34df88cc6103c3" title="Handles updating a skill." alt="" coords="849,40,839,29,811,20,767,12,712,7,650,5,589,7,533,12,489,20,461,29,451,40,461,50,489,60,533,68,589,72,650,74,712,72,767,68,811,60,839,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="882,42,850,42,850,37,882,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a8fb0667be1e14a9964056dbbd6b3eed8" title="Adds experience to a given skill." alt="" coords="403,40,393,29,365,20,321,12,266,7,204,5,143,7,87,12,43,20,15,29,5,40,15,50,43,60,87,68,143,72,204,74,266,72,321,68,365,60,393,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,42,404,42,404,37,436,37"/>
+</map>

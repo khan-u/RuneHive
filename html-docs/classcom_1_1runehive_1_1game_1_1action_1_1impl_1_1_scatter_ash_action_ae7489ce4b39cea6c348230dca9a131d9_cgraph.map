@@ -1,0 +1,5 @@
+<map id="com.runehive.game.action.impl.ScatterAshAction.ScatterAshAction" name="com.runehive.game.action.impl.ScatterAshAction.ScatterAshAction">
+<area shape="poly" id="Node000001" title=" " alt="" coords="389,40,380,29,352,20,310,12,256,7,197,5,138,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,138,72,197,74,256,72,310,68,352,60,380,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a2a021797c58d8e97bf41d1c07ec1fc9f" title="Gets the Item located on index." alt="" coords="901,40,890,29,857,20,806,12,741,7,669,5,597,7,533,12,481,20,448,29,437,40,448,50,481,60,533,68,597,72,669,74,741,72,806,68,857,60,890,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="389,37,422,37,422,42,389,42"/>
+</map>

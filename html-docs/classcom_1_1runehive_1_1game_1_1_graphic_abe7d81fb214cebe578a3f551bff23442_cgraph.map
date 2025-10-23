@@ -1,0 +1,5 @@
+<map id="com.runehive.game.Graphic.equals" name="com.runehive.game.Graphic.equals">
+<area shape="poly" id="Node000001" title=" " alt="" coords="392,40,382,33,355,27,312,23,258,20,199,19,139,20,85,23,42,27,15,33,5,40,15,46,42,52,85,57,139,60,199,61,258,60,312,57,355,52,382,46"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1_graphic.html#a46316ff7d6d3ed6a58aea73f5e575583" title="Constructs a new Graphic object with no delay, a low height, and normal priotiry." alt="" coords="759,40,751,29,728,20,693,12,648,7,599,5,550,7,506,12,470,20,448,29,440,40,448,50,470,60,506,68,550,72,599,74,648,72,693,68,728,60,751,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,37,424,37,424,42,393,42"/>
+</map>

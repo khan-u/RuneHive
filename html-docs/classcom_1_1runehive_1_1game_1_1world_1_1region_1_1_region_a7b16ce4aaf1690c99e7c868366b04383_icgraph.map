@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.region.Region.getNpcs" name="com.runehive.game.world.region.Region.getNpcs">
+<area shape="poly" id="Node000001" title=" " alt="" coords="849,40,840,29,814,20,774,12,723,7,667,5,611,7,560,12,520,20,494,29,485,40,494,50,520,60,560,68,611,72,667,74,723,72,774,68,814,60,840,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_target.html#af9179fed18b5ff3d36d0f1ac53f05e7b" title=" " alt="" coords="437,40,427,29,396,20,348,12,288,7,221,5,155,7,94,12,47,20,16,29,5,40,16,50,47,60,94,68,155,72,221,74,288,72,348,68,396,60,427,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,42,438,42,438,37,470,37"/>
+</map>

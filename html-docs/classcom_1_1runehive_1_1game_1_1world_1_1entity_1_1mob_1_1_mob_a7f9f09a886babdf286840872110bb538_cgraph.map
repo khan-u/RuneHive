@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.Mob.getCurrentHealth" name="com.runehive.game.world.entity.mob.Mob.getCurrentHealth">
+<area shape="poly" id="Node000001" title=" " alt="" coords="407,40,398,29,369,20,325,12,269,7,206,5,144,7,88,12,44,20,15,29,5,40,15,50,44,60,88,68,144,72,206,74,269,72,325,68,369,60,398,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#ac1ffa95e70f2c18a6695328fb2afc585" title="Check if an entity is an npc." alt="" coords="858,40,848,29,819,20,775,12,719,7,656,5,594,7,538,12,494,20,465,29,455,40,465,50,494,60,538,68,594,72,656,74,719,72,775,68,819,60,848,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,37,440,37,440,42,408,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a64f68055122aaf4af08787378c7ac356" title="Gets the EntityType." alt="" coords="1258,40,1250,29,1224,20,1185,12,1136,7,1082,5,1027,7,978,12,939,20,914,29,906,40,914,50,939,60,978,68,1027,72,1082,74,1136,72,1185,68,1224,60,1250,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="858,37,890,37,890,42,858,42"/>
+</map>

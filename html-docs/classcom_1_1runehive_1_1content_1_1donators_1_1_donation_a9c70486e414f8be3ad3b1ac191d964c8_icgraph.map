@@ -1,0 +1,9 @@
+<map id="com.runehive.content.donators.Donation.setCredits" name="com.runehive.content.donators.Donation.setCredits">
+<area shape="poly" id="Node000001" title=" " alt="" coords="842,133,834,122,809,113,771,105,723,100,670,99,617,100,569,105,531,113,506,122,498,133,506,144,531,153,569,161,617,166,670,167,723,166,771,161,809,153,834,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1store_1_1currency_1_1impl_1_1_donator_point_currency.html#a94a41c1259f70e9723060612c9618c30" title="The method executed when the currency is given to player." alt="" coords="450,40,439,29,407,20,358,12,296,7,228,5,159,7,97,12,48,20,16,29,5,40,16,50,48,60,97,68,159,72,228,74,296,72,358,68,407,60,439,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="535,107,449,89,361,70,362,65,450,84,536,102"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1donators_1_1_donation.html#a008ceb86a26224e7b8bd51e42a71de64" title=" " alt="" coords="400,133,391,122,367,113,329,105,281,100,228,99,174,100,126,105,88,113,64,122,56,133,64,144,88,153,126,161,174,166,228,167,281,166,329,161,367,153,391,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="482,136,400,136,400,130,482,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1store_1_1currency_1_1impl_1_1_donator_point_currency.html#a434d8161d78625557687162b7ae68d7f" title="The method executed when the currency is taken from player." alt="" coords="450,226,439,216,407,206,358,199,296,194,228,192,159,194,97,199,48,206,16,216,5,226,16,237,48,247,97,254,159,259,228,261,296,259,358,254,407,247,439,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="536,164,450,182,362,201,361,196,449,177,535,159"/>
+</map>

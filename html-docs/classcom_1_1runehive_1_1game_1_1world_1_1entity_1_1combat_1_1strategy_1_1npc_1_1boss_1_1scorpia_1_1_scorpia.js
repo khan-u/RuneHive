@@ -1,0 +1,11 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia =
+[
+    [ "Guardian", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_guardian.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_guardian" ],
+    [ "GuardianWaypoint", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_decabf35de1bb7a0c181a5631833eed3.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_decabf35de1bb7a0c181a5631833eed3" ],
+    [ "Melee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_melee.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_melee" ],
+    [ "Scorpia", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia.html#a066715079a33b8930bcd07f29463319a", null ],
+    [ "block", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia.html#a00503c57800cc9c14e197c389b102b7e", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia.html#aa9ee77b765827b3290e35f9dc766b5e2", null ],
+    [ "hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia.html#a1e1726e561cc7b5f23c425cd6c62d57e", null ],
+    [ "hasGuardians", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia.html#a02acf5d32b8e241164fe74c2da80d416", null ]
+];

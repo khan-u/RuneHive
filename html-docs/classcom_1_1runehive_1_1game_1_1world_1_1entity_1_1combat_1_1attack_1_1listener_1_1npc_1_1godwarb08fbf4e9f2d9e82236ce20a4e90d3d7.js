@@ -1,0 +1,5 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwarb08fbf4e9f2d9e82236ce20a4e90d3d7 =
+[
+    [ "MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwarb08fbf4e9f2d9e82236ce20a4e90d3d7.html#a5bc322571babad00941493d1506fc99a", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwarb08fbf4e9f2d9e82236ce20a4e90d3d7.html#a77f5122128472327e467ef2d601eb5f9", null ]
+];

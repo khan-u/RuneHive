@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.mob.player.exchange.ExchangeSessionManager.reset" name="com.runehive.game.world.entity.mob.player.exchange.ExchangeSessionManager.reset">
+<area shape="poly" id="Node000001" title="Resets all the sessions the player is in regardless of the session state." alt="" coords="579,64,565,53,524,44,460,36,381,31,292,29,203,31,123,36,60,44,19,53,5,64,19,74,60,84,123,92,203,96,292,98,381,96,460,92,524,84,565,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="391,21,356,11,292,8,241,10,207,16,189,23,187,27,188,31,183,32,182,26,186,19,205,11,240,5,292,3,356,6,392,15"/>
+</map>

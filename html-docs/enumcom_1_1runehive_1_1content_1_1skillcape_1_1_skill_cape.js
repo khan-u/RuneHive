@@ -1,0 +1,27 @@
+var enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape =
+[
+    [ "SkillCape", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a5544008a3881e7b50e8cd1dbe88702f3", null ],
+    [ "getDescription", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a4e75086d69df8893d437fa0e98b3c739", null ],
+    [ "getItemId", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#aee16d723f26396ffda3d57e42b2a01ac", null ],
+    [ "isEquipped", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a8e2e75d7f005cf0f2a3a1874711f2d4d", null ],
+    [ "AGILITY", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#ac50c12481592e3086950eb2c3c78efb8", null ],
+    [ "ATTACK", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a620e192ca9e4118dfe04e0a6e9ffc339", null ],
+    [ "COOKING", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a4db48441ba2f447858cfafc3ecb41542", null ],
+    [ "CRAFTING", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#ad0bd0e0da2ff40e1e95219219e49b5ea", null ],
+    [ "DEFENCE", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a15c5f8644fa7033e09696d5e22170f84", null ],
+    [ "description", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a57aeba384a521fa127333be73b0d3b43", null ],
+    [ "FARMING", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a22b83d9c733cf05edf123a64f082ee81", null ],
+    [ "FIREMAKING", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#afb11cfa3bfa0d034cd6ea016545d4095", null ],
+    [ "FLETCHING", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a247a59df21a5eecb27ebbd57804013a0", null ],
+    [ "HERBLORE", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#ab9b905f03f2607e6691ed5048551dde0", null ],
+    [ "HITPOINTS", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a40b275d23bb442c7583461c0f3a13f0b", null ],
+    [ "itemId", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a6178b326d824db63c113d38b7d76aaa6", null ],
+    [ "MAGIC", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#ae92cc1632e9b57a88547b41f1cf004a6", null ],
+    [ "MINING", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a2da0535e43a76b2ae4450fbdad44fffb", null ],
+    [ "PRAYER", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#aa4733dd8afeba9fd540eca4b24a152a8", null ],
+    [ "RANGED", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#aacb92db85e71a2e5fa61de8c7c9c3aaa", null ],
+    [ "SLAYER", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a4648a2667720d93d35ba2242897728e5", null ],
+    [ "SMITHING", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a1f2d595dbdce81a4b54a7f3ad4409c78", null ],
+    [ "THIEVING", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a18e1282c085eed9a2fadb2104ce8e328", null ],
+    [ "WOODCUTTING", "enumcom_1_1runehive_1_1content_1_1skillcape_1_1_skill_cape.html#a72966498782f30f2e0179a234139cf03", null ]
+];

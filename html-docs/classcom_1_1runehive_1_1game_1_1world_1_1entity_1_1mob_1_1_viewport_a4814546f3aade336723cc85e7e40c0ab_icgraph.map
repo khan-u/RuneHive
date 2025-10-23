@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.Viewport.getNpcsInViewport" name="com.runehive.game.world.entity.mob.Viewport.getNpcsInViewport">
+<area shape="poly" id="Node000001" title="The collection of npcs in this viewport." alt="" coords="1073,133,1063,122,1034,113,990,105,934,100,871,99,809,100,753,105,709,113,680,122,670,133,680,144,709,153,753,161,809,166,871,167,934,166,990,161,1034,153,1063,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_alkahrid.html#ad95f42a65f4942ef3f9d67d2a14cc702" title=" " alt="" coords="622,40,607,29,563,20,495,12,409,7,314,5,219,7,133,12,64,20,20,29,5,40,20,50,64,60,133,68,219,72,314,74,409,72,495,68,563,60,607,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="721,107,622,89,504,70,505,65,623,84,722,102"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_target.html#af9179fed18b5ff3d36d0f1ac53f05e7b" title=" " alt="" coords="530,133,519,122,489,113,441,105,381,100,314,99,247,100,187,105,139,113,109,122,98,133,109,144,139,153,187,161,247,166,314,167,381,166,441,161,489,153,519,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="655,136,530,136,530,130,655,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_npc_update.html#ae3390bd5532a4bb508d0fc0af5b12f6f" title=" " alt="" coords="472,226,465,216,442,206,407,199,363,194,314,192,265,194,221,199,186,206,163,216,155,226,163,237,186,247,221,254,265,259,314,261,363,259,407,254,442,247,465,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="722,165,623,182,448,210,447,205,622,177,721,159"/>
+</map>

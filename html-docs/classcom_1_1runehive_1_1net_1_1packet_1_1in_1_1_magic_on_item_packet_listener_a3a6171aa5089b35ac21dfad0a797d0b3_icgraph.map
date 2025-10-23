@@ -1,0 +1,4 @@
+<map id="com.runehive.net.packet.in.MagicOnItemPacketListener.handlePacket" name="com.runehive.net.packet.in.MagicOnItemPacketListener.handlePacket">
+<area shape="poly" id="Node000001" title="Handles the packet that has just been received." alt="" coords="392,77,382,62,355,49,312,38,258,32,199,29,139,32,85,38,42,49,15,62,5,77,15,92,42,105,85,116,139,123,199,125,258,123,312,116,355,105,382,92"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="263,22,239,12,199,8,167,10,145,16,133,23,129,33,124,31,129,20,143,11,166,5,199,3,240,7,265,17"/>
+</map>

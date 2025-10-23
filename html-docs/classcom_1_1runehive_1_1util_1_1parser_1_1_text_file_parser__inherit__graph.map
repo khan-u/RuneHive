@@ -1,0 +1,7 @@
+<map id="com.runehive.util.parser.TextFileParser" name="com.runehive.util.parser.TextFileParser">
+<area shape="poly" id="Node000001" title="A simple parser designed for text files." alt="" coords="280,247,273,236,254,226,224,219,185,214,143,212,100,214,62,219,32,226,12,236,5,247,12,257,32,267,62,274,100,279,143,281,185,279,224,274,254,267,273,257"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_generic_parser.html" title="Represents an abstract parser." alt="" coords="280,130,273,119,254,109,224,102,185,97,143,95,100,97,62,102,32,109,12,119,5,130,12,140,32,150,62,158,100,162,143,164,185,162,224,158,254,150,273,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,180,145,212,140,212,140,180"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="207,26,204,20,195,14,181,9,163,6,143,5,123,6,105,9,90,14,81,20,78,26,81,33,90,39,105,43,123,46,143,47,163,46,181,43,195,39,204,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="145,63,145,95,140,95,140,63"/>
+</map>

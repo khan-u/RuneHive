@@ -1,0 +1,4 @@
+var _mystic_will_listener_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.other.prayer.magic.MysticWillListener", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1prayb59a0d3497a13b76c5c9a0f43178b7da.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1prayb59a0d3497a13b76c5c9a0f43178b7da" ]
+];

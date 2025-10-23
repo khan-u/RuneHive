@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_acid_attack =
+[
+    [ "AcidAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_acid_attack.html#a3b8cb07f776564104525c403f4e9f439", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_acid_attack.html#a4464e8b5dabba689394080e9e14e1d43", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_acid_attack.html#a6e1f6dc5bdf3a2a8e1cc9119b8fb380f", null ]
+];

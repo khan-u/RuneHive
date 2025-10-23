@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.scorpia.Scorpia.hit" name="com.runehive.game.world.entity.combat.strategy.npc.boss.scorpia.Scorpia.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1435,64,1418,53,1369,44,1292,36,1196,31,1089,29,983,31,886,36,810,44,761,53,744,64,761,74,810,84,886,92,983,96,1089,98,1196,96,1292,92,1369,84,1418,74"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="1218,21,1173,12,1089,8,1023,10,978,16,956,24,953,27,955,31,950,33,948,26,952,20,977,11,1022,5,1089,3,1174,6,1219,16"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia.html#a00503c57800cc9c14e197c389b102b7e" title=" " alt="" coords="696,64,679,53,630,44,554,36,457,31,351,29,244,31,148,36,71,44,22,53,5,64,22,74,71,84,148,92,244,96,351,98,457,96,554,92,630,84,679,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="729,66,696,66,696,61,729,61"/>
+</map>

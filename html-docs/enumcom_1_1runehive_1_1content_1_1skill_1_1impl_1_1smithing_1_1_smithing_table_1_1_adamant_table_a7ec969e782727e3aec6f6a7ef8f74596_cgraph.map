@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.smithing.SmithingTable.AdamantTable.AdamantTable" name="com.runehive.content.skill.impl.smithing.SmithingTable.AdamantTable.AdamantTable">
+<area shape="poly" id="Node000001" title="Constructs a new AdamantTable." alt="" coords="482,40,471,29,437,20,384,12,318,7,244,5,170,7,104,12,51,20,17,29,5,40,17,50,51,60,104,68,170,72,244,74,318,72,384,68,437,60,471,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_string_utils.html#a412ca4b737a05cf827ab404dd921769e" title=" " alt="" coords="797,40,790,29,771,20,742,12,705,7,664,5,622,7,585,12,556,20,537,29,530,40,537,50,556,60,585,68,622,72,664,74,705,72,742,68,771,60,790,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="483,37,515,37,515,42,483,42"/>
+</map>

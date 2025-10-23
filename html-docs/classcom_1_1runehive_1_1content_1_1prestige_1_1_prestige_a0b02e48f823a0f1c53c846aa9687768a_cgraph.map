@@ -1,0 +1,9 @@
+<map id="com.runehive.content.prestige.Prestige.perkInformation" name="com.runehive.content.prestige.Prestige.perkInformation">
+<area shape="poly" id="Node000001" title="Displays all the perk information." alt="" coords="342,86,334,76,310,66,273,59,226,54,174,52,122,54,75,59,38,66,14,76,5,86,14,97,38,107,75,114,122,119,174,121,226,119,273,114,310,107,334,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1prestige_1_1_prestige_perk.html#a9ee7c3075e0a9b33a719bf4cbae01a0f" title=" " alt="" coords="727,40,719,29,695,20,658,12,611,7,559,5,507,7,460,12,423,20,399,29,390,40,399,50,423,60,460,68,507,72,559,74,611,72,658,68,695,60,719,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,66,397,57,398,62,320,71"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1prestige_1_1_prestige.html#a6209264a241af5b7f3ff6a8ba35542cb" title=" " alt="" coords="727,133,719,122,695,113,658,105,611,100,559,99,507,100,460,105,423,113,399,122,390,133,399,144,423,153,460,161,507,166,559,167,611,166,658,161,695,153,719,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="320,101,398,111,397,116,319,107"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1prestige_1_1_prestige_perk.html#a98bed10cf5da480f7f599499414954a4" title="Constructs a new PrestigePerk." alt="" coords="1112,40,1104,29,1080,20,1043,12,996,7,944,5,892,7,845,12,808,20,784,29,775,40,784,50,808,60,845,68,892,72,944,74,996,72,1043,68,1080,60,1104,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="728,37,760,37,760,42,728,42"/>
+</map>

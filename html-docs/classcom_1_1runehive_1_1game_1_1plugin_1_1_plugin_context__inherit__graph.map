@@ -1,0 +1,9 @@
+<map id="com.runehive.game.plugin.PluginContext" name="com.runehive.game.plugin.PluginContext">
+<area shape="poly" id="Node000001" title="The base class that all plugins should extend." alt="" coords="359,273,351,263,330,253,296,246,254,241,208,239,161,241,119,246,86,253,64,263,57,273,64,284,86,294,119,301,161,306,208,308,254,306,296,301,330,294,351,284"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1plugin_1_1extension_1_1_command_extension.html" title=" " alt="" coords="410,390,400,380,372,370,327,362,270,357,208,356,145,357,89,362,44,370,15,380,5,390,15,401,44,410,89,418,145,423,208,425,270,423,327,418,372,410,400,401"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,324,210,355,205,355,205,324"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1event_1_1listener_1_1_player_event_listener.html" title="The type of event listener that will listen for player&#45;related events." alt="" coords="394,157,385,146,358,136,317,129,265,124,208,122,150,124,98,129,57,136,31,146,22,157,31,167,57,177,98,184,150,189,208,191,265,189,317,184,358,177,385,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,207,210,239,205,239,205,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1game_1_1event_1_1listener_1_1_event_listener.html" title="The base event listener that will listen for any type of event." alt="" coords="394,40,385,29,358,20,317,12,265,7,208,5,150,7,98,12,57,20,31,29,22,40,31,50,57,60,98,68,150,72,208,74,265,72,317,68,358,60,385,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="210,90,210,122,205,122,205,90"/>
+</map>

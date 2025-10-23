@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.herblore.Herblore.modifier" name="com.runehive.content.skill.impl.herblore.Herblore.modifier">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1401,86,1390,76,1360,66,1312,59,1251,54,1184,52,1117,54,1057,59,1009,66,978,76,968,86,978,97,1009,107,1057,114,1117,119,1184,121,1251,119,1312,114,1360,107,1390,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1herblore_1_1_herblore.html#ac45e088b53bb7a8c99308e26d8d9dbd2" title=" " alt="" coords="920,40,909,29,878,20,830,12,770,7,703,5,636,7,576,12,528,20,497,29,487,40,497,50,528,60,576,68,636,72,703,74,770,72,830,68,878,60,909,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="983,70,889,60,890,55,983,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1herblore_1_1_herblore.html#afd0f023571d3cdecfc68245c9ce9e99e" title="Handles the potion mixing action." alt="" coords="920,133,909,122,878,113,830,105,770,100,703,99,636,100,576,105,528,113,497,122,487,133,497,144,528,153,576,161,636,166,703,167,770,166,830,161,878,153,909,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="983,109,890,118,889,112,983,103"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1herblore_1_1_herblore.html#a110c5b1c50222c83e94a524e22dbe371" title=" " alt="" coords="439,133,428,122,397,113,349,105,289,100,222,99,155,100,95,105,47,113,16,122,5,133,16,144,47,153,95,161,155,166,222,167,289,166,349,161,397,153,428,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="471,136,439,136,439,130,471,130"/>
+</map>

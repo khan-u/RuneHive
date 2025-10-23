@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.godwars.GodwarsActivity.start" name="com.runehive.content.activity.impl.godwars.GodwarsActivity.start">
+<area shape="poly" id="Node000001" title="Starts the next activity stage." alt="" coords="470,40,458,29,425,20,374,12,309,7,238,5,166,7,101,12,50,20,17,29,5,40,17,50,50,60,101,68,166,72,238,74,309,72,374,68,425,60,458,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#aa1a9626e06732fb9d0012d4b031e78c8" title="Sets the cooldown flag to PAUSE." alt="" coords="842,40,834,29,811,20,775,12,730,7,680,5,630,7,585,12,549,20,526,29,518,40,526,50,549,60,585,68,630,72,680,74,730,72,775,68,811,60,834,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,37,502,37,502,42,470,42"/>
+</map>

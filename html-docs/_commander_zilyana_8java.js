@@ -1,0 +1,5 @@
+var _commander_zilyana_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.CommanderZilyana", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_commander_zilyana.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_commander_zilyana" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.CommanderZilyana.MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_commander_zilyana_1_1_magic_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_commander_zilyana_1_1_magic_attack" ]
+];

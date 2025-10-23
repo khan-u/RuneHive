@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_flight_kilisa =
+[
+    [ "canOtherAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_flight_kilisa.html#ae9e8d54c13175498554c3564bcf34e9e", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_flight_kilisa.html#a2ff0b72290b61e9174092f1976584f9a", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_flight_kilisa.html#ac4c74d802ab17fa0808b3680b577ff40", null ]
+];

@@ -1,0 +1,5 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1voidk07e368f5299eaa7ac2202daab829ed3e =
+[
+    [ "modifyDamage", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1voidk07e368f5299eaa7ac2202daab829ed3e.html#a6b6b34f33012ed68c7d3029bcc6492bd", null ],
+    [ "modifyMagicLevel", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1voidk07e368f5299eaa7ac2202daab829ed3e.html#a50983ee34b354edbf53ab2893e0ca7aa", null ]
+];

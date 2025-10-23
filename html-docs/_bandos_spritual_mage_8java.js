@@ -1,0 +1,5 @@
+var _bandos_spritual_mage_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.godwar.BandosSpritualMage", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar_1_1_bandos_spritual_mage.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar_1_1_bandos_spritual_mage" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.godwar.BandosSpritualMage.MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwarb08fbf4e9f2d9e82236ce20a4e90d3d7.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwarb08fbf4e9f2d9e82236ce20a4e90d3d7" ]
+];

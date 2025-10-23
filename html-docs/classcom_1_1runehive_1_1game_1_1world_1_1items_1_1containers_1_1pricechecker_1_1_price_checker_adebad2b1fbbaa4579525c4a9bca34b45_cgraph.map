@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.items.containers.pricechecker.PriceChecker.refresh" name="com.runehive.game.world.items.containers.pricechecker.PriceChecker.refresh">
+<area shape="poly" id="Node000001" title=" " alt="" coords="603,64,588,53,546,44,480,36,396,31,304,29,212,31,128,36,62,44,20,53,5,64,20,74,62,84,128,92,212,96,304,98,396,96,480,92,546,84,588,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="191,32,189,26,193,19,213,11,250,5,304,3,371,6,408,15,407,21,370,11,304,8,251,10,215,16,197,23,195,27,196,31"/>
+</map>

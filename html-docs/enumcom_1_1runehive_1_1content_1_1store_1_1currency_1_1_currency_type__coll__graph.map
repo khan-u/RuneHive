@@ -1,0 +1,5 @@
+<map id="com.runehive.content.store.currency.CurrencyType" name="com.runehive.content.store.currency.CurrencyType">
+<area shape="poly" id="Node000001" title="The enumerated type whom holds all the currencies usable for a server." alt="" coords="402,181,392,170,364,160,320,153,265,148,204,146,142,148,87,153,43,160,15,170,5,181,15,191,43,201,87,208,142,213,204,215,265,213,320,208,364,201,392,191"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1store_1_1currency_1_1_currency.html" title="The parent class of all currencies that provides basic functionality for any general currency." alt="" coords="402,40,392,29,364,20,320,12,265,7,204,5,142,7,87,12,43,20,15,29,5,40,15,50,43,60,87,68,142,72,204,74,265,72,320,68,364,60,392,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,89,206,146,201,146,201,89"/>
+</map>

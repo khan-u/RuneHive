@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.pathfinding.distance.Euclidean" name="com.runehive.game.world.pathfinding.distance.Euclidean">
+<area shape="poly" id="Node000001" title="Since Euclidean distance is shorter than Manhattan or diagonal distance, you will still get shortest ..." alt="" coords="508,157,496,146,460,136,404,129,334,124,257,122,179,124,109,129,53,136,18,146,5,157,18,167,53,177,109,184,179,189,257,191,334,189,404,184,460,177,496,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1distance_1_1_distance.html" title="An interface to calculate the distance between two nodes in a Position." alt="" coords="508,40,496,29,460,20,404,12,334,7,257,5,179,7,109,12,53,20,18,29,5,40,18,50,53,60,109,68,179,72,257,74,334,72,404,68,460,60,496,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,90,259,122,254,122,254,90"/>
+</map>

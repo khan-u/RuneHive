@@ -1,0 +1,6 @@
+<map id="com.runehive.content.emote.Emote.execute" name="com.runehive.content.emote.Emote.execute">
+<area shape="poly" id="Node000001" title=" " alt="" coords="691,64,683,53,660,44,625,36,581,31,531,29,482,31,438,36,402,44,380,53,372,64,380,74,402,84,438,92,482,96,531,98,581,96,625,92,660,84,683,74"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1emote_1_1_emote.html#aaf59ddf18482c2b7adb6d0df01e6139b" title=" " alt="" coords="324,64,316,53,294,44,258,36,214,31,165,29,115,31,71,36,36,44,13,53,5,64,13,74,36,84,71,92,115,96,165,98,214,96,258,92,294,84,316,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="356,66,325,66,325,61,356,61"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="227,21,205,11,165,8,131,10,110,16,100,23,100,33,95,32,95,21,107,11,131,5,165,3,206,6,229,16"/>
+</map>

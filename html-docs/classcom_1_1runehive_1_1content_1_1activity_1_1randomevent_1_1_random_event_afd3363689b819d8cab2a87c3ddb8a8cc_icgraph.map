@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.randomevent.RandomEvent.finish" name="com.runehive.content.activity.randomevent.RandomEvent.finish">
+<area shape="poly" id="Node000001" title="Finishes the activity." alt="" coords="976,86,965,76,932,66,881,59,817,54,746,52,674,54,610,59,559,66,526,76,515,86,526,97,559,107,610,114,674,119,746,121,817,119,881,114,932,107,965,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1randomevent_1_1_random_event.html#aaa651039a3c136675112d7ba72bdd64e" title="Called when the player logs out." alt="" coords="467,40,456,29,423,20,372,12,307,7,236,5,165,7,100,12,49,20,17,29,5,40,17,50,49,60,100,68,165,72,236,74,307,72,372,68,423,60,456,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="532,70,434,61,434,55,533,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1randomevent_1_1_random_event.html#afe22c05826b6131098f593a642bda19e" title="Starts the next activity stage." alt="" coords="467,133,456,122,423,113,372,105,307,100,236,99,165,100,100,105,49,113,17,122,5,133,17,144,49,153,100,161,165,166,236,167,307,166,372,161,423,153,456,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="533,109,434,118,434,112,532,103"/>
+</map>

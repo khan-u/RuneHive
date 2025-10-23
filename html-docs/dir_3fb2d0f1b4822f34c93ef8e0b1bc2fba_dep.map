@@ -1,0 +1,4 @@
+<map id="java/com/runehive/game/world/entity/mob/player/exchange/duel" name="java/com/runehive/game/world/entity/mob/player/exchange/duel">
+<area shape="poly" id="node1" href="dir_3fb2d0f1b4822f34c93ef8e0b1bc2fba.html" title="duel" alt="" coords="101,74,99,68,94,62,86,57,75,54,64,53,53,54,42,57,34,62,29,68,27,74,29,81,34,87,42,91,53,94,64,95,75,94,86,91,94,87,99,81"/>
+<area shape="rect" id="clust1" href="dir_37fe071c1cbe5c1fd3bf32ad6dd563e1.html" title="exchange" alt="" coords="16,16,112,106"/>
+</map>

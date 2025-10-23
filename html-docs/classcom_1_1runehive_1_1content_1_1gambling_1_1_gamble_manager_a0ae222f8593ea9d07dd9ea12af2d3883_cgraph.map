@@ -1,0 +1,5 @@
+<map id="com.runehive.content.gambling.GambleManager.send" name="com.runehive.content.gambling.GambleManager.send">
+<area shape="poly" id="Node000001" title="Handles sending the message for who won." alt="" coords="355,40,347,29,322,20,283,12,234,7,180,5,126,7,77,12,39,20,14,29,5,40,14,50,39,60,77,68,126,72,180,74,234,72,283,68,322,60,347,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a26938dbc3c9508164035881aef98271e" title="Sets the mob&#39;s forced chat." alt="" coords="805,40,795,29,767,20,722,12,666,7,604,5,542,7,486,12,442,20,413,29,403,40,413,50,442,60,486,68,542,72,604,74,666,72,722,68,767,60,795,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,37,388,37,388,42,355,42"/>
+</map>

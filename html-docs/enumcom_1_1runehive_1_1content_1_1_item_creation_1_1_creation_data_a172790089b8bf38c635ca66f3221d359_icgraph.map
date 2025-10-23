@@ -1,0 +1,5 @@
+<map id="com.runehive.content.ItemCreation.CreationData.forItems" name="com.runehive.content.ItemCreation.CreationData.forItems">
+<area shape="poly" id="Node000001" title="Handles finding the creation data based off the items used." alt="" coords="802,40,794,29,770,20,732,12,684,7,632,5,579,7,531,12,494,20,469,29,461,40,469,50,494,60,531,68,579,72,632,74,684,72,732,68,770,60,794,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1itemaction_1_1impl_1_1_trident_of_the_seas.html#a48fc6779c212aaab58208a6c00309936" title=" " alt="" coords="413,40,403,29,374,20,329,12,272,7,209,5,146,7,89,12,44,20,15,29,5,40,15,50,44,60,89,68,146,72,209,74,272,72,329,68,374,60,403,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,42,414,42,414,37,446,37"/>
+</map>

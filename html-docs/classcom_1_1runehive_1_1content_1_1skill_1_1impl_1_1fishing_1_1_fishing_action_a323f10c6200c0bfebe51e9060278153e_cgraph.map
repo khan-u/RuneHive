@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.fishing.FishingAction.canSchedule" name="com.runehive.content.skill.impl.fishing.FishingAction.canSchedule">
+<area shape="poly" id="Node000001" title="A function executed on registration." alt="" coords="422,40,411,29,382,20,336,12,278,7,213,5,149,7,91,12,45,20,16,29,5,40,16,50,45,60,91,68,149,72,213,74,278,72,336,68,382,60,411,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="770,40,763,29,741,20,708,12,666,7,620,5,573,7,531,12,498,20,477,29,470,40,477,50,498,60,531,68,573,72,620,74,666,72,708,68,741,60,763,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="422,37,454,37,454,42,422,42"/>
+</map>

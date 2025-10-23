@@ -1,0 +1,5 @@
+<map id="com.runehive.content.dialogue.impl.ClanmasterDialogue.clanManagement" name="com.runehive.content.dialogue.impl.ClanmasterDialogue.clanManagement">
+<area shape="poly" id="Node000001" title="The clan management dialogue." alt="" coords="867,40,857,29,828,20,781,12,723,7,659,5,594,7,536,12,490,20,460,29,450,40,460,50,490,60,536,68,594,72,659,74,723,72,781,68,828,60,857,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1impl_1_1_clanmaster_dialogue.html#a67eeabf0e01a61b2a530f27483b11dbd" title="Sends a player a dialogue." alt="" coords="402,40,392,29,364,20,320,12,265,7,204,5,142,7,87,12,43,20,15,29,5,40,15,50,43,60,87,68,142,72,204,74,265,72,320,68,364,60,392,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="434,42,402,42,402,37,434,37"/>
+</map>

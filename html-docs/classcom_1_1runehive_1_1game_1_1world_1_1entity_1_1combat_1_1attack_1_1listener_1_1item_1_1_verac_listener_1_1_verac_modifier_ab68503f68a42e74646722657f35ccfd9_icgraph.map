@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.item.VeracListener.VeracModifier.get" name="com.runehive.game.world.entity.combat.attack.listener.item.VeracListener.VeracModifier.get">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1299,86,1284,76,1239,66,1170,59,1084,54,987,52,891,54,804,59,736,66,691,76,676,86,691,97,736,107,804,114,891,119,987,121,1084,119,1170,114,1239,107,1284,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_verac_listener.html#aa62d8e67bce0e229d9f3ece03807a0a4" title=" " alt="" coords="628,40,613,29,569,20,500,12,413,7,317,5,220,7,134,12,65,20,21,29,5,40,21,50,65,60,134,68,220,72,317,74,413,72,500,68,569,60,613,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="707,70,582,61,582,56,707,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_verac_listener.html#a8a43c87e5721ef6b7dd476452293aa55" title=" " alt="" coords="628,133,613,122,569,113,500,105,413,100,317,99,220,100,134,105,65,113,21,122,5,133,21,144,65,153,134,161,220,166,317,167,413,166,500,161,569,153,613,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="707,109,582,117,582,112,707,103"/>
+</map>

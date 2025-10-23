@@ -1,0 +1,9 @@
+<map id="com.runehive.content.event.EventDispatcher.execute" name="com.runehive.content.event.EventDispatcher.execute">
+<area shape="poly" id="Node000001" title=" " alt="" coords="317,133,309,122,287,113,253,105,209,100,161,99,113,100,70,105,35,113,13,122,5,133,13,144,35,153,70,161,113,166,161,167,209,166,253,161,287,153,309,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#aca809d07e972e77c942bf91754907afe" title=" " alt="" coords="728,40,720,29,697,20,661,12,616,7,566,5,516,7,471,12,435,20,412,29,404,40,412,50,435,60,471,68,516,72,566,74,616,72,661,68,697,60,720,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="270,105,440,66,441,71,271,111"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#abe3ff6c712833abb8b32c251907a2d9c" title=" " alt="" coords="767,133,757,122,729,113,684,105,628,100,566,99,504,100,448,105,403,113,375,122,365,133,375,144,403,153,448,161,504,166,566,167,628,166,684,161,729,153,757,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="317,130,349,130,349,136,317,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#ab9265666afccf804117897d79295fbed" title="The interactionEvent listener." alt="" coords="765,226,755,216,727,206,683,199,627,194,566,192,505,194,449,199,405,206,377,216,367,226,377,237,405,247,449,254,505,259,566,261,627,259,683,254,727,247,755,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="271,155,431,193,429,198,270,161"/>
+</map>

@@ -1,0 +1,7 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_demonic_gorillas_1_1_melee =
+[
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_demonic_gorillas_1_1_melee.html#a0dc6fc9b5ee5af443db7d20d77c94891", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_demonic_gorillas_1_1_melee.html#a887bc0dc1426c84afd2a24b2c955480c", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_demonic_gorillas_1_1_melee.html#a0be198d3674189630c0466d9a294f8dc", null ],
+    [ "ANIMATION", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_demonic_gorillas_1_1_melee.html#a2e9ad3e2a53c19b40f2e3bfdc8103e78", null ]
+];

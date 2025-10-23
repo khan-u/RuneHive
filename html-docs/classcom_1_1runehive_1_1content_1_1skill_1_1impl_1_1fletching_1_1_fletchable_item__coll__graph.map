@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.fletching.FletchableItem" name="com.runehive.content.skill.impl.fletching.FletchableItem">
+<area shape="poly" id="Node000001" title=" " alt="" coords="440,245,429,234,398,225,350,217,290,212,223,211,155,212,95,217,47,225,16,234,5,245,16,256,47,265,95,273,155,278,223,279,290,278,350,273,398,265,429,256"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="421,118,411,111,383,105,339,101,284,98,223,97,161,98,106,101,62,105,34,111,24,118,34,124,62,130,106,135,161,138,223,139,284,138,339,135,383,130,411,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,154,225,210,220,210,220,154"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="290,26,287,20,277,14,262,9,243,6,223,5,202,6,183,9,168,14,159,20,155,26,159,33,168,39,183,43,202,46,223,47,243,46,262,43,277,39,287,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,63,225,96,220,96,220,63"/>
+</map>

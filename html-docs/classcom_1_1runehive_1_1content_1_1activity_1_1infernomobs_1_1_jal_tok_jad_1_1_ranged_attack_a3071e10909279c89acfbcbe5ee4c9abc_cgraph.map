@@ -1,0 +1,6 @@
+<map id="com.runehive.content.activity.infernomobs.JalTokJad.RangedAttack.attack" name="com.runehive.content.activity.infernomobs.JalTokJad.RangedAttack.attack">
+<area shape="poly" id="Node000001" title=" " alt="" coords="460,64,449,53,416,44,366,36,303,31,233,29,162,31,99,36,49,44,16,53,5,64,16,74,49,84,99,92,162,96,233,98,303,96,366,92,416,84,449,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1infernomobs_1_1_jal_tok_jad_1_1_ranged_attack.html#a68dbecf883f0dbb376c3392d4350225a" title=" " alt="" coords="962,64,951,53,919,44,869,36,805,31,735,29,665,31,601,36,551,44,519,53,508,64,519,74,551,84,601,92,665,96,735,98,805,96,869,92,919,84,951,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="460,61,492,61,492,66,460,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="640,32,641,20,658,11,689,5,735,3,791,6,823,15,821,20,790,11,735,8,690,10,660,16,645,23,645,32"/>
+</map>

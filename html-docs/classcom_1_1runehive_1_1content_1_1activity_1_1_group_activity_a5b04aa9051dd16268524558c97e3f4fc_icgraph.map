@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.GroupActivity.removeActivity" name="com.runehive.content.activity.GroupActivity.removeActivity">
+<area shape="poly" id="Node000001" title="Removes an activity from the activities group." alt="" coords="866,86,858,76,835,66,799,59,754,54,704,52,654,54,609,59,573,66,550,76,542,86,550,97,573,107,609,114,654,119,704,121,754,119,799,114,835,107,858,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_game.html#ae201995b06e85bcc4ab574779c5e4945" title="Called when the player logs out." alt="" coords="494,40,482,29,447,20,393,12,325,7,250,5,174,7,106,12,52,20,17,29,5,40,17,50,52,60,106,68,174,72,250,74,325,72,393,68,447,60,482,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="542,72,448,63,449,57,542,67"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_game.html#aedaafdefe66abe76fcba35e57f49f0ed" title="Called when the player changes region." alt="" coords="494,133,482,122,447,113,393,105,325,100,250,99,174,100,106,105,52,113,17,122,5,133,17,144,52,153,106,161,174,166,250,167,325,166,393,161,447,153,482,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="542,106,449,115,448,110,542,100"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.barrows.Barrows" name="com.runehive.content.activity.impl.barrows.Barrows">
+<area shape="poly" id="Node000001" title=" " alt="" coords="464,273,453,263,420,253,369,246,306,241,235,239,164,241,100,246,49,253,17,263,5,273,17,284,49,294,100,301,164,306,235,308,306,306,369,301,420,294,453,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html" title="A Activity object constructs an in&#45;game activity and sequences it through the start() and finish() me..." alt="" coords="397,157,389,146,366,136,330,129,285,124,235,122,185,124,139,129,103,136,80,146,73,157,80,167,103,177,139,184,185,189,235,191,285,189,330,184,366,177,389,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,207,237,239,232,239,232,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="390,40,383,29,361,20,326,12,283,7,235,5,187,7,143,12,109,20,86,29,79,40,86,50,109,60,143,68,187,72,235,74,283,72,326,68,361,60,383,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="237,90,237,122,232,122,232,90"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.projectile.CombatProjectile.getName" name="com.runehive.game.world.entity.combat.projectile.CombatProjectile.getName">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1112,40,1099,29,1062,20,1003,12,929,7,847,5,766,7,692,12,633,20,596,29,583,40,596,50,633,60,692,68,766,72,847,74,929,72,1003,68,1062,60,1099,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1projectile_1_1_combat_projectile.html#a8a4e768e3c17c36a30a5d43302cd4910" title=" " alt="" coords="535,40,522,29,484,20,426,12,352,7,270,5,188,7,114,12,56,20,18,29,5,40,18,50,56,60,114,68,188,72,270,74,352,72,426,68,484,60,522,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="567,42,535,42,535,37,567,37"/>
+</map>

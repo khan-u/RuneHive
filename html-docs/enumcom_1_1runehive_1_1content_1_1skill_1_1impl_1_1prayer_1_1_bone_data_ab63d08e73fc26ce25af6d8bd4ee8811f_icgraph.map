@@ -1,0 +1,8 @@
+<map id="com.runehive.content.skill.impl.prayer.BoneData.getId" name="com.runehive.content.skill.impl.prayer.BoneData.getId">
+<area shape="poly" id="Node000001" title="Gets the id of the bone." alt="" coords="1337,76,1327,65,1298,56,1252,48,1195,43,1131,41,1068,43,1010,48,965,56,935,65,925,76,935,86,965,96,1010,104,1068,108,1131,110,1195,108,1252,104,1298,96,1327,86"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_sacrifice.html#a5a1fb68a0cc8817aba6a2ca03dbbc6bf" title=" " alt="" coords="877,40,867,29,838,20,792,12,735,7,671,5,608,7,550,12,505,20,475,29,465,40,475,50,505,60,550,68,608,72,671,74,735,72,792,68,838,60,867,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="929,63,859,57,859,52,929,57"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_sacrifice.html#a4e16866ee11fc93df2cdef8a68b0bce8" title=" " alt="" coords="417,76,407,65,378,56,332,48,275,43,211,41,148,43,90,48,45,56,15,65,5,76,15,86,45,96,90,104,148,108,211,110,275,108,332,104,378,96,407,86"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="917,88,877,89,671,92,465,89,411,88,411,82,465,84,671,87,877,84,917,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="469,58,399,64,399,58,469,53"/>
+</map>

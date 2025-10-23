@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.attack.FightStyle.getAccuracyIncrease" name="com.runehive.game.world.entity.combat.attack.FightStyle.getAccuracyIncrease">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1063,86,1050,76,1015,66,960,59,891,54,814,52,737,54,668,59,613,66,578,76,566,86,578,97,613,107,668,114,737,119,814,121,891,119,960,114,1015,107,1050,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1formula_1_1_melee_formula.html#afe75748c30df2d94fcc9690722c9ecdb" title=" " alt="" coords="518,40,505,29,469,20,412,12,341,7,262,5,182,7,111,12,54,20,18,29,5,40,18,50,54,60,111,68,182,72,262,74,341,72,412,68,469,60,505,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="585,70,480,61,480,55,586,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1formula_1_1_ranged_formula.html#a52cc4eadab40e2cf58c3289e06d563ac" title=" " alt="" coords="518,133,505,122,469,113,412,105,341,100,262,99,182,100,111,105,54,113,18,122,5,133,18,144,54,153,111,161,182,166,262,167,341,166,412,161,469,153,505,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="586,108,480,117,480,112,585,103"/>
+</map>

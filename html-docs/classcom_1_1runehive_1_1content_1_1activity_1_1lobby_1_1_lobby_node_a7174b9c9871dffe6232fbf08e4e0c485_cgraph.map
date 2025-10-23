@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.lobby.LobbyNode.finished" name="com.runehive.content.activity.lobby.LobbyNode.finished">
+<area shape="poly" id="Node000001" title=" " alt="" coords="389,86,380,76,352,66,310,59,256,54,197,52,138,54,84,59,42,66,15,76,5,86,15,97,42,107,84,114,138,119,197,121,256,119,310,114,352,107,380,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_group_activity.html#af62f003e0e19329536f816b931d9f74b" title="Gets the size of the activities in this group." alt="" coords="761,40,753,29,730,20,695,12,649,7,599,5,549,7,504,12,468,20,445,29,437,40,445,50,468,60,504,68,549,72,599,74,649,72,695,68,730,60,753,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="359,65,441,55,441,61,360,70"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#a9939405a11beba6f434c44eb98d428c1" title="Gets the current ticks." alt="" coords="761,133,753,122,730,113,695,105,649,100,599,99,549,100,504,105,468,113,445,122,437,133,445,144,468,153,504,161,549,166,599,167,649,166,695,161,730,153,753,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="360,103,441,112,441,117,359,108"/>
+</map>

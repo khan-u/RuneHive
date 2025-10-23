@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.entity.mob.prayer.PrayerBook.toggle" name="com.runehive.game.world.entity.mob.prayer.PrayerBook.toggle">
+<area shape="poly" id="Node000001" title="Inverts a prayer&#39;s active state." alt="" coords="475,98,464,88,430,78,378,71,313,66,240,64,168,66,102,71,50,78,17,88,5,98,17,109,50,119,102,126,168,131,240,133,313,131,378,126,430,119,464,109"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer_book.html#ac2219cf6138a52e33879e655ab7102b4" title="Sends the activate prayer packet to the client." alt="" coords="1511,40,1500,29,1466,20,1414,12,1349,7,1276,5,1204,7,1138,12,1086,20,1053,29,1041,40,1053,50,1086,60,1138,68,1204,72,1276,74,1349,72,1414,68,1466,60,1500,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="383,68,523,49,652,40,784,34,1028,32,1028,37,784,40,653,45,524,54,384,73"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer_book.html#a76ac10193384260bd6e065bfa15668c3" title="Sends the dectivate prayer packet to the client." alt="" coords="1511,145,1500,134,1466,125,1414,117,1349,112,1276,111,1204,112,1138,117,1086,125,1053,134,1041,145,1053,156,1086,165,1138,173,1204,178,1276,179,1349,178,1414,173,1466,165,1500,156"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="383,124,524,142,655,150,788,154,1035,152,1035,158,788,159,654,156,523,148,382,129"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer_book.html#ac58266dc7d4c540906c69adcec7557da" title="Toggles prayers supplied in the activate and deactivate sets." alt="" coords="993,98,982,88,948,78,896,71,831,66,758,64,686,66,620,71,568,78,535,88,523,98,535,109,568,119,620,126,686,131,758,133,831,131,896,126,948,119,982,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="476,96,507,96,507,101,476,101"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="945,75,1074,60,1074,65,946,80"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="960,114,1060,123,1060,128,960,119"/>
+</map>

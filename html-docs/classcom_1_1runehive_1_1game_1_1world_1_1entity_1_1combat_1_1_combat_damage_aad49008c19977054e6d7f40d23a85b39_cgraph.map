@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.entity.combat.CombatDamage.add" name="com.runehive.game.world.entity.combat.CombatDamage.add">
+<area shape="poly" id="Node000001" title="Registers damage in the backing collection for character." alt="" coords="437,80,427,69,396,60,348,52,288,47,221,45,155,47,94,52,47,60,16,69,5,80,16,90,47,100,94,108,155,112,221,114,288,112,348,108,396,100,427,90"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_damage_1_1_damage_counter.html#a05514f24c7bf473eb295a76ddd99acbd" title="Increments the amount of damage within this counter." alt="" coords="1034,80,1021,69,982,60,921,52,845,47,760,45,675,47,598,52,538,60,499,69,485,80,499,90,538,100,598,108,675,112,760,114,845,112,921,108,982,100,1021,90"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,77,469,77,469,82,437,82"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_damage_1_1_damage_counter.html#a7baecd650fdea80487c184cf3d474973" title="Determines if this counter has timed out or not." alt="" coords="1552,40,1541,29,1507,20,1455,12,1390,7,1317,5,1245,7,1179,12,1127,20,1094,29,1082,40,1094,50,1127,60,1179,68,1245,72,1317,74,1390,72,1455,68,1507,60,1541,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="999,60,1090,53,1090,59,1000,65"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1_stopwatch.html#a07c61fd51248da8dd704ab2f68a71ba4" title=" " alt="" coords="1501,120,1492,113,1466,107,1426,103,1374,100,1317,99,1260,100,1209,103,1168,107,1142,113,1133,120,1142,126,1168,132,1209,137,1260,140,1317,141,1374,140,1426,137,1466,132,1492,126"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1000,94,1145,105,1145,110,999,100"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1util_1_1_stopwatch.html#a3cf43f14f9d91dcd137fc56d42076945" title=" " alt="" coords="1919,120,1911,109,1889,100,1853,92,1809,87,1760,85,1710,87,1666,92,1631,100,1608,109,1600,120,1608,130,1631,140,1666,148,1710,152,1760,154,1809,152,1853,148,1889,140,1911,130"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1502,117,1585,117,1585,122,1502,122"/>
+</map>

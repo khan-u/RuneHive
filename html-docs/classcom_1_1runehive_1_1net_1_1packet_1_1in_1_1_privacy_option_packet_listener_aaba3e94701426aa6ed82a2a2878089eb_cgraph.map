@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.in.PrivacyOptionPacketListener.handlePacket" name="com.runehive.net.packet.in.PrivacyOptionPacketListener.handlePacket">
+<area shape="poly" id="Node000001" title="Handles the packet that has just been received." alt="" coords="400,53,391,38,363,25,319,14,264,8,203,5,142,8,87,14,43,25,15,38,5,53,15,68,43,81,87,92,142,99,203,101,264,99,319,92,363,81,391,68"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a3505a700117a8389b24f27e50de411ca" title=" " alt="" coords="917,53,905,43,872,33,820,25,755,20,683,19,610,20,545,25,493,33,460,43,448,53,460,64,493,73,545,81,610,86,683,88,755,86,820,81,872,73,905,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="401,51,433,51,433,56,401,56"/>
+</map>

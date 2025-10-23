@@ -1,0 +1,5 @@
+<map id="com.runehive.fs.cache.decoder.RegionDecoder" name="com.runehive.fs.cache.decoder.RegionDecoder">
+<area shape="poly" id="Node000001" title="A class which parses static object definitions, which include tool.mapviewer tiles and landscapes." alt="" coords="352,130,344,119,319,109,281,102,232,97,179,95,125,97,77,102,38,109,14,119,5,130,14,140,38,150,77,158,125,162,179,164,232,162,281,158,319,150,344,140"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="243,26,240,20,231,14,217,9,199,6,179,5,159,6,141,9,127,14,117,20,114,26,117,33,127,39,141,43,159,46,179,47,199,46,217,43,231,39,240,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,63,181,95,176,95,176,63"/>
+</map>

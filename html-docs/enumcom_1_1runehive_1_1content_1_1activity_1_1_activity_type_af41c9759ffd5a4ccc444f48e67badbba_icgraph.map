@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.ActivityType.getRecordable" name="com.runehive.content.activity.ActivityType.getRecordable">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1213,40,1205,29,1182,20,1146,12,1101,7,1051,5,1001,7,955,12,920,20,897,29,889,40,897,50,920,60,955,68,1001,72,1051,74,1101,72,1146,68,1182,60,1205,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1record_1_1_player_record.html#acc0443612ca73c258cdc5b1a6da450f1" title=" " alt="" coords="841,40,831,29,803,20,759,12,705,7,644,5,583,7,528,12,485,20,457,29,447,40,457,50,485,60,528,68,583,72,644,74,705,72,759,68,803,60,831,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="873,42,841,42,841,37,873,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1record_1_1_player_record.html#a531db08cbfc6a2221c66b4eb1e5fcedf" title=" " alt="" coords="399,40,389,29,361,20,318,12,263,7,202,5,141,7,86,12,43,20,15,29,5,40,15,50,43,60,86,68,141,72,202,74,263,72,318,68,361,60,389,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,42,400,42,400,37,432,37"/>
+</map>

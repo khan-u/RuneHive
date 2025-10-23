@@ -1,0 +1,5 @@
+<map id="com.runehive.content.lms.LMSGameEvent" name="com.runehive.content.lms.LMSGameEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="315,130,308,119,287,109,255,102,214,97,169,95,124,97,83,102,51,109,30,119,23,130,30,140,51,150,83,158,124,162,169,164,214,162,255,158,287,150,308,140"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="332,26,324,20,301,14,265,9,219,6,169,5,118,6,73,9,37,14,13,20,5,26,13,33,37,39,73,43,118,46,169,47,219,46,265,43,301,39,324,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,63,172,95,166,95,166,63"/>
+</map>

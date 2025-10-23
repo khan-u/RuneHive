@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_ranged_attack =
+[
+    [ "RangedAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_ranged_attack.html#a2ab8b5f793f2a6c0c0655cf9622f23ea", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_ranged_attack.html#a6b5a77ce6e109e1d11ff7f7a83899c6c", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_ranged_attack.html#ac33139a45d40f61016b9b79f1a3b4fcf", null ]
+];

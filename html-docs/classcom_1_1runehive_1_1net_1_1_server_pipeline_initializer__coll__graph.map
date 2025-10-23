@@ -1,0 +1,5 @@
+<map id="com.runehive.net.ServerPipelineInitializer" name="com.runehive.net.ServerPipelineInitializer">
+<area shape="poly" id="Node000001" title="The ChannelInitializer implementation that will setup the games networking pipeline." alt="" coords="364,157,355,146,329,136,290,129,240,124,184,122,129,124,79,129,40,136,14,146,5,157,14,167,40,177,79,184,129,189,184,191,240,189,290,184,329,177,355,167"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="296,40,290,29,274,20,250,12,219,7,184,5,150,7,119,12,94,20,79,29,73,40,79,50,94,60,119,68,150,72,184,74,219,72,250,68,274,60,290,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,90,187,122,182,122,182,90"/>
+</map>

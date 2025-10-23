@@ -1,0 +1,9 @@
+<map id="com.runehive.game.action.impl.BuryBoneAction.skill" name="com.runehive.game.action.impl.BuryBoneAction.skill">
+<area shape="poly" id="Node000001" title="The skill we should hand to experience to." alt="" coords="750,133,742,122,717,113,678,105,630,100,576,99,522,100,474,105,435,113,410,122,402,133,410,144,435,153,474,161,522,166,576,167,630,166,678,161,717,153,742,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_bury_bone_action.html#a526d747efb2026a3a25212b63db28913" title="Determines if this action can be initialized." alt="" coords="354,40,345,29,320,20,282,12,233,7,180,5,126,7,77,12,39,20,14,29,5,40,14,50,39,60,77,68,126,72,180,74,233,72,282,68,320,60,345,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,106,292,69,294,64,448,100"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_bury_bone_action.html#a4e80c2412894b3c3e45eae92b7390744" title="A function executed on cancellation." alt="" coords="354,133,345,122,320,113,282,105,233,100,180,99,126,100,77,105,39,113,14,122,5,133,14,144,39,153,77,161,126,166,180,167,233,166,282,161,320,153,345,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="386,136,354,136,354,130,386,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_bury_bone_action.html#ad5ede125d4bfff9c9a9d45219c6facd1" title="The method which is called on intervals of the specified #delay;." alt="" coords="354,226,345,216,320,206,282,199,233,194,180,192,126,194,77,199,39,206,14,216,5,226,14,237,39,247,77,254,126,259,180,261,233,259,282,254,320,247,345,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="448,166,294,202,292,197,447,161"/>
+</map>

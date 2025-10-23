@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.duelarena.DuelArenaActivity" name="com.runehive.content.activity.impl.duelarena.DuelArenaActivity">
+<area shape="poly" id="Node000001" title="The duel arena activity." alt="" coords="485,273,473,263,439,253,386,246,319,241,245,239,171,241,104,246,51,253,17,263,5,273,17,284,51,294,104,301,171,306,245,308,319,306,386,301,439,294,473,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html" title="A Activity object constructs an in&#45;game activity and sequences it through the start() and finish() me..." alt="" coords="407,157,400,146,376,136,341,129,295,124,245,122,195,124,150,129,114,136,91,146,83,157,91,167,114,177,150,184,195,189,245,191,295,189,341,184,376,177,400,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,207,248,239,243,239,243,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="401,40,393,29,371,20,337,12,293,7,245,5,197,7,154,12,119,20,97,29,89,40,97,50,119,60,154,68,197,72,245,74,293,72,337,68,371,60,393,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,90,248,122,243,122,243,90"/>
+</map>

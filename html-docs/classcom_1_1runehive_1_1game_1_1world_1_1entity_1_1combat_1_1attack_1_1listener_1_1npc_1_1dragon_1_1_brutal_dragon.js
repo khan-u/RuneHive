@@ -1,0 +1,13 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_brutal_dragon =
+[
+    [ "CrushMelee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon55acbb001940ea15054b3cf9f444372f.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon55acbb001940ea15054b3cf9f444372f" ],
+    [ "MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragonebcf87035683d44d093d657e45c43c11.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragonebcf87035683d44d093d657e45c43c11" ],
+    [ "StabMelee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon654358fef068929af66d8e666032a89d.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon654358fef068929af66d8e666032a89d" ],
+    [ "[static initializer]", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_brutal_dragon.html#a1c7f05af7a70e331011f4c9079fa9b4c", null ],
+    [ "canAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_brutal_dragon.html#a80f9a3750ed89e5fd4c192321a423055", null ],
+    [ "finishOutgoing", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_brutal_dragon.html#a8f85ca92f54973412a196be24a39fbd3", null ],
+    [ "getMagicProjectile", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_brutal_dragon.html#aa05b6c3877905c1db0ee4fad30257e7a", null ],
+    [ "getMaxHit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_brutal_dragon.html#accefb1bdd86e5344ce903b5b470fa968", null ],
+    [ "DRAGONFIRE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_brutal_dragon.html#a7f95e1a331d704c4d79de66a1f093f3b", null ],
+    [ "STRATEGIES", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_brutal_dragon.html#a424e736bcfb716919a5f9e068c6822b6", null ]
+];

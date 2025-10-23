@@ -1,0 +1,8 @@
+<map id="com.runehive.content.skill.impl.thieving.PickpocketData.getLevel" name="com.runehive.content.skill.impl.thieving.PickpocketData.getLevel">
+<area shape="poly" id="Node000001" title="Gets the level required." alt="" coords="1388,40,1378,29,1347,20,1300,12,1240,7,1174,5,1107,7,1048,12,1000,20,970,29,959,40,970,50,1000,60,1048,68,1107,72,1174,74,1240,72,1300,68,1347,60,1378,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1thieving_1_1_thieving.html#a03342bf879d7fd0201114b949ebb0637" title=" " alt="" coords="434,40,424,29,393,20,346,12,286,7,220,5,154,7,94,12,46,20,16,29,5,40,16,50,46,60,94,68,154,72,220,74,286,72,346,68,393,60,424,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="951,33,911,32,697,29,482,32,427,33,427,28,482,26,697,23,911,26,951,27"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1thieving_1_1_thieving.html#a75e9eed987b03e678f3809db075d7e8a" title="The failure rate for pickpocketing." alt="" coords="911,76,901,65,870,56,823,48,763,43,697,41,631,43,571,48,523,56,493,65,482,76,493,86,523,96,571,104,631,108,697,110,763,108,823,104,870,96,901,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="964,58,892,64,892,58,963,53"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="486,63,415,57,415,52,487,57"/>
+</map>

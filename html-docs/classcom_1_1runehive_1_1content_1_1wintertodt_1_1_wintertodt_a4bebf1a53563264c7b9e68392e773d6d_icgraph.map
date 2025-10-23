@@ -1,0 +1,12 @@
+<map id="com.runehive.content.wintertodt.Wintertodt.update" name="com.runehive.content.wintertodt.Wintertodt.update">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1939,40,1931,29,1905,20,1866,12,1817,7,1762,5,1707,7,1658,12,1619,20,1594,29,1585,40,1594,50,1619,60,1658,68,1707,72,1762,74,1817,72,1866,68,1905,60,1931,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1wintertodt_1_1_wintertodt.html#ae4af45a5fcdf15d8085fd761dde9bf06" title=" " alt="" coords="1135,40,1126,29,1101,20,1062,12,1013,7,958,5,903,7,854,12,815,20,790,29,781,40,790,50,815,60,854,68,903,72,958,74,1013,72,1062,68,1101,60,1126,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1575,33,1537,32,1360,29,1183,32,1130,33,1130,28,1183,26,1360,24,1537,26,1575,28"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1wintertodt_1_1_wintertodt.html#a810f8ff20a4aacd1726537ac8f9f3a66" title=" " alt="" coords="1537,76,1528,65,1503,56,1464,48,1415,43,1360,41,1305,43,1256,48,1217,56,1192,65,1183,76,1192,86,1217,96,1256,104,1305,108,1360,110,1415,108,1464,104,1503,96,1528,86"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1586,58,1522,64,1521,59,1586,53"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1_rune_hive.html#a17f40f99cb718b86302b394cf505f0a8" title=" " alt="" coords="733,40,724,29,699,20,659,12,609,7,554,5,499,7,449,12,409,20,384,29,375,40,384,50,409,60,449,68,499,72,554,74,609,72,659,68,699,60,724,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="766,42,734,42,734,37,766,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1_rune_hive.html#ab9a24653997a7d8bb955f26c59b7f8ea" title=" " alt="" coords="327,40,319,33,296,27,261,23,216,20,166,19,116,20,72,23,36,27,13,33,5,40,13,46,36,52,72,57,116,60,166,61,216,60,261,57,296,52,319,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="360,42,327,42,327,37,360,37"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="1184,63,1119,57,1120,52,1184,57"/>
+</map>

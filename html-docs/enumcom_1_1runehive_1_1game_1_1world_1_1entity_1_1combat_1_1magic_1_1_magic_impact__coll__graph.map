@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.magic.MagicImpact" name="com.runehive.game.world.entity.combat.magic.MagicImpact">
+<area shape="poly" id="Node000001" title=" " alt="" coords="504,181,491,170,456,160,401,153,331,148,254,146,177,148,108,153,53,160,18,170,5,181,18,191,53,201,108,208,177,213,254,215,331,213,401,208,456,201,491,191"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_impact.html" title="Represents a combat impact hit effect." alt="" coords="470,40,460,29,429,20,381,12,321,7,254,5,188,7,128,12,80,20,49,29,39,40,49,50,80,60,128,68,188,72,254,74,321,72,381,68,429,60,460,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,89,257,146,252,146,252,89"/>
+</map>

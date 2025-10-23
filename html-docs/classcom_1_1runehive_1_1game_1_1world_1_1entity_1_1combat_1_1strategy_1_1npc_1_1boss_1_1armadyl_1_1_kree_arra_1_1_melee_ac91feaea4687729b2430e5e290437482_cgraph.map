@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.armadyl.KreeArra.Melee.getHits" name="com.runehive.game.world.entity.combat.strategy.npc.boss.armadyl.KreeArra.Melee.getHits">
+<area shape="poly" id="Node000001" title=" " alt="" coords="703,64,686,53,636,44,559,36,462,31,354,29,246,31,149,36,72,44,22,53,5,64,22,74,72,84,149,92,246,96,354,98,462,96,559,92,636,84,686,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1_combat_strategy.html#acd22127bf7168a1145947c8b8716c524" title=" " alt="" coords="1266,64,1254,53,1217,44,1160,36,1088,31,1009,29,929,31,857,36,800,44,764,53,751,64,764,74,800,84,857,92,929,96,1009,98,1088,96,1160,92,1217,84,1254,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="703,61,736,61,736,66,703,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="887,34,883,28,886,21,907,11,948,5,1009,3,1084,6,1124,16,1123,21,1083,12,1009,8,948,10,909,16,890,24,889,28,891,32"/>
+</map>

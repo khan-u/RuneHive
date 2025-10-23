@@ -1,0 +1,11 @@
+<map id="com.runehive.net.codec.game.GamePacketDecoder" name="com.runehive.net.codec.game.GamePacketDecoder">
+<area shape="poly" id="Node000001" title="The class that reads packets from the client into GamePacket&#39;s." alt="" coords="789,153,781,142,757,133,720,125,673,120,621,119,569,120,522,125,485,133,461,142,452,153,461,164,485,173,522,181,569,186,621,187,673,186,720,181,757,173,781,164"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="313,26,306,20,286,14,255,9,217,6,174,5,131,6,92,9,62,14,42,20,35,26,42,33,62,39,92,43,131,46,174,47,217,46,255,43,286,39,306,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,43,343,57,445,88,539,120,537,125,444,93,342,62,281,48"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1codec_1_1_isaac_cipher.html" title="An implementation of an ISAAC cipher." alt="" coords="338,106,330,96,307,86,270,78,225,74,174,72,123,74,77,78,41,86,18,96,10,106,18,117,41,127,77,134,123,139,174,141,225,139,270,134,307,127,330,117"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="337,121,470,135,470,140,337,126"/>
+<area shape="poly" id="Node000004" href="$enumcom_1_1runehive_1_1net_1_1packet_1_1_packet_type.html" title="Represents a type of packet." alt="" coords="314,200,307,189,287,179,256,172,217,167,174,165,131,167,91,172,60,179,40,189,34,200,40,210,60,220,91,227,131,232,174,234,217,232,256,227,287,220,307,210"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="318,182,469,166,470,171,319,187"/>
+<area shape="poly" id="Node000005" href="$enumcom_1_1runehive_1_1net_1_1codec_1_1game_1_1_game_packet_decoder_1_1_state.html" title="Represents the current state of this class." alt="" coords="342,293,334,282,310,273,273,265,226,260,174,259,122,260,75,265,38,273,14,282,5,293,14,304,38,313,75,321,122,326,174,327,226,326,273,321,310,313,334,304"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="292,259,342,244,534,180,535,185,343,249,293,264"/>
+</map>

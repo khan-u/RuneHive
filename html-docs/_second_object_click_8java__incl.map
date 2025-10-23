@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/event/impl/SecondObjectClick.java" name="java/com/runehive/content/event/impl/SecondObjectClick.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="534,40,525,29,497,20,455,12,401,7,341,5,281,7,228,12,185,20,157,29,148,40,157,50,185,60,228,68,281,72,341,74,401,72,455,68,497,60,525,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="317,157,309,146,287,136,253,129,209,124,161,122,113,124,70,129,35,136,13,146,5,157,13,167,35,177,70,184,113,189,161,191,209,189,253,184,287,177,309,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,76,225,118,222,113,289,71"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="702,157,693,146,667,136,627,129,577,124,521,122,465,124,415,129,375,136,349,146,341,157,349,167,375,177,415,184,465,189,521,191,577,189,627,184,667,177,693,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="394,71,460,113,457,118,391,76"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="com.runehive.content.ItemCreation.CreationData.CreationData" name="com.runehive.content.ItemCreation.CreationData.CreationData">
+<area shape="poly" id="Node000001" title="Constructs a new CreationData." alt="" coords="1247,86,1237,76,1209,66,1165,59,1110,54,1049,52,987,54,932,59,888,66,860,76,850,86,860,97,888,107,932,114,987,119,1049,121,1110,119,1165,114,1209,107,1237,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1_item_creation_1_1_creation_data.html#a0342e17aaaf874609f3b8724740e2bd6" title="Finds the creation data based off the product item." alt="" coords="797,40,789,29,765,20,729,12,683,7,632,5,581,7,535,12,498,20,475,29,467,40,475,50,498,60,535,68,581,72,632,74,683,72,729,68,765,60,789,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="866,69,778,59,778,53,867,63"/>
+<area shape="poly" id="Node000004" href="$enumcom_1_1runehive_1_1content_1_1_item_creation_1_1_creation_data.html#a172790089b8bf38c635ca66f3221d359" title="Handles finding the creation data based off the items used." alt="" coords="802,133,794,122,770,113,732,105,684,100,632,99,579,100,531,105,494,113,469,122,461,133,469,144,494,153,531,161,579,166,632,167,684,166,732,161,770,153,794,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="866,109,782,119,782,114,866,104"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1_item_creation.html#a2cddbec7c67888b70e3ac594524693e1" title="Handles creation items on death." alt="" coords="356,40,349,29,328,20,295,12,255,7,209,5,164,7,123,12,91,20,70,29,63,40,70,50,91,60,123,68,164,72,209,74,255,72,295,68,328,60,349,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,42,356,42,356,37,451,37"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1itemaction_1_1impl_1_1_trident_of_the_seas.html#a48fc6779c212aaab58208a6c00309936" title=" " alt="" coords="413,133,403,122,374,113,329,105,272,100,209,99,146,100,89,105,44,113,15,122,5,133,15,144,44,153,89,161,146,166,209,167,272,166,329,161,374,153,403,144"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="446,136,414,136,414,130,446,130"/>
+</map>

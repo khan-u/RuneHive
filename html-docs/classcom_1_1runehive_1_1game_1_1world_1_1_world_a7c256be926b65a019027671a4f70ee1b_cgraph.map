@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.World.process" name="com.runehive.game.world.World.process">
+<area shape="poly" id="Node000001" title=" " alt="" coords="300,40,293,29,272,20,239,12,198,7,153,5,107,7,66,12,33,20,13,29,5,40,13,50,33,60,66,68,107,72,153,74,198,72,239,68,272,60,293,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_lobby.html#a70ea34db1060d13e534d9209b905dd18" title="Sequences all the active PestControlGame." alt="" coords="836,40,824,29,790,20,736,12,668,7,592,5,517,7,449,12,395,20,360,29,348,40,360,50,395,60,449,68,517,72,592,74,668,72,736,68,790,60,824,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,37,332,37,332,42,300,42"/>
+</map>

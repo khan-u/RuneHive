@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.items.containers.ItemContainer.computeIndexCount" name="com.runehive.game.world.items.containers.ItemContainer.computeIndexCount">
+<area shape="poly" id="Node000001" title="Computes the amount of indexes required to hold items in this container." alt="" coords="470,86,458,76,425,66,374,59,309,54,238,52,166,54,101,59,50,66,17,76,5,86,17,97,50,107,101,114,166,119,238,121,309,119,374,114,425,107,458,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a57a3ffec30d007349c653603784f4924" title="Computes the first index found that id is in." alt="" coords="982,40,971,29,938,20,886,12,822,7,750,5,678,7,613,12,562,20,529,29,518,40,529,50,562,60,613,68,678,72,750,74,822,72,886,68,938,60,971,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,66,536,57,536,62,437,71"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a469ed0805255f62514005f11dc213676" title="Gets the quantity of this item." alt="" coords="927,133,918,122,893,113,854,105,805,100,750,99,695,100,646,105,607,113,581,122,573,133,581,144,607,153,646,161,695,166,750,167,805,166,854,161,893,153,918,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="437,102,574,114,574,120,436,107"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a4dca6bddcb13a93b4a23ef7e0658b91f" title="Gets the item id located on index." alt="" coords="1494,40,1483,29,1450,20,1399,12,1334,7,1262,5,1190,7,1126,12,1074,20,1041,29,1030,40,1041,50,1074,60,1126,68,1190,72,1262,74,1334,72,1399,68,1450,60,1483,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="983,37,1015,37,1015,42,983,42"/>
+</map>

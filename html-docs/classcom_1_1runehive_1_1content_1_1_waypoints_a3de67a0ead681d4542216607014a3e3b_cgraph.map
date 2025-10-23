@@ -1,0 +1,5 @@
+<map id="com.runehive.content.Waypoints.getAllowedPoints" name="com.runehive.content.Waypoints.getAllowedPoints">
+<area shape="poly" id="Node000001" title=" " alt="" coords="399,40,389,29,361,20,318,12,263,7,202,5,141,7,86,12,43,20,15,29,5,40,15,50,43,60,86,68,141,72,202,74,263,72,318,68,361,60,389,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_right.html#a3a1be19979772b823f9a31f7f7d549e8" title="Gets the name of the rank." alt="" coords="916,40,904,29,871,20,819,12,754,7,681,5,609,7,544,12,492,20,458,29,447,40,458,50,492,60,544,68,609,72,681,74,754,72,819,68,871,60,904,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="399,37,431,37,431,42,399,42"/>
+</map>

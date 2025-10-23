@@ -1,0 +1,9 @@
+<map id="com.runehive.content.activity.Activity.finish" name="com.runehive.content.activity.Activity.finish">
+<area shape="poly" id="Node000001" title="Finishes the activity." alt="" coords="1134,86,1126,76,1103,66,1067,59,1022,54,972,52,921,54,876,59,840,66,817,76,809,86,817,97,840,107,876,114,921,119,972,121,1022,119,1067,114,1103,107,1126,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#a4d1df2bedc6b1642c59943ac41e4afb8" title="Called when the player die." alt="" coords="761,40,753,29,730,20,695,12,649,7,599,5,549,7,504,12,468,20,445,29,437,40,445,50,468,60,504,68,549,72,599,74,649,72,695,68,730,60,753,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="815,70,739,60,740,55,816,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#ad9bfc3adc62283f0a0ea3330eaa92e88" title="Sequences the activity." alt="" coords="761,133,753,122,730,113,695,105,649,100,599,99,549,100,504,105,468,113,445,122,437,133,445,144,468,153,504,161,549,166,599,167,649,166,695,161,730,153,753,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="816,109,740,118,739,113,815,103"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1lobby_1_1_lobby_manager.html#aca70241d469dcd0e98dfb814b089b83d" title=" " alt="" coords="389,133,380,122,352,113,310,105,256,100,197,99,138,100,84,105,42,113,15,122,5,133,15,144,42,153,84,161,138,166,197,167,256,166,310,161,352,153,380,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="422,136,389,136,389,130,422,130"/>
+</map>

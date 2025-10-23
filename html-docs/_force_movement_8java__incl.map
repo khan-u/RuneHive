@@ -1,0 +1,7 @@
+<map id="java/com/runehive/game/world/entity/mob/player/ForceMovement.java" name="java/com/runehive/game/world/entity/mob/player/ForceMovement.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="551,53,544,38,525,25,494,14,456,8,413,5,370,8,332,14,301,25,282,38,275,53,282,68,301,81,332,92,370,99,413,101,456,99,494,92,525,81,544,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="407,183,398,173,369,163,325,156,269,151,206,149,144,151,88,156,44,163,15,173,5,183,15,194,44,204,88,211,144,216,206,218,269,216,325,211,369,204,398,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,98,273,144,271,139,345,93"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="811,183,802,173,775,163,733,156,680,151,621,149,562,151,510,156,468,163,441,173,431,183,441,194,468,204,510,211,562,216,621,218,680,216,733,211,775,204,802,194"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="481,93,557,140,554,144,479,98"/>
+</map>

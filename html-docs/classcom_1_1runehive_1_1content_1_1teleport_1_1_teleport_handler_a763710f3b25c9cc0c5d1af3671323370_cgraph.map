@@ -1,0 +1,4 @@
+<map id="com.runehive.content.teleport.TeleportHandler.open" name="com.runehive.content.teleport.TeleportHandler.open">
+<area shape="poly" id="Node000001" title="Opens the teleport itemcontainer." alt="" coords="337,64,329,53,305,44,268,36,222,31,171,29,120,31,74,36,37,44,13,53,5,64,13,74,37,84,74,92,120,96,171,98,222,96,268,92,305,84,329,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="107,31,108,20,120,11,141,5,171,3,207,6,228,14,226,19,206,11,171,8,142,10,122,15,113,23,112,32"/>
+</map>

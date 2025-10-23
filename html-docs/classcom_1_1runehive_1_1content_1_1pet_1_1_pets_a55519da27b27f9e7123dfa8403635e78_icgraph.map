@@ -1,0 +1,8 @@
+<map id="com.runehive.content.pet.Pets.onDeath" name="com.runehive.content.pet.Pets.onDeath">
+<area shape="poly" id="Node000001" title="Handles what happens to a pet when a player dies." alt="" coords="809,98,802,88,782,78,750,71,710,66,666,64,621,66,581,71,549,78,529,88,522,98,529,109,549,119,581,126,621,131,666,133,710,131,750,126,782,119,802,109"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_death.html#ad6c4804a8da435f521db971bcb2481c5" title="The main part of the death process where the killer is found for the character." alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="525,82,412,66,413,61,526,77"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_death.html#a74447daa1d6fbc229699e4b383cdd8e0" title="The last part of the death process where the character is reset." alt="" coords="474,157,462,146,429,137,377,129,312,124,240,123,167,124,102,129,50,137,17,146,5,157,17,168,50,177,102,185,167,190,240,191,312,190,377,185,429,177,462,168"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="526,120,413,136,412,131,525,115"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="312,113,286,105,240,101,202,103,177,109,164,116,163,125,158,124,160,113,175,104,201,98,240,96,287,99,314,108"/>
+</map>

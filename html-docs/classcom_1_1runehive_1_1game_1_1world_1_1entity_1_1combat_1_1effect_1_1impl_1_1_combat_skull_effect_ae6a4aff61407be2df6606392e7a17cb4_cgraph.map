@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.effect.impl.CombatSkullEffect.onLogin" name="com.runehive.game.world.entity.combat.effect.impl.CombatSkullEffect.onLogin">
+<area shape="poly" id="Node000001" title="Executed on login, primarily used to re&#45;apply the effect to mob." alt="" coords="545,40,531,29,493,20,433,12,358,7,275,5,192,7,116,12,57,20,19,29,5,40,19,50,57,60,116,68,192,72,275,74,358,72,433,68,493,60,531,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1combat_1_1_skulling.html#a228d71ed85e986952c1ba1809ec52652" title=" " alt="" coords="923,40,915,29,891,20,855,12,809,7,758,5,707,7,661,12,624,20,601,29,593,40,601,50,624,60,661,68,707,72,758,74,809,72,855,68,891,60,915,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="545,37,577,37,577,42,545,42"/>
+</map>

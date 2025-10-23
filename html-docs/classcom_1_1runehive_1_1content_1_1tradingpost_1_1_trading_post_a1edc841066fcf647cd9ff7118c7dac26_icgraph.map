@@ -1,0 +1,11 @@
+<map id="com.runehive.content.tradingpost.TradingPost.addToCoffer" name="com.runehive.content.tradingpost.TradingPost.addToCoffer">
+<area shape="poly" id="Node000001" title=" " alt="" coords="2065,40,2056,29,2030,20,1989,12,1938,7,1881,5,1824,7,1773,12,1732,20,1706,29,1697,40,1706,50,1732,60,1773,68,1824,72,1881,74,1938,72,1989,68,2030,60,2056,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_trading_post.html#a16a7c9e73cb8f49283a2378de17ddf0b" title=" " alt="" coords="1649,40,1640,29,1614,20,1573,12,1522,7,1465,5,1408,7,1357,12,1316,20,1290,29,1281,40,1290,50,1316,60,1357,68,1408,72,1465,74,1522,72,1573,68,1614,60,1640,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1681,42,1649,42,1649,37,1681,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_trading_post.html#a770f1d7ebfac91146e44bc93f5ac1e11" title=" " alt="" coords="1233,40,1223,29,1195,20,1151,12,1096,7,1035,5,974,7,919,12,875,20,847,29,838,40,847,50,875,60,919,68,974,72,1035,74,1096,72,1151,68,1195,60,1223,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1265,42,1233,42,1233,37,1265,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_trading_post.html#a20278fe5d8ebd0127e237d81109ccb7c" title=" " alt="" coords="790,40,781,29,755,20,714,12,662,7,606,5,549,7,497,12,457,20,431,29,422,40,431,50,457,60,497,68,549,72,606,74,662,72,714,68,755,60,781,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="822,42,790,42,790,37,822,37"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_trading_post.html#a35f877dfbc040301d543d5cb756cc251" title=" " alt="" coords="374,40,364,29,338,20,298,12,246,7,189,5,133,7,81,12,40,20,14,29,5,40,14,50,40,60,81,68,133,72,189,74,246,72,298,68,338,60,364,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="406,42,374,42,374,37,406,37"/>
+</map>

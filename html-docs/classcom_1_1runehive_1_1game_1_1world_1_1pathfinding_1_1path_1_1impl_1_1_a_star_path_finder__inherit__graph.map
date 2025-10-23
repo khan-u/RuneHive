@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.pathfinding.path.impl.AStarPathFinder" name="com.runehive.game.world.pathfinding.path.impl.AStarPathFinder">
+<area shape="poly" id="Node000001" title="Represents a PathFinder which uses the A* search algorithm(by passingobstacles)." alt="" coords="515,157,502,146,466,136,410,129,339,124,260,122,181,124,110,129,54,136,18,146,5,157,18,167,54,177,110,184,181,189,260,191,339,189,410,184,466,177,502,167"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1path_1_1_path_finder.html" title="An algorithm used to find a path between two Positions." alt="" coords="491,40,480,29,447,20,396,12,331,7,260,5,189,7,124,12,73,20,41,29,29,40,41,50,73,60,124,68,189,72,260,74,331,72,396,68,447,60,480,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,90,263,122,257,122,257,90"/>
+</map>

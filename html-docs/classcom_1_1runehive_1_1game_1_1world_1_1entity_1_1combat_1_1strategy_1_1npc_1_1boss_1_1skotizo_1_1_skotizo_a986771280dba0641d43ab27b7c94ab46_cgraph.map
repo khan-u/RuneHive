@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.Skotizo.getAttackDelay" name="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.Skotizo.getAttackDelay">
+<area shape="poly" id="Node000001" title=" " alt="" coords="693,40,676,29,627,20,551,12,455,7,349,5,243,7,147,12,71,20,22,29,5,40,22,50,71,60,147,68,243,72,349,74,455,72,551,68,627,60,676,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1definition_1_1_npc_definition.html#a522d31b2e71934158feea3352eb21b7f" title=" " alt="" coords="1283,40,1270,29,1231,20,1171,12,1096,7,1012,5,928,7,853,12,793,20,754,29,741,40,754,50,793,60,853,68,928,72,1012,74,1096,72,1171,68,1231,60,1270,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="694,37,725,37,725,42,694,42"/>
+</map>

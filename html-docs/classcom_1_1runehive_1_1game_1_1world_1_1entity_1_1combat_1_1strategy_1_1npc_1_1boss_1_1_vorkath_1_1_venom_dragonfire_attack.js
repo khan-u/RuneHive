@@ -1,0 +1,8 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_venom_dragonfire_attack =
+[
+    [ "VenomDragonfireAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_venom_dragonfire_attack.html#ad4383d7fceabb872756a16f2a1d766ce", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_venom_dragonfire_attack.html#ab69806d122ef7b58fd2b44413482cc12", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_venom_dragonfire_attack.html#a074a06b7268b69327303cbf58e92e5fc", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_venom_dragonfire_attack.html#a356ec6276b2530a1160f96b8ac2cad41", null ],
+    [ "hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_venom_dragonfire_attack.html#a0c6e4fb286d45c089d14d742a987b927", null ]
+];

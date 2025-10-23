@@ -1,0 +1,5 @@
+<map id="com.runehive.game.action.impl.InspectAction.giveRewards" name="com.runehive.game.action.impl.InspectAction.giveRewards">
+<area shape="poly" id="Node000001" title="Rewards to give the player." alt="" coords="750,40,742,29,717,20,678,12,630,7,576,5,522,7,474,12,435,20,410,29,402,40,410,50,435,60,474,68,522,72,576,74,630,72,678,68,717,60,742,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_inspect_action.html#ad5d805350fb9c0b26fd345f71d94278d" title="A function representing the unit of work that will be carried out." alt="" coords="354,40,345,29,320,20,282,12,233,7,180,5,126,7,77,12,39,20,14,29,5,40,14,50,39,60,77,68,126,72,180,74,233,72,282,68,320,60,345,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,42,354,42,354,37,386,37"/>
+</map>

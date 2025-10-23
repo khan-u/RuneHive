@@ -1,0 +1,11 @@
+<map id="com.runehive.content.skill.impl.agility.obstacle.ObstacleBuilder.ObstacleBuilder" name="com.runehive.content.skill.impl.agility.obstacle.ObstacleBuilder.ObstacleBuilder">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1050,180,1038,169,1002,160,947,152,878,147,801,145,724,147,654,152,599,160,564,169,552,180,564,190,599,200,654,208,724,212,801,214,878,212,947,208,1002,200,1038,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1agility_1_1obstacle_1_1_obstacle_builder.html#ac78acf4565daf6778a5b87e0a5ea4cc1" title=" " alt="" coords="504,40,491,29,456,20,401,12,331,7,254,5,177,7,108,12,53,20,18,29,5,40,18,50,53,60,108,68,177,72,254,74,331,72,401,68,456,60,491,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="692,145,600,116,503,89,414,69,415,64,504,84,602,111,694,140"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1agility_1_1obstacle_1_1_obstacle_builder.html#a03baa6a1ba75225efb000722bccad719" title=" " alt="" coords="504,133,491,122,456,113,401,105,331,100,254,99,177,100,108,105,53,113,18,122,5,133,18,144,53,153,108,161,177,166,254,167,331,166,401,161,456,153,491,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="572,163,467,154,468,149,572,158"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1agility_1_1obstacle_1_1_obstacle_builder.html#acc39d4c9b19675b4ff6d71fe103dd8ce" title=" " alt="" coords="504,226,491,216,456,206,401,199,331,194,254,192,177,194,108,199,53,206,18,216,5,226,18,237,53,247,108,254,177,259,254,261,331,259,401,254,456,247,491,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="572,202,468,211,467,206,572,197"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1agility_1_1obstacle_1_1_obstacle_builder.html#a966b69481fd4a913bd1c1eb4c75b4b60" title=" " alt="" coords="504,320,491,309,456,300,401,292,331,287,254,285,177,287,108,292,53,300,18,309,5,320,18,330,53,340,108,348,177,352,254,354,331,352,401,348,456,340,491,330"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="694,219,602,248,504,276,415,295,414,290,503,270,600,243,692,214"/>
+</map>

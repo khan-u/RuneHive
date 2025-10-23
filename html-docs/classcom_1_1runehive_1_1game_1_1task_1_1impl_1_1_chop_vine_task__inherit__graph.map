@@ -1,0 +1,5 @@
+<map id="com.runehive.game.task.impl.ChopVineTask" name="com.runehive.game.task.impl.ChopVineTask">
+<area shape="poly" id="Node000001" title=" " alt="" coords="334,130,326,119,303,109,266,102,220,97,170,95,119,97,73,102,37,109,13,119,5,130,13,140,37,150,73,158,119,162,170,164,220,162,266,158,303,150,326,140"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="333,26,325,20,302,14,266,9,220,6,170,5,119,6,73,9,37,14,14,20,6,26,14,33,37,39,73,43,119,46,170,47,220,46,266,43,302,39,325,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,63,172,95,167,95,167,63"/>
+</map>

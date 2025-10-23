@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.pathfinding.path.impl.Node" name="com.runehive.game.world.pathfinding.path.impl.Node">
+<area shape="poly" id="Node000001" title="A Entity representing a weighted Position." alt="" coords="570,116,556,110,516,104,454,99,375,96,288,95,200,96,122,99,59,104,19,110,5,116,19,123,59,129,122,133,200,136,288,137,375,136,454,133,516,129,556,123"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="411,26,405,20,387,14,360,9,326,6,288,5,250,6,215,9,188,14,170,20,164,26,170,33,188,39,215,43,250,46,288,47,326,46,360,43,387,39,405,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="290,63,290,95,285,95,285,63"/>
+</map>

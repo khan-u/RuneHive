@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="poly" id="Node000000" href="$classcom_1_1runehive_1_1content_1_1activity_1_1lobby_1_1_lobby_manager.html" title=" " alt="" coords="389,86,380,76,352,66,310,59,256,54,197,52,138,54,84,59,42,66,15,76,5,86,15,97,42,107,84,114,138,119,197,121,256,119,310,114,352,107,380,97"/>
+<area shape="poly" id="Node000001" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1battleground_1_1_battleground_lobby.html" title="Created by Daniel on 2018&#45;03&#45;10." alt="" coords="941,40,929,29,893,20,837,12,767,7,689,5,611,7,541,12,485,20,449,29,437,40,449,50,485,60,541,68,611,72,689,74,767,72,837,68,893,60,929,50"/>
+<area shape="poly" id="edge14_Node000000_Node000001" title=" " alt="" coords="383,66,480,57,481,62,383,71"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_lobby.html" title="A PestControlLobby manages all the PestControlGame that are active." alt="" coords="933,133,921,122,887,113,833,105,764,100,689,99,614,100,545,105,491,113,457,122,445,133,457,144,491,153,545,161,614,166,689,167,764,166,833,161,887,153,921,144"/>
+<area shape="poly" id="edge15_Node000000_Node000002" title=" " alt="" coords="383,101,485,111,485,116,383,107"/>
+</map>

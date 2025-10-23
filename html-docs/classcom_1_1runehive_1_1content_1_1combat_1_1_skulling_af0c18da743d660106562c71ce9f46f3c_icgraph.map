@@ -1,0 +1,10 @@
+<map id="com.runehive.content.combat.Skulling.skull" name="com.runehive.content.combat.Skulling.skull">
+<area shape="poly" id="Node000001" title=" " alt="" coords="923,133,915,122,891,113,855,105,809,100,758,99,707,100,661,105,624,113,601,122,593,133,601,144,624,153,661,161,707,166,758,167,809,166,855,161,891,153,915,144"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="842,91,813,81,758,77,712,80,683,86,671,94,673,103,668,104,666,92,681,81,712,74,758,72,814,76,844,86"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect_1_1impl_1_1_combat_skull_effect.html#aa6a424d47ebf58f22ba9b45698f9a435" title="Applies this effect to mob." alt="" coords="545,40,531,29,493,20,433,12,358,7,275,5,192,7,116,12,57,20,19,29,5,40,19,50,57,60,116,68,192,72,275,74,358,72,433,68,493,60,531,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="629,107,544,89,441,70,442,65,545,84,631,102"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1combat_1_1_skulling.html#ae6988627f2b26423f6afb8cce5de4b39" title="Checks if player requires a skull upon attacking another player." alt="" coords="440,133,432,122,408,113,372,105,326,100,275,99,224,100,178,105,141,113,118,122,110,133,118,144,141,153,178,161,224,166,275,167,326,166,372,161,408,153,432,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="577,136,440,136,440,130,577,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1combat_1_1_skulling.html#a427bb58bc9e5d0f08a31f9f2f4e2c66f" title=" " alt="" coords="440,226,432,216,408,206,372,199,326,194,275,192,224,194,178,199,141,206,118,216,110,226,118,237,141,247,178,254,224,259,275,261,326,259,372,254,408,247,432,237"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="631,164,545,182,407,208,406,202,544,177,629,159"/>
+</map>

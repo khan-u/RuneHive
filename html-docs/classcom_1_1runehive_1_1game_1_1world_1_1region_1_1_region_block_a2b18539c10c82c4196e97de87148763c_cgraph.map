@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.region.RegionBlock.skip" name="com.runehive.game.world.region.RegionBlock.skip">
+<area shape="poly" id="Node000001" title=" " alt="" coords="369,40,360,29,335,20,294,12,244,7,187,5,131,7,80,12,40,20,14,29,5,40,14,50,40,60,80,68,131,72,187,74,244,72,294,68,335,60,360,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_block.html#a4820b8781b8b63f4d6e206ec9a0ccac4" title=" " alt="" coords="788,40,779,29,753,20,712,12,660,7,603,5,545,7,494,12,453,20,426,29,417,40,426,50,453,60,494,68,545,72,603,74,660,72,712,68,753,60,779,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="370,37,402,37,402,42,370,42"/>
+</map>

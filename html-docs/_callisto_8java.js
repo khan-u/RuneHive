@@ -1,0 +1,7 @@
+var _callisto_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.Callisto", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_callisto.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_callisto" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.Callisto.Melee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_callisto_1_1_melee.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_callisto_1_1_melee" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.Callisto.Roar", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_callisto_1_1_roar.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_callisto_1_1_roar" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.Callisto.Shockwave", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_callisto_1_1_shockwave.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_callisto_1_1_shockwave" ]
+];

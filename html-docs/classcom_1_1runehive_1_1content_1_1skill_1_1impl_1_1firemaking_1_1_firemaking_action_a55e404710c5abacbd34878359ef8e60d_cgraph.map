@@ -1,0 +1,8 @@
+<map id="com.runehive.content.skill.impl.firemaking.FiremakingAction.onCancel" name="com.runehive.content.skill.impl.firemaking.FiremakingAction.onCancel">
+<area shape="poly" id="Node000001" title="A function executed on cancellation." alt="" coords="460,110,449,100,416,90,366,83,303,78,233,76,162,78,99,83,49,90,16,100,5,110,16,121,49,131,99,138,162,143,233,145,303,143,366,138,416,131,449,121"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a763d4a9979297da0ff66b8f4b86fd5bc" title=" " alt="" coords="910,64,900,53,871,44,827,36,771,31,709,29,647,31,591,36,546,44,518,53,508,64,518,74,546,84,591,92,647,96,709,98,771,96,827,92,871,84,900,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,89,518,80,518,85,425,94"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="859,157,852,146,830,137,797,129,755,124,709,123,662,124,621,129,587,137,566,146,559,157,566,168,587,177,621,185,662,190,709,191,755,190,797,185,830,177,852,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="425,127,555,139,555,145,425,132"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="619,32,619,21,635,11,665,5,709,3,763,6,792,16,791,21,762,11,709,8,665,10,637,16,624,23,624,33"/>
+</map>

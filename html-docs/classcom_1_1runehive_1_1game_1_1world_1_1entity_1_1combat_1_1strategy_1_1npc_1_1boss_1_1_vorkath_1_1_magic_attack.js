@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_magic_attack =
+[
+    [ "MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_magic_attack.html#a66e35f2c6cdd4939bbb79542bcc9bb8e", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_magic_attack.html#a3e34432a1d7e9e1fa50f52cc8c7fe14d", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_magic_attack.html#aec600555fc438fff7b11205a78d00261", null ]
+];

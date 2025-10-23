@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.npc.NpcAssistant.setEvent" name="com.runehive.game.world.entity.mob.npc.NpcAssistant.setEvent">
+<area shape="poly" id="Node000001" title="Handles setting all the events for the npc." alt="" coords="450,40,439,29,407,20,358,12,296,7,228,5,159,7,97,12,48,20,16,29,5,40,16,50,48,60,97,68,159,72,228,74,296,72,358,68,407,60,439,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a245edcc5b77cbc6d0a4aa8a0a0125d67" title="Submits a new event." alt="" coords="792,40,785,29,764,20,732,12,691,7,645,5,600,7,559,12,526,20,505,29,498,40,505,50,526,60,559,68,600,72,645,74,691,72,732,68,764,60,785,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="450,37,482,37,482,42,450,42"/>
+</map>

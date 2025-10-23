@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.player.relations.ChatMessage" name="com.runehive.game.world.entity.mob.player.relations.ChatMessage">
+<area shape="poly" id="Node000001" title="Represents a chat message that can be displayed over an entities head." alt="" coords="1214,160,1201,149,1161,140,1099,132,1021,127,934,125,847,127,769,132,707,140,668,149,654,160,668,170,707,180,769,188,847,192,934,194,1021,192,1099,188,1161,180,1201,170"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1relations_1_1_chat_color.html" title=" " alt="" coords="566,88,552,77,512,68,450,60,372,55,286,53,199,55,121,60,59,68,19,77,5,88,19,98,59,108,121,116,199,120,286,122,372,120,450,116,512,108,552,98"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="511,110,724,134,724,139,511,115"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="231,38,251,30,286,27,314,29,334,34,346,43,349,53,344,54,342,46,332,39,313,34,286,32,253,35,233,43"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1relations_1_1_chat_effect.html" title=" " alt="" coords="566,229,552,218,512,209,450,201,372,196,286,195,199,196,121,201,59,209,19,218,5,229,19,240,59,249,121,257,199,262,286,263,372,262,450,257,512,249,552,240"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="514,202,720,180,721,185,514,207"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="231,179,251,171,286,168,314,170,334,175,346,184,349,194,344,196,342,187,332,180,313,175,286,173,253,176,233,184"/>
+</map>

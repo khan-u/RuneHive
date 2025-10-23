@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.skill.SkillData.toString" name="com.runehive.game.world.entity.skill.SkillData.toString">
+<area shape="poly" id="Node000001" title=" " alt="" coords="403,40,393,29,365,20,321,12,266,7,204,5,143,7,87,12,43,20,15,29,5,40,15,50,43,60,87,68,143,72,204,74,266,72,321,68,365,60,393,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a306c0370300580d03034da52e33e4db9" title="Capitalize each letter after ." alt="" coords="815,40,806,29,780,20,740,12,689,7,633,5,577,7,526,12,486,20,460,29,451,40,460,50,486,60,526,68,577,72,633,74,689,72,740,68,780,60,806,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="404,37,435,37,435,42,404,42"/>
+</map>

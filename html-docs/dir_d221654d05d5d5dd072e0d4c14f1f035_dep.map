@@ -1,0 +1,6 @@
+<map id="java/com/runehive/game/world/entity/combat/strategy/npc" name="java/com/runehive/game/world/entity/combat/strategy/npc">
+<area shape="poly" id="node2" href="dir_412baa56d99b16f518dfb63b209a3677.html" title="boss" alt="" coords="211,85,209,78,204,73,195,68,184,65,172,64,160,65,149,68,140,73,135,78,133,85,135,91,140,97,149,102,160,105,172,106,184,105,195,102,204,97,209,91"/>
+<area shape="poly" id="node3" href="dir_ff703f3db7010dc274d1aafc885839e4.html" title="impl" alt="" coords="308,85,307,78,301,73,293,68,283,65,272,64,261,65,251,68,243,73,237,78,236,85,237,91,243,97,251,102,261,105,272,106,283,105,293,102,301,97,307,91"/>
+<area shape="rect" id="clust2" href="dir_d221654d05d5d5dd072e0d4c14f1f035.html" alt="" coords="27,53,319,117"/>
+<area shape="rect" id="clust1" href="dir_3b1fd542a63e66df9a8e97519ee0d820.html" title="strategy" alt="" coords="16,16,329,127"/>
+</map>

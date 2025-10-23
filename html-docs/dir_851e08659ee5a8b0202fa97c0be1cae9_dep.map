@@ -1,0 +1,6 @@
+<map id="java/com/runehive/game/world/items" name="java/com/runehive/game/world/items">
+<area shape="poly" id="node2" href="dir_c84401593a424732abcf414de3fecd64.html" title="containers" alt="" coords="269,85,265,78,256,73,241,68,222,65,201,64,181,65,162,68,147,73,137,78,134,85,137,91,147,97,162,102,181,105,201,106,222,105,241,102,256,97,265,91"/>
+<area shape="poly" id="node3" href="dir_e0ef10000d2fa3b0ed98368b94209663.html" title="ground" alt="" coords="393,85,391,78,383,73,372,68,358,65,343,64,327,65,313,68,302,73,295,78,292,85,295,91,302,97,313,102,327,105,343,106,358,105,372,102,383,97,391,91"/>
+<area shape="rect" id="clust2" href="dir_851e08659ee5a8b0202fa97c0be1cae9.html" alt="" coords="27,53,404,117"/>
+<area shape="rect" id="clust1" href="dir_0e158cc66fee42ffc2a291826fa54905.html" title="world" alt="" coords="16,16,415,127"/>
+</map>

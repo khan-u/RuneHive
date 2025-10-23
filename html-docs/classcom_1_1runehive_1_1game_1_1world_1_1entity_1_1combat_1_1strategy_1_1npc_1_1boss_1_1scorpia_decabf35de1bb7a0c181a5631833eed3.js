@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_decabf35de1bb7a0c181a5631833eed3 =
+[
+    [ "GuardianWaypoint", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_decabf35de1bb7a0c181a5631833eed3.html#a9f730d953cc426cbebe537e43416b385", null ],
+    [ "onDestination", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_decabf35de1bb7a0c181a5631833eed3.html#a56b7baf0f0dc059ce675994404d9f9cf", null ],
+    [ "scorpia", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_decabf35de1bb7a0c181a5631833eed3.html#aa6719bf49a1b0e3df231cee89353dd08", null ]
+];

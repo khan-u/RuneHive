@@ -1,0 +1,11 @@
+<map id="com.runehive.net.packet.out.SendPlayerDetails" name="com.runehive.net.packet.out.SendPlayerDetails">
+<area shape="poly" id="Node000001" title=" " alt="" coords="336,390,328,379,306,370,271,362,227,357,178,356,129,357,84,362,49,370,27,379,19,390,27,401,49,410,84,418,129,423,178,424,227,423,271,418,306,410,328,401"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_outgoing_packet.html" title=" " alt="" coords="318,272,311,261,291,252,260,244,221,239,178,237,134,239,95,244,64,252,44,261,37,272,44,282,64,292,95,300,134,305,178,306,221,305,260,300,291,292,311,282"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,322,180,355,175,355,175,322"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1net_1_1packet_1_1_packet_type.html" title="Represents a type of packet." alt="" coords="286,131,279,120,259,111,228,103,189,98,146,97,102,98,63,103,32,111,12,120,5,131,12,142,32,151,63,159,102,164,146,165,189,164,228,159,259,151,279,142"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,180,172,236,167,238,154,181"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_builder.html" title="The implementation that functions as a dynamic buffer wrapper backed by a ByteBuf that is used for re..." alt="" coords="590,131,583,120,563,111,532,103,493,98,450,97,406,98,367,103,336,111,316,120,309,131,316,142,336,151,367,159,406,164,450,165,493,164,532,159,563,151,583,142"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="378,172,238,243,236,238,376,167"/>
+<area shape="poly" id="Node000005" title=" " alt="" coords="574,26,568,20,550,14,523,9,488,6,450,5,411,6,376,9,349,14,331,20,325,26,331,33,349,39,376,43,411,46,450,47,488,46,523,43,550,39,568,33"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="452,63,452,96,447,96,447,63"/>
+</map>

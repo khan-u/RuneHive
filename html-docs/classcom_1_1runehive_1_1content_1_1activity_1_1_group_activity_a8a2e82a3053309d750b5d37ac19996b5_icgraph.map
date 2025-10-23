@@ -1,0 +1,9 @@
+<map id="com.runehive.content.activity.GroupActivity.groupMessage" name="com.runehive.content.activity.GroupActivity.groupMessage">
+<area shape="poly" id="Node000001" title="Sends a message to all the players in the group." alt="" coords="866,133,858,122,835,113,799,105,754,100,704,99,654,100,609,105,573,113,550,122,542,133,550,144,573,153,609,161,654,166,704,167,754,166,799,161,835,153,858,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1lobby_1_1_lobby_manager.html#a3b4d2a3cc1d3ba8f32299b6454136d69" title=" " alt="" coords="441,40,432,29,405,20,362,12,309,7,250,5,190,7,137,12,94,20,67,29,58,40,67,50,94,60,137,68,190,72,250,74,309,72,362,68,405,60,432,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="577,107,493,89,384,67,385,62,494,84,578,102"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_game.html#a741441ac0208d4aca226cd0f159b2d53" title="Called when the player die." alt="" coords="494,133,482,122,447,113,393,105,325,100,250,99,174,100,106,105,52,113,17,122,5,133,17,144,52,153,106,161,174,166,250,167,325,166,393,161,447,153,482,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="526,136,494,136,494,130,526,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_game.html#a5f51328031fa02709e89bb3eb64f680b" title=" " alt="" coords="494,226,482,216,447,206,393,199,325,194,250,192,174,194,106,199,52,206,17,216,5,226,17,237,52,247,106,254,174,259,250,261,325,259,393,254,447,247,482,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="578,164,494,182,399,201,398,196,493,177,577,159"/>
+</map>

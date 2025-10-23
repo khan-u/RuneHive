@@ -1,0 +1,5 @@
+<map id="com.runehive.game.action.impl.BuryBoneAction.BuryBoneAction" name="com.runehive.game.action.impl.BuryBoneAction.BuryBoneAction">
+<area shape="poly" id="Node000001" title=" " alt="" coords="369,40,360,29,335,20,294,12,244,7,187,5,131,7,80,12,40,20,14,29,5,40,14,50,40,60,80,68,131,72,187,74,244,72,294,68,335,60,360,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a2a021797c58d8e97bf41d1c07ec1fc9f" title="Gets the Item located on index." alt="" coords="882,40,870,29,837,20,786,12,721,7,649,5,578,7,513,12,462,20,429,29,417,40,429,50,462,60,513,68,578,72,649,74,721,72,786,68,837,60,870,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="370,37,402,37,402,42,370,42"/>
+</map>

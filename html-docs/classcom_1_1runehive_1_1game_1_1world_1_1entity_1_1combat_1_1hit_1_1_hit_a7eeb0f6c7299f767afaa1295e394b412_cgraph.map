@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.hit.Hit.Hit" name="com.runehive.game.world.entity.combat.hit.Hit.Hit">
+<area shape="poly" id="Node000001" title="Constructs a new Hit object." alt="" coords="467,64,456,53,423,44,372,36,307,31,236,29,165,31,100,36,49,44,17,53,5,64,17,74,49,84,100,92,165,96,236,98,307,96,372,92,423,84,456,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="148,31,150,20,166,11,194,5,236,3,287,6,316,15,315,20,286,11,236,8,195,10,168,16,154,23,153,32"/>
+</map>

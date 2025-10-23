@@ -1,0 +1,8 @@
+<map id="com.runehive.net.packet.out.SendNpcUpdate.appendTransformationMask" name="com.runehive.net.packet.out.SendNpcUpdate.appendTransformationMask">
+<area shape="poly" id="Node000001" title=" " alt="" coords="489,64,478,53,443,44,390,36,322,31,247,29,173,31,105,36,52,44,17,53,5,64,17,74,52,84,105,92,173,96,247,98,322,96,390,92,443,84,478,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_builder.html#a36a45a2510ac69465a50144a755a926b" title=" " alt="" coords="818,64,811,53,791,44,760,36,721,31,678,29,634,31,595,36,564,44,544,53,537,64,544,74,564,84,595,92,634,96,678,98,721,96,760,92,791,84,811,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,61,522,61,522,66,490,66"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="611,32,612,21,623,11,645,5,678,3,717,6,739,16,737,21,716,11,678,8,646,10,626,16,616,23,617,33"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_builder.html#a8af8ccb250104b80abcc50f2b4db7608" title=" " alt="" coords="1183,64,1175,53,1153,44,1118,36,1074,31,1025,29,976,31,931,36,896,44,874,53,866,64,874,74,896,84,931,92,976,96,1025,98,1074,96,1118,92,1153,84,1175,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="819,61,850,61,850,66,819,66"/>
+</map>

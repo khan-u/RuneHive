@@ -1,0 +1,8 @@
+<map id="dev.advo.fs.fs.IndexedFileSystem.getJireCRCTable" name="dev.advo.fs.fs.IndexedFileSystem.getJireCRCTable">
+<area shape="poly" id="Node000001" title=" " alt="" coords="296,110,289,100,268,90,236,83,195,78,151,76,106,78,65,83,33,90,12,100,5,110,12,121,33,131,65,138,106,143,151,145,195,143,236,138,268,131,289,121"/>
+<area shape="poly" id="Node000002" href="$classdev_1_1advo_1_1fs_1_1fs_1_1_indexed_file_system.html#a0592170186edacec421321bce95e3da2" title="Gets a file." alt="" coords="634,64,627,53,606,44,574,36,534,31,489,29,444,31,404,36,371,44,351,53,344,64,351,74,371,84,404,92,444,96,489,98,534,96,574,92,606,84,627,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,90,347,81,348,86,277,96"/>
+<area shape="poly" id="Node000003" href="$classdev_1_1advo_1_1fs_1_1fs_1_1_indexed_file_system.html#ab1de97c50c480e64d4c6d8d07a84bb9d" title="Gets the number of files with the specified type." alt="" coords="634,157,627,146,606,137,574,129,534,124,489,123,444,124,404,129,371,137,351,146,344,157,351,168,371,177,404,185,444,190,489,191,534,190,574,185,606,177,627,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="277,125,348,135,347,140,277,130"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="424,32,424,21,436,11,457,5,489,3,527,6,549,16,547,21,526,11,489,8,458,10,438,16,429,23,429,33"/>
+</map>

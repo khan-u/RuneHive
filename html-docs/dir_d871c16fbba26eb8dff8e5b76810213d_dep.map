@@ -1,0 +1,4 @@
+<map id="java/com/runehive/game/world/entity/combat/strategy/npc/boss/dagannoths" name="java/com/runehive/game/world/entity/combat/strategy/npc/boss/dagannoths">
+<area shape="poly" id="node1" href="dir_d871c16fbba26eb8dff8e5b76810213d.html" title="dagannoths" alt="" coords="176,74,172,68,162,62,145,57,124,54,101,53,78,54,58,57,41,62,30,68,27,74,30,81,41,87,58,91,78,94,101,95,124,94,145,91,162,87,172,81"/>
+<area shape="rect" id="clust1" href="dir_412baa56d99b16f518dfb63b209a3677.html" title="boss" alt="" coords="16,16,187,106"/>
+</map>

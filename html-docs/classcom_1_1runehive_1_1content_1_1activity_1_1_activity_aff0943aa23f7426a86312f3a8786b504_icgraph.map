@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.Activity.getPanel" name="com.runehive.content.activity.Activity.getPanel">
+<area shape="poly" id="Node000001" title="Gets an optional of the activity panel." alt="" coords="866,40,858,29,835,20,799,12,754,7,704,5,654,7,609,12,573,20,550,29,542,40,550,50,573,60,609,68,654,72,704,74,754,72,799,68,835,60,858,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1pestcontrol_1_1_pest_control_game_1_1_pest_control_node.html#a65790998b273d90e57dfd0d9d6d2cb2d" title="Finishes the activity." alt="" coords="494,40,482,29,447,20,393,12,325,7,250,5,174,7,106,12,52,20,17,29,5,40,17,50,52,60,106,68,174,72,250,74,325,72,393,68,447,60,482,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="526,42,494,42,494,37,526,37"/>
+</map>

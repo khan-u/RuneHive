@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_ranged_attack =
+[
+    [ "RangedAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_ranged_attack.html#a3e8e2780ae8505c876f0bd73be452b35", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_ranged_attack.html#a023b98af405c97d2a67208734a651899", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_ranged_attack.html#a06b9bd9cd61d33e8f2270e9113eed1da", null ]
+];

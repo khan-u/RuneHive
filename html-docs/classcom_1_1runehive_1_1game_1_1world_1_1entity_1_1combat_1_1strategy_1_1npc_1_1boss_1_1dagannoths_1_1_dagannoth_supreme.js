@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_dagannoth_supreme =
+[
+    [ "DagannothSupreme", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_dagannoth_supreme.html#a33cc0fc1ae70cab3061df09de6989b0e", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_dagannoth_supreme.html#a1e49b77763ad26118aabc56c843586c9", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_dagannoth_supreme.html#afe1d0682a76ddc465548597a9e519163", null ]
+];

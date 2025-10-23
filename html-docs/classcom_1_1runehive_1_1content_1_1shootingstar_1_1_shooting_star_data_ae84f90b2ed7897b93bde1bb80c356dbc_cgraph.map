@@ -1,0 +1,7 @@
+<map id="com.runehive.content.shootingstar.ShootingStarData.decreaseLevel" name="com.runehive.content.shootingstar.ShootingStarData.decreaseLevel">
+<area shape="poly" id="Node000001" title="Handles the decreasing of the star level." alt="" coords="383,86,374,76,347,66,305,59,253,54,194,52,136,54,83,59,41,66,15,76,5,86,15,97,41,107,83,114,136,119,194,121,253,119,305,114,347,107,374,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1shootingstar_1_1_shooting_star_data.html#a789245310ed772b72cf10a4365d2bf6b" title="Handles removing the star from the game." alt="" coords="809,40,800,29,773,20,732,12,679,7,620,5,562,7,509,12,468,20,441,29,431,40,441,50,468,60,509,68,562,72,620,74,679,72,732,68,773,60,800,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="357,66,442,57,443,62,358,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1shootingstar_1_1_shooting_star_data.html#a0bcd28757f7ef88c7cd11ac4178d8808" title="The current object id." alt="" coords="809,133,800,122,773,113,732,105,679,100,620,99,562,100,509,105,468,113,441,122,431,133,441,144,468,153,509,161,562,166,620,167,679,166,732,161,773,153,800,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="358,102,443,111,442,116,357,107"/>
+</map>

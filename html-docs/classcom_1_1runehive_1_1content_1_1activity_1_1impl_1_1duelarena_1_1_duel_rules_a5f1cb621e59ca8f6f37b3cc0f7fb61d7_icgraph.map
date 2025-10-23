@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.duelarena.DuelRules.contains" name="com.runehive.content.activity.impl.duelarena.DuelRules.contains">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1115,86,1103,76,1069,66,1016,59,949,54,875,52,801,54,734,59,681,66,647,76,635,86,647,97,681,107,734,114,801,119,875,121,949,119,1016,114,1069,107,1103,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1_player_melee_strategy.html#a8fb73afde6ecc528a70bd0852eccca97" title=" " alt="" coords="587,40,573,29,531,20,467,12,386,7,296,5,206,7,125,12,61,20,20,29,5,40,20,50,61,60,125,68,206,72,296,74,386,72,467,68,531,60,573,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="649,71,538,62,538,57,650,66"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1duelarena_1_1_duel_rule.html#aeca22c369e04cbaa51f849aa8b9fe196" title=" " alt="" coords="536,133,524,122,490,113,437,105,370,100,296,99,222,100,155,105,102,113,68,122,56,133,68,144,102,153,155,161,222,166,296,167,370,166,437,161,490,153,524,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="650,107,507,119,507,113,649,102"/>
+</map>

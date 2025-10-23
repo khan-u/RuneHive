@@ -1,0 +1,7 @@
+<map id="java/com/runehive/game/world/entity" name="java/com/runehive/game/world/entity">
+<area shape="poly" id="node2" href="dir_3ec186578be7a39c228d6f5cffad0c2b.html" title="combat" alt="" coords="237,85,235,78,227,73,216,68,201,65,185,64,169,65,155,68,143,73,136,78,133,85,136,91,143,97,155,102,169,105,185,106,201,105,216,102,227,97,235,91"/>
+<area shape="poly" id="node3" href="dir_c1813d5429991afe8f7a4b2c8ffff824.html" title="mob" alt="" coords="336,85,334,78,329,73,320,68,310,65,299,64,287,65,277,68,269,73,263,78,262,85,263,91,269,97,277,102,287,105,299,106,310,105,320,102,329,97,334,91"/>
+<area shape="poly" id="node4" href="dir_398ab992c33e85a4627e4c02190e946b.html" title="skill" alt="" coords="432,85,430,78,425,73,417,68,407,65,396,64,385,65,375,68,367,73,362,78,360,85,362,91,367,97,375,102,385,105,396,106,407,105,417,102,425,97,430,91"/>
+<area shape="rect" id="clust2" href="dir_05b5da36fb43d27a962c9b32c98e8b2f.html" alt="" coords="27,53,443,117"/>
+<area shape="rect" id="clust1" href="dir_0e158cc66fee42ffc2a291826fa54905.html" title="world" alt="" coords="16,16,453,127"/>
+</map>

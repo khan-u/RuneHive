@@ -1,0 +1,7 @@
+<map id="com.runehive.fs.cache.decoder.RegionDecoder.parseTerrain" name="com.runehive.fs.cache.decoder.RegionDecoder.parseTerrain">
+<area shape="poly" id="Node000001" title="Loads all of the tool.mapviewer indexes entries and decodes each." alt="" coords="352,86,344,76,319,66,281,59,232,54,179,52,125,54,77,59,38,66,14,76,5,86,14,97,38,107,77,114,125,119,179,121,232,119,281,114,319,107,344,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1_traversal_map.html#a16c4985ec7726ab847825e2a3228695a" title="Marks the specified set of coordinates blocked, unable to be passed through." alt="" coords="812,40,802,29,773,20,727,12,670,7,606,5,543,7,485,12,440,20,410,29,400,40,410,50,440,60,485,68,543,72,606,74,670,72,727,68,773,60,802,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="331,67,417,58,418,63,332,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a63ddf0b67212770fc773190f522d5fb0" title=" " alt="" coords="796,133,787,122,760,113,718,105,665,100,606,99,548,100,495,105,453,113,426,122,417,133,426,144,453,153,495,161,548,166,606,167,665,166,718,161,760,153,787,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="332,100,428,111,427,116,331,106"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.combat.CombatType.CombatType" name="com.runehive.game.world.entity.combat.CombatType.CombatType">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1397,76,1386,65,1356,56,1308,48,1248,43,1181,41,1114,43,1054,48,1006,56,976,65,965,76,976,86,1006,96,1054,104,1114,108,1181,110,1248,108,1308,104,1356,96,1386,86"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_type.html#a969aeee64acb7496dd71961a3b0bf015" title=" " alt="" coords="917,40,906,29,876,20,828,12,768,7,701,5,634,7,574,12,526,20,496,29,485,40,496,50,526,60,574,68,634,72,701,74,768,72,828,68,876,60,906,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="969,63,897,57,898,52,969,57"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_type.html#aa98dd2b3bc5dc27b15734a14e8065d38" title=" " alt="" coords="437,76,427,65,396,56,348,48,288,43,221,41,155,43,94,48,47,56,16,65,5,76,16,86,47,96,94,104,155,108,221,110,288,108,348,104,396,96,427,86"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="957,88,917,89,701,92,485,89,430,88,430,82,485,84,701,87,917,84,957,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="490,58,418,64,417,58,489,53"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.position.Area.inSaradomin" name="com.runehive.game.world.position.Area.inSaradomin">
+<area shape="poly" id="Node000001" title=" " alt="" coords="385,40,376,29,349,20,307,12,254,7,195,5,136,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,136,72,195,74,254,72,307,68,349,60,376,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a8afdd0de68f242bf7082076dfbfffe37" title=" " alt="" coords="785,40,777,29,752,20,713,12,664,7,609,5,555,7,505,12,466,20,441,29,433,40,441,50,466,60,505,68,555,72,609,74,664,72,713,68,752,60,777,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,37,417,37,417,42,385,42"/>
+</map>

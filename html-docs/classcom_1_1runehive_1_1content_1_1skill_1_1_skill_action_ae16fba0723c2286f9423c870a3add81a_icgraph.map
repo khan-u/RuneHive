@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.SkillAction.canInit" name="com.runehive.content.skill.SkillAction.canInit">
+<area shape="poly" id="Node000001" title="Determines if this action can be initialized." alt="" coords="1105,86,1098,76,1077,66,1044,59,1003,54,957,52,912,54,870,59,838,66,817,76,809,86,817,97,838,107,870,114,912,119,957,121,1003,119,1044,114,1077,107,1098,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1_skill_action.html#a0331f60ba5777d1c4cfa8f8102df0730" title="A function executed on registration." alt="" coords="761,40,754,29,733,20,700,12,659,7,613,5,568,7,526,12,494,20,473,29,465,40,473,50,494,60,526,68,568,72,613,74,659,72,700,68,733,60,754,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="813,70,742,60,743,55,814,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1_skill_action.html#aa648a8cbe9cdd4fb2090ed52a625a7e6" title="Attempts to start the skill." alt="" coords="761,133,754,122,733,113,700,105,659,100,613,99,568,100,526,105,494,113,473,122,465,133,473,144,494,153,526,161,568,166,613,167,659,166,700,161,733,153,754,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="814,109,743,118,742,113,813,103"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_sacrifice.html#ab583a8fcff2b681c422fa928b0bdeeb6" title=" " alt="" coords="417,133,407,122,378,113,332,105,275,100,211,99,148,100,90,105,45,113,15,122,5,133,15,144,45,153,90,161,148,166,211,167,275,166,332,161,378,153,407,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="450,136,418,136,418,130,450,130"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.mob.player.PlayerAssistant.setSidebar" name="com.runehive.game.world.entity.mob.player.PlayerAssistant.setSidebar">
+<area shape="poly" id="Node000001" title="Sends all the side&#45;bar identifications to the Player&#39;s client." alt="" coords="1507,64,1496,53,1462,44,1410,36,1345,31,1273,29,1200,31,1135,36,1083,44,1050,53,1038,64,1050,74,1083,84,1135,92,1200,96,1273,98,1345,96,1410,92,1462,84,1496,74"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="1362,21,1330,11,1273,8,1226,10,1195,16,1181,23,1180,32,1175,32,1176,20,1194,11,1226,5,1273,3,1331,6,1363,15"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_assistant.html#ae959f7086eabbe319912af17ae5f975e" title="Handles initializing all the player assistant methods on login." alt="" coords="990,64,979,53,946,44,894,36,829,31,756,29,684,31,618,36,567,44,533,53,522,64,533,74,567,84,618,92,684,96,756,98,829,96,894,92,946,84,979,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1023,66,991,66,991,61,1023,61"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_assistant.html#a97f8f5f4569f166d479c5b190a5d7449" title=" " alt="" coords="474,64,462,53,429,44,377,36,312,31,240,29,167,31,102,36,50,44,17,53,5,64,17,74,50,84,102,92,167,96,240,98,312,96,377,92,429,84,462,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,66,475,66,475,61,507,61"/>
+</map>

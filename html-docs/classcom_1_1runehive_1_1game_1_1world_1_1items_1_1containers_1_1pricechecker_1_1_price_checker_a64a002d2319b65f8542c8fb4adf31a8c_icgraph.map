@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.containers.pricechecker.PriceChecker.deposit" name="com.runehive.game.world.items.containers.pricechecker.PriceChecker.deposit">
+<area shape="poly" id="Node000001" title="Deposits an item into the price checker." alt="" coords="1248,40,1233,29,1191,20,1125,12,1042,7,949,5,857,7,774,12,708,20,665,29,651,40,665,50,708,60,774,68,857,72,949,74,1042,72,1125,68,1191,60,1233,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1pricechecker_1_1_price_checker.html#a46c22e78a6aa4f4c76b2eca3dbd7c5a7" title="Deposits all the items into the price checker." alt="" coords="603,40,588,29,546,20,480,12,396,7,304,5,212,7,128,12,62,20,20,29,5,40,20,50,62,60,128,68,212,72,304,74,396,72,480,68,546,60,588,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="635,42,603,42,603,37,635,37"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="com.runehive.content.combat.cannon.CannonBuild.tick" name="com.runehive.content.combat.cannon.CannonBuild.tick">
+<area shape="poly" id="Node000001" title=" " alt="" coords="416,64,406,53,377,44,331,36,274,31,211,29,147,31,90,36,45,44,15,53,5,64,15,74,45,84,90,92,147,96,211,98,274,96,331,92,377,84,406,74"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="124,32,126,20,141,11,169,5,211,3,261,6,290,15,288,20,260,11,211,8,170,10,143,16,130,23,130,32"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a2fc8d15b55a8f0a55a20c0b78f77007c" title="Cancels all subsequent executions." alt="" coords="863,64,853,57,825,51,781,47,725,44,664,43,602,44,546,47,502,51,474,57,464,64,474,70,502,76,546,81,602,84,664,85,725,84,781,81,825,76,853,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,61,448,61,448,66,416,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#aef9b4245ff3b594dd844c44da99d51a3" title="A function executed on cancellation." alt="" coords="1269,64,1261,53,1235,44,1196,36,1146,31,1090,29,1035,31,985,36,945,44,920,53,911,64,920,74,945,84,985,92,1035,96,1090,98,1146,96,1196,92,1235,84,1261,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="863,61,896,61,896,66,863,66"/>
+</map>

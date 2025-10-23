@@ -1,0 +1,17 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo =
+[
+    [ "LightingRain", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_1_1_lighting_rain.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_1_1_lighting_rain" ],
+    [ "Magic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_1_1_magic.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_1_1_magic" ],
+    [ "TeleGrab", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_1_1_tele_grab.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_1_1_tele_grab" ],
+    [ "Skotizo", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo.html#a443c96ce9cece72645c50723e948a3f2", null ],
+    [ "block", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo.html#a897e9d2eb065c1e900d785b6ebe42e6b", null ],
+    [ "canAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo.html#a3a40fc927d03c3e5c117f9b4316af3d9", null ],
+    [ "finishOutgoing", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo.html#ac8435f20a7f85fb0ea6a744b85f089c0", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo.html#a986771280dba0641d43ab27b7c94ab46", null ],
+    [ "FULL_STRATEGIES", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo.html#a48d03fc2b736c2f76459419962306ffa", null ],
+    [ "LIGHTNING_RAIN", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo.html#ac8115ef592f40e2f12b31a5864117cbf", null ],
+    [ "MAGIC", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo.html#a4799c7f2b5b0566a24a1ee01f824815f", null ],
+    [ "MAGIC_STRATEGIES", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo.html#a7ca2a222cc97857abc581c676ff4522d", null ],
+    [ "SHOUTS", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo.html#a21455030bd6d9fbf088cad636dc3877f", null ],
+    [ "TELE_GRAB", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo.html#ae05f4bddfb778b22991dbf33911f76cf", null ]
+];

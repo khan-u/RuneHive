@@ -1,0 +1,13 @@
+<map id="com.runehive.net.packet.out.SendNpcUpdate.addNewNpc" name="com.runehive.net.packet.out.SendNpcUpdate.addNewNpc">
+<area shape="poly" id="Node000001" title=" " alt="" coords="335,226,327,216,304,206,267,199,221,194,170,192,119,194,73,199,37,206,13,216,5,226,13,237,37,247,73,254,119,259,170,261,221,259,267,254,304,247,327,237"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a09cee7c391bb1206725815ce0f3cd1f1" title=" " alt="" coords="761,40,752,29,727,20,688,12,639,7,584,5,530,7,481,12,442,20,417,29,408,40,417,50,442,60,481,68,530,72,584,74,639,72,688,68,727,60,752,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,191,288,136,334,108,382,84,438,65,439,70,384,89,337,113,291,140,214,195"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a8afdd0de68f242bf7082076dfbfffe37" title=" " alt="" coords="761,133,752,122,727,113,688,105,639,100,584,99,530,100,481,105,442,113,417,122,408,133,417,144,442,153,481,161,530,166,584,167,639,166,688,161,727,153,752,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,198,452,160,453,165,284,204"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a7bfa5292d8c3f79100a6bc85ea27b5ea" title="Gets the absolute x coordinate." alt="" coords="774,226,765,216,738,206,696,199,643,194,584,192,526,194,473,199,431,206,404,216,395,226,404,237,431,247,473,254,526,259,584,261,643,259,696,254,738,247,765,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="335,224,379,224,379,229,335,229"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a55498d0fafce9fdeedca16984d79aee5" title="Gets the absolute y coordinate." alt="" coords="774,320,765,309,738,300,696,292,643,287,584,285,526,287,473,292,431,300,404,309,395,320,404,330,431,340,473,348,526,352,584,354,643,352,696,348,738,340,765,330"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="284,249,449,287,448,292,283,254"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a56741fac5214dd3b1ac8e29d77da6352" title="Checks if mob requires an update." alt="" coords="785,413,776,402,747,393,703,385,646,380,584,379,522,380,466,385,422,393,393,402,383,413,393,424,422,433,466,441,522,446,584,447,646,446,703,441,747,433,776,424"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="214,258,291,313,337,340,384,364,432,381,430,386,382,369,334,345,288,317,211,262"/>
+</map>

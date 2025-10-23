@@ -1,0 +1,13 @@
+<map id="com.runehive.content.writer.InterfaceWriter" name="com.runehive.content.writer.InterfaceWriter">
+<area shape="poly" id="Node000001" title="Handles writing on an itemcontainer." alt="" coords="316,226,308,216,286,206,252,199,208,194,160,192,112,194,69,199,35,206,13,216,5,226,13,237,35,247,69,254,112,259,160,261,208,259,252,254,286,247,308,237"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1achievement_1_1_achievement_writer.html" title="Handles the achievement tab." alt="" coords="749,40,739,29,712,20,669,12,616,7,556,5,497,7,443,12,400,20,373,29,364,40,373,50,400,60,443,68,497,72,556,74,616,72,669,68,712,60,739,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,181,280,130,321,105,362,84,422,63,424,68,365,89,323,110,283,135,214,186"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1writer_1_1impl_1_1_information_writer.html" title="Class handles writing on the quest tab itemcontainer." alt="" coords="735,133,726,122,701,113,661,105,611,100,556,99,501,100,451,105,411,113,386,122,377,133,386,144,411,153,451,161,501,166,556,167,611,166,661,161,701,153,726,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,195,441,157,442,163,283,200"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1writer_1_1impl_1_1_obelisk_writer.html" title="Class handles writing on the obelisk itemcontainer." alt="" coords="735,226,726,216,701,206,661,199,611,194,556,192,501,194,451,199,411,206,386,216,377,226,386,237,411,247,451,254,501,259,556,261,611,259,661,254,701,247,726,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="331,224,377,224,377,229,331,229"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1writer_1_1impl_1_1_setting_writer.html" title="Class handles writing on the server settings itemcontainer." alt="" coords="735,320,726,309,701,300,661,292,611,287,556,285,501,287,451,292,411,300,386,309,377,320,386,330,411,340,451,348,501,352,556,354,611,352,661,348,701,340,726,330"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="283,253,442,290,441,295,282,258"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1writer_1_1impl_1_1_tool_writer.html" title="Class handles writing on the quest tab interface." alt="" coords="735,413,726,402,701,393,661,385,611,380,556,379,501,380,451,385,411,393,386,402,377,413,386,424,411,433,451,441,501,446,556,447,611,446,661,441,701,433,726,424"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="214,267,283,318,323,343,365,364,428,386,426,391,362,369,321,347,280,322,211,272"/>
+</map>

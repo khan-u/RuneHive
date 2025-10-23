@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.containers.ItemContainer.containsAny" name="com.runehive.game.world.items.containers.ItemContainer.containsAny">
+<area shape="poly" id="Node000001" title="Determines if this container contains any identifiers." alt="" coords="470,40,458,29,425,20,374,12,309,7,238,5,166,7,101,12,50,20,17,29,5,40,17,50,50,60,101,68,166,72,238,74,309,72,374,68,425,60,458,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a8acf6f1c920076daea6c80e5afbe3404" title="Determines if this container contains id." alt="" coords="982,40,971,29,938,20,886,12,822,7,750,5,678,7,613,12,562,20,529,29,518,40,529,50,562,60,613,68,678,72,750,74,822,72,886,68,938,60,971,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,37,502,37,502,42,470,42"/>
+</map>

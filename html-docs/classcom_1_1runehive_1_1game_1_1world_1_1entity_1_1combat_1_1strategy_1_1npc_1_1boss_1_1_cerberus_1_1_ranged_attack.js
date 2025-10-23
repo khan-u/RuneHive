@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_ranged_attack =
+[
+    [ "RangedAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_ranged_attack.html#aa4532463489113dfdaaff982739fca86", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_ranged_attack.html#a6741849403b174aabab38f45653bea77", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_ranged_attack.html#aa0827251f559f9f5cb751fe0fc0f49f1", null ]
+];

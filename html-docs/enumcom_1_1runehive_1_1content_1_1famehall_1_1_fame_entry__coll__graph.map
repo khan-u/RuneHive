@@ -1,0 +1,5 @@
+<map id="com.runehive.content.famehall.FameEntry" name="com.runehive.content.famehall.FameEntry">
+<area shape="poly" id="Node000001" title="Holds all the fame entries." alt="" coords="348,181,340,170,315,160,277,153,230,148,177,146,124,148,76,153,38,160,14,170,5,181,14,191,38,201,76,208,124,213,177,215,230,213,277,208,315,201,340,191"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1famehall_1_1_fame_type.html" title="All the hall of fame types." alt="" coords="348,40,340,29,315,20,277,12,230,7,177,5,124,7,76,12,38,20,14,29,5,40,14,50,38,60,76,68,124,72,177,74,230,72,277,68,315,60,340,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,89,179,146,174,146,174,89"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="java/com/runehive/net/packet/out/SendWalkableInterface.java" name="java/com/runehive/net/packet/out/SendWalkableInterface.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="652,40,642,29,611,20,564,12,504,7,438,5,372,7,313,12,265,20,235,29,225,40,235,50,265,60,313,68,372,72,438,74,504,72,564,68,611,60,642,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="474,157,462,146,429,136,377,129,312,124,240,122,167,124,102,129,50,136,17,146,5,157,17,167,50,177,102,184,167,189,240,191,312,189,377,184,429,177,462,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="383,76,311,117,308,113,381,71"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="779,157,772,146,752,136,721,129,682,124,638,122,595,124,556,129,525,136,505,146,498,157,505,167,525,177,556,184,595,189,638,191,682,189,721,184,752,177,772,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="496,71,572,114,569,119,494,76"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.exchange.duel.StakeSession.onReset" name="com.runehive.game.world.entity.mob.player.exchange.duel.StakeSession.onReset">
+<area shape="poly" id="Node000001" title="Any functionality that should be handled when the itemcontainer closes." alt="" coords="628,40,613,29,569,20,500,12,413,7,317,5,220,7,134,12,65,20,21,29,5,40,21,50,65,60,134,68,220,72,317,74,413,72,500,68,569,60,613,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1exchange_1_1_exchange_session.html#ac1d0de35c73a1a1bdd366b2599c0d905" title="Executes the specified action for every player in this session." alt="" coords="1249,40,1235,29,1195,20,1131,12,1051,7,963,5,874,7,794,12,731,20,690,29,676,40,690,50,731,60,794,68,874,72,963,74,1051,72,1131,68,1195,60,1235,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="628,37,660,37,660,42,628,42"/>
+</map>

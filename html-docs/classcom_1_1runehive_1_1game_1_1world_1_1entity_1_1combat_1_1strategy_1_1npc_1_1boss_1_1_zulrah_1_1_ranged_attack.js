@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_zulrah_1_1_ranged_attack =
+[
+    [ "RangedAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_zulrah_1_1_ranged_attack.html#ac3e8e8e959676289304b4403ec3438a5", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_zulrah_1_1_ranged_attack.html#af3b2ee3b0affca6a9e1dd48653bc4879", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_zulrah_1_1_ranged_attack.html#a60700de41cb0a8fa4bcac87d2c78e174", null ]
+];

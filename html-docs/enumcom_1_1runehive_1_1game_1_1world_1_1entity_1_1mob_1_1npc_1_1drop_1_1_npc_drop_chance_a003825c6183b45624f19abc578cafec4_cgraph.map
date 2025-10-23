@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.npc.drop.NpcDropChance.toString" name="com.runehive.game.world.entity.mob.npc.drop.NpcDropChance.toString">
+<area shape="poly" id="Node000001" title=" " alt="" coords="501,40,489,29,453,20,399,12,330,7,253,5,177,7,107,12,53,20,17,29,5,40,17,50,53,60,107,68,177,72,253,74,330,72,399,68,453,60,489,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#aee0a7bdbeff3436403f9d4192eff4455" title="Formats name of enum." alt="" coords="938,40,929,33,901,27,858,23,804,20,743,19,683,20,629,23,586,27,558,33,549,40,558,46,586,52,629,57,683,60,743,61,804,60,858,57,901,52,929,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,37,533,37,533,42,501,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a306c0370300580d03034da52e33e4db9" title="Capitalize each letter after ." alt="" coords="1350,40,1341,29,1315,20,1275,12,1224,7,1168,5,1112,7,1061,12,1021,20,995,29,986,40,995,50,1021,60,1061,68,1112,72,1168,74,1224,72,1275,68,1315,60,1341,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="939,37,971,37,971,42,939,42"/>
+</map>

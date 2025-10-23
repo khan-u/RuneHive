@@ -1,0 +1,7 @@
+<map id="com.runehive.util.MutableNumber" name="com.runehive.util.MutableNumber">
+<area shape="poly" id="Node000001" title="The container class that contains functions to simplify the modification of a number." alt="" coords="333,130,325,119,305,109,273,102,233,97,189,95,144,97,104,102,72,109,52,119,45,130,52,140,72,150,104,158,144,162,189,164,233,162,273,158,305,150,325,140"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="116,26,113,20,106,14,93,9,78,6,61,5,44,6,28,9,16,14,8,20,5,26,8,33,16,39,28,43,44,46,61,47,78,46,93,43,106,39,113,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,53,150,94,146,98,94,57"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="493,26,484,20,459,14,420,9,371,6,317,5,262,6,213,9,174,14,149,20,140,26,149,33,174,39,213,43,262,46,317,47,371,46,420,43,459,39,484,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,59,231,98,228,94,278,55"/>
+</map>

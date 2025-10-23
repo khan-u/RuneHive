@@ -1,0 +1,7 @@
+<map id="com.runehive.util.chance.Chance.add" name="com.runehive.util.chance.Chance.add">
+<area shape="poly" id="Node000001" title="Adds a new WeightedObject to the #object list." alt="" coords="291,86,284,76,264,66,232,59,193,54,148,52,104,54,64,59,33,66,12,76,5,86,12,97,33,107,64,114,104,119,148,121,193,119,232,114,264,107,284,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1chance_1_1_chance.html#a385bdf8edb7d4a4e960db185c6c4d113" title="Adds a new WeightedObject to the #object list." alt="" coords="658,40,651,29,631,20,599,12,559,7,515,5,471,7,431,12,399,20,379,29,372,40,379,50,399,60,431,68,471,72,515,74,559,72,599,68,631,60,651,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,68,373,55,373,60,276,73"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1util_1_1chance_1_1_chance_1_1_chance_type.html#a80f13c7781f7d2ce908be43c6fcfe100" title=" " alt="" coords="691,133,682,122,657,113,618,105,569,100,515,99,461,100,412,105,373,113,348,122,339,133,348,144,373,153,412,161,461,166,515,167,569,166,618,161,657,153,682,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="276,100,352,110,351,115,275,105"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.position.Position.isWithinDiagonalDistance" name="com.runehive.game.world.position.Position.isWithinDiagonalDistance">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1800,40,1791,29,1764,20,1722,12,1669,7,1610,5,1551,7,1499,12,1457,20,1430,29,1420,40,1430,50,1457,60,1499,68,1551,72,1610,74,1669,72,1722,68,1764,60,1791,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1custom_1_1_scythe_of_vitur_strategy.html#a22796b170e17acdb37434ab5d34ee273" title=" " alt="" coords="1372,40,1356,29,1309,20,1236,12,1144,7,1043,5,941,7,849,12,776,20,729,29,713,40,729,50,776,60,849,68,941,72,1043,74,1144,72,1236,68,1309,60,1356,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1405,42,1373,42,1373,37,1405,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1custom_1_1_scythe_of_vitur_strategy.html#a42e99b6318d1585539044c89d44fa4a2" title=" " alt="" coords="665,40,649,29,602,20,529,12,437,7,335,5,233,7,141,12,68,20,21,29,5,40,21,50,68,60,141,68,233,72,335,74,437,72,529,68,602,60,649,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="697,42,665,42,665,37,697,37"/>
+</map>

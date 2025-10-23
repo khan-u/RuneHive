@@ -1,0 +1,9 @@
+<map id="com.runehive.content.donators.Donation.getSpent" name="com.runehive.content.donators.Donation.getSpent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1230,86,1221,76,1197,66,1159,59,1111,54,1058,52,1005,54,957,59,919,66,894,76,886,86,894,97,919,107,957,114,1005,119,1058,121,1111,119,1159,114,1197,107,1221,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1impl_1_1_royal_king_dialogue.html#ac6805c358d0b6d1bc7581d32ce21c2fb" title=" " alt="" coords="838,40,828,29,800,20,757,12,702,7,642,5,581,7,526,12,483,20,455,29,446,40,455,50,483,60,526,68,581,72,642,74,702,72,757,68,800,60,828,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="891,70,808,61,808,56,892,65"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1donators_1_1_donation.html#a008ceb86a26224e7b8bd51e42a71de64" title=" " alt="" coords="814,133,805,122,781,113,743,105,695,100,642,99,588,100,541,105,502,113,478,122,470,133,478,144,502,153,541,161,588,166,642,167,695,166,743,161,781,153,805,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="892,108,793,119,792,114,891,102"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1impl_1_1_royal_king_dialogue.html#ad73a89549203f3ca80278e2499e482e3" title="Sends a player a dialogue." alt="" coords="398,40,388,29,360,20,317,12,262,7,201,5,141,7,86,12,43,20,15,29,5,40,15,50,43,60,86,68,141,72,201,74,262,72,317,68,360,60,388,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="430,42,398,42,398,37,430,37"/>
+</map>

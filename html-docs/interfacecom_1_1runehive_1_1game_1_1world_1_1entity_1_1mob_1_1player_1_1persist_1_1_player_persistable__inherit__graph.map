@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.player.persist.PlayerPersistable" name="com.runehive.game.world.entity.mob.player.persist.PlayerPersistable">
+<area shape="poly" id="Node000001" title=" " alt="" coords="546,86,533,76,494,66,435,59,359,54,276,52,192,54,117,59,57,66,19,76,5,86,19,97,57,107,117,114,192,119,276,121,359,119,435,114,494,107,533,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1persist_1_1_player_persist_d_b.html" title=" " alt="" coords="1135,40,1122,29,1083,20,1023,12,948,7,864,5,781,7,705,12,646,20,607,29,594,40,607,50,646,60,705,68,781,72,864,74,948,72,1023,68,1083,60,1122,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="522,64,633,55,634,61,522,70"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1persist_1_1_player_persist_file.html" title=" " alt="" coords="1135,133,1122,122,1083,113,1023,105,948,100,864,99,781,100,705,105,646,113,607,122,594,133,607,144,646,153,705,161,781,166,864,167,948,166,1023,161,1083,153,1122,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="522,103,634,112,633,117,522,109"/>
+</map>

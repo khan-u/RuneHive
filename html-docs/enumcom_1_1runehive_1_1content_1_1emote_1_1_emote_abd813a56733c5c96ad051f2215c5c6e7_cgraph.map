@@ -1,0 +1,8 @@
+<map id="com.runehive.content.emote.Emote.execute" name="com.runehive.content.emote.Emote.execute">
+<area shape="poly" id="Node000001" title=" " alt="" coords="324,110,316,100,294,90,258,83,214,78,165,76,115,78,71,83,36,90,13,100,5,110,13,121,36,131,71,138,115,143,165,145,214,143,258,138,294,131,316,121"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action_manager.html#a9c429bf1d7f162f6c7f8ff0aa4e44d7e" title=" " alt="" coords="723,64,716,53,695,44,661,36,619,31,573,29,527,31,485,36,452,44,430,53,423,64,430,74,452,84,485,92,527,96,573,98,619,96,661,92,695,84,716,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,92,422,78,423,84,307,97"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_locking.html#a0e61be7290e47b8bb5d7db4801b99a96" title="Unlocks the mob." alt="" coords="774,157,764,146,736,137,691,129,635,124,573,123,511,124,455,129,410,137,382,146,372,157,382,168,410,177,455,185,511,190,573,191,635,190,691,185,736,177,764,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="307,124,390,133,389,139,306,129"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="496,34,495,22,508,11,534,5,573,3,620,6,646,16,644,21,619,12,573,8,535,10,511,16,500,24,501,33"/>
+</map>

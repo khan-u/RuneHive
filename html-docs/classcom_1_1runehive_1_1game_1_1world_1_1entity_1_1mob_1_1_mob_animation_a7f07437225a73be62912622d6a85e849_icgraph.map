@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.MobAnimation.getTurn90CW" name="com.runehive.game.world.entity.mob.MobAnimation.getTurn90CW">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1713,40,1703,29,1674,20,1630,12,1574,7,1511,5,1449,7,1393,12,1349,20,1320,29,1310,40,1320,50,1349,60,1393,68,1449,72,1511,74,1574,72,1630,68,1674,60,1703,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_player_update.html#a4e86a52fc78467e149164e05ffc566e5" title=" " alt="" coords="1262,40,1251,29,1216,20,1163,12,1096,7,1022,5,947,7,880,12,827,20,793,29,781,40,793,50,827,60,880,68,947,72,1022,74,1096,72,1163,68,1216,60,1251,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1295,42,1263,42,1263,37,1295,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_player_update.html#abb05af4abf1f9dd9f5ec208562dae4b1" title=" " alt="" coords="733,40,724,29,698,20,658,12,608,7,552,5,496,7,445,12,405,20,379,29,371,40,379,50,405,60,445,68,496,72,552,74,608,72,658,68,698,60,724,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="765,42,733,42,733,37,765,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_player_update.html#a7fc41a75d429e69ba854c5ad60365976" title=" " alt="" coords="323,40,315,29,292,20,257,12,213,7,164,5,115,7,71,12,36,20,13,29,5,40,13,50,36,60,71,68,115,72,164,74,213,72,257,68,292,60,315,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="355,42,323,42,323,37,355,37"/>
+</map>

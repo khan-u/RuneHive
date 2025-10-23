@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="poly" id="Node000000" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_craftable.html" title="The craftable itemcontainer." alt="" coords="429,92,418,81,388,71,341,64,282,59,217,57,152,59,93,64,46,71,16,81,5,92,16,102,46,112,93,119,152,124,217,126,282,124,341,119,388,112,418,102"/>
+<area shape="poly" id="Node000001" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1impl_1_1_gem.html" title=" " alt="" coords="996,26,983,20,947,14,889,9,817,6,736,5,656,6,584,9,526,14,489,20,477,26,489,33,526,39,584,43,656,46,736,47,817,46,889,43,947,39,983,33"/>
+<area shape="poly" id="edge235_Node000000_Node000001" title=" " alt="" coords="399,65,476,56,590,42,590,47,477,61,400,71"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1impl_1_1_hide.html" title=" " alt="" coords="996,92,983,85,947,79,889,75,817,72,736,71,656,72,584,75,526,79,489,85,477,92,489,98,526,104,584,109,656,112,736,113,817,112,889,109,947,104,983,98"/>
+<area shape="poly" id="edge236_Node000000_Node000002" title=" " alt="" coords="445,89,476,89,476,94,445,94"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1impl_1_1_leather.html" title=" " alt="" coords="972,172,961,161,927,151,875,144,809,139,736,137,664,139,598,144,546,151,512,161,501,172,512,182,546,192,598,199,664,204,736,206,809,204,875,199,927,192,961,182"/>
+<area shape="poly" id="edge237_Node000000_Node000003" title=" " alt="" coords="388,115,573,144,572,149,387,120"/>
+</map>

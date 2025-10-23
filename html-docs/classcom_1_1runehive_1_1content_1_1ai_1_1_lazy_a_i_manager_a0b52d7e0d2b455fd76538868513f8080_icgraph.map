@@ -1,0 +1,7 @@
+<map id="com.runehive.content.ai.LazyAIManager.getOpenAIService" name="com.runehive.content.ai.LazyAIManager.getOpenAIService">
+<area shape="poly" id="Node000001" title=" " alt="" coords="865,93,855,82,829,73,787,65,734,60,676,59,618,60,566,65,524,73,497,82,488,93,497,104,524,113,566,121,618,126,676,127,734,126,787,121,829,113,855,104"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1cronjobs_1_1impl_1_1_open_a_i_relay_job.html#a5744b63e8de3da1ea1f224a7a7f9a996" title=" " alt="" coords="440,40,429,29,398,20,350,12,290,7,223,5,155,7,95,12,47,20,16,29,5,40,16,50,47,60,95,68,155,72,223,74,290,72,350,68,398,60,429,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,75,398,63,399,58,502,70"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1ai_1_1_a_i_dialogue_handler.html#a9af7dee35fb38f105336f4cce35e794c" title=" " alt="" coords="416,146,406,132,379,118,336,108,282,101,223,99,163,101,109,108,66,118,39,132,29,146,39,161,66,175,109,185,163,192,223,194,282,192,336,185,379,175,406,161"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="502,116,398,128,398,123,501,111"/>
+</map>

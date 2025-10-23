@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Derwen.Magic.getHits" name="com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Derwen.Magic.getHits">
+<area shape="poly" id="Node000001" title=" " alt="" coords="737,122,719,112,667,102,586,95,484,90,371,88,258,90,156,95,75,102,23,112,5,122,23,133,75,143,156,150,258,155,371,157,484,155,586,150,667,143,719,133"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_magic.html#a7d6282b88997795e8efe123ccbd27879" title=" " alt="" coords="1517,64,1499,53,1447,44,1366,36,1264,31,1151,29,1038,31,936,36,855,44,803,53,785,64,803,74,855,84,936,92,1038,96,1151,98,1264,96,1366,92,1447,84,1499,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="659,98,848,84,848,89,659,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1_combat_strategy.html#ad83f68e523849bd85a67db2efa48eb32" title=" " alt="" coords="1408,181,1396,170,1359,161,1302,153,1230,148,1151,147,1071,148,999,153,942,161,906,170,893,181,906,192,942,201,999,209,1071,214,1151,215,1230,214,1302,209,1359,201,1396,192"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="659,141,910,160,910,166,659,147"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="1004,33,1002,26,1007,20,1032,11,1080,5,1151,3,1240,6,1288,16,1287,21,1239,12,1151,8,1080,10,1033,16,1010,24,1007,27,1009,31"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="1008,154,1002,147,1004,139,1028,129,1076,122,1151,120,1242,124,1290,134,1289,139,1242,129,1151,125,1077,128,1029,134,1008,143,1007,146,1012,150"/>
+</map>

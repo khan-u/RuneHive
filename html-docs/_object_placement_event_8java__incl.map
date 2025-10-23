@@ -1,0 +1,7 @@
+<map id="java/com/runehive/game/task/impl/ObjectPlacementEvent.java" name="java/com/runehive/game/task/impl/ObjectPlacementEvent.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="558,40,547,29,518,20,473,12,416,7,353,5,290,7,233,12,187,20,158,29,148,40,158,50,187,60,233,68,290,72,353,74,416,72,473,68,518,60,547,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="332,157,324,150,301,144,265,140,219,137,169,136,118,137,73,140,37,144,13,150,5,157,13,163,37,169,73,174,118,177,169,178,219,177,265,174,301,169,324,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="302,76,215,130,212,125,299,71"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="717,157,709,146,683,136,643,129,593,124,537,122,481,124,431,129,391,136,365,146,356,157,365,167,391,177,431,184,481,189,537,191,593,189,643,184,683,177,709,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="407,71,474,113,471,118,404,76"/>
+</map>

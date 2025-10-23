@@ -1,0 +1,8 @@
+<map id="com.runehive.content.tittle.Title" name="com.runehive.content.tittle.Title">
+<area shape="poly" id="Node000001" title="Holds all the title data that can be redeemed using the title interface." alt="" coords="677,110,670,100,649,90,616,83,574,78,529,76,483,78,441,83,408,90,387,100,380,110,387,121,408,131,441,138,483,143,529,145,574,143,616,138,649,131,670,121"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1util_1_1generic_1_1_boolean_interface.html" title=" " alt="" coords="298,40,291,29,270,20,239,12,198,7,154,5,110,7,70,12,38,20,17,29,10,40,17,50,38,60,70,68,110,72,154,74,198,72,239,68,270,60,291,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="283,61,413,86,412,91,282,67"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1tittle_1_1_player_title.html" title="The player title class." alt="" coords="303,181,296,170,274,161,241,153,200,148,154,147,108,148,67,153,34,161,13,170,5,181,13,192,34,201,67,209,108,214,154,215,200,214,241,209,274,201,296,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,154,411,130,412,135,286,159"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="122,131,134,123,154,120,171,122,183,128,190,137,192,147,186,148,185,139,180,132,170,127,154,125,136,128,125,135"/>
+</map>

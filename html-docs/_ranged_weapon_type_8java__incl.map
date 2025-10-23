@@ -1,0 +1,5 @@
+<map id="java/com/runehive/game/world/entity/combat/ranged/RangedWeaponType.java" name="java/com/runehive/game/world/entity/combat/ranged/RangedWeaponType.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="446,53,439,38,417,25,383,14,341,8,293,5,246,8,203,14,170,25,148,38,140,53,148,68,170,81,203,92,246,99,293,101,341,99,383,92,417,81,439,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="581,183,567,173,526,163,463,156,382,151,293,149,204,151,124,156,60,163,19,173,5,183,19,194,60,204,124,211,204,216,293,218,382,216,463,211,526,204,567,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,102,296,133,291,133,291,102"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.barrows.BrotherData" name="com.runehive.content.activity.impl.barrows.BrotherData">
+<area shape="poly" id="Node000001" title=" " alt="" coords="464,245,453,234,420,224,369,217,306,212,235,210,164,212,100,217,49,224,17,234,5,245,17,255,49,265,100,272,164,277,235,279,306,277,369,272,420,265,453,255"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="424,40,415,29,388,20,346,12,293,7,235,5,176,7,123,12,81,20,54,29,45,40,54,50,81,60,123,68,176,72,235,74,293,72,346,68,388,60,415,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,89,237,210,232,210,232,89"/>
+</map>

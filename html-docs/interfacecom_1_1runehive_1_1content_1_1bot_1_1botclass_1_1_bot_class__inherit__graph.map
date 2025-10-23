@@ -1,0 +1,13 @@
+<map id="com.runehive.content.bot.botclass.BotClass" name="com.runehive.content.bot.botclass.BotClass">
+<area shape="poly" id="Node000001" title=" " alt="" coords="382,226,373,216,346,206,304,199,252,194,194,192,135,194,83,199,41,206,15,216,5,226,15,237,41,247,83,254,135,259,194,261,252,259,304,254,346,247,373,237"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1bot_1_1botclass_1_1impl_1_1_a_g_s_rune_melee.html" title=" " alt="" coords="855,40,844,29,814,20,767,12,708,7,642,5,577,7,518,12,471,20,440,29,430,40,440,50,471,60,518,68,577,72,642,74,708,72,767,68,814,60,844,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,182,334,131,381,106,429,84,496,63,498,68,431,89,383,110,336,135,255,186"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1bot_1_1botclass_1_1impl_1_1_pure_melee.html" title=" " alt="" coords="855,133,844,122,814,113,767,105,708,100,642,99,577,100,518,105,471,113,440,122,430,133,440,144,471,153,518,161,577,166,642,167,708,166,767,161,814,153,844,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="334,195,510,158,511,163,335,200"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1bot_1_1botclass_1_1impl_1_1_pure_range_melee.html" title=" " alt="" coords="855,226,844,216,814,206,767,199,708,194,642,192,577,194,518,199,471,206,440,216,430,226,440,237,471,247,518,254,577,259,642,261,708,259,767,254,814,247,844,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="397,224,429,224,429,229,397,229"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1bot_1_1botclass_1_1impl_1_1_welfare_rune_melee.html" title=" " alt="" coords="855,320,844,309,814,300,767,292,708,287,642,285,577,287,518,292,471,300,440,309,430,320,440,330,471,340,518,348,577,352,642,354,708,352,767,348,814,340,844,330"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="335,253,511,290,510,295,334,258"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1bot_1_1botclass_1_1impl_1_1_zerker_melee.html" title=" " alt="" coords="855,413,844,402,814,393,767,385,708,380,642,379,577,380,518,385,471,393,440,402,430,413,440,424,471,433,518,441,577,446,642,447,708,446,767,441,814,433,844,424"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="255,266,336,317,383,342,431,364,498,385,496,390,429,369,381,347,334,322,252,271"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="java/com/runehive/game/world/entity/combat/effect/CombatEffectTask.java" name="java/com/runehive/game/world/entity/combat/effect/CombatEffectTask.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="519,53,512,38,491,25,459,14,419,8,374,5,330,8,289,14,257,25,237,38,230,53,237,68,257,81,289,92,330,99,374,101,419,99,459,92,491,81,512,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="332,170,324,164,301,158,265,153,219,150,169,149,118,150,73,153,37,158,13,164,5,170,13,176,37,182,73,187,118,190,169,191,219,190,265,187,301,182,324,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="303,97,219,144,216,139,300,93"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="803,170,792,164,760,158,711,153,648,150,580,149,511,150,449,153,399,158,368,164,357,170,368,176,399,182,449,187,511,190,580,191,648,190,711,187,760,182,792,176"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="449,93,532,139,529,144,446,97"/>
+</map>

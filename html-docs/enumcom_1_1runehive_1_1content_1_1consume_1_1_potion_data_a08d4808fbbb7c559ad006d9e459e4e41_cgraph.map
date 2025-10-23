@@ -1,0 +1,13 @@
+<map id="com.runehive.content.consume.PotionData.onPrayerEffect" name="com.runehive.content.consume.PotionData.onPrayerEffect">
+<area shape="poly" id="Node000001" title="The method that executes the prayer potion action." alt="" coords="354,192,345,181,320,172,282,164,233,159,180,157,126,159,77,164,39,172,14,181,5,192,14,202,39,212,77,220,126,224,180,226,233,224,282,220,320,212,345,202"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a8167146b6fbdc949d0d7950e5e7e3b34" title="Gets the skill for an id." alt="" coords="800,40,790,29,762,20,718,12,662,7,601,5,539,7,484,12,440,20,411,29,402,40,411,50,440,60,484,68,539,72,601,74,662,72,718,68,762,60,790,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,157,315,119,401,84,455,67,456,72,403,89,317,124,241,162"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#af32f0e457bf38ac0e56bb3b789db7725" title="Gets the maximum skill level." alt="" coords="800,133,790,122,762,113,718,105,662,100,601,99,539,100,484,105,440,113,411,122,402,133,411,144,440,153,484,161,539,166,601,167,662,166,718,161,762,153,790,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,169,429,154,430,160,323,174"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a3c8eb963f046bbc4188f6e76d93fa17b" title="Modifies the current level with a given function." alt="" coords="800,250,790,240,762,230,718,223,662,218,601,216,539,218,484,223,440,230,411,240,402,250,411,261,440,271,484,278,539,283,601,285,662,283,718,278,762,271,790,261"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="323,209,430,224,429,229,323,214"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a9d2f706cb24e30ca8451a4f49401df4c" title="Refreshes all the skills for the mob." alt="" coords="800,368,790,357,762,348,718,340,662,335,601,333,539,335,484,340,440,348,411,357,402,368,411,378,440,388,484,396,539,400,601,402,662,400,718,396,762,388,790,378"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="245,222,403,295,494,329,492,334,401,300,243,227"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="520,218,521,207,536,197,562,192,601,189,647,193,674,202,672,207,646,198,601,195,563,197,538,202,526,210,526,219"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="520,336,521,324,536,315,562,309,601,307,647,310,674,319,672,324,646,315,601,312,563,314,538,320,526,327,526,336"/>
+</map>

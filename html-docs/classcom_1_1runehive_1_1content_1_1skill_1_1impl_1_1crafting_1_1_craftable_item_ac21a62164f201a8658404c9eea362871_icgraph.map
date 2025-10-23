@@ -1,0 +1,14 @@
+<map id="com.runehive.content.skill.impl.crafting.CraftableItem.getProduct" name="com.runehive.content.skill.impl.crafting.CraftableItem.getProduct">
+<area shape="poly" id="Node000001" title="Gets the product item." alt="" coords="1371,133,1361,122,1331,113,1284,105,1225,100,1160,99,1094,100,1035,105,988,113,958,122,948,133,958,144,988,153,1035,161,1094,166,1160,167,1225,166,1284,161,1331,153,1361,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#af1dc03261c4473fdaf75028d2d0e745e" title=" " alt="" coords="900,40,890,29,860,20,813,12,754,7,688,5,623,7,564,12,517,20,487,29,477,40,487,50,517,60,564,68,623,72,688,74,754,72,813,68,860,60,890,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1008,106,824,69,825,64,1009,101"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#a814c36a1cec7d58e856ab5e5de78eab5" title=" " alt="" coords="900,133,890,122,860,113,813,105,754,100,688,99,623,100,564,105,517,113,487,122,477,133,487,144,517,153,564,161,623,166,688,167,754,166,813,161,860,153,890,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="933,136,900,136,900,130,933,130"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#a101ad0220984f206671ae0b477ec1c69" title=" " alt="" coords="900,226,890,216,860,206,813,199,754,194,688,192,623,194,564,199,517,206,487,216,477,226,487,237,517,247,564,254,623,259,688,261,754,259,813,254,860,247,890,237"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="1009,166,825,202,824,197,1008,160"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#acdc6407666d305a07a73c8827c05a15a" title=" " alt="" coords="429,40,418,29,388,20,341,12,282,7,217,5,152,7,93,12,46,20,16,29,5,40,16,50,46,60,93,68,152,72,217,74,282,72,341,68,388,60,418,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="537,106,353,69,354,64,538,101"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#acbabb58013cca74f46d233e6fa85d117" title=" " alt="" coords="429,133,418,122,388,113,341,105,282,100,217,99,152,100,93,105,46,113,16,122,5,133,16,144,46,153,93,161,152,166,217,167,282,166,341,161,388,153,418,144"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="468,145,422,145,422,139,468,139"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="437,121,483,121,483,127,437,127"/>
+</map>

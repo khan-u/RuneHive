@@ -1,0 +1,20 @@
+<map id="com.runehive.game.action.ConsecutiveAction&lt; T extends Mob &gt;" name="com.runehive.game.action.ConsecutiveAction&lt; T extends Mob &gt;">
+<area shape="poly" id="Node000001" title=" " alt="" coords="2402,98,2392,88,2363,78,2318,70,2262,66,2200,64,2138,66,2081,70,2037,78,2008,88,1998,98,2008,109,2037,119,2081,126,2138,131,2200,133,2262,131,2318,126,2363,119,2392,109"/>
+<area shape="poly" id="Node000008" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_teleport_action.html" title="Teleports an entity to another part of the world." alt="" coords="2855,52,2846,41,2822,31,2783,24,2735,19,2681,17,2627,19,2578,24,2540,31,2515,41,2507,52,2515,62,2540,72,2578,79,2627,84,2681,86,2735,84,2783,79,2822,72,2846,62"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="2391,77,2523,64,2524,70,2391,82"/>
+<area shape="poly" id="Node000009" href="$classcom_1_1runehive_1_1game_1_1action_1_1_consecutive_action.html" title=" " alt="" coords="2831,145,2824,134,2802,125,2769,117,2727,112,2681,111,2634,112,2593,117,2559,125,2538,134,2531,145,2538,156,2559,165,2593,173,2634,178,2681,179,2727,178,2769,173,2802,165,2824,156"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="2391,114,2542,129,2541,134,2391,119"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html" title=" " alt="" coords="1949,42,1941,32,1920,22,1887,14,1845,10,1799,8,1752,10,1710,14,1677,22,1656,32,1648,42,1656,53,1677,63,1710,70,1752,75,1799,77,1845,75,1887,70,1920,63,1941,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1943,60,2043,74,2042,79,1942,65"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html" title="Represents an action an entity can execute." alt="" coords="1561,42,1554,32,1533,22,1500,14,1458,10,1411,8,1365,10,1323,14,1290,22,1269,32,1261,42,1269,53,1290,63,1323,70,1365,75,1411,77,1458,75,1500,70,1533,63,1554,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1577,40,1648,40,1648,45,1577,45"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="1138,26,1130,20,1107,14,1070,9,1025,6,974,5,924,6,878,9,842,14,819,20,811,26,819,33,842,39,878,43,924,46,974,47,1025,46,1070,43,1107,39,1130,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1148,30,1263,34,1262,40,1147,35"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html" title="Handles the mob class." alt="" coords="1197,102,1186,96,1155,90,1105,85,1043,82,974,81,905,82,843,85,794,90,762,96,751,102,762,109,794,115,843,119,905,122,974,123,1043,122,1105,119,1155,115,1186,109"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="1213,99,1998,96,1998,102,1213,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1118,80,1281,57,1282,63,1118,85"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html" title="Represents a character in the game world, i.e." alt="" coords="702,102,693,92,668,82,629,74,580,70,526,68,471,70,422,74,383,82,358,92,349,102,358,113,383,123,422,130,471,135,526,137,580,135,629,130,668,123,693,113"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="718,100,751,100,751,105,718,105"/>
+<area shape="poly" id="Node000007" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="300,102,293,92,272,82,239,74,198,70,153,68,107,70,66,74,33,82,13,92,5,102,13,113,33,123,66,130,107,135,153,137,198,135,239,130,272,123,293,113"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="315,100,349,100,349,105,315,105"/>
+</map>

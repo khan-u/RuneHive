@@ -1,0 +1,25 @@
+var enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data =
+[
+    [ "BoneData", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a768d06129486bbaf94b8e52a27b65c6f", null ],
+    [ "forId", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a2a7997445afa35633772864572ad158f", null ],
+    [ "getBoneAmulet", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a2729f012da6ebea88487a1c9fc0d33b7", null ],
+    [ "getExperience", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#ab970628b94fb1f2de3bbabdc9508ab72", null ],
+    [ "getId", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#ab63d08e73fc26ce25af6d8bd4ee8811f", null ],
+    [ "getId2", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#af74f87d3510b2419c99cac065c586cf3", null ],
+    [ "BABYDRAGON_BONES", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a85289c4baae5c970deaf1ce2f60d762a", null ],
+    [ "BAT_BONES", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a1ca1a371123eda82b0e491cfaf4e5cc8", null ],
+    [ "BIG_BONES", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a569263b2a49e6dd61a3f4a5e0851797c", null ],
+    [ "boneAmulet", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a456ffdcb9e6583bcaf6aa3fc7bb38ecf", null ],
+    [ "DAGG_BONES", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a713116dbb648dad01ac673c1207beb2f", null ],
+    [ "DRAGON_BONES", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a7731d199246010924bd9eed6df6219bc", null ],
+    [ "experience", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#acf56f02181f1a976178b90c77acd2ae3", null ],
+    [ "id", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a7c54c2fb20bb6bb241a4cf2278c7ddf5", null ],
+    [ "id2", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a12f7078962148cc2667cece3c0158b6a", null ],
+    [ "LAVA_DRAGON_BONES", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#aa070da877b2833245469c08bd44bbf62", null ],
+    [ "LONG_BONE", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#aaa1d8ae0cafb084d398b4e3917ac97b2", null ],
+    [ "NORMAL_BONES", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#ad9f91f9a3cdf884f01cd84ef948dd44f", null ],
+    [ "OURG_BONES", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#aada607e4e93515e641e1d5806dfac424", null ],
+    [ "SKELETAL_WYVERN_BONES", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a0db0b03441f4be879934dd1885efdc60", null ],
+    [ "SUPERIOR_DRAGON_BONES", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a2da305be04fcb8a005e8c105428c351b", null ],
+    [ "WOLF_BONES", "enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1prayer_1_1_bone_data.html#a071bce0136ef852352af65f569eb03b7", null ]
+];

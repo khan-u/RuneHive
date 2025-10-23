@@ -1,0 +1,4 @@
+<map id="com.runehive.content.skill.impl.magic.teleport.Teleportation.teleport" name="com.runehive.content.skill.impl.magic.teleport.Teleportation.teleport">
+<area shape="poly" id="Node000001" title=" " alt="" coords="497,64,485,53,450,44,395,36,327,31,251,29,175,31,107,36,52,44,17,53,5,64,17,74,52,84,107,92,175,96,251,98,327,96,395,92,450,84,485,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="157,31,159,20,176,11,207,5,251,3,305,6,336,15,335,20,304,11,251,8,207,10,178,16,164,23,163,32"/>
+</map>

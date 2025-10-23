@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.custom.ScytheOfViturStrategy.getHits" name="com.runehive.game.world.entity.combat.strategy.player.custom.ScytheOfViturStrategy.getHits">
+<area shape="poly" id="Node000001" title=" " alt="" coords="665,64,649,53,602,44,529,36,437,31,335,29,233,31,141,36,68,44,21,53,5,64,21,74,68,84,141,92,233,96,335,98,437,96,529,92,602,84,649,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1_combat_strategy.html#acd22127bf7168a1145947c8b8716c524" title=" " alt="" coords="1228,64,1215,53,1179,44,1122,36,1050,31,970,29,891,31,819,36,762,44,725,53,713,64,725,74,762,84,819,92,891,96,970,98,1050,96,1122,92,1179,84,1215,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="665,61,697,61,697,66,665,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="851,34,849,27,852,20,873,11,912,5,970,3,1043,6,1082,16,1081,21,1042,12,970,8,912,10,874,16,856,24,854,27,856,31"/>
+</map>

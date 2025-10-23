@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.herblore.Herblore" name="com.runehive.content.skill.impl.herblore.Herblore">
+<area shape="poly" id="Node000001" title="Handles the herblore skill." alt="" coords="439,273,428,263,397,253,349,246,289,241,222,239,155,241,95,246,47,253,16,263,5,273,16,284,47,294,95,301,155,306,222,308,289,306,349,301,397,294,428,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html" title="Represents a trainable and usable skill." alt="" coords="421,157,411,146,383,136,339,129,283,124,222,122,160,124,105,129,61,136,33,146,23,157,33,167,61,177,105,184,160,189,222,191,283,189,339,184,383,177,411,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,207,225,239,219,239,219,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="378,40,370,29,348,20,314,12,270,7,222,5,174,7,130,12,96,20,74,29,66,40,74,50,96,60,130,68,174,72,222,74,270,72,314,68,348,60,370,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,90,225,122,219,122,219,90"/>
+</map>

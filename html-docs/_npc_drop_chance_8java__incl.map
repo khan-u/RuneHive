@@ -1,0 +1,5 @@
+<map id="java/com/runehive/game/world/entity/mob/npc/drop/NpcDropChance.java" name="java/com/runehive/game/world/entity/mob/npc/drop/NpcDropChance.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="310,53,302,38,281,25,247,14,205,8,158,5,111,8,68,14,34,25,13,38,5,53,13,68,34,81,68,92,111,99,158,101,205,99,247,92,281,81,302,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="289,170,283,164,264,158,235,153,198,150,158,149,117,150,80,153,51,158,32,164,26,170,32,176,51,182,80,187,117,190,158,191,198,190,235,187,264,182,283,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,102,160,134,155,134,155,102"/>
+</map>

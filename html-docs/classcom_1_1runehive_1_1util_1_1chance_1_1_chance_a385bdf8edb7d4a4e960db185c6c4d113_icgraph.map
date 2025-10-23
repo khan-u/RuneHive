@@ -1,0 +1,5 @@
+<map id="com.runehive.util.chance.Chance.add" name="com.runehive.util.chance.Chance.add">
+<area shape="poly" id="Node000001" title="Adds a new WeightedObject to the #object list." alt="" coords="626,40,619,29,598,20,567,12,527,7,483,5,438,7,398,12,367,20,346,29,339,40,346,50,367,60,398,68,438,72,483,74,527,72,567,68,598,60,619,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1chance_1_1_chance.html#ab83bf9677e7084486a65e2fba3104c6f" title="Adds a new WeightedObject to the #object list." alt="" coords="291,40,284,29,264,20,232,12,193,7,148,5,104,7,64,12,33,20,12,29,5,40,12,50,33,60,64,68,104,72,148,74,193,72,232,68,264,60,284,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="324,42,292,42,292,37,324,37"/>
+</map>

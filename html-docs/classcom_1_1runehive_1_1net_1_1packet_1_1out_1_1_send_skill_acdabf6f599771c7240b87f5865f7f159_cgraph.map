@@ -1,0 +1,9 @@
+<map id="com.runehive.net.packet.out.SendSkill.SendSkill" name="com.runehive.net.packet.out.SendSkill.SendSkill">
+<area shape="poly" id="Node000001" title=" " alt="" coords="323,133,315,122,292,113,257,105,213,100,164,99,115,100,71,105,36,113,13,122,5,133,13,144,36,153,71,161,115,166,164,167,213,166,257,161,292,153,315,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a635cfacdd28d86af90cf45a3f4df39b9" title="Gets the current skill level." alt="" coords="768,40,759,29,730,20,686,12,631,7,570,5,508,7,453,12,409,20,380,29,371,40,380,50,409,60,453,68,508,72,570,74,631,72,686,68,730,60,759,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,105,433,68,434,74,275,110"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#aa161c62dc96d588895ef0e673b282421" title="Gets the floor experience." alt="" coords="768,133,759,122,730,113,686,105,631,100,570,99,508,100,453,105,409,113,380,122,371,133,380,144,409,153,453,161,508,166,570,167,631,166,686,161,730,153,759,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,130,355,130,355,136,323,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#ae76336ec07f0fabca35f8854c02f113d" title="Gets the skill id." alt="" coords="768,226,759,216,730,206,686,199,631,194,570,192,508,194,453,199,409,206,380,216,371,226,380,237,409,247,453,254,508,259,570,261,631,259,686,254,730,247,759,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="275,156,434,193,433,198,274,161"/>
+</map>

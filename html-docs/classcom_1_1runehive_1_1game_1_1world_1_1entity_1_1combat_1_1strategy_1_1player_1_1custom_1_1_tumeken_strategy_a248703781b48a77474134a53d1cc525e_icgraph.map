@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.custom.TumekenStrategy.get" name="com.runehive.game.world.entity.combat.strategy.player.custom.TumekenStrategy.get">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1181,40,1165,29,1118,20,1045,12,954,7,852,5,750,7,658,12,585,20,538,29,522,40,538,50,585,60,658,68,750,72,852,74,954,72,1045,68,1118,60,1165,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_assistant.html#a83e282a3b03e7b27b02d256115a9d7fa" title="Handles getting the combat strategy." alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="506,42,474,42,474,37,506,37"/>
+</map>

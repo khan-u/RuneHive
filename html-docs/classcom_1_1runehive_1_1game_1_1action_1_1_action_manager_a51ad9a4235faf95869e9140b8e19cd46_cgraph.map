@@ -1,0 +1,5 @@
+<map id="com.runehive.game.action.ActionManager.execute" name="com.runehive.game.action.ActionManager.execute">
+<area shape="poly" id="Node000001" title="Adds an Action to the queue." alt="" coords="306,40,298,29,277,20,244,12,202,7,155,5,109,7,67,12,34,20,13,29,5,40,13,50,34,60,67,68,109,72,155,74,202,72,244,68,277,60,298,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a245edcc5b77cbc6d0a4aa8a0a0125d67" title="Submits a new event." alt="" coords="648,40,641,29,620,20,588,12,546,7,501,5,455,7,414,12,382,20,361,29,354,40,361,50,382,60,414,68,455,72,501,74,546,72,588,68,620,60,641,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,37,338,37,338,42,306,42"/>
+</map>

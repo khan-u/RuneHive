@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.entity.mob.movement.waypoint.PickupWaypoint.PickupWaypoint" name="com.runehive.game.world.entity.mob.movement.waypoint.PickupWaypoint.PickupWaypoint">
+<area shape="poly" id="Node000001" title=" " alt="" coords="614,133,599,122,556,113,488,105,404,100,310,99,216,100,131,105,63,113,20,122,5,133,20,144,63,153,131,161,216,166,310,167,404,166,488,161,556,153,599,144"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#a22cd7c00a274589573f03c45a0b67688" title="Creates a new instance of an Interactable." alt="" coords="957,133,949,122,928,113,896,105,855,100,809,99,764,100,723,105,690,113,669,122,662,133,669,144,690,153,723,161,764,166,809,167,855,166,896,161,928,153,949,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="614,130,646,130,646,136,614,136"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#a49e07a60c6643c0ba33bc9754305c352" title=" " alt="" coords="1299,40,1292,29,1271,20,1238,12,1197,7,1152,5,1106,7,1065,12,1033,20,1012,29,1005,40,1012,50,1033,60,1065,68,1106,72,1152,74,1197,72,1238,68,1271,60,1292,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="906,104,1040,67,1041,73,907,109"/>
+<area shape="poly" id="Node000004" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#a9513e5e63159a738b417ceba87cd1de8" title=" " alt="" coords="1299,133,1292,122,1271,113,1238,105,1197,100,1152,99,1106,100,1065,105,1033,113,1012,122,1005,133,1012,144,1033,153,1065,161,1106,166,1152,167,1197,166,1238,161,1271,153,1292,144"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="957,130,989,130,989,136,957,136"/>
+<area shape="poly" id="Node000005" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#ad7eb47dad8c89c478cedc32ea6fe3a5b" title=" " alt="" coords="1299,226,1292,216,1271,206,1238,199,1197,194,1152,192,1106,194,1065,199,1033,206,1012,216,1005,226,1012,237,1033,247,1065,254,1106,259,1152,261,1197,259,1238,254,1271,247,1292,237"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="907,157,1041,194,1040,199,906,162"/>
+</map>

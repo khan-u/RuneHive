@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.skill.SkillData.isCombatSkill" name="com.runehive.game.world.entity.skill.SkillData.isCombatSkill">
+<area shape="poly" id="Node000001" title="Gets if the skill is combat related." alt="" coords="1295,40,1285,29,1257,20,1213,12,1157,7,1096,5,1035,7,979,12,935,20,907,29,897,40,907,50,935,60,979,68,1035,72,1096,74,1157,72,1213,68,1257,60,1285,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a8fb0667be1e14a9964056dbbd6b3eed8" title="Adds experience to a given skill." alt="" coords="403,40,393,29,365,20,321,12,266,7,204,5,143,7,87,12,43,20,15,29,5,40,15,50,43,60,87,68,143,72,204,74,266,72,321,68,365,60,393,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="888,33,849,32,650,29,451,32,397,33,397,28,451,26,650,24,849,26,889,27"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a60120e26dd79dee03e34df88cc6103c3" title="Handles updating a skill." alt="" coords="849,76,839,65,811,56,767,48,712,43,650,41,589,43,533,48,489,56,461,65,451,76,461,86,489,96,533,104,589,108,650,110,712,108,767,104,811,96,839,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="900,58,832,64,831,58,900,53"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="454,63,385,57,386,52,454,57"/>
+</map>

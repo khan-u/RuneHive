@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.mob.Mob.venom" name="com.runehive.game.world.entity.mob.Mob.venom">
+<area shape="poly" id="Node000001" title="Applies venom to the entity." alt="" coords="407,64,398,53,369,44,325,36,269,31,206,29,144,31,88,36,44,44,15,53,5,64,15,74,44,84,88,92,144,96,206,98,269,96,325,92,369,84,398,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_util.html#a59d6e62ebcc26a130e426dca2a2a02c9" title="Applies the effect in any context." alt="" coords="887,64,877,53,846,44,798,36,738,31,671,29,605,31,544,36,497,44,466,53,455,64,466,74,497,84,544,92,605,96,671,98,738,96,798,92,846,84,877,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,61,440,61,440,66,408,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="583,32,584,20,600,11,629,5,671,3,723,6,753,15,751,20,722,11,671,8,630,10,602,16,589,23,588,32"/>
+</map>

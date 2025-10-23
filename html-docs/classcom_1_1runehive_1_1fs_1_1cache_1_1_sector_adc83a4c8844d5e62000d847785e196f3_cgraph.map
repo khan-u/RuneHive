@@ -1,0 +1,7 @@
+<map id="com.runehive.fs.cache.Sector.decode" name="com.runehive.fs.cache.Sector.decode">
+<area shape="poly" id="Node000001" title="Decodes a Sector from the specified ByteBuffer." alt="" coords="410,86,400,80,372,74,327,69,270,66,208,65,145,66,89,69,44,74,15,80,5,86,15,93,44,99,89,103,145,106,208,107,270,106,327,103,372,99,400,93"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1fs_1_1util_1_1_byte_buffer_util.html#a76039dacb0debfbd2a47eb6bfbda513b" title="Gets a 24&#45;bit medium integer from the specified ByteBuffer, this method does not mark the ByteBuffers..." alt="" coords="761,40,754,29,734,20,704,12,666,7,623,5,581,7,542,12,512,20,493,29,486,40,493,50,512,60,542,68,581,72,623,74,666,72,704,68,734,60,754,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="347,68,482,53,482,58,348,73"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1_sector.html#a282887b5e62187831480379e14d810a6" title="Constructs a new Sector with the expected index id, chunk, next index id and cache id." alt="" coords="788,133,780,122,757,113,720,105,674,100,623,99,572,100,526,105,490,113,466,122,458,133,466,144,490,153,526,161,572,166,623,167,674,166,720,161,757,153,780,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="348,99,462,112,462,118,347,105"/>
+</map>

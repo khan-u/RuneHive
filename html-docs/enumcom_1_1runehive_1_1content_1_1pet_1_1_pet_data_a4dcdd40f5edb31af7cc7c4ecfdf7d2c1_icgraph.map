@@ -1,0 +1,12 @@
+<map id="com.runehive.content.pet.PetData.forNpc" name="com.runehive.content.pet.PetData.forNpc">
+<area shape="poly" id="Node000001" title="Gets the pet data based on the given npc identification." alt="" coords="1145,86,1138,76,1118,66,1086,59,1046,54,1001,52,957,54,917,59,885,66,865,76,857,86,865,97,885,107,917,114,957,119,1001,121,1046,119,1086,114,1118,107,1138,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1pet_1_1_pets.html#ac898eea59799e5a4587d9673951edc81" title="Handles speaking to a pet." alt="" coords="809,40,802,29,782,20,750,12,710,7,666,5,621,7,581,12,549,20,529,29,522,40,529,50,549,60,581,68,621,72,666,74,710,72,750,68,782,60,802,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="860,70,791,60,791,54,861,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1pet_1_1_pets.html#a55519da27b27f9e7123dfa8403635e78" title="Handles what happens to a pet when a player dies." alt="" coords="809,133,802,122,782,113,750,105,710,100,666,99,621,100,581,105,549,113,529,122,522,133,529,144,549,153,581,161,621,166,666,167,710,166,750,161,782,153,802,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="861,109,791,118,791,113,860,103"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_death.html#ad6c4804a8da435f521db971bcb2481c5" title="The main part of the death process where the killer is found for the character." alt="" coords="474,74,462,64,429,54,377,47,312,42,240,40,167,42,102,47,50,54,17,64,5,74,17,85,50,95,102,102,167,107,240,109,312,107,377,102,429,95,462,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="525,116,412,101,413,96,526,111"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_death.html#a74447daa1d6fbc229699e4b383cdd8e0" title="The last part of the death process where the character is reset." alt="" coords="474,192,462,181,429,172,377,164,312,159,240,157,167,159,102,164,50,172,17,181,5,192,17,202,50,212,102,220,167,224,240,226,312,224,377,220,429,212,462,202"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="526,155,413,171,412,165,525,150"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="312,148,286,139,240,136,202,138,177,144,164,151,163,160,158,159,160,148,175,139,201,133,240,131,287,134,314,143"/>
+</map>

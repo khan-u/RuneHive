@@ -1,0 +1,4 @@
+var _recipe_for_disaster_data_8java =
+[
+    [ "com.runehive.content.activity.impl.recipefordisaster.RecipeForDisasterData", "enumcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1recipefordisaster_1_1_recipe_for_disaster_data.html", "enumcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1recipefordisaster_1_1_recipe_for_disaster_data" ]
+];

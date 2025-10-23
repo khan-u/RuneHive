@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_freeze =
+[
+    [ "Freeze", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_freeze.html#a452eb49c8e35a6a5daaa33c477a72d5f", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_freeze.html#a91ffde1f71b8191dccffa78654c97cce", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_freeze.html#a15dd371c2e1ad28721a6e38cbbe1ddf5", null ]
+];

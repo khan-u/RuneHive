@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/skill/impl/herblore/FinishedPotion.java" name="java/com/runehive/content/skill/impl/herblore/FinishedPotion.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="569,40,559,29,529,20,483,12,424,7,360,5,295,7,236,12,190,20,160,29,150,40,160,50,190,60,236,68,295,72,360,74,424,72,483,68,529,60,559,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="402,143,392,137,364,131,320,126,265,123,204,122,142,123,87,126,43,131,15,137,5,143,15,150,43,155,87,160,142,163,204,164,265,163,320,160,364,155,392,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="310,76,249,116,246,111,307,72"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="605,143,601,137,588,131,568,126,543,123,516,122,488,123,463,126,443,131,431,137,426,143,431,150,443,155,463,160,488,163,516,164,543,163,568,160,588,155,601,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="412,72,475,112,472,117,409,76"/>
+</map>

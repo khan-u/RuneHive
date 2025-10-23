@@ -1,0 +1,5 @@
+<map id="java/com/runehive/game/world/entity/combat/attack/listener/item/voidknight" name="java/com/runehive/game/world/entity/combat/attack/listener/item/voidknight">
+<area shape="poly" id="node2" href="dir_1ef3aeac88f97ded352624e110169e82.html" title="elite" alt="" coords="228,85,227,78,221,73,213,68,203,65,192,64,181,65,171,68,163,73,157,78,156,85,157,91,163,97,171,102,181,105,192,106,203,105,213,102,221,97,227,91"/>
+<area shape="rect" id="clust2" href="dir_68652102f80dcdac3985f5f49f7609ac.html" alt="" coords="27,53,239,117"/>
+<area shape="rect" id="clust1" href="dir_fbc0d3287b109be69d18cfaddb31828d.html" title="item" alt="" coords="16,16,249,127"/>
+</map>

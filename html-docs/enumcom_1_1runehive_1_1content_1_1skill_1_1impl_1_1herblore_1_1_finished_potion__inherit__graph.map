@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.herblore.FinishedPotion" name="com.runehive.content.skill.impl.herblore.FinishedPotion">
+<area shape="poly" id="Node000001" title="Holds all the finished potion data." alt="" coords="439,157,428,146,397,136,349,129,289,124,222,122,155,124,95,129,47,136,16,146,5,157,16,167,47,177,95,184,155,189,222,191,289,189,349,184,397,177,428,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1herblore_1_1_potion.html" title="The potion making itemcontainer." alt="" coords="439,40,428,29,397,20,349,12,289,7,222,5,155,7,95,12,47,20,16,29,5,40,16,50,47,60,95,68,155,72,222,74,289,72,349,68,397,60,428,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,90,225,122,219,122,219,90"/>
+</map>

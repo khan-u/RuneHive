@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.Entity.isStaticObject" name="com.runehive.game.world.entity.Entity.isStaticObject">
+<area shape="poly" id="Node000001" title="Check if an entity is an object." alt="" coords="358,40,349,29,324,20,285,12,236,7,182,5,127,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,127,72,182,74,236,72,285,68,324,60,349,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a64f68055122aaf4af08787378c7ac356" title="Gets the EntityType." alt="" coords="759,40,750,29,725,20,686,12,637,7,582,5,528,7,479,12,440,20,415,29,406,40,415,50,440,60,479,68,528,72,582,74,637,72,686,68,725,60,750,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="358,37,391,37,391,42,358,42"/>
+</map>

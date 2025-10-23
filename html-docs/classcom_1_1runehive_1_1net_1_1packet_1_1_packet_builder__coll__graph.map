@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.PacketBuilder" name="com.runehive.net.packet.PacketBuilder">
+<area shape="poly" id="Node000001" title="The implementation that functions as a dynamic buffer wrapper backed by a ByteBuf that is used for re..." alt="" coords="286,130,279,119,259,109,228,102,189,97,146,95,102,97,63,102,32,109,12,119,5,130,12,140,32,150,63,158,102,162,146,164,189,162,228,158,259,150,279,140"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="270,26,264,20,246,14,219,9,184,6,146,5,107,6,72,9,45,14,27,20,21,26,27,33,45,39,72,43,107,46,146,47,184,46,219,43,246,39,264,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,63,148,95,143,95,143,63"/>
+</map>

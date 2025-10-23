@@ -1,0 +1,7 @@
+var _skotizo_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.Skotizo", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.Skotizo.LightingRain", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_1_1_lighting_rain.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_1_1_lighting_rain" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.Skotizo.Magic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_1_1_magic.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_1_1_magic" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.Skotizo.TeleGrab", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_1_1_tele_grab.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_1_1_tele_grab" ]
+];

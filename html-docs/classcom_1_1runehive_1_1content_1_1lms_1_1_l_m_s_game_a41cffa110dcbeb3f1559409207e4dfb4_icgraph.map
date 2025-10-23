@@ -1,0 +1,4 @@
+<map id="com.runehive.content.lms.LMSGame.rollChest" name="com.runehive.content.lms.LMSGame.rollChest">
+<area shape="poly" id="Node000001" title="Handles rolling the loot chest." alt="" coords="297,64,290,53,269,44,237,36,196,31,151,29,106,31,65,36,33,44,12,53,5,64,12,74,33,84,65,92,106,96,151,98,196,96,237,92,269,84,290,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="200,19,182,11,151,8,126,10,109,15,100,23,100,32,95,31,96,20,106,11,125,5,151,3,183,6,202,15"/>
+</map>

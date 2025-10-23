@@ -1,0 +1,7 @@
+<map id="com.runehive.game.action.impl.TeleportAction.valid" name="com.runehive.game.action.impl.TeleportAction.valid">
+<area shape="poly" id="Node000001" title=" " alt="" coords="750,86,742,76,717,66,678,59,630,54,576,52,522,54,474,59,435,66,410,76,402,86,410,97,435,107,474,114,522,119,576,121,630,119,678,114,717,107,742,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_teleport_action.html#ab9b6d1658f6020821e5fbf6be09b0f76" title=" " alt="" coords="354,40,345,29,320,20,282,12,233,7,180,5,126,7,77,12,39,20,14,29,5,40,14,50,39,60,77,68,126,72,180,74,233,72,282,68,320,60,345,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="410,70,330,60,330,55,410,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_teleport_action.html#a2c5e9f24a8a5f73ebdf8967d5fe7f859" title=" " alt="" coords="354,133,345,122,320,113,282,105,233,100,180,99,126,100,77,105,39,113,14,122,5,133,14,144,39,153,77,161,126,166,180,167,233,166,282,161,320,153,345,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="410,109,330,118,330,113,410,103"/>
+</map>

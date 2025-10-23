@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.woodcutting.Woodcutting.getBonus" name="com.runehive.content.skill.impl.woodcutting.Woodcutting.getBonus">
+<area shape="poly" id="Node000001" title=" " alt="" coords="477,86,465,76,432,66,380,59,314,54,241,52,168,54,102,59,50,66,17,76,5,86,17,97,50,107,102,114,168,119,241,121,314,119,380,114,432,107,465,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#aebdab14dd029dc2f4e35b60e677dfb97" title="Determines if this container contains all identifiers." alt="" coords="989,40,978,29,945,20,893,12,829,7,757,5,685,7,620,12,569,20,536,29,525,40,536,50,569,60,620,68,685,72,757,74,829,72,893,68,945,60,978,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="442,66,542,56,543,62,443,71"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a4dca6bddcb13a93b4a23ef7e0658b91f" title="Gets the item id located on index." alt="" coords="989,133,978,122,945,113,893,105,829,100,757,99,685,100,620,105,569,113,536,122,525,133,536,144,569,153,620,161,685,166,757,167,829,166,893,161,945,153,978,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="443,102,543,111,542,116,442,107"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a8acf6f1c920076daea6c80e5afbe3404" title="Determines if this container contains id." alt="" coords="1501,40,1490,29,1457,20,1406,12,1341,7,1269,5,1197,7,1133,12,1081,20,1048,29,1037,40,1048,50,1081,60,1133,68,1197,72,1269,74,1341,72,1406,68,1457,60,1490,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="990,37,1022,37,1022,42,990,42"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.position.Position.getLongestDelta" name="com.runehive.game.world.position.Position.getLongestDelta">
+<area shape="poly" id="Node000001" title="Gets the longest horizontal or vertical delta between the two positions." alt="" coords="942,40,933,29,906,20,864,12,811,7,753,5,694,7,641,12,599,20,572,29,563,40,572,50,599,60,641,68,694,72,753,74,811,72,864,68,906,60,933,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1path_1_1impl_1_1_simple_path_finder.html#a65055f9fbbd9733289a1a1e268130ac0" title="A default method to find a path for the specified position." alt="" coords="515,40,502,29,466,20,410,12,339,7,260,5,181,7,110,12,54,20,18,29,5,40,18,50,54,60,110,68,181,72,260,74,339,72,410,68,466,60,502,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="547,42,516,42,516,37,547,37"/>
+</map>

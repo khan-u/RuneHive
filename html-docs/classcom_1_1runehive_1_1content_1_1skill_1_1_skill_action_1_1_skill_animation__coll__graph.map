@@ -1,0 +1,10 @@
+<map id="com.runehive.content.skill.SkillAction.SkillAnimation" name="com.runehive.content.skill.SkillAction.SkillAnimation">
+<area shape="poly" id="Node000001" title="A simple wrapper class which wraps an animation to a delay." alt="" coords="461,319,454,309,433,299,400,291,359,287,313,285,268,287,226,291,194,299,172,309,165,319,172,330,194,339,226,347,268,352,313,354,359,352,400,347,433,339,454,330"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1_animation.html" title="Class that models a single animation used by an entity." alt="" coords="481,179,473,173,449,167,412,163,365,160,313,159,261,160,215,163,178,167,154,173,145,179,154,186,178,192,215,196,261,199,313,200,365,199,412,196,449,192,473,186"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="316,216,316,284,311,284,311,216"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="465,165,495,169,508,179,502,187,490,191,449,195,449,190,489,186,499,182,502,180,493,174,464,170"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="299,40,291,33,271,27,238,23,197,20,152,19,107,20,66,23,33,27,13,33,5,40,13,46,33,52,66,57,107,60,152,61,197,60,238,57,271,52,291,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,69,292,156,288,160,185,73"/>
+<area shape="poly" id="Node000004" href="$enumcom_1_1runehive_1_1game_1_1_update_priority.html" title="Represents different priorities for updating." alt="" coords="630,40,622,29,600,20,566,12,523,7,476,5,428,7,386,12,352,20,330,29,322,40,330,50,352,60,386,68,428,72,476,74,523,72,566,68,600,60,622,50"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="428,85,339,160,335,156,424,81"/>
+</map>

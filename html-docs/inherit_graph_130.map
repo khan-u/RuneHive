@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="poly" id="Node000000" href="$classcom_1_1runehive_1_1content_1_1mysterybox_1_1_mystery_box.html" title="The mystery box class." alt="" coords="376,180,367,169,341,160,300,152,248,147,191,145,134,147,82,152,41,160,14,169,5,180,14,190,41,200,82,208,134,212,191,214,248,212,300,208,341,200,367,190"/>
+<area shape="poly" id="Node000001" href="$classcom_1_1runehive_1_1content_1_1mysterybox_1_1impl_1_1_bronze_mystery_box.html" title="The bronze (tier 1) mystery box." alt="" coords="843,40,833,29,803,20,757,12,699,7,634,5,569,7,511,12,464,20,435,29,424,40,435,50,464,60,511,68,569,72,634,74,699,72,757,68,803,60,833,50"/>
+<area shape="poly" id="edge200_Node000000_Node000001" title=" " alt="" coords="276,139,347,111,424,84,498,64,499,69,425,89,349,115,278,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1mysterybox_1_1impl_1_1_gold_mystery_box.html" title="The gold (tier 3) mystery box." alt="" coords="843,133,833,122,803,113,757,105,699,100,634,99,569,100,511,105,464,113,435,122,424,133,435,144,464,153,511,161,569,166,634,167,699,166,757,161,803,153,833,144"/>
+<area shape="poly" id="edge201_Node000000_Node000002" title=" " alt="" coords="368,158,456,149,456,154,368,164"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1mysterybox_1_1impl_1_1_pet_mystery_box.html" title="The pet mystery box." alt="" coords="843,226,833,216,803,206,757,199,699,194,634,192,569,194,511,199,464,206,435,216,424,226,435,237,464,247,511,254,569,259,634,261,699,259,757,254,803,247,833,237"/>
+<area shape="poly" id="edge202_Node000000_Node000003" title=" " alt="" coords="368,196,456,205,456,210,368,201"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1mysterybox_1_1impl_1_1_silver_mystery_box.html" title="The silver (tier 2) mystery box." alt="" coords="843,320,833,309,803,300,757,292,699,287,634,285,569,287,511,292,464,300,435,309,424,320,435,330,464,340,511,348,569,352,634,354,699,352,757,348,803,340,833,330"/>
+<area shape="poly" id="edge203_Node000000_Node000004" title=" " alt="" coords="278,215,349,244,425,271,499,290,498,296,424,276,347,249,276,220"/>
+</map>

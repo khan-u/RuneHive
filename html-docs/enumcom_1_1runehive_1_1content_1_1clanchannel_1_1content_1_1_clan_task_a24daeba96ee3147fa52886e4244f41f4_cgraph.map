@@ -1,0 +1,10 @@
+<map id="com.runehive.content.clanchannel.content.ClanTask.getAssignment" name="com.runehive.content.clanchannel.content.ClanTask.getAssignment">
+<area shape="poly" id="Node000001" title=" " alt="" coords="464,76,453,65,420,56,369,48,306,43,235,41,164,43,100,48,49,56,17,65,5,76,17,86,49,96,100,104,164,108,235,110,306,108,369,104,420,96,453,86"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1clanchannel_1_1content_1_1_clan_task.html#af2ef2c66da51c5ea2221ead7170f3e2e" title=" " alt="" coords="1477,40,1466,29,1434,20,1383,12,1319,7,1248,5,1177,7,1113,12,1062,20,1030,29,1019,40,1030,50,1062,60,1113,68,1177,72,1248,74,1319,72,1383,68,1434,60,1466,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="373,45,512,26,643,19,776,17,1022,22,1022,28,776,22,643,24,512,32,374,51"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1clanchannel_1_1content_1_1_clan_task.html#ac09871a0619fd8bc081915b07b27708d" title=" " alt="" coords="971,76,959,65,927,56,876,48,812,43,741,41,670,43,607,48,556,56,523,65,512,76,523,86,556,96,607,104,670,108,741,110,812,108,876,104,927,96,959,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="464,73,496,73,496,78,464,78"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a6b7f2d3477a5cc439ea612233a45ce0b" title="Picks a random element out of any array type." alt="" coords="913,169,905,158,881,149,842,141,795,136,741,135,688,136,640,141,602,149,578,158,569,169,578,180,602,189,640,197,688,202,741,203,795,202,842,197,881,189,905,180"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="382,100,599,140,598,145,381,105"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="950,58,1024,53,1025,58,950,64"/>
+</map>

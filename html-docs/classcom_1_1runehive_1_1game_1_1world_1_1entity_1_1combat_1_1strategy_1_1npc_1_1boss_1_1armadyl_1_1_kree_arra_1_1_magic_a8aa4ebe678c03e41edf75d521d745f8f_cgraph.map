@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.armadyl.KreeArra.Magic.hit" name="com.runehive.game.world.entity.combat.strategy.npc.boss.armadyl.KreeArra.Magic.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="703,64,686,53,636,44,559,36,462,31,354,29,246,31,149,36,72,44,22,53,5,64,22,74,72,84,149,92,246,96,354,98,462,96,559,92,636,84,686,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="222,32,221,26,225,19,249,10,291,5,354,3,433,6,476,16,475,21,432,12,354,8,292,10,250,16,229,23,226,27,227,31"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="com.runehive.util.MutableNumber.decrementAndGet" name="com.runehive.util.MutableNumber.decrementAndGet">
+<area shape="poly" id="Node000001" title="Decrements the value within this counter by amount and then returns it." alt="" coords="303,64,296,53,274,44,241,36,200,31,154,29,108,31,67,36,34,44,13,53,5,64,13,74,34,84,67,92,108,96,154,98,200,96,241,92,274,84,296,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_mutable_number.html#aea46ef24b5fa2d431209f750c2de9bff" title="Decrements the value within this counter by 1 and then returns it." alt="" coords="648,64,641,53,620,44,587,36,545,31,500,29,454,31,412,36,379,44,358,53,351,64,358,74,379,84,412,92,454,96,500,98,545,96,587,92,620,84,641,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="303,61,335,61,335,66,303,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="433,32,434,21,445,11,467,5,500,3,539,6,561,16,559,21,538,11,499,8,468,10,448,16,439,23,439,33"/>
+</map>

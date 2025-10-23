@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.skill.SkillManager.getLevel" name="com.runehive.game.world.entity.skill.SkillManager.getLevel">
+<area shape="poly" id="Node000001" title="Gets the level of a skill." alt="" coords="403,64,393,53,365,44,321,36,266,31,204,29,143,31,87,36,43,44,15,53,5,64,15,74,43,84,87,92,143,96,204,98,266,96,321,92,365,84,393,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="128,31,130,20,143,11,168,5,204,3,248,6,273,15,271,20,247,11,204,8,169,10,146,16,134,23,133,32"/>
+</map>

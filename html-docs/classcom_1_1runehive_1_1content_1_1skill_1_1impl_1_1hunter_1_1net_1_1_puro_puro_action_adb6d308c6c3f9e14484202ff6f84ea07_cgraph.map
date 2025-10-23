@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.hunter.net.PuroPuroAction.onSchedule" name="com.runehive.content.skill.impl.hunter.net.PuroPuroAction.onSchedule">
+<area shape="poly" id="Node000001" title="A function executed on registration." alt="" coords="454,40,443,29,411,20,362,12,299,7,230,5,160,7,98,12,48,20,16,29,5,40,16,50,48,60,98,68,160,72,230,74,299,72,362,68,411,60,443,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="802,40,795,29,774,20,741,12,699,7,652,5,606,7,564,12,531,20,509,29,502,40,509,50,531,60,564,68,606,72,652,74,699,72,741,68,774,60,795,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="455,37,487,37,487,42,455,42"/>
+</map>

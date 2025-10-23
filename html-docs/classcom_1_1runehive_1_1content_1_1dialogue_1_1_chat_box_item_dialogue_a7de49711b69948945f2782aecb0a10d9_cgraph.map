@@ -1,0 +1,5 @@
+<map id="com.runehive.content.dialogue.ChatBoxItemDialogue.fourthOptionClick" name="com.runehive.content.dialogue.ChatBoxItemDialogue.fourthOptionClick">
+<area shape="poly" id="Node000001" title=" " alt="" coords="437,40,427,29,396,20,348,12,288,7,221,5,155,7,94,12,47,20,16,29,5,40,16,50,47,60,94,68,155,72,221,74,288,72,348,68,396,60,427,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_chat_box_item_dialogue.html#a07adee7143f214bcbca89b7c1022e6e3" title=" " alt="" coords="866,40,857,29,830,20,788,12,734,7,676,5,617,7,564,12,522,20,494,29,485,40,494,50,522,60,564,68,617,72,676,74,734,72,788,68,830,60,857,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,37,469,37,469,42,437,42"/>
+</map>

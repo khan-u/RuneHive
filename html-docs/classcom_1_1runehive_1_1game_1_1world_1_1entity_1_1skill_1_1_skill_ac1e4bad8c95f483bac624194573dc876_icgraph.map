@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.skill.Skill.getExperienceForLevel" name="com.runehive.game.world.entity.skill.Skill.getExperienceForLevel">
+<area shape="poly" id="Node000001" title="Gets the experience for a given level." alt="" coords="1295,86,1285,76,1257,66,1213,59,1157,54,1096,52,1035,54,979,59,935,66,907,76,897,86,907,97,935,107,979,114,1035,119,1096,121,1157,119,1213,114,1257,107,1285,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1prestige_1_1_prestige.html#a8eafbea6964e519c58fd9533184d925c" title="Handles prestiging the skill." alt="" coords="819,40,810,29,786,20,749,12,702,7,650,5,598,7,551,12,514,20,490,29,482,40,490,50,514,60,551,68,598,72,650,74,702,72,749,68,786,60,810,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="909,70,801,58,801,53,910,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a38ce8bb89a6fc54bc31517023f107bea" title="Sets the max level of a skill." alt="" coords="849,133,839,122,811,113,767,105,712,100,650,99,589,100,533,105,489,113,461,122,451,133,461,144,489,153,533,161,589,166,650,167,712,166,767,161,811,153,839,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="910,109,822,118,821,113,909,103"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a12b24cf2a233e902ac52468a70b1846f" title="Handles mastering all skills." alt="" coords="403,133,393,122,365,113,321,105,266,100,204,99,143,100,87,105,43,113,15,122,5,133,15,144,43,153,87,161,143,166,204,167,266,166,321,161,365,153,393,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="436,136,404,136,404,130,436,130"/>
+</map>

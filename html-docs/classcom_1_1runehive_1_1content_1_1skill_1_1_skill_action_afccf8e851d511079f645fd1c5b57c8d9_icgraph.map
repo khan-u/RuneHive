@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.SkillAction.skill" name="com.runehive.content.skill.SkillAction.skill">
+<area shape="poly" id="Node000001" title="The skill we should hand to experience to." alt="" coords="715,133,707,122,686,113,654,105,612,100,567,99,521,100,480,105,447,113,426,122,419,133,426,144,447,153,480,161,521,166,567,167,612,166,654,161,686,153,707,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1_destruction_skill_action.html#ae3bf610adcbd9cda2260cde28e4e5602" title="The method which is called on intervals of the specified #delay;." alt="" coords="371,40,362,29,336,20,295,12,244,7,188,5,132,7,81,12,40,20,14,29,5,40,14,50,40,60,81,68,132,72,188,74,244,72,295,68,336,60,362,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="449,107,300,70,301,65,450,102"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1_harvesting_skill_action.html#ac8631e82e19083c3978493e906f9c488" title="The method which is called on intervals of the specified #delay;." alt="" coords="368,133,359,122,333,113,294,105,244,100,188,99,132,100,82,105,43,113,17,122,8,133,17,144,43,153,82,161,132,166,188,167,244,166,294,161,333,153,359,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="403,136,368,136,368,130,403,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1_producing_skill_action.html#a5df45526dc17df04cef8508710951561" title="The method which is called on intervals of the specified #delay;." alt="" coords="365,226,356,216,331,206,292,199,243,194,188,192,133,194,84,199,45,206,20,216,11,226,20,237,45,247,84,254,133,259,188,261,243,259,292,254,331,247,356,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="450,165,300,202,298,197,448,159"/>
+</map>

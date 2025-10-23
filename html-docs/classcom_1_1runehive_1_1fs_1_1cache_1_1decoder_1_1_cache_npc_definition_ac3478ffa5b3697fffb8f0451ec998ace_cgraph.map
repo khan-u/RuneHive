@@ -1,0 +1,11 @@
+<map id="com.runehive.fs.cache.decoder.CacheNpcDefinition.unpackConfig" name="com.runehive.fs.cache.decoder.CacheNpcDefinition.unpackConfig">
+<area shape="poly" id="Node000001" title=" " alt="" coords="385,133,376,122,349,113,307,105,254,100,195,99,136,100,84,105,42,113,15,122,5,133,15,144,42,153,84,161,136,166,195,167,254,166,307,161,349,153,376,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1decoder_1_1_cache_npc_definition.html#a3dc047ae1f31c3c54fd134a2dbddfb28" title=" " alt="" coords="876,40,865,29,834,20,785,12,723,7,654,5,586,7,524,12,475,20,444,29,433,40,444,50,475,60,524,68,586,72,654,74,723,72,785,68,834,60,865,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="322,105,502,68,503,73,324,110"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1decoder_1_1_buffer.html#add5e36d33adf5181daf9ab313d3fe2a5" title=" " alt="" coords="828,133,819,122,795,113,756,105,708,100,654,99,601,100,552,105,514,113,489,122,481,133,489,144,514,153,552,161,601,166,654,167,708,166,756,161,795,153,819,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="385,130,465,130,465,136,385,136"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1decoder_1_1_buffer.html#aa913740e120d65fd11af59b5077663d6" title=" " alt="" coords="828,226,819,216,795,206,756,199,708,194,654,192,601,194,552,199,514,206,489,216,481,226,489,237,514,247,552,254,601,259,654,261,708,259,756,254,795,247,819,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="324,156,517,196,516,201,322,162"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1decoder_1_1_buffer.html#aadd821c2b945d8aa3ab48eb52259cf6d" title=" " alt="" coords="1271,133,1262,122,1238,113,1199,105,1151,100,1097,99,1044,100,995,105,957,113,932,122,924,133,932,144,957,153,995,161,1044,166,1097,167,1151,166,1199,161,1238,153,1262,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="828,130,908,130,908,136,828,136"/>
+</map>

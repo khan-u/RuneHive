@@ -1,0 +1,15 @@
+<map id="com.runehive.game.world.entity.mob.Mob.walkExactlyTo" name="com.runehive.game.world.entity.mob.Mob.walkExactlyTo">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1412,180,1402,169,1374,160,1329,152,1273,147,1211,145,1149,147,1093,152,1049,160,1020,169,1010,180,1020,190,1049,200,1093,208,1149,212,1211,214,1273,212,1329,208,1374,200,1402,190"/>
+<area shape="poly" id="edge7_Node000001_Node000001" title=" " alt="" coords="1293,137,1264,127,1211,124,1168,126,1139,132,1126,139,1126,149,1121,148,1122,137,1137,127,1167,121,1211,119,1265,122,1295,132"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1infernomobs_1_1_jal_tok_jad.html#acb67dc1453da7bab50aa821a3f20c571" title=" " alt="" coords="962,133,951,122,919,113,869,105,805,100,735,99,665,100,601,105,551,113,519,122,508,133,519,144,551,153,601,161,665,166,735,167,805,166,869,161,919,153,951,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1020,164,927,155,927,149,1021,158"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1activity_1_1inferno_1_1_inferno_boss.html#a028e897fe532862b4eae1d25bbcf635a" title=" " alt="" coords="935,226,925,216,896,206,852,199,797,194,735,192,673,194,618,199,573,206,545,216,535,226,545,237,573,247,618,254,673,259,735,261,797,259,852,254,896,247,925,237"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="1021,201,910,212,909,207,1020,196"/>
+<area shape="poly" id="edge5_Node000002_Node000002" title=" " alt="" coords="817,90,787,81,735,77,692,79,664,85,650,93,650,101,644,101,646,90,662,80,691,74,735,72,788,75,818,85"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1infernomobs_1_1_jal_tok_jad.html#a1b0367614a02bb06837e6e66d185048d" title=" " alt="" coords="460,40,449,29,416,20,366,12,303,7,233,5,162,7,99,12,49,20,16,29,5,40,16,50,49,60,99,68,162,72,233,74,303,72,366,68,416,60,449,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="574,106,377,69,378,64,575,101"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1infernomobs_1_1_jal_tok_jad_1_1_magic_attack.html#a21768dbb81742599e14a3adc69d76359" title=" " alt="" coords="460,133,449,122,416,113,366,105,303,100,233,99,162,100,99,105,49,113,16,122,5,133,16,144,49,153,99,161,162,166,233,167,303,166,366,161,416,153,449,144"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="492,136,460,136,460,130,492,130"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1activity_1_1infernomobs_1_1_jal_tok_jad_1_1_melee_attack.html#ac978f80873f0d1b3c465dea1570ec1f1" title=" " alt="" coords="460,226,449,216,416,206,366,199,303,194,233,192,162,194,99,199,49,206,16,216,5,226,16,237,49,247,99,254,162,259,233,261,303,259,366,254,416,247,449,237"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="575,165,378,202,377,197,574,160"/>
+</map>

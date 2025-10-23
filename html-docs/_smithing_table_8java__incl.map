@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/skill/impl/smithing/SmithingTable.java" name="java/com/runehive/content/skill/impl/smithing/SmithingTable.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="587,40,577,29,548,20,502,12,445,7,381,5,317,7,260,12,214,20,185,29,175,40,185,50,214,60,260,68,317,72,381,74,445,72,502,68,548,60,577,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="402,157,392,150,364,144,320,140,265,137,204,136,142,137,87,140,43,144,15,150,5,157,15,163,43,169,87,174,142,177,204,178,265,177,320,174,364,169,392,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,76,249,129,246,125,329,71"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="693,157,686,146,667,136,638,129,601,124,560,122,518,124,481,129,452,136,433,146,426,157,433,167,452,177,481,184,518,189,560,191,601,189,638,184,667,177,686,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="433,71,500,114,497,118,430,76"/>
+</map>

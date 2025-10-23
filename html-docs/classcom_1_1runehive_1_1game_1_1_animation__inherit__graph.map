@@ -1,0 +1,5 @@
+<map id="com.runehive.game.Animation" name="com.runehive.game.Animation">
+<area shape="poly" id="Node000001" title="Class that models a single animation used by an entity." alt="" coords="341,116,333,110,309,104,272,99,225,96,173,95,121,96,75,99,37,104,14,110,5,116,14,123,37,129,75,133,121,136,173,137,225,136,272,133,309,129,333,123"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="320,26,313,20,292,14,259,9,218,6,173,5,128,6,87,9,55,14,34,20,27,26,34,33,55,39,87,43,128,46,173,47,218,46,259,43,292,39,313,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,63,176,95,170,95,170,63"/>
+</map>

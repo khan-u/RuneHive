@@ -1,0 +1,18 @@
+<map id="com.runehive.game.world.World.sendProjectile" name="com.runehive.game.world.World.sendProjectile">
+<area shape="poly" id="Node000001" title="Sends a world projectile." alt="" coords="300,86,293,76,272,66,239,59,198,54,153,52,107,54,66,59,33,66,13,76,5,86,13,97,33,107,66,114,107,119,153,121,198,119,239,114,272,107,293,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#aea9414faed608c5daf7defab8f0a1f07" title=" " alt="" coords="659,40,652,29,631,20,598,12,557,7,512,5,466,7,425,12,392,20,371,29,364,40,371,50,392,60,425,68,466,72,512,74,557,72,598,68,631,60,652,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,67,367,56,367,61,282,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a731ec7ec36eb8943a7385c0f6da0d15e" title=" " alt="" coords="675,133,667,122,644,113,608,105,562,100,512,99,461,100,415,105,379,113,356,122,348,133,356,144,379,153,415,161,461,166,512,167,562,166,608,161,644,153,667,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,101,357,110,356,116,282,106"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1_utility.html#af9eb94bde5c8e85696f05f773db8b7ec" title=" " alt="" coords="1050,133,1042,127,1019,121,983,116,937,113,887,112,836,113,791,116,754,121,731,127,723,133,731,140,754,145,791,150,836,153,887,154,937,153,983,150,1019,145,1042,140"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="676,130,708,130,708,136,676,136"/>
+<area shape="poly" id="edge8_Node000004_Node000004" title=" " alt="" coords="822,114,817,103,827,94,850,88,887,85,927,88,950,95,948,100,926,93,887,91,851,93,829,98,822,104,827,112"/>
+<area shape="poly" id="Node000005" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#a22cd7c00a274589573f03c45a0b67688" title="Creates a new instance of an Interactable." alt="" coords="1393,133,1386,122,1365,113,1332,105,1291,100,1246,99,1200,100,1159,105,1126,113,1105,122,1098,133,1105,144,1126,153,1159,161,1200,166,1246,167,1291,166,1332,161,1365,153,1386,144"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1051,130,1083,130,1083,136,1051,136"/>
+<area shape="poly" id="Node000006" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#a49e07a60c6643c0ba33bc9754305c352" title=" " alt="" coords="1736,40,1728,29,1707,20,1675,12,1634,7,1588,5,1543,7,1502,12,1469,20,1448,29,1441,40,1448,50,1469,60,1502,68,1543,72,1588,74,1634,72,1675,68,1707,60,1728,50"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1342,104,1476,67,1477,73,1344,109"/>
+<area shape="poly" id="Node000007" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#a9513e5e63159a738b417ceba87cd1de8" title=" " alt="" coords="1736,133,1728,122,1707,113,1675,105,1634,100,1588,99,1543,100,1502,105,1469,113,1448,122,1441,133,1448,144,1469,153,1502,161,1543,166,1588,167,1634,166,1675,161,1707,153,1728,144"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1394,130,1426,130,1426,136,1394,136"/>
+<area shape="poly" id="Node000008" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#ad7eb47dad8c89c478cedc32ea6fe3a5b" title=" " alt="" coords="1736,226,1728,216,1707,206,1675,199,1634,194,1588,192,1543,194,1502,199,1469,206,1448,216,1441,226,1448,237,1469,247,1502,254,1543,259,1588,261,1634,259,1675,254,1707,247,1728,237"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="1344,157,1477,194,1476,199,1342,162"/>
+</map>

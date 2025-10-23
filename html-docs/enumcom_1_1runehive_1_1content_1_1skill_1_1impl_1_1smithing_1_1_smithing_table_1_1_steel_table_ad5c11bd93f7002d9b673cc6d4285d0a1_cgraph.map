@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.smithing.SmithingTable.SteelTable.SteelTable" name="com.runehive.content.skill.impl.smithing.SmithingTable.SteelTable.SteelTable">
+<area shape="poly" id="Node000001" title="Constructs a new SteelTable." alt="" coords="440,40,429,29,398,20,350,12,290,7,223,5,155,7,95,12,47,20,16,29,5,40,16,50,47,60,95,68,155,72,223,74,290,72,350,68,398,60,429,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_string_utils.html#a412ca4b737a05cf827ab404dd921769e" title=" " alt="" coords="754,40,748,29,729,20,699,12,662,7,621,5,580,7,543,12,513,20,494,29,488,40,494,50,513,60,543,68,580,72,621,74,662,72,699,68,729,60,748,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,37,472,37,472,42,440,42"/>
+</map>

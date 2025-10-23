@@ -1,0 +1,10 @@
+<map id="com.runehive.game.world.pathfinding.TraversalMap.isTraversableSouth" name="com.runehive.game.world.pathfinding.TraversalMap.isTraversableSouth">
+<area shape="poly" id="Node000001" title="Tests if the specified position can be traversed south." alt="" coords="417,110,407,100,378,90,332,83,275,78,211,76,148,78,90,83,45,90,15,100,5,110,15,121,45,131,90,138,148,143,211,145,275,143,332,138,378,131,407,121"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1_traversal_map.html#a73e4a15199bbceb5e9e979ec6140689a" title="Checks whether or not the specified flag is not active on the specified position." alt="" coords="877,110,867,100,838,90,792,83,735,78,671,76,608,78,550,83,505,90,475,100,465,110,475,121,505,131,550,138,608,143,671,145,735,143,792,138,838,131,867,121"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,108,449,108,449,113,418,113"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_manager.html#a47cc7e1ea2d7610c5d496d5b659c7d53" title="Gets a region by position." alt="" coords="1289,64,1280,53,1255,44,1214,36,1164,31,1107,29,1051,31,1000,36,960,44,934,53,925,64,934,74,960,84,1000,92,1051,96,1107,98,1164,96,1214,92,1255,84,1280,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="846,89,933,80,933,85,846,94"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#af3702492a0bfe700e150763e8e976efe" title=" " alt="" coords="1255,157,1247,146,1226,137,1194,129,1153,124,1107,123,1062,124,1021,129,988,137,967,146,960,157,967,168,988,177,1021,185,1062,190,1107,191,1153,190,1194,185,1226,177,1247,168"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="846,126,958,138,957,144,846,132"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="1025,32,1025,21,1040,11,1067,5,1107,3,1157,6,1184,16,1182,21,1156,11,1107,8,1068,10,1042,16,1030,23,1030,33"/>
+</map>

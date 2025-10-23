@@ -1,0 +1,10 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_magic_attack =
+[
+    [ "MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_magic_attack.html#aa1c99a29c4e80d7f02a07165721ff80a", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_magic_attack.html#ab57c25d705577fcf9b4c1da98cca54b3", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_magic_attack.html#ac5ecb76a3ef5f79419dfca5ed1c1ee48", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_magic_attack.html#a1da1fecc0536ba0a941eec986a87e76d", null ],
+    [ "hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_magic_attack.html#a27b633c79c02574b1a47c50b518267e3", null ],
+    [ "start", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_magic_attack.html#ace868e5be5756a594641077a7035cdef", null ],
+    [ "ANIMATION", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_magic_attack.html#a612f4c9680c97278e57ded5ccf362190", null ]
+];

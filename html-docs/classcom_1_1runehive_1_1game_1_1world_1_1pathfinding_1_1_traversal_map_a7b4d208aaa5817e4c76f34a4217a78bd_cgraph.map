@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.pathfinding.TraversalMap.isTraversableNorth" name="com.runehive.game.world.pathfinding.TraversalMap.isTraversableNorth">
+<area shape="poly" id="Node000001" title="Tests if the specified position can be traversed north." alt="" coords="417,64,407,53,378,44,332,36,275,31,211,29,148,31,90,36,45,44,15,53,5,64,15,74,45,84,90,92,148,96,211,98,275,96,332,92,378,84,407,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1_traversal_map.html#a0dde08a402da84bf025e94dd634fb873" title="Tests if the specified position can be traversed north." alt="" coords="877,64,867,53,838,44,792,36,735,31,671,29,608,31,550,36,505,44,475,53,465,64,475,74,505,84,550,92,608,96,671,98,735,96,792,92,838,84,867,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,61,449,61,449,66,418,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="584,32,585,20,601,11,629,5,671,3,723,6,752,15,750,20,722,11,671,8,630,10,603,16,589,23,589,32"/>
+</map>

@@ -1,0 +1,16 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman =
+[
+    [ "AcidAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_acid_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_acid_attack" ],
+    [ "JumpAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_jump_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_jump_attack" ],
+    [ "MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_magic_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_magic_attack" ],
+    [ "MinionsAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_minions_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman_1_1_minions_attack" ],
+    [ "LizardShaman", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman.html#a6ca2f3154f47ed3bb994d49c16cb7102", null ],
+    [ "canAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman.html#a964e263bd8df2bec9046116564cfc6ae", null ],
+    [ "ACID", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman.html#aa0ae534c5a3fd6abcdc9574cfbf7f4a8", null ],
+    [ "BASIC_STRATEGIES", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman.html#acde7e7dadd8860a974e4be18e04d482b", null ],
+    [ "FULL_STRATEGIES", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman.html#a420abf0922624589859a6c308d1d5b25", null ],
+    [ "JUMP", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman.html#acc2f25931cc635e39e27da85a9f3d134", null ],
+    [ "MAGIC", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman.html#ae93701e038723dcdc992456696b3ec00", null ],
+    [ "MAGIC_STRATEGIES", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman.html#a01fdd5f4792f3d37c0b6b4444fc71a1b", null ],
+    [ "MINION", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_lizard_shaman.html#aa85c28509b1790a7b35140dc2772e9c5", null ]
+];

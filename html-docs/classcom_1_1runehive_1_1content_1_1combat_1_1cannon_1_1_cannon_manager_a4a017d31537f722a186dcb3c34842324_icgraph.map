@@ -1,0 +1,5 @@
+<map id="com.runehive.content.combat.cannon.CannonManager.getCannonFire" name="com.runehive.content.combat.cannon.CannonManager.getCannonFire">
+<area shape="poly" id="Node000001" title=" " alt="" coords="875,40,864,29,835,20,790,12,733,7,669,5,606,7,549,12,503,20,474,29,464,40,474,50,503,60,549,68,606,72,669,74,733,72,790,68,835,60,864,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1combat_1_1cannon_1_1_cannon_fire_action.html#a71e3a86c59d61b81a211f0c7de91509e" title="A function representing the unit of work that will be carried out." alt="" coords="416,40,406,29,377,20,331,12,274,7,211,5,147,7,90,12,45,20,15,29,5,40,15,50,45,60,90,68,147,72,211,74,274,72,331,68,377,60,406,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="448,42,416,42,416,37,448,37"/>
+</map>

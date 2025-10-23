@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.PorazdirUtility.SpawnData" name="com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.PorazdirUtility.SpawnData">
+<area shape="poly" id="Node000001" title=" " alt="" coords="737,181,719,170,667,160,586,153,484,148,371,146,258,148,156,153,75,160,23,170,5,181,23,191,75,201,156,208,258,213,371,215,484,213,586,208,667,201,719,191"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="561,40,552,29,525,20,483,12,430,7,371,5,313,7,260,12,218,20,191,29,181,40,191,50,218,60,260,68,313,72,371,74,430,72,483,68,525,60,552,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="374,89,374,146,368,146,368,89"/>
+</map>

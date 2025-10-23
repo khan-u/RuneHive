@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.mob.data.LockType.isLocked" name="com.runehive.game.world.entity.mob.data.LockType.isLocked">
+<area shape="poly" id="Node000001" title=" " alt="" coords="457,64,446,53,414,44,364,36,301,31,231,29,161,31,98,36,48,44,16,53,5,64,16,74,48,84,98,92,161,96,231,98,301,96,364,92,414,84,446,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="145,31,147,20,162,11,190,5,231,3,281,6,310,15,308,20,280,11,231,8,191,10,164,16,151,23,150,32"/>
+</map>

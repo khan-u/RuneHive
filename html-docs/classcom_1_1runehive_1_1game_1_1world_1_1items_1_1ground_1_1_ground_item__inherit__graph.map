@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.items.ground.GroundItem" name="com.runehive.game.world.items.ground.GroundItem">
+<area shape="poly" id="Node000001" title="Represents a single Ground item on the world map." alt="" coords="436,273,425,263,395,253,347,246,287,241,221,239,154,241,94,246,46,253,16,263,5,273,16,284,46,294,94,301,154,306,221,308,287,306,347,301,395,294,425,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html" title="Represents a character in the game world, i.e." alt="" coords="397,157,388,146,363,136,324,129,275,124,221,122,166,124,117,129,78,136,53,146,44,157,53,167,78,177,117,184,166,189,221,191,275,189,324,184,363,177,388,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,207,223,239,218,239,218,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="368,40,361,29,340,20,307,12,266,7,221,5,175,7,134,12,101,20,80,29,73,40,80,50,101,60,134,68,175,72,221,74,266,72,307,68,340,60,361,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="223,90,223,122,218,122,218,90"/>
+</map>

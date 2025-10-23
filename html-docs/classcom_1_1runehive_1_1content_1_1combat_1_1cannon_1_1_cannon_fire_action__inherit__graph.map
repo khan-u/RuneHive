@@ -1,0 +1,5 @@
+<map id="com.runehive.content.combat.cannon.CannonFireAction" name="com.runehive.content.combat.cannon.CannonFireAction">
+<area shape="poly" id="Node000001" title=" " alt="" coords="416,130,406,119,377,109,331,102,274,97,211,95,147,97,90,102,45,109,15,119,5,130,15,140,45,150,90,158,147,162,211,164,274,162,331,158,377,150,406,140"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="374,26,366,20,343,14,307,9,261,6,211,5,160,6,114,9,78,14,55,20,47,26,55,33,78,39,114,43,160,46,211,47,261,46,307,43,343,39,366,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,63,213,95,208,95,208,63"/>
+</map>

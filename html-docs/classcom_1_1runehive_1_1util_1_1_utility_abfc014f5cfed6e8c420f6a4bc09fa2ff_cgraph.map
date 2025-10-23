@@ -1,0 +1,7 @@
+<map id="com.runehive.util.Utility.getUptime" name="com.runehive.util.Utility.getUptime">
+<area shape="poly" id="Node000001" title="Gets the current uptime of server and formats it." alt="" coords="304,60,297,49,276,39,243,32,201,27,155,25,109,27,67,32,34,39,13,49,5,60,13,70,34,80,67,87,109,92,155,94,201,92,243,87,276,80,297,70"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_stopwatch.html#a74f3e64c9a11c6562e7fb7059fea6dc2" title=" " alt="" coords="801,26,790,20,758,14,708,9,646,6,577,5,507,6,445,9,395,14,363,20,352,26,363,33,395,39,445,43,507,46,577,47,646,46,708,43,758,39,790,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="297,46,388,39,388,44,297,51"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a9d880a8e3188a9193421cc25bc0eef46" title="Gets the current server time and formats it." alt="" coords="751,92,742,85,718,79,679,75,630,72,577,71,523,72,474,75,436,79,411,85,402,92,411,98,436,104,474,109,523,112,577,113,630,112,679,109,718,104,742,98"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,68,413,77,413,82,297,73"/>
+</map>

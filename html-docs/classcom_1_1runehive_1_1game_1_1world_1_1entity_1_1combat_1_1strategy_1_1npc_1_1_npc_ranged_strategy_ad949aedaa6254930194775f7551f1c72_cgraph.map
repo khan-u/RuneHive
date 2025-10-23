@@ -1,0 +1,12 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.NpcRangedStrategy.sendAnimation" name="com.runehive.game.world.entity.combat.strategy.npc.NpcRangedStrategy.sendAnimation">
+<area shape="poly" id="Node000001" title=" " alt="" coords="563,157,549,146,510,137,448,129,370,124,284,123,198,124,120,129,59,137,19,146,5,157,19,168,59,177,120,185,198,190,284,191,370,190,448,185,510,177,549,168"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a763d4a9979297da0ff66b8f4b86fd5bc" title=" " alt="" coords="1091,64,1081,53,1052,44,1008,36,952,31,890,29,828,31,772,36,727,44,699,53,689,64,699,74,727,84,772,92,828,96,890,98,952,96,1008,92,1052,84,1081,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="460,127,723,87,724,92,461,133"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1_npc_ranged_strategy.html#a4d150998831b8d98ae19793ee10e82af" title=" " alt="" coords="1169,157,1155,146,1115,137,1054,129,976,124,890,123,804,124,726,129,664,137,625,146,611,157,625,168,664,177,726,185,804,190,890,191,976,190,1054,185,1115,177,1155,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="564,154,595,154,595,160,564,160"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1_animation.html#a6bfcd28ef4d9e0608b9029d80dfe1a39" title=" " alt="" coords="1069,250,1060,240,1035,230,995,223,945,218,890,216,834,218,785,223,745,230,719,240,711,250,719,261,745,271,785,278,834,283,890,285,945,283,995,278,1035,271,1060,261"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="461,182,734,224,734,229,460,187"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="779,36,775,29,777,22,795,12,833,5,890,3,960,7,997,17,995,22,959,12,890,8,833,10,797,17,781,25,781,28,784,33"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1definition_1_1_npc_definition.html#af8c7cf1a90525fd25237c5e940333fb0" title=" " alt="" coords="1759,157,1746,146,1707,137,1647,129,1571,124,1488,123,1404,124,1328,129,1268,137,1230,146,1217,157,1230,168,1268,177,1328,185,1404,190,1488,191,1571,190,1647,185,1707,177,1746,168"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="1169,154,1201,154,1201,160,1169,160"/>
+</map>

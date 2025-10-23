@@ -1,0 +1,9 @@
+<map id="com.runehive.content.consume.PotionData.getReplacementItem" name="com.runehive.content.consume.PotionData.getReplacementItem">
+<area shape="poly" id="Node000001" title="Retrieves the replacement item for item." alt="" coords="362,86,353,76,328,66,289,59,239,54,184,52,129,54,79,59,39,66,14,76,5,86,14,97,39,107,79,114,129,119,184,121,239,119,289,114,328,107,353,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1consume_1_1_potion_data.html#a8d600b7bf75e32cf1fb9de0b2d7f45c0" title="Retrieves the potion consumable element for id." alt="" coords="761,40,753,29,728,20,690,12,641,7,587,5,533,7,485,12,446,20,422,29,413,40,422,50,446,60,485,68,533,72,587,74,641,72,690,68,728,60,753,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="337,66,421,56,421,62,338,71"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1cec21ca5ef1783808d4ca9de1051a29" title="Gets the identification of this item." alt="" coords="764,133,756,122,730,113,691,105,642,100,587,99,532,100,483,105,444,113,419,122,410,133,419,144,444,153,483,161,532,166,587,167,642,166,691,161,730,153,756,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="338,102,420,111,419,116,337,107"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1consume_1_1_potion_data.html#a3dda387e7c586878092da5c5c22c8977" title="Create a new PotionData." alt="" coords="1161,40,1152,29,1127,20,1089,12,1040,7,986,5,933,7,884,12,845,20,821,29,812,40,821,50,845,60,884,68,933,72,986,74,1040,72,1089,68,1127,60,1152,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="762,37,797,37,797,42,762,42"/>
+</map>

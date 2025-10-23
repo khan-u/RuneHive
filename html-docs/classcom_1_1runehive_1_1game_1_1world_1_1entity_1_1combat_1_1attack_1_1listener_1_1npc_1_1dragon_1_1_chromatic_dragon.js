@@ -1,0 +1,10 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_chromatic_dragon =
+[
+    [ "CrushMelee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon14c7d0bfdb1096ceaae9b95864d8e3a6.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon14c7d0bfdb1096ceaae9b95864d8e3a6" ],
+    [ "StabMelee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon4d7be3d9b1938df111095c188a02bc83.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon4d7be3d9b1938df111095c188a02bc83" ],
+    [ "[static initializer]", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_chromatic_dragon.html#a1fa54e825c92604e9b353babcb601b6e", null ],
+    [ "canAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_chromatic_dragon.html#ab3987c423f2fb9f5ad5594b377377255", null ],
+    [ "finishOutgoing", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_chromatic_dragon.html#ab84d514d418295cf178f5ba4febddecf", null ],
+    [ "DRAGONFIRE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_chromatic_dragon.html#a73e48a246b902b95ba56916b0c2c339d", null ],
+    [ "STRATEGIES", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_chromatic_dragon.html#a3833c84e77a953095b40354ce9204373", null ]
+];

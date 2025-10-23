@@ -1,0 +1,12 @@
+<map id="com.runehive.content.skill.impl.fletching.impl.Bolt" name="com.runehive.content.skill.impl.fletching.impl.Bolt">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1730,144,1717,137,1680,131,1622,127,1549,124,1469,123,1388,124,1315,127,1257,131,1220,137,1208,144,1220,150,1257,156,1315,161,1388,164,1469,165,1549,164,1622,161,1680,156,1717,150"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1fletching_1_1_fletchable.html" title=" " alt="" coords="1120,40,1109,29,1078,20,1030,12,969,7,902,5,835,7,775,12,726,20,696,29,685,40,696,50,726,60,775,68,835,72,902,74,969,72,1030,68,1078,60,1109,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1061,66,1361,121,1360,127,1060,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="586,185,576,179,548,173,504,168,449,165,388,164,326,165,271,168,227,173,199,179,189,185,199,192,227,197,271,202,326,205,388,206,449,205,504,202,548,197,576,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="584,173,610,172,1225,149,1225,154,610,177,584,178"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1fletching_1_1_fletchable_item.html" title=" " alt="" coords="1120,226,1109,216,1078,206,1030,199,969,194,902,192,835,194,775,199,726,206,696,216,685,226,696,237,726,247,775,254,835,259,902,261,969,259,1030,254,1078,247,1109,237"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="563,196,708,208,707,213,563,202"/>
+<area shape="poly" id="Node000004" title=" " alt="" coords="140,185,137,179,127,173,112,168,94,165,73,164,52,165,33,168,18,173,9,179,5,185,9,192,18,197,33,202,52,205,73,206,94,205,112,202,127,197,137,192"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="156,182,189,182,189,188,156,188"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1081,199,1183,184,1342,160,1343,165,1184,189,1082,204"/>
+</map>

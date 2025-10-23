@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.warriorguild.WarriorGuild" name="com.runehive.content.activity.impl.warriorguild.WarriorGuild">
+<area shape="poly" id="Node000001" title="This class handles the warrior&#39;s guild activity." alt="" coords="502,273,490,263,455,253,400,246,331,241,254,239,177,241,108,246,53,253,17,263,5,273,17,284,53,294,108,301,177,306,254,308,331,306,400,301,455,294,490,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html" title="A Activity object constructs an in&#45;game activity and sequences it through the start() and finish() me..." alt="" coords="416,157,408,146,385,136,349,129,304,124,254,122,204,124,158,129,123,136,100,146,92,157,100,167,123,177,158,184,204,189,254,191,304,189,349,184,385,177,408,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,207,256,239,251,239,251,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="410,40,402,29,380,20,345,12,302,7,254,5,206,7,162,12,128,20,106,29,98,40,106,50,128,60,162,68,206,72,254,74,302,72,345,68,380,60,402,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,90,256,122,251,122,251,90"/>
+</map>

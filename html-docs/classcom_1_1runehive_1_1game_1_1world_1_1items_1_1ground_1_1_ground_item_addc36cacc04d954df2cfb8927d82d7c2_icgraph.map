@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.ground.GroundItem.removeFromRegion" name="com.runehive.game.world.items.ground.GroundItem.removeFromRegion">
+<area shape="poly" id="Node000001" title="Removes this entity from the specified region." alt="" coords="914,40,904,29,873,20,825,12,765,7,699,5,632,7,572,12,525,20,494,29,484,40,494,50,525,60,572,68,632,72,699,74,765,72,825,68,873,60,904,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1ground_1_1_ground_item.html#a906ee7fbc6edafe12299fab5af323ccf" title="Unregisters an entity from the World." alt="" coords="436,40,425,29,395,20,347,12,287,7,221,5,154,7,94,12,46,20,16,29,5,40,16,50,46,60,94,68,154,72,221,74,287,72,347,68,395,60,425,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="468,42,436,42,436,37,468,37"/>
+</map>

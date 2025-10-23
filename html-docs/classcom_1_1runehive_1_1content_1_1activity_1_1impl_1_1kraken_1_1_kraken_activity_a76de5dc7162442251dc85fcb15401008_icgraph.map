@@ -1,0 +1,4 @@
+<map id="com.runehive.content.activity.impl.kraken.KrakenActivity.transform" name="com.runehive.content.activity.impl.kraken.KrakenActivity.transform">
+<area shape="poly" id="Node000001" title="Handles transforming a Npc." alt="" coords="451,64,440,53,409,44,359,36,297,31,228,29,159,31,97,36,48,44,16,53,5,64,16,74,48,84,97,92,159,96,228,98,297,96,359,92,409,84,440,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="304,20,277,11,228,8,189,10,162,16,149,23,148,32,143,31,145,20,160,11,188,5,228,3,278,6,306,15"/>
+</map>

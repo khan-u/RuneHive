@@ -1,0 +1,14 @@
+<map id="com.runehive.content.overrides.Overrides.equipOverride" name="com.runehive.content.overrides.Overrides.equipOverride">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1571,74,1563,63,1538,53,1499,46,1450,41,1396,39,1342,41,1293,46,1255,53,1230,63,1221,74,1230,84,1255,94,1293,101,1342,106,1396,108,1450,106,1499,101,1538,94,1563,84"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#aa8be30f3fce445d77dc8e590a8c9a545" title=" " alt="" coords="355,63,347,52,322,43,283,35,234,30,180,28,126,30,77,35,39,43,14,52,5,63,14,74,39,83,77,91,126,96,180,97,234,96,283,91,322,83,347,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1272,46,1173,30,957,12,789,9,620,18,403,35,318,44,317,39,403,30,619,13,788,4,957,6,1174,24,1273,40"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#aff072f80491a0b99f492886a37b62af3" title=" " alt="" coords="1173,74,1165,63,1140,53,1101,46,1052,41,998,39,944,41,896,46,857,53,832,63,824,74,832,84,857,94,896,101,944,106,998,108,1052,106,1101,101,1140,94,1165,84"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1206,76,1174,76,1174,71,1206,71"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#abf0a4dda05eace6736b836313da7059d" title=" " alt="" coords="764,192,756,182,731,172,692,164,643,159,589,158,535,159,487,164,448,172,423,182,414,192,423,203,448,212,487,220,535,225,589,227,643,225,692,220,731,212,756,203"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="1265,106,1174,123,950,155,747,179,746,174,950,150,1173,118,1264,100"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="829,58,775,55,554,51,350,57,350,51,554,46,776,50,829,53"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1overrides_1_1_overrides.html#a7a08d79defd71435ce299853059c462f" title=" " alt="" coords="776,99,766,88,740,79,699,71,647,66,589,64,532,66,480,71,439,79,412,88,403,99,412,110,439,119,480,127,532,132,589,133,647,132,699,127,740,119,766,110"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="816,87,767,91,766,85,816,82"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="405,85,340,80,341,74,406,80"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="460,165,402,148,258,97,260,92,404,143,461,159"/>
+</map>

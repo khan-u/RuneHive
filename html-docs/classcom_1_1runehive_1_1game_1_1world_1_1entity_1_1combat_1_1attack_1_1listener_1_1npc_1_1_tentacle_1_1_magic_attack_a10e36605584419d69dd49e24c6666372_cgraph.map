@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.npc.Tentacle.MagicAttack.getHits" name="com.runehive.game.world.entity.combat.attack.listener.npc.Tentacle.MagicAttack.getHits">
+<area shape="poly" id="Node000001" title=" " alt="" coords="622,110,607,100,563,90,495,83,409,78,314,76,219,78,133,83,64,90,20,100,5,110,20,121,64,131,133,138,219,143,314,145,409,143,495,138,563,131,607,121"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1_combat_strategy.html#ad83f68e523849bd85a67db2efa48eb32" title=" " alt="" coords="1186,64,1173,53,1136,44,1079,36,1008,31,928,29,848,31,777,36,720,44,683,53,670,64,683,74,720,84,777,92,848,96,928,98,1008,96,1079,92,1136,84,1173,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="570,88,687,79,688,85,571,94"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a01f5f411e33fdb2b4fe291d44b0693d1" title=" " alt="" coords="1159,157,1147,146,1115,137,1064,129,999,124,928,123,857,124,792,129,741,137,709,146,697,157,709,168,741,177,792,185,857,190,928,191,999,190,1064,185,1115,177,1147,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="571,127,707,138,706,143,570,133"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="813,34,810,27,813,20,833,11,871,5,928,3,998,6,1036,16,1035,21,997,12,928,8,872,10,835,16,817,24,816,27,818,31"/>
+</map>

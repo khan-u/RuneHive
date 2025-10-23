@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.magic.enchant.BoltEchantData" name="com.runehive.content.skill.impl.magic.enchant.BoltEchantData">
+<area shape="poly" id="Node000001" title="Holds all the bolt enchanting data." alt="" coords="502,245,490,234,455,225,400,217,331,212,254,211,177,212,108,217,53,225,17,234,5,245,17,256,53,265,108,273,177,278,254,279,331,278,400,273,455,265,490,256"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="452,118,442,111,414,105,370,101,315,98,254,97,193,98,137,101,93,105,65,111,56,118,65,124,93,130,137,135,193,138,254,139,315,138,370,135,414,130,442,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,154,256,210,251,210,251,154"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="321,26,318,20,308,14,293,9,275,6,254,5,233,6,214,9,199,14,190,20,186,26,190,33,199,39,214,43,233,46,254,47,275,46,293,43,308,39,318,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,63,256,96,251,96,251,63"/>
+</map>

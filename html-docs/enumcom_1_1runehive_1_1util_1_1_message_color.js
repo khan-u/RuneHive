@@ -1,0 +1,26 @@
+var enumcom_1_1runehive_1_1util_1_1_message_color =
+[
+    [ "MessageColor", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a2ad907d7fbc75c9590f4346722acc380", null ],
+    [ "getColor", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a5d9f0bf91d725585eb210ae239d45b02", null ],
+    [ "BLACK", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a6f6ea89a17ddeae4489c1f5161066456", null ],
+    [ "BLUE", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a9efbd3457f864897ba78da6ac324476e", null ],
+    [ "BRONZE", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a69b1fdc4c8bd49fe22dcdd39613a5395", null ],
+    [ "color", "enumcom_1_1runehive_1_1util_1_1_message_color.html#abd87f1eaf3ce616f6430cf1507a70d48", null ],
+    [ "DARK_BLUE", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a02305253111d1585de9bf64858efdcb8", null ],
+    [ "DARK_GREEN", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a07b467db68c008a3bba730c5f4c96ce7", null ],
+    [ "DARK_ORANGE", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a92621bff65f38cffb57efc0884ac01f7", null ],
+    [ "DARK_PURPLE", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a2364aeda124b57e759ed75fb968ae8bf", null ],
+    [ "DARK_RED", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a0576c1d589e6f3610f30016361e5f56a", null ],
+    [ "DEVELOPER", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a397330781ed736de437b5b49abcb3688", null ],
+    [ "GREEN", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a973714e0f765d1008ee14356c526df14", null ],
+    [ "GREY", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a3b8cdf0e06efdc0213f2cb548b900a10", null ],
+    [ "LIGHT_BLUE", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a8e121770ffcfc055d452634c1c4efcae", null ],
+    [ "LIGHT_GREEN", "enumcom_1_1runehive_1_1util_1_1_message_color.html#ab817a70a48f398b22c8d3c43e1f3d4cd", null ],
+    [ "LIGHT_ORANGE", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a16a11fdd1cb423cab62cb9af13d2259c", null ],
+    [ "LIGHT_PURPLE", "enumcom_1_1runehive_1_1util_1_1_message_color.html#abc9b5d0726939d220f26f95865b80915", null ],
+    [ "LIGHT_RED", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a05dbfc1148fce19515bab1f6f2d99e0a", null ],
+    [ "ORANGE", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a169adeeebf5647e1900390cb47094595", null ],
+    [ "PURPLE", "enumcom_1_1runehive_1_1util_1_1_message_color.html#ad322f919e476c4709119d7cb44c292e7", null ],
+    [ "RED", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a76befd16e9e2aacff53b24a9c4591ca4", null ],
+    [ "WHITE", "enumcom_1_1runehive_1_1util_1_1_message_color.html#a89d858212c1a06d8e91cb5babedfbf60", null ]
+];

@@ -1,0 +1,8 @@
+var _derwen_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Derwen", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Derwen.LightingRain", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_lighting_rain.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_lighting_rain" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Derwen.Magic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_magic.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_magic" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Derwen.Melee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_melee.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_melee" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Derwen.TeleGrab", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_tele_grab.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_1_1_tele_grab" ]
+];

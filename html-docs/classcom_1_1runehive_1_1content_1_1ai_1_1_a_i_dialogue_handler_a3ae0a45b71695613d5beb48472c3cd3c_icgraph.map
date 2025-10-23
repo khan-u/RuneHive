@@ -1,0 +1,5 @@
+<map id="com.runehive.content.ai.AIDialogueHandler.findNearbyNpc" name="com.runehive.content.ai.AIDialogueHandler.findNearbyNpc">
+<area shape="poly" id="Node000001" title="Find an NPC by ID near specific coordinates." alt="" coords="856,40,847,29,820,20,778,12,725,7,666,5,608,7,555,12,513,20,486,29,477,40,486,50,513,60,555,68,608,72,666,74,725,72,778,68,820,60,847,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1ai_1_1_a_i_dialogue_handler.html#a6e07507bba5cd2fbdbc57e0ce5d8ea6e" title="Process AI command input (called from command handler)" alt="" coords="429,40,418,29,388,20,341,12,282,7,217,5,152,7,93,12,46,20,16,29,5,40,16,50,46,60,93,68,152,72,217,74,282,72,341,68,388,60,418,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="461,42,429,42,429,37,461,37"/>
+</map>

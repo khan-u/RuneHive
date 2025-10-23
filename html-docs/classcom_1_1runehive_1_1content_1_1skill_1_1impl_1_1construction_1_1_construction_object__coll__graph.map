@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.construction.ConstructionObject" name="com.runehive.content.skill.impl.construction.ConstructionObject">
+<area shape="poly" id="Node000001" title=" " alt="" coords="477,181,465,170,432,160,380,153,314,148,241,146,168,148,102,153,50,160,17,170,5,181,17,191,50,201,102,208,168,213,241,215,314,213,380,208,432,201,465,191"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="431,40,421,29,395,20,353,12,300,7,241,5,182,7,130,12,88,20,61,29,51,40,61,50,88,60,130,68,182,72,241,74,300,72,353,68,395,60,421,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,89,244,146,238,146,238,89"/>
+</map>

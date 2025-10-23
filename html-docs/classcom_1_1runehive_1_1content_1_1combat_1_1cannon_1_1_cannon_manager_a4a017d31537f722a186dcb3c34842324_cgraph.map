@@ -1,0 +1,7 @@
+<map id="com.runehive.content.combat.cannon.CannonManager.getCannonFire" name="com.runehive.content.combat.cannon.CannonManager.getCannonFire">
+<area shape="poly" id="Node000001" title=" " alt="" coords="416,86,406,76,377,66,331,59,274,54,211,52,147,54,90,59,45,66,15,76,5,86,15,97,45,107,90,114,147,119,211,121,274,119,331,114,377,107,406,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1_projectile.html#a34d764716259ce36db6f1063493b33c6" title=" " alt="" coords="828,40,819,29,793,20,753,12,702,7,646,5,590,7,539,12,499,20,473,29,464,40,473,50,499,60,539,68,590,72,646,74,702,72,753,68,793,60,819,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,65,471,56,471,61,385,70"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1_projectile.html#a0b6536f389be347d389bc2d480a44059" title=" " alt="" coords="828,133,819,122,793,113,753,105,702,100,646,99,590,100,539,105,499,113,473,122,464,133,473,144,499,153,539,161,590,166,646,167,702,166,753,161,793,153,819,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="385,102,471,112,471,117,385,108"/>
+</map>

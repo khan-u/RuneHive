@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.containers.equipment.Equipment.hasAssembler" name="com.runehive.game.world.items.containers.equipment.Equipment.hasAssembler">
+<area shape="poly" id="Node000001" title=" " alt="" coords="581,40,567,29,526,20,463,12,382,7,293,5,204,7,124,12,60,20,19,29,5,40,19,50,60,60,124,68,204,72,293,74,382,72,463,68,526,60,567,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#aed46f979e5ded1097f16490033764dae" title=" " alt="" coords="983,40,975,29,950,20,910,12,861,7,806,5,752,7,702,12,663,20,638,29,629,40,638,50,663,60,702,68,752,72,806,74,861,72,910,68,950,60,975,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="582,37,614,37,614,42,582,42"/>
+</map>

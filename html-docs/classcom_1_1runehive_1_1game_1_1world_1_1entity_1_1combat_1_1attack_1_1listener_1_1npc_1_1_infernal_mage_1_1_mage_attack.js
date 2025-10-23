@@ -1,0 +1,5 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_infernal_mage_1_1_mage_attack =
+[
+    [ "MageAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_infernal_mage_1_1_mage_attack.html#acbbb5f44b6c87c44b2b49126cd4176e9", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_infernal_mage_1_1_mage_attack.html#a0c53c2d718cf715fcb590b5bdbf490d5", null ]
+];

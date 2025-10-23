@@ -1,0 +1,11 @@
+<map id="com.runehive.content.clanchannel.content.ClanViewer.getDetails" name="com.runehive.content.clanchannel.content.ClanViewer.getDetails">
+<area shape="poly" id="Node000001" title="Gets the clan information details." alt="" coords="464,120,453,109,420,100,369,92,306,87,235,85,164,87,100,92,49,100,17,109,5,120,17,130,49,140,100,148,164,152,235,154,306,152,369,148,420,140,453,130"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a490026d68b72e2dea391680a7d49a844" title="Formats digits for integers." alt="" coords="872,40,864,29,841,20,804,12,758,7,707,5,656,7,610,12,574,20,550,29,542,40,550,50,574,60,610,68,656,72,707,74,758,72,804,68,841,60,864,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,91,562,61,563,67,389,96"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#aee0a7bdbeff3436403f9d4192eff4455" title="Formats name of enum." alt="" coords="902,120,893,113,865,107,822,103,768,100,707,99,647,100,593,103,550,107,522,113,513,120,522,126,550,132,593,137,647,140,707,141,768,140,822,137,865,132,893,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="464,117,497,117,497,122,464,122"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a04d5eb201f824f0f367a9fb60f2f2814" title=" " alt="" coords="903,185,893,179,865,173,822,168,768,165,707,164,647,165,593,168,549,173,522,179,512,185,522,192,549,197,593,202,647,205,707,206,768,205,822,202,865,197,893,192"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="405,141,570,164,570,169,405,146"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a306c0370300580d03034da52e33e4db9" title="Capitalize each letter after ." alt="" coords="1315,120,1306,109,1280,100,1240,92,1189,87,1133,85,1077,87,1026,92,986,100,960,109,951,120,960,130,986,140,1026,148,1077,152,1133,154,1189,152,1240,148,1280,140,1306,130"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="902,117,935,117,935,122,902,122"/>
+</map>

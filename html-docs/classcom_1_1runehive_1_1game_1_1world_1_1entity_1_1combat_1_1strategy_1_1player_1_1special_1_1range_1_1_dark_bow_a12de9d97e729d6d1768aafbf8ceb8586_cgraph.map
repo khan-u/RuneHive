@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.special.range.DarkBow.isDragonArrow" name="com.runehive.game.world.entity.combat.strategy.player.special.range.DarkBow.isDragonArrow">
+<area shape="poly" id="Node000001" title=" " alt="" coords="728,40,711,29,659,20,579,12,479,7,367,5,255,7,154,12,74,20,23,29,5,40,23,50,74,60,154,68,255,72,367,74,479,72,579,68,659,60,711,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1cec21ca5ef1783808d4ca9de1051a29" title="Gets the identification of this item." alt="" coords="1130,40,1122,29,1097,20,1058,12,1008,7,953,5,899,7,849,12,810,20,785,29,776,40,785,50,810,60,849,68,899,72,953,74,1008,72,1058,68,1097,60,1122,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="729,37,761,37,761,42,729,42"/>
+</map>

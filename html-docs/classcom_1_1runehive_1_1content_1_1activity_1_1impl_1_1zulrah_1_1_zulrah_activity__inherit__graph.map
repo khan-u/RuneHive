@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.zulrah.ZulrahActivity" name="com.runehive.content.activity.impl.zulrah.ZulrahActivity">
+<area shape="poly" id="Node000001" title=" " alt="" coords="446,273,435,263,404,253,355,246,294,241,225,239,157,241,96,246,47,253,16,263,5,273,16,284,47,294,96,301,157,306,225,308,294,306,355,301,404,294,435,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html" title="A Activity object constructs an in&#45;game activity and sequences it through the start() and finish() me..." alt="" coords="388,157,380,146,357,136,321,129,276,124,225,122,175,124,130,129,94,136,71,146,63,157,71,167,94,177,130,184,175,189,225,191,276,189,321,184,357,177,380,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,207,228,239,223,239,223,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="381,40,374,29,352,20,317,12,274,7,225,5,177,7,134,12,99,20,77,29,70,40,77,50,99,60,134,68,177,72,225,74,274,72,317,68,352,60,374,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,90,228,122,223,122,223,90"/>
+</map>

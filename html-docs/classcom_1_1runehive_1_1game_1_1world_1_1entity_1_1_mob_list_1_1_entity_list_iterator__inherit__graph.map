@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.entity.MobList&lt; E extends Mob &gt;.EntityListIterator&lt; E extends Mob &gt;" name="com.runehive.game.world.entity.MobList&lt; E extends Mob &gt;.EntityListIterator&lt; E extends Mob &gt;">
+<area shape="poly" id="Node000001" title="An Iterator implementation designed specifically MobLists." alt="" coords="399,403,389,389,361,375,318,365,263,358,202,356,141,358,86,365,43,375,15,389,5,403,15,418,43,432,86,442,141,449,202,451,263,449,318,442,361,432,389,418"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="187,263,184,256,173,250,156,246,135,243,111,242,88,243,67,246,50,250,39,256,36,263,39,269,50,275,67,280,88,283,111,284,135,283,156,280,173,275,184,269"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,295,174,355,170,358,131,298"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html" title="Handles the mob class." alt="" coords="657,263,646,256,615,250,565,246,503,243,434,242,365,243,303,246,254,250,222,256,211,263,222,269,254,275,303,280,365,283,434,284,503,283,565,280,615,275,646,269"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="389,294,277,361,274,356,387,289"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html" title="Represents a character in the game world, i.e." alt="" coords="610,158,602,147,577,138,538,130,489,125,434,123,380,125,331,130,292,138,266,147,258,158,266,169,292,178,331,186,380,191,434,192,489,191,538,186,577,178,602,169"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="437,208,437,241,431,241,431,208"/>
+<area shape="poly" id="Node000005" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="581,40,574,29,553,20,521,12,480,7,434,5,389,7,348,12,315,20,294,29,287,40,294,50,315,60,348,68,389,72,434,74,480,72,521,68,553,60,574,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="437,90,437,123,431,123,431,90"/>
+</map>

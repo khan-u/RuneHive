@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.hit.Hit" name="com.runehive.game.world.entity.combat.hit.Hit">
+<area shape="poly" id="Node000001" title="A Hit object holds the damage amount and hitsplat data." alt="" coords="495,26,483,20,448,14,394,9,326,6,250,5,175,6,106,9,52,14,17,20,5,26,17,33,52,39,106,43,175,46,250,47,326,46,394,43,448,39,483,33"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_combat_hit.html" title="A wrapper for a Hit object, adding additional variables for hit and hitsplat delays." alt="" coords="481,130,470,119,437,109,386,102,322,97,250,95,179,97,115,102,64,109,31,119,19,130,31,140,64,150,115,158,179,162,250,164,322,162,386,158,437,150,470,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,63,253,95,248,95,248,63"/>
+</map>

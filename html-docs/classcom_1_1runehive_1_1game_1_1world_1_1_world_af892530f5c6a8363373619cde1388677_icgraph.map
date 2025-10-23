@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.World.queueLogout" name="com.runehive.game.world.World.queueLogout">
+<area shape="poly" id="Node000001" title="Handles queueing the player logouts." alt="" coords="817,180,809,169,788,160,756,152,715,147,669,145,624,147,583,152,550,160,529,169,522,180,529,190,550,200,583,208,624,212,669,214,715,212,756,208,788,200,809,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a22b20015866fec611e30f2538568cae9" title=" " alt="" coords="387,40,380,29,359,20,326,12,285,7,240,5,194,7,153,12,120,20,100,29,92,40,100,50,120,60,153,68,194,72,240,74,285,72,326,68,359,60,380,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="596,143,537,114,473,89,419,73,364,61,365,56,420,68,475,84,539,109,599,138"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a173da6d9fa93443facdfa65ce2e58871" title=" " alt="" coords="387,133,380,122,359,113,326,105,285,100,240,99,194,100,153,105,120,113,100,122,92,133,100,144,120,153,153,161,194,166,240,167,285,166,326,161,359,153,380,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="520,166,374,150,374,145,520,161"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a1e5456b2f31cff75519867a6483c5e2a" title=" " alt="" coords="474,226,462,216,429,206,377,199,312,194,240,192,167,194,102,199,50,206,17,216,5,226,17,237,50,247,102,254,167,259,240,261,312,259,377,254,429,247,462,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="520,199,430,208,429,203,520,193"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1net_1_1session_1_1_game_session.html#ad17a5dfb47f78f62fa15599e9d9b1e82" title="The method called after a session has been closed." alt="" coords="386,320,378,309,358,300,325,292,285,287,240,285,195,287,154,292,122,300,101,309,94,320,101,330,122,340,154,348,195,352,240,354,285,352,325,348,358,340,378,330"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="599,221,539,250,475,276,420,291,364,304,363,299,418,286,473,271,537,245,596,216"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.store.currency.impl.ItemCurrency.takeCurrency" name="com.runehive.content.store.currency.impl.ItemCurrency.takeCurrency">
+<area shape="poly" id="Node000001" title="The method executed when the currency is taken from player." alt="" coords="450,40,439,29,407,20,358,12,296,7,228,5,159,7,97,12,48,20,16,29,5,40,16,50,48,60,97,68,159,72,228,74,296,72,358,68,407,60,439,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a2326fe5cc05022e98fbb7a1d85b45ce6" title="Attempts to withdraw item from this container." alt="" coords="962,40,951,29,918,20,866,12,802,7,730,5,658,7,594,12,542,20,509,29,498,40,509,50,542,60,594,68,658,72,730,74,802,72,866,68,918,60,951,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="450,37,482,37,482,42,450,42"/>
+</map>

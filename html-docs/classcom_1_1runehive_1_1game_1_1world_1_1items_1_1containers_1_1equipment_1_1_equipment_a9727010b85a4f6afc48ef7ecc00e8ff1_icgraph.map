@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.items.containers.equipment.Equipment.remove" name="com.runehive.game.world.items.containers.equipment.Equipment.remove">
+<area shape="poly" id="Node000001" title="Removes an item from the equipment container." alt="" coords="1252,86,1238,76,1197,66,1133,59,1053,54,964,52,875,54,795,59,731,66,690,76,676,86,690,97,731,107,795,114,875,119,964,121,1053,119,1133,114,1197,107,1238,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_phoenix_necklace_listener.html#ae6ce0258ec2eb9a94699e52156de31eb" title=" " alt="" coords="628,40,613,29,569,20,500,12,413,7,317,5,220,7,134,12,65,20,21,29,5,40,21,50,65,60,134,68,220,72,317,74,413,72,500,68,569,60,613,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="700,70,579,61,579,56,701,65"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1_ring_of_life_listener.html#aefbbb5a9916c363fc3f94ef79a0000a9" title=" " alt="" coords="628,133,613,122,569,113,500,105,413,100,317,99,220,100,134,105,65,113,21,122,5,133,21,144,65,153,134,161,220,166,317,167,413,166,500,161,569,153,613,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="701,108,579,117,579,112,700,103"/>
+</map>

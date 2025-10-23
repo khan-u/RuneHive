@@ -1,0 +1,7 @@
+<map id="com.runehive.net.packet.out.SendSpecialAmount.encode" name="com.runehive.net.packet.out.SendSpecialAmount.encode">
+<area shape="poly" id="Node000001" title=" " alt="" coords="324,86,316,76,294,66,258,59,214,54,165,52,115,54,71,59,36,66,13,76,5,86,13,97,36,107,71,114,115,119,165,121,214,119,258,114,294,107,316,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_mutable_number.html#a9747bc98e3b113dc2c80f684e58abff0" title="Gets the value present within this counter." alt="" coords="750,40,743,29,723,20,691,12,651,7,606,5,562,7,522,12,490,20,470,29,463,40,470,50,490,60,522,68,562,72,606,74,651,72,691,68,723,60,743,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="308,69,459,53,459,58,309,74"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a90bb1a6839b25e7026f7285644a0816c" title=" " alt="" coords="841,133,829,122,796,113,744,105,679,100,606,99,534,100,469,105,417,113,383,122,372,133,383,144,417,153,469,161,534,166,606,167,679,166,744,161,796,153,829,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,99,400,109,399,114,308,104"/>
+</map>

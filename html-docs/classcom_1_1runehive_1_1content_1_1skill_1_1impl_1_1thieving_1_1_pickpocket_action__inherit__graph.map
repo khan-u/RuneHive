@@ -1,0 +1,13 @@
+<map id="com.runehive.content.skill.impl.thieving.PickpocketAction" name="com.runehive.content.skill.impl.thieving.PickpocketAction">
+<area shape="poly" id="Node000001" title="Handles the pickpocketing action." alt="" coords="434,508,424,498,393,488,346,480,286,475,220,474,154,475,94,480,46,488,16,498,5,508,16,519,46,528,94,536,154,541,220,543,286,541,346,536,393,528,424,519"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html" title="Represents an action an entity can execute." alt="" coords="370,390,363,379,341,370,308,362,266,357,220,356,173,357,132,362,98,370,77,379,70,390,77,401,98,410,132,418,173,423,220,424,266,423,308,418,341,410,363,401"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,440,222,473,217,473,217,440"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="362,263,354,256,331,250,295,246,249,243,198,242,148,243,102,246,66,250,43,256,35,263,43,269,66,275,102,280,148,283,198,284,249,283,295,280,331,275,354,269"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,298,217,355,211,356,202,299"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html" title="Handles the mob class." alt="" coords="832,263,821,256,790,250,740,246,678,243,609,242,540,243,478,246,429,250,397,256,386,263,397,269,429,275,478,280,540,283,609,284,678,283,740,280,790,275,821,269"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="535,291,306,364,305,359,533,285"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html" title="Represents a character in the game world, i.e." alt="" coords="785,158,777,147,752,138,713,130,664,125,609,123,555,125,506,130,467,138,441,147,433,158,441,169,467,178,506,186,555,191,609,192,664,191,713,186,752,178,777,169"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="612,208,612,241,606,241,606,208"/>
+<area shape="poly" id="Node000006" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="756,40,749,29,728,20,696,12,655,7,609,5,564,7,523,12,490,20,469,29,462,40,469,50,490,60,523,68,564,72,609,74,655,72,696,68,728,60,749,50"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="612,90,612,123,606,123,606,90"/>
+</map>

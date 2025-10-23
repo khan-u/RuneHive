@@ -1,0 +1,7 @@
+<map id="java/com/runehive/game/world/entity/mob/prayer/PrayerBook.java" name="java/com/runehive/game/world/entity/mob/prayer/PrayerBook.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="322,53,315,38,295,25,265,14,226,8,184,5,141,8,103,14,72,25,52,38,46,53,52,68,72,81,103,92,141,99,184,101,226,99,265,92,295,81,315,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="127,170,124,164,116,158,102,153,85,150,66,149,48,150,30,153,17,158,8,164,5,170,8,176,17,182,30,187,48,190,66,191,85,190,102,187,116,182,124,176"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,101,99,141,95,137,136,97"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="454,170,447,164,425,158,391,153,349,150,302,149,256,150,213,153,180,158,158,164,151,170,158,176,180,182,213,187,256,190,302,191,349,190,391,187,425,182,447,176"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,97,273,136,269,140,228,101"/>
+</map>

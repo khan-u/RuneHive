@@ -1,0 +1,4 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim_1_1_confuse =
+[
+    [ "Confuse", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim_1_1_confuse.html#ae4952e2b9c5b2634d5f063f818c200a7", null ]
+];

@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.Mob.graphic" name="com.runehive.game.world.entity.mob.Mob.graphic">
+<area shape="poly" id="Node000001" title="Plays a graphic." alt="" coords="407,40,398,29,369,20,325,12,269,7,206,5,144,7,88,12,44,20,15,29,5,40,15,50,44,60,88,68,144,72,206,74,269,72,325,68,369,60,398,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1_graphic.html#ac3f3e161bbe146a8963dd99b1f0ebe41" title=" " alt="" coords="886,40,875,33,845,27,797,23,737,20,671,19,604,20,544,23,497,27,466,33,455,40,466,46,497,52,544,57,604,60,671,61,737,60,797,57,845,52,875,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,37,440,37,440,42,408,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1_graphic.html#a46316ff7d6d3ed6a58aea73f5e575583" title="Constructs a new Graphic object with no delay, a low height, and normal priotiry." alt="" coords="1253,40,1245,29,1222,20,1187,12,1142,7,1093,5,1044,7,1000,12,964,20,942,29,934,40,942,50,964,60,1000,68,1044,72,1093,74,1142,72,1187,68,1222,60,1245,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="886,37,919,37,919,42,886,42"/>
+</map>

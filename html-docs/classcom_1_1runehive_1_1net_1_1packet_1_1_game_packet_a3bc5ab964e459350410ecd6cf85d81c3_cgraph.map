@@ -1,0 +1,4 @@
+<map id="com.runehive.net.packet.GamePacket.readLong" name="com.runehive.net.packet.GamePacket.readLong">
+<area shape="poly" id="Node000001" title="Reads a STANDARD signed long value from the payload in BIG order." alt="" coords="286,64,279,53,259,44,228,36,189,31,146,29,102,31,63,36,32,44,12,53,5,64,12,74,32,84,63,92,102,96,146,98,189,96,228,92,259,84,279,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="91,31,92,20,102,11,120,5,146,3,176,6,194,15,192,19,175,11,146,8,121,10,105,15,97,23,96,32"/>
+</map>

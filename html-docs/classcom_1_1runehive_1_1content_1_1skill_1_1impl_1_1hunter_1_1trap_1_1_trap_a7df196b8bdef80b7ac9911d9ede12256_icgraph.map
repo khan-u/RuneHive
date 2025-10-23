@@ -1,0 +1,12 @@
+<map id="com.runehive.content.skill.impl.hunter.trap.Trap.getOwner" name="com.runehive.content.skill.impl.hunter.trap.Trap.getOwner">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1425,133,1414,122,1382,113,1331,105,1268,100,1197,99,1127,100,1063,105,1013,113,980,122,969,133,980,144,1013,153,1063,161,1127,166,1197,167,1268,166,1331,161,1382,153,1414,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1hunter_1_1trap_1_1_trap_manager.html#a09d5d5a67b124615422e930586556673" title=" " alt="" coords="921,40,910,29,878,20,827,12,764,7,693,5,623,7,559,12,509,20,476,29,465,40,476,50,509,60,559,68,623,72,693,74,764,72,827,68,878,60,910,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1036,106,839,69,840,64,1037,101"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_hunter_task.html#ae657c5fe06bd9d5adf0cfcf2df82bbc4" title="A function representing the unit of work that will be carried out." alt="" coords="858,133,850,122,826,113,790,105,744,100,693,99,642,100,597,105,560,113,537,122,529,133,537,144,560,153,597,161,642,166,693,167,744,166,790,161,826,153,850,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="953,136,858,136,858,130,953,130"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1hunter_1_1trap_1_1_trap_manager.html#a9227abaff8b12195c01fe5e9091742fb" title=" " alt="" coords="921,226,910,216,878,206,827,199,764,194,693,192,623,194,559,199,509,206,476,216,465,226,476,237,509,247,559,254,623,259,693,261,764,259,827,254,878,247,910,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1037,165,840,202,839,197,1036,160"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1hunter_1_1_hunter.html#ac5d1d81235a5a5478402ab178ea29037" title=" " alt="" coords="417,133,407,122,378,113,332,105,275,100,211,99,148,100,90,105,45,113,15,122,5,133,15,144,45,153,90,161,148,166,211,167,275,166,332,161,378,153,407,144"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="537,73,348,109,347,104,536,67"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="536,199,347,162,348,157,537,194"/>
+</map>

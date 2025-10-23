@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.skill.SkillManager.updateCombat" name="com.runehive.game.world.entity.skill.SkillManager.updateCombat">
+<area shape="poly" id="Node000001" title="Handles updating the combat level." alt="" coords="1295,40,1285,29,1257,20,1213,12,1157,7,1096,5,1035,7,979,12,935,20,907,29,897,40,907,50,935,60,979,68,1035,72,1096,74,1157,72,1213,68,1257,60,1285,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a60120e26dd79dee03e34df88cc6103c3" title="Handles updating a skill." alt="" coords="849,40,839,29,811,20,767,12,712,7,650,5,589,7,533,12,489,20,461,29,451,40,461,50,489,60,533,68,589,72,650,74,712,72,767,68,811,60,839,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="882,42,849,42,849,37,882,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a8fb0667be1e14a9964056dbbd6b3eed8" title="Adds experience to a given skill." alt="" coords="403,40,393,29,365,20,321,12,266,7,204,5,143,7,87,12,43,20,15,29,5,40,15,50,43,60,87,68,143,72,204,74,266,72,321,68,365,60,393,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,42,404,42,404,37,436,37"/>
+</map>

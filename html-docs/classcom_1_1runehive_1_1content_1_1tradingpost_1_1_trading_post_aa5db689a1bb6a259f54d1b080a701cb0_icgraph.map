@@ -1,0 +1,13 @@
+<map id="com.runehive.content.tradingpost.TradingPost.updateCofferAmountWidget" name="com.runehive.content.tradingpost.TradingPost.updateCofferAmountWidget">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1782,113,1771,102,1740,93,1692,85,1631,80,1564,79,1496,80,1436,85,1387,93,1356,102,1346,113,1356,124,1387,133,1436,141,1496,146,1564,147,1631,146,1692,141,1740,133,1771,124"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_trading_post.html#a7581ef76ec6ab5149343d88bb4bfaf7f" title=" " alt="" coords="1298,66,1288,56,1261,46,1218,38,1163,34,1103,32,1043,34,989,38,946,46,918,56,908,66,918,77,946,87,989,94,1043,99,1103,101,1163,99,1218,94,1261,87,1288,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1364,95,1273,86,1273,81,1365,90"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_trading_post.html#a4d79bdc303aa1c82381df1b7ef2b61be" title=" " alt="" coords="825,160,816,149,790,139,749,132,698,127,641,125,584,127,533,132,492,139,466,149,457,160,466,170,492,180,533,187,584,192,641,194,698,192,749,187,790,180,816,170"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1340,127,819,153,819,148,1340,122"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_trading_post.html#a35f877dfbc040301d543d5cb756cc251" title=" " alt="" coords="374,66,364,56,338,46,298,38,246,34,189,32,133,34,81,38,40,46,14,56,5,66,14,77,40,87,81,94,133,99,189,101,246,99,298,94,338,87,364,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="968,38,860,22,737,12,641,8,545,11,422,22,304,42,303,36,421,17,544,6,641,3,737,6,861,17,969,33"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_trading_post.html#a28058763802852e223b13865f39d4cac" title=" " alt="" coords="860,66,850,56,818,46,770,38,709,34,641,32,573,34,512,38,463,46,432,56,422,66,432,77,463,87,512,94,573,99,641,101,709,99,770,94,818,87,850,77"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="893,69,861,69,861,64,893,64"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="406,69,374,69,374,64,406,64"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="500,133,314,95,315,89,501,128"/>
+</map>

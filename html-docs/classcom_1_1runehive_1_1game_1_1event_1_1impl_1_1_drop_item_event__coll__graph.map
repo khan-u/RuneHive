@@ -1,0 +1,11 @@
+<map id="com.runehive.game.event.impl.DropItemEvent" name="com.runehive.game.event.impl.DropItemEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1030,120,1021,109,997,100,959,92,911,87,858,85,805,87,758,92,720,100,695,109,687,120,695,130,720,140,758,148,805,152,858,154,911,152,959,148,997,140,1021,130"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1event_1_1_event.html" title="Represents something that happens." alt="" coords="535,40,528,29,507,20,474,12,433,7,388,5,342,7,301,12,269,20,248,29,240,40,248,50,269,60,301,68,342,72,388,74,433,72,474,68,507,60,528,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="523,60,726,95,726,100,522,65"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="586,120,576,113,548,107,504,103,449,100,388,99,326,100,271,103,227,107,199,113,189,120,199,126,227,132,271,137,326,140,388,141,449,140,504,137,548,132,576,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="602,117,686,117,686,122,602,122"/>
+<area shape="poly" id="Node000004" title=" " alt="" coords="140,120,137,113,127,107,112,103,94,100,73,99,52,100,33,103,18,107,9,113,5,120,9,126,18,132,33,137,52,140,73,141,94,140,112,137,127,132,137,126"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="156,117,189,117,189,122,156,122"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="577,200,568,189,541,180,499,172,446,167,388,165,329,167,276,172,234,180,207,189,198,200,207,210,234,220,276,228,329,232,388,234,446,232,499,228,541,220,568,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="542,171,726,140,726,145,543,176"/>
+</map>

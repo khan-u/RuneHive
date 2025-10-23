@@ -1,0 +1,7 @@
+<map id="com.runehive.net.codec.IsaacCipher.IsaacCipher" name="com.runehive.net.codec.IsaacCipher.IsaacCipher">
+<area shape="poly" id="Node000001" title="Creates the ISAAC cipher." alt="" coords="334,40,326,29,303,20,266,12,220,7,170,5,119,7,73,12,37,20,13,29,5,40,13,50,37,60,73,68,119,72,170,74,220,72,266,68,303,60,326,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1codec_1_1_isaac_cipher.html#a19495e1d84a0c11ffd87d92f0e79efd2" title="Initializes the ISAAC." alt="" coords="710,40,702,29,679,20,643,12,597,7,546,5,495,7,450,12,413,20,390,29,382,40,390,50,413,60,450,68,495,72,546,74,597,72,643,68,679,60,702,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="334,37,367,37,367,42,334,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1codec_1_1_isaac_cipher.html#ae83655d471833494dc25ac60c08b580b" title="Generates 256 results." alt="" coords="1087,40,1079,29,1056,20,1019,12,974,7,923,5,872,7,826,12,790,20,767,29,758,40,767,50,790,60,826,68,872,72,923,74,974,72,1019,68,1056,60,1079,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="711,37,743,37,743,42,711,42"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="poly" id="Node000000" title=" " alt="" coords="140,86,137,80,127,74,112,69,94,66,73,65,52,66,33,69,18,74,9,80,5,86,9,93,18,99,33,103,52,106,73,107,94,106,112,103,127,99,137,93"/>
+<area shape="poly" id="Node000001" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="585,86,575,80,547,74,503,69,448,66,386,65,325,66,270,69,226,74,198,80,188,86,198,93,226,99,270,103,325,106,386,107,448,106,503,103,547,99,575,93"/>
+<area shape="poly" id="edge8_Node000000_Node000001" title=" " alt="" coords="156,84,188,84,188,89,156,89"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1mysterybox_1_1_mystery_item.html" title=" " alt="" coords="1004,40,995,29,968,20,927,12,875,7,818,5,761,7,709,12,668,20,642,29,633,40,642,50,668,60,709,68,761,72,818,74,875,72,927,68,968,60,995,50"/>
+<area shape="poly" id="edge9_Node000001_Node000002" title=" " alt="" coords="542,67,656,55,657,60,543,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1store_1_1_store_item.html" title="A simple wrapper class which holds extra attributes for the item object." alt="" coords="971,133,964,122,942,113,908,105,865,100,818,99,771,100,728,105,694,113,673,122,665,133,673,144,694,153,728,161,771,166,818,167,865,166,908,161,942,153,964,144"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="543,101,680,115,679,121,542,106"/>
+</map>

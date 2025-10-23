@@ -1,0 +1,4 @@
+var _rock_skin_listener_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.other.prayer.defence.RockSkinListener", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1pray9cf13de4c541a5d56d0f17bce760167b.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1pray9cf13de4c541a5d56d0f17bce760167b" ]
+];

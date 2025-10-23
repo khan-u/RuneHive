@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.magic.MagicSpell" name="com.runehive.game.world.entity.combat.magic.MagicSpell">
+<area shape="poly" id="Node000001" title="Represents a combat spell." alt="" coords="504,321,491,311,456,301,401,294,331,289,254,287,177,289,108,294,53,301,18,311,5,321,18,332,53,342,108,349,177,354,254,356,331,354,401,349,456,342,491,332"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1magic_1_1_required_rune.html" title=" " alt="" coords="504,181,491,170,456,160,401,153,331,148,254,146,177,148,108,153,53,160,18,170,5,181,18,191,53,201,108,208,177,213,254,215,331,213,401,208,456,201,491,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,230,257,286,252,286,252,230"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1magic_1_1_magic_rune.html" title=" " alt="" coords="504,40,491,29,456,20,401,12,331,7,254,5,177,7,108,12,53,20,18,29,5,40,18,50,53,60,108,68,177,72,254,74,331,72,401,68,456,60,491,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,89,257,146,252,146,252,89"/>
+</map>

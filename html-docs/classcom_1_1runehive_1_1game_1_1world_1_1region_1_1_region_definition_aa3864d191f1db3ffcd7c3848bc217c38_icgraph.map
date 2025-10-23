@@ -1,0 +1,13 @@
+<map id="com.runehive.game.world.region.RegionDefinition.RegionDefinition" name="com.runehive.game.world.region.RegionDefinition.RegionDefinition">
+<area shape="poly" id="Node000001" title="Constructs a new RegionDefinition with the specified hash, terrain file id, object file id and preloa..." alt="" coords="1963,86,1954,76,1927,66,1886,59,1834,54,1776,52,1718,54,1665,59,1624,66,1597,76,1588,86,1597,97,1624,107,1665,114,1718,119,1776,121,1834,119,1886,114,1927,107,1954,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_definition.html#a9dc7c11e2804f0e48a22c6768073f331" title="Gets a RegionDefinition." alt="" coords="1540,40,1531,29,1505,20,1465,12,1414,7,1358,5,1302,7,1251,12,1211,20,1185,29,1176,40,1185,50,1211,60,1251,68,1302,72,1358,74,1414,72,1465,68,1505,60,1531,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1599,69,1515,60,1516,55,1600,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_definition.html#a5e13637eb63f040928c04393994f2303" title="Adds a RegionDefinition." alt="" coords="1540,133,1531,122,1505,113,1465,105,1414,100,1358,99,1302,100,1251,105,1211,113,1185,122,1176,133,1185,144,1211,153,1251,161,1302,166,1358,167,1414,166,1465,161,1505,153,1531,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1600,109,1516,118,1515,113,1599,103"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1decoder_1_1_map_definition_decoder.html#a13a4519885c58ac15fc695cd262d608f" title=" " alt="" coords="1128,133,1120,122,1095,113,1057,105,1008,100,955,99,901,100,853,105,814,113,790,122,781,133,790,144,814,153,853,161,901,166,955,167,1008,166,1057,161,1095,153,1120,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1160,136,1128,136,1128,130,1160,130"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1_rune_hive.html#a17f40f99cb718b86302b394cf505f0a8" title=" " alt="" coords="733,133,724,122,699,113,659,105,609,100,554,99,499,100,449,105,409,113,384,122,375,133,384,144,409,153,449,161,499,166,554,167,609,166,659,161,699,153,724,144"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="765,136,734,136,734,130,765,130"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1_rune_hive.html#ab9a24653997a7d8bb955f26c59b7f8ea" title=" " alt="" coords="327,133,319,127,296,121,261,116,216,113,166,112,116,113,72,116,36,121,13,127,5,133,13,140,36,145,72,150,116,153,166,154,216,153,261,150,296,145,319,140"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="360,136,327,136,327,130,360,130"/>
+</map>

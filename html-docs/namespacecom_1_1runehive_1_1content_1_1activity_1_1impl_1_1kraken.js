@@ -1,0 +1,5 @@
+var namespacecom_1_1runehive_1_1content_1_1activity_1_1impl_1_1kraken =
+[
+    [ "KrakenActivity", "classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1kraken_1_1_kraken_activity.html", "classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1kraken_1_1_kraken_activity" ],
+    [ "KrakenActivityListener", "classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1kraken_1_1_kraken_activity_listener.html", "classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1kraken_1_1_kraken_activity_listener" ]
+];

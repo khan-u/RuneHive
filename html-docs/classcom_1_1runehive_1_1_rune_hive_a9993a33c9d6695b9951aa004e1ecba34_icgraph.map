@@ -1,0 +1,7 @@
+<map id="com.runehive.RuneHive.timeZone" name="com.runehive.RuneHive.timeZone">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1258,40,1249,33,1222,27,1181,23,1129,20,1071,19,1013,20,961,23,920,27,893,33,884,40,893,46,920,52,961,57,1013,60,1071,61,1129,60,1181,57,1222,52,1249,46"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1_rune_hive.html#a47a9da1053f405b2b3590f162f8d0670" title=" " alt="" coords="836,40,828,29,803,20,765,12,716,7,662,5,608,7,560,12,521,20,496,29,488,40,496,50,521,60,560,68,608,72,662,74,716,72,765,68,803,60,828,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="869,42,837,42,837,37,869,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1cronjobs_1_1impl_1_1_double_experience_job.html#a482532d242e7d29b07bbef38490a89bb" title=" " alt="" coords="440,40,429,29,398,20,350,12,290,7,223,5,155,7,95,12,47,20,16,29,5,40,16,50,47,60,95,68,155,72,223,74,290,72,350,68,398,60,429,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,42,440,42,440,37,472,37"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.game.engine.sync.task.PlayerPostUpdateTask.run" name="com.runehive.game.engine.sync.task.PlayerPostUpdateTask.run">
+<area shape="poly" id="Node000001" title=" " alt="" coords="413,86,403,76,374,66,329,59,272,54,209,52,146,54,89,59,44,66,15,76,5,86,15,97,44,107,89,114,146,119,209,121,272,119,329,114,374,107,403,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1engine_1_1sync_1_1task_1_1_player_post_update_task.html#aa61ba7713f36db8da53ed11d0c491012" title=" " alt="" coords="958,40,946,29,911,20,856,12,786,7,710,5,633,7,564,12,509,20,473,29,461,40,473,50,509,60,564,68,633,72,710,74,786,72,856,68,911,60,946,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="389,67,487,58,487,63,389,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1session_1_1_game_session.html#a9f8dc308e009d8beecee7006c2f7340f" title=" " alt="" coords="940,133,929,122,896,113,845,105,781,100,710,99,638,100,574,105,523,113,490,122,479,133,490,144,523,153,574,161,638,166,710,167,781,166,845,161,896,153,929,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="389,100,498,111,497,116,389,106"/>
+</map>

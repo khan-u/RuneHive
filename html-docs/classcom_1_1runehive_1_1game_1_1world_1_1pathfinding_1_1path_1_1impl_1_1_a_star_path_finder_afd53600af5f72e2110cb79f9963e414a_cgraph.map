@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.pathfinding.path.impl.AStarPathFinder.find" name="com.runehive.game.world.pathfinding.path.impl.AStarPathFinder.find">
+<area shape="poly" id="Node000001" title="A default method to find a path for the specified Mob." alt="" coords="515,64,502,53,466,44,410,36,339,31,260,29,181,31,110,36,54,44,18,53,5,64,18,74,54,84,110,92,181,96,260,98,339,96,410,92,466,84,502,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="166,31,168,20,185,11,216,5,260,3,315,6,345,15,344,20,314,11,260,8,216,10,187,16,173,23,172,32"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a2fcda274378da97b14a6c4f7d3b08095" title="Gets the height coordinate, or height." alt="" coords="942,64,933,53,906,44,864,36,811,31,753,29,694,31,641,36,599,44,572,53,563,64,572,74,599,84,641,92,694,96,753,98,811,96,864,92,906,84,933,74"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="515,61,547,61,547,66,515,66"/>
+</map>

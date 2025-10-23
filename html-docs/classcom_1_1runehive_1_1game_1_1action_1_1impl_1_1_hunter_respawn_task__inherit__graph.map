@@ -1,0 +1,5 @@
+<map id="com.runehive.game.action.impl.HunterRespawnTask" name="com.runehive.game.action.impl.HunterRespawnTask">
+<area shape="poly" id="Node000001" title="Teleports an entity to another part of the world." alt="" coords="354,130,345,119,320,109,282,102,233,97,180,95,126,97,77,102,39,109,14,119,5,130,14,140,39,150,77,158,126,162,180,164,233,162,282,158,320,150,345,140"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="343,26,335,20,312,14,276,9,230,6,180,5,129,6,83,9,47,14,24,20,16,26,24,33,47,39,83,43,129,46,180,47,230,46,276,43,312,39,335,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,63,182,95,177,95,177,63"/>
+</map>

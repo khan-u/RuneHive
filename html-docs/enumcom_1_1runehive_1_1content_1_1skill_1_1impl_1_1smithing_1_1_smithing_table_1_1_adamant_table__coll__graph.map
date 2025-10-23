@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.smithing.SmithingTable.AdamantTable" name="com.runehive.content.skill.impl.smithing.SmithingTable.AdamantTable">
+<area shape="poly" id="Node000001" title="The table for the adamant items." alt="" coords="1168,80,1157,69,1126,60,1078,52,1018,47,950,45,883,47,823,52,775,60,744,69,733,80,744,90,775,100,823,108,883,112,950,114,1018,112,1078,108,1126,100,1157,90"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1smithing_1_1_smithing_table.html" title=" " alt="" coords="624,40,613,29,583,20,535,12,474,7,407,5,340,7,279,12,231,20,200,29,189,40,200,50,231,60,279,68,340,72,407,74,474,72,535,68,583,60,613,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="620,53,753,63,752,68,620,58"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="605,120,595,113,567,107,523,103,468,100,407,99,346,100,290,103,246,107,218,113,209,120,218,126,246,132,290,137,346,140,407,141,468,140,523,137,567,132,595,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="587,104,752,92,752,97,587,109"/>
+<area shape="poly" id="Node000004" title=" " alt="" coords="140,120,137,113,127,107,112,103,94,100,73,99,52,100,33,103,18,107,9,113,5,120,9,126,18,132,33,137,52,140,73,141,94,140,112,137,127,132,137,126"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="156,117,208,117,208,122,156,122"/>
+</map>

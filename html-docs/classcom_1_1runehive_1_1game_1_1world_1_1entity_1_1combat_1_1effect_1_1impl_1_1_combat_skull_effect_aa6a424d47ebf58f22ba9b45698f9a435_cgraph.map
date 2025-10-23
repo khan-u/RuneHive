@@ -1,0 +1,10 @@
+<map id="com.runehive.game.world.entity.combat.effect.impl.CombatSkullEffect.apply" name="com.runehive.game.world.entity.combat.effect.impl.CombatSkullEffect.apply">
+<area shape="poly" id="Node000001" title="Applies this effect to mob." alt="" coords="545,133,531,122,493,113,433,105,358,100,275,99,192,100,116,105,57,113,19,122,5,133,19,144,57,153,116,161,192,166,275,167,358,166,433,161,493,153,531,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html#ab9375a2c4a03fb08f1091f57b8ef70ba" title=" " alt="" coords="972,40,963,29,936,20,894,12,841,7,782,5,724,7,671,12,629,20,602,29,593,40,602,50,629,60,671,68,724,72,782,74,841,72,894,68,936,60,963,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,102,632,65,633,70,431,107"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1combat_1_1_skulling.html#a228d71ed85e986952c1ba1809ec52652" title=" " alt="" coords="947,133,939,122,916,113,879,105,833,100,782,99,731,100,685,105,649,113,625,122,617,133,625,144,649,153,685,161,731,166,782,167,833,166,879,161,916,153,939,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="545,130,601,130,601,136,545,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1combat_1_1_skulling.html#af0c18da743d660106562c71ce9f46f3c" title=" " alt="" coords="947,250,939,240,916,230,879,223,833,218,782,216,731,218,685,223,649,230,625,240,617,250,625,261,649,271,685,278,731,283,782,285,833,283,879,278,916,271,939,261"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="408,161,656,219,655,224,407,166"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="689,223,685,216,686,209,701,199,733,192,782,189,843,193,874,204,872,209,842,199,782,195,734,197,703,203,690,212,690,215,693,220"/>
+</map>

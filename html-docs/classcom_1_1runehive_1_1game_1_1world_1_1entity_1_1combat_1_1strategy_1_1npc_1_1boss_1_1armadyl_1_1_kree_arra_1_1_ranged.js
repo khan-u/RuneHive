@@ -1,0 +1,5 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_ranged =
+[
+    [ "Ranged", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_ranged.html#aa83bf05035908867942770aea3f11156", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_ranged.html#a45021d492d438731147e17ccf4ad8f3b", null ]
+];

@@ -1,0 +1,9 @@
+<map id="com.runehive.content.bot.PlayerBot.schedule" name="com.runehive.content.bot.PlayerBot.schedule">
+<area shape="poly" id="Node000001" title=" " alt="" coords="964,86,957,76,937,66,905,59,865,54,820,52,776,54,736,59,704,66,683,76,676,86,683,97,704,107,736,114,776,119,820,121,865,119,905,114,937,107,957,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1bot_1_1_player_bot.html#a840ad7a8c086ba4e14a758132603a314" title=" " alt="" coords="628,40,621,29,601,20,569,12,529,7,485,5,440,7,400,12,368,20,348,29,341,40,348,50,368,60,400,68,440,72,485,74,529,72,569,68,601,60,621,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="679,70,610,60,610,54,680,64"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1bot_1_1_player_bot.html#a90d198bed360025c7d9f81ead183e4f6" title=" " alt="" coords="628,133,621,122,601,113,569,105,529,100,485,99,440,100,400,105,368,113,348,122,341,133,348,144,368,153,400,161,440,166,485,167,529,166,569,161,601,153,621,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="680,109,610,118,610,113,679,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1bot_1_1_player_bot.html#a7a5e44de21eed63ea3a98f2f3abf6c68" title=" " alt="" coords="293,40,286,29,265,20,234,12,194,7,149,5,105,7,65,12,33,20,12,29,5,40,12,50,33,60,65,68,105,72,149,74,194,72,234,68,265,60,286,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,42,293,42,293,37,325,37"/>
+</map>

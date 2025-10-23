@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.scorpia.Scorpia.GuardianWaypoint" name="com.runehive.game.world.entity.combat.strategy.npc.boss.scorpia.Scorpia.GuardianWaypoint">
+<area shape="poly" id="Node000001" title=" " alt="" coords="696,247,679,236,630,226,554,219,457,214,351,212,244,214,148,219,71,226,22,236,5,247,22,257,71,267,148,274,244,279,351,281,457,279,554,274,630,267,679,257"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1movement_1_1waypoint_1_1_waypoint.html" title=" " alt="" coords="655,130,640,119,597,109,529,102,445,97,351,95,257,97,172,102,104,109,61,119,46,130,61,140,104,150,172,158,257,162,351,164,445,162,529,158,597,150,640,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,180,353,212,348,212,348,180"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="514,26,506,20,483,14,447,9,401,6,351,5,300,6,254,9,218,14,195,20,187,26,195,33,218,39,254,43,300,46,351,47,401,46,447,43,483,39,506,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,63,353,95,348,95,348,63"/>
+</map>

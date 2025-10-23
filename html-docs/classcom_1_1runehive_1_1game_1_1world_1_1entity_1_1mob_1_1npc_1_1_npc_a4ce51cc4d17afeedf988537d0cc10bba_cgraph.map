@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.npc.Npc.appendDeath" name="com.runehive.game.world.entity.mob.npc.Npc.appendDeath">
+<area shape="poly" id="Node000001" title="Handles the mob death." alt="" coords="450,133,439,122,407,113,358,105,296,100,228,99,159,100,97,105,48,113,16,122,5,133,16,144,48,153,97,161,159,166,228,167,296,166,358,161,407,153,439,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#aff6a224597d39a4c83b3b1d1cd884b20" title=" " alt="" coords="861,40,853,29,830,20,794,12,749,7,699,5,649,7,604,12,568,20,545,29,537,40,545,50,568,60,604,68,649,72,699,74,749,72,794,68,830,60,853,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,103,563,64,564,69,367,108"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#abe3ff6c712833abb8b32c251907a2d9c" title=" " alt="" coords="900,133,890,122,862,113,817,105,761,100,699,99,637,100,581,105,536,113,508,122,498,133,508,144,536,153,581,161,637,166,699,167,761,166,817,161,862,153,890,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="450,130,482,130,482,136,450,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a245edcc5b77cbc6d0a4aa8a0a0125d67" title="Submits a new event." alt="" coords="846,226,839,216,818,206,786,199,744,194,699,192,653,194,612,199,580,206,559,216,552,226,559,237,580,247,612,254,653,259,699,261,744,259,786,254,818,247,839,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="367,158,571,198,570,204,366,163"/>
+</map>

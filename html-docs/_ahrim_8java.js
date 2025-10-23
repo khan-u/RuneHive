@@ -1,0 +1,8 @@
+var _ahrim_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.Ahrim", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.Ahrim.Confuse", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim_1_1_confuse.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim_1_1_confuse" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.Ahrim.Curse", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim_1_1_curse.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim_1_1_curse" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.Ahrim.FireBlast", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim_1_1_fire_blast.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim_1_1_fire_blast" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.Ahrim.Weaken", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim_1_1_weaken.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_ahrim_1_1_weaken" ]
+];

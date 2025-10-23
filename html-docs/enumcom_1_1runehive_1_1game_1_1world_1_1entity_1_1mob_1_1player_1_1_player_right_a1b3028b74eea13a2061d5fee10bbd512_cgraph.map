@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.mob.player.PlayerRight.getCrown" name="com.runehive.game.world.entity.mob.player.PlayerRight.getCrown">
+<area shape="poly" id="Node000001" title="Gets the crown display." alt="" coords="474,110,462,100,429,90,377,83,312,78,240,76,167,78,102,83,50,90,17,100,5,110,17,121,50,131,102,138,167,143,240,145,312,143,377,138,429,131,462,121"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_right.html#aab09dcf8fa6041ddf475dfcc61b2fc15" title="Gets the crown display." alt="" coords="990,64,979,53,946,44,894,36,829,31,756,29,684,31,618,36,567,44,533,53,522,64,533,74,567,84,618,92,684,96,756,98,829,96,894,92,946,84,979,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,90,540,81,540,86,441,95"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_right.html#a45cda2961e7950802250a62adaac1f57" title="Constructs a new PlayerRight." alt="" coords="990,157,979,146,946,137,894,129,829,124,756,123,684,124,618,129,567,137,533,146,522,157,533,168,567,177,618,185,684,190,756,191,829,190,894,185,946,177,979,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="441,126,540,135,540,140,440,131"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="658,32,659,20,677,11,709,5,756,3,814,6,847,15,845,21,814,11,756,8,710,10,679,16,664,23,664,32"/>
+</map>

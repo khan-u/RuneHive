@@ -1,0 +1,5 @@
+<map id="com.runehive.content.event.InteractionEvent" name="com.runehive.content.event.InteractionEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="337,181,330,170,308,160,273,153,230,148,182,146,133,148,90,153,56,160,33,170,26,181,33,191,56,201,90,208,133,213,182,215,230,213,273,208,308,201,330,191"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1event_1_1_interaction_event_1_1_interaction_type.html" title=" " alt="" coords="358,40,349,29,324,20,285,12,236,7,182,5,127,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,127,72,182,74,236,72,285,68,324,60,349,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,89,184,146,179,146,179,89"/>
+</map>

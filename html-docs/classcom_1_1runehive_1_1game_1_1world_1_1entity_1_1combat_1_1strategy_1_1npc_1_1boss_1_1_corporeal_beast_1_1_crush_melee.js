@@ -1,0 +1,7 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_crush_melee =
+[
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_crush_melee.html#a1296bc7fc501cdb6085015ebd7d6fac4", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_crush_melee.html#a2f2d210343ec9e53337bc3abd518e33f", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_crush_melee.html#ad8d0f2bc0e14971425c71178f2c2afcd", null ],
+    [ "ANIMATION", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_corporeal_beast_1_1_crush_melee.html#aff84214c63222f2d280d01829cd751e3", null ]
+];

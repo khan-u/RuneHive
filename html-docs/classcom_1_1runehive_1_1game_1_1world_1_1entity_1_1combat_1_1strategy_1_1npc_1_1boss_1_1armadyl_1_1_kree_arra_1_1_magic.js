@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_magic =
+[
+    [ "Magic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_magic.html#a59d065676526ef9697785ddba2ddc53c", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_magic.html#a5a7db4aea879fd4134c2e28fa368fc20", null ],
+    [ "hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1armadyl_1_1_kree_arra_1_1_magic.html#a8aa4ebe678c03e41edf75d521d745f8f", null ]
+];

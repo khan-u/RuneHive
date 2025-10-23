@@ -1,0 +1,5 @@
+<map id="com.runehive.content.store.impl.DefaultStore.DefaultStore" name="com.runehive.content.store.impl.DefaultStore.DefaultStore">
+<area shape="poly" id="Node000001" title="Creates a new Store." alt="" coords="811,53,802,43,777,33,738,25,689,20,634,19,579,20,530,25,491,33,466,43,457,53,466,64,491,73,530,81,579,86,634,88,689,86,738,81,777,73,802,64"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1store_1_1impl_1_1_default_store_1_1_store_restock_task.html#a64b88919b354dbc157821264ba1906a9" title="Creates a new StoreRestockTask." alt="" coords="409,53,399,38,370,25,326,14,269,8,207,5,145,8,89,14,44,25,15,38,5,53,15,68,44,81,89,92,145,99,207,101,269,99,326,92,370,81,399,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="441,56,409,56,409,51,441,51"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.mob.Mob.walkTo" name="com.runehive.game.world.entity.mob.Mob.walkTo">
+<area shape="poly" id="Node000001" title=" " alt="" coords="407,64,398,53,369,44,325,36,269,31,206,29,144,31,88,36,44,44,15,53,5,64,15,74,44,84,88,92,144,96,206,98,269,96,325,92,369,84,398,74"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="121,32,122,20,137,11,165,5,206,3,257,6,285,15,283,20,256,11,206,8,166,10,139,16,126,23,126,32"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a385dc0248234fddaae1b093594d7bf58" title="The combat of the mob." alt="" coords="858,64,848,53,819,44,775,36,719,31,656,29,594,31,538,36,494,44,465,53,455,64,465,74,494,84,538,92,594,96,656,98,719,96,775,92,819,84,848,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,61,440,61,440,66,408,66"/>
+</map>

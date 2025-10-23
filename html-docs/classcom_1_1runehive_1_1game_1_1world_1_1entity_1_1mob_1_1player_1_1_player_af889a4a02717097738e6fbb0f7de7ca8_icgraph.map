@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.Player.setSpecialActivated" name="com.runehive.game.world.entity.mob.player.Player.setSpecialActivated">
+<area shape="poly" id="Node000001" title=" " alt="" coords="809,40,798,29,765,20,713,12,648,7,575,5,503,7,437,12,386,20,352,29,341,40,352,50,386,60,437,68,503,72,575,74,648,72,713,68,765,60,798,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1bot_1_1_player_bot.html#a90d198bed360025c7d9f81ead183e4f6" title=" " alt="" coords="293,40,286,29,265,20,234,12,194,7,149,5,105,7,65,12,33,20,12,29,5,40,12,50,33,60,65,68,105,72,149,74,194,72,234,68,265,60,286,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,42,293,42,293,37,325,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.PlayerAssistant.kdr" name="com.runehive.game.world.entity.mob.player.PlayerAssistant.kdr">
+<area shape="poly" id="Node000001" title="Gets the KDR of the player." alt="" coords="838,40,826,29,793,20,741,12,676,7,603,5,531,7,466,12,414,20,381,29,369,40,381,50,414,60,466,68,531,72,603,74,676,72,741,68,793,60,826,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1_profile_viewer.html#a5f68c17bf5cfc4cf17c20783c335d0a2" title="Gets the main strings to display." alt="" coords="321,40,313,29,291,20,256,12,212,7,163,5,114,7,70,12,35,20,13,29,5,40,13,50,35,60,70,68,114,72,163,74,212,72,256,68,291,60,313,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,42,322,42,322,37,353,37"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="com.runehive.content.skill.impl.slayer.SlayerTask" name="com.runehive.content.skill.impl.slayer.SlayerTask">
+<area shape="poly" id="Node000001" title="Holds all the slayer task data." alt="" coords="1454,133,1444,122,1415,113,1370,105,1313,100,1249,99,1186,100,1129,105,1084,113,1055,122,1045,133,1055,144,1084,153,1129,161,1186,166,1249,167,1313,166,1370,161,1415,153,1444,144"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_task_interface.html" title=" " alt="" coords="941,40,931,29,902,20,856,12,799,7,736,5,673,7,616,12,571,20,542,29,532,40,542,50,571,60,616,68,673,72,736,74,799,72,856,68,902,60,931,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="892,65,1109,105,1108,110,891,71"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_task_interface.html" title=" " alt="" coords="415,40,404,29,375,20,330,12,273,7,210,5,147,7,90,12,44,20,15,29,5,40,15,50,44,60,90,68,147,72,210,74,273,72,330,68,375,60,404,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="430,37,531,37,531,42,430,42"/>
+<area shape="poly" id="Node000004" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_task_difficulty.html" title="The slayer task difficulties." alt="" coords="941,133,931,122,902,113,856,105,799,100,736,99,673,100,616,105,571,113,542,122,532,133,542,144,571,153,616,161,673,166,736,167,799,166,856,161,902,153,931,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="956,130,1044,130,1044,136,956,136"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="926,226,917,216,890,206,848,199,795,194,736,192,677,194,625,199,583,206,556,216,546,226,556,237,583,247,625,254,677,259,736,261,795,259,848,254,890,247,917,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="886,197,1108,156,1109,161,887,202"/>
+</map>

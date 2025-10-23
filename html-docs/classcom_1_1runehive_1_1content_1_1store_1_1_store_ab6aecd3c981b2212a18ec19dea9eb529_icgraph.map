@@ -1,0 +1,5 @@
+<map id="com.runehive.content.store.Store.getFeaturedShops" name="com.runehive.content.store.Store.getFeaturedShops">
+<area shape="poly" id="Node000001" title=" " alt="" coords="713,40,706,29,684,20,650,12,608,7,560,5,513,7,470,12,437,20,415,29,407,40,415,50,437,60,470,68,513,72,560,74,608,72,650,68,684,60,706,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1store_1_1impl_1_1_personal_store.html#a0092cf1b5c6ec3b6c51129ded436f208" title="Opens the panel where a player can search for shops." alt="" coords="359,40,351,29,326,20,286,12,237,7,182,5,128,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,128,72,182,74,237,72,286,68,326,60,351,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="392,42,360,42,360,37,392,37"/>
+</map>

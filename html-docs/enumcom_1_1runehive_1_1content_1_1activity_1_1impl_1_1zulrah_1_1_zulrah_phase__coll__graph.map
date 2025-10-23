@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.zulrah.ZulrahPhase" name="com.runehive.content.activity.impl.zulrah.ZulrahPhase">
+<area shape="poly" id="Node000001" title="Handles all the activity phases for zulrah." alt="" coords="446,299,435,288,404,279,355,271,294,266,225,264,157,266,96,271,47,279,16,288,5,299,16,309,47,319,96,327,157,331,225,333,294,331,355,327,404,319,435,309"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1activity_1_1impl_1_1zulrah_1_1_phase_interface.html" title=" " alt="" coords="446,181,435,170,404,160,355,153,294,148,225,146,157,148,96,153,47,160,16,170,5,181,16,191,47,201,96,208,157,213,225,215,294,213,355,208,404,201,435,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,231,228,264,223,264,223,231"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1activity_1_1impl_1_1zulrah_1_1_phase_interface.html" title="The Zulrah phase interface." alt="" coords="446,40,435,29,404,20,355,12,294,7,225,5,157,7,96,12,47,20,16,29,5,40,16,50,47,60,96,68,157,72,225,74,294,72,355,68,404,60,435,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,89,228,146,223,146,223,89"/>
+</map>

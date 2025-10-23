@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.SkillAction.start" name="com.runehive.content.skill.SkillAction.start">
+<area shape="poly" id="Node000001" title="Attempts to start the skill." alt="" coords="301,86,294,76,273,66,240,59,199,54,153,52,108,54,66,59,34,66,13,76,5,86,13,97,34,107,66,114,108,119,153,121,199,119,240,114,273,107,294,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1_skill_action.html#ae16fba0723c2286f9423c870a3add81a" title="Determines if this action can be initialized." alt="" coords="648,40,640,29,619,20,587,12,545,7,500,5,454,7,413,12,380,20,359,29,351,40,359,50,380,60,413,68,454,72,500,74,545,72,587,68,619,60,640,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,66,355,57,356,62,282,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="650,133,642,122,621,113,588,105,546,100,500,99,453,100,411,105,378,113,357,122,349,133,357,144,378,153,411,161,453,166,500,167,546,166,588,161,621,153,642,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,101,354,111,354,116,282,106"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.dialogue.impl.RoyalKingDialogue.store" name="com.runehive.content.dialogue.impl.RoyalKingDialogue.store">
+<area shape="poly" id="Node000001" title=" " alt="" coords="838,40,828,29,800,20,757,12,702,7,642,5,581,7,526,12,483,20,455,29,446,40,455,50,483,60,526,68,581,72,642,74,702,72,757,68,800,60,828,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1impl_1_1_royal_king_dialogue.html#ad73a89549203f3ca80278e2499e482e3" title="Sends a player a dialogue." alt="" coords="398,40,388,29,360,20,317,12,262,7,201,5,141,7,86,12,43,20,15,29,5,40,15,50,43,60,86,68,141,72,201,74,262,72,317,68,360,60,388,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,42,398,42,398,37,430,37"/>
+</map>

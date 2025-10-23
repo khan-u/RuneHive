@@ -1,0 +1,7 @@
+<map id="com.runehive.content.clanchannel.ClanMember.ClanMember" name="com.runehive.content.clanchannel.ClanMember.ClanMember">
+<area shape="poly" id="Node000001" title="Constructs a new ClanMember." alt="" coords="812,86,803,76,776,66,734,59,681,54,623,52,564,54,511,59,469,66,442,76,433,86,442,97,469,107,511,114,564,119,623,121,681,119,734,114,776,107,803,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1_clan_member.html#a86cd73f7657e6566f305195b51657cab" title="Handles messaging the clan member." alt="" coords="385,40,376,29,349,20,307,12,254,7,195,5,136,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,136,72,195,74,254,72,307,68,349,60,376,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,70,358,60,359,55,444,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1_clan_member.html#a4d33499377f73815b1705d73e25a0ac9" title=" " alt="" coords="385,133,376,122,349,113,307,105,254,100,195,99,136,100,84,105,42,113,15,122,5,133,15,144,42,153,84,161,136,166,195,167,254,166,307,161,349,153,376,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="444,109,359,118,358,113,443,103"/>
+</map>

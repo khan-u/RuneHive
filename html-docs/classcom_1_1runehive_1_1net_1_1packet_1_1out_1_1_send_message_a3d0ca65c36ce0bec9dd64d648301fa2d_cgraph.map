@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.out.SendMessage.SendMessage" name="com.runehive.net.packet.out.SendMessage.SendMessage">
+<area shape="poly" id="Node000001" title=" " alt="" coords="332,40,324,29,301,20,265,12,219,7,169,5,118,7,73,12,37,20,13,29,5,40,13,50,37,60,73,68,118,72,169,74,219,72,265,68,301,60,324,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1util_1_1_message_color.html#a5d9f0bf91d725585eb210ae239d45b02" title="Gets the color." alt="" coords="679,40,672,29,651,20,618,12,576,7,530,5,484,7,442,12,409,20,388,29,380,40,388,50,409,60,442,68,484,72,530,74,576,72,618,68,651,60,672,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="333,37,365,37,365,42,333,42"/>
+</map>

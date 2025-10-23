@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.item.OccultNecklaceListener.modifyDamage" name="com.runehive.game.world.entity.combat.attack.listener.item.OccultNecklaceListener.modifyDamage">
+<area shape="poly" id="Node000001" title=" " alt="" coords="628,40,613,29,569,20,500,12,413,7,317,5,220,7,134,12,65,20,21,29,5,40,21,50,65,60,134,68,220,72,317,74,413,72,500,68,569,60,613,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a0a21470fb2a782842e6a318d785955a3" title="The combat strategy of the mob." alt="" coords="1078,40,1068,29,1040,20,995,12,939,7,877,5,815,7,759,12,714,20,686,29,676,40,686,50,714,60,759,68,815,72,877,74,939,72,995,68,1040,60,1068,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="629,37,660,37,660,42,629,42"/>
+</map>

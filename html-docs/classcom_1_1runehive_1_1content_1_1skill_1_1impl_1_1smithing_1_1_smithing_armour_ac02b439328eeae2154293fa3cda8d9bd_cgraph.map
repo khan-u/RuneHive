@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.smithing.SmithingArmour.onProduce" name="com.runehive.content.skill.impl.smithing.SmithingArmour.onProduce">
+<area shape="poly" id="Node000001" title="The method executed upon production of an item." alt="" coords="440,80,429,69,398,60,350,52,290,47,223,45,155,47,95,52,47,60,16,69,5,80,16,90,47,100,95,108,155,112,223,114,290,112,350,108,398,100,429,90"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a2fc8d15b55a8f0a55a20c0b78f77007c" title="Cancels all subsequent executions." alt="" coords="887,40,877,33,849,27,805,23,749,20,688,19,626,20,570,23,526,27,498,33,488,40,498,46,526,52,570,57,626,60,688,61,749,60,805,57,849,52,877,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,61,516,52,516,57,415,66"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="838,120,830,109,809,100,776,92,734,87,688,85,641,87,599,92,566,100,545,109,537,120,545,130,566,140,599,148,641,152,688,154,734,152,776,148,809,140,830,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="415,94,531,104,531,109,414,99"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#aef9b4245ff3b594dd844c44da99d51a3" title="A function executed on cancellation." alt="" coords="1294,40,1285,29,1259,20,1220,12,1170,7,1114,5,1059,7,1009,12,969,20,944,29,935,40,944,50,969,60,1009,68,1059,72,1114,74,1170,72,1220,68,1259,60,1285,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="887,37,920,37,920,42,887,42"/>
+</map>

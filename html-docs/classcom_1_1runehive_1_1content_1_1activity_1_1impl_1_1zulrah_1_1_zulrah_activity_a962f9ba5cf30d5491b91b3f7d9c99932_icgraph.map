@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.zulrah.ZulrahActivity.cleanup" name="com.runehive.content.activity.impl.zulrah.ZulrahActivity.cleanup">
+<area shape="poly" id="Node000001" title="Cleans up the activity when finished." alt="" coords="934,86,923,76,892,66,843,59,782,54,714,52,646,54,584,59,536,66,504,76,494,86,504,97,536,107,584,114,646,119,714,121,782,119,843,114,892,107,923,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1zulrah_1_1_zulrah_activity.html#a69afc905ee181852e959f30bf0a64823" title="Finishes the activity." alt="" coords="446,40,435,29,404,20,355,12,294,7,225,5,157,7,96,12,47,20,16,29,5,40,16,50,47,60,96,68,157,72,225,74,294,72,355,68,404,60,435,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,70,414,60,415,55,510,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1zulrah_1_1_zulrah_activity.html#a9597564a743915831f83b8aba455acfd" title="Called when the player changes region." alt="" coords="446,133,435,122,404,113,355,105,294,100,225,99,157,100,96,105,47,113,16,122,5,133,16,144,47,153,96,161,157,166,225,167,294,166,355,161,404,153,435,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="510,109,415,118,414,112,510,103"/>
+</map>

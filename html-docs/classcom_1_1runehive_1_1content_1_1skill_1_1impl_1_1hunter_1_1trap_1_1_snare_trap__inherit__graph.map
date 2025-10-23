@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.hunter.trap.SnareTrap" name="com.runehive.content.skill.impl.hunter.trap.SnareTrap">
+<area shape="poly" id="Node000001" title=" " alt="" coords="484,130,473,119,440,109,390,102,326,97,256,95,185,97,122,102,71,109,39,119,28,130,39,140,71,150,122,158,185,162,256,164,326,162,390,158,440,150,473,140"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1hunter_1_1trap_1_1_trap.html" title=" " alt="" coords="506,26,494,20,459,14,403,9,333,6,256,5,178,6,109,9,53,14,18,20,5,26,18,33,53,39,109,43,178,46,256,47,333,46,403,43,459,39,494,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,63,259,95,253,95,253,63"/>
+</map>

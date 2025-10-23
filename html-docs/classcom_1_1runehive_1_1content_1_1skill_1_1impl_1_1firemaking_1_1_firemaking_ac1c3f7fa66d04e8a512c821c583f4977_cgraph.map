@@ -1,0 +1,10 @@
+<map id="com.runehive.content.skill.impl.firemaking.Firemaking.Firemaking" name="com.runehive.content.skill.impl.firemaking.Firemaking.Firemaking">
+<area shape="poly" id="Node000001" title=" " alt="" coords="460,64,449,53,416,44,366,36,303,31,233,29,162,31,99,36,49,44,16,53,5,64,16,74,49,84,99,92,162,96,233,98,303,96,366,92,416,84,449,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#af7d5922b9dc2d188abf081584f1d7ef0" title="Constructs a new Skill." alt="" coords="906,64,896,53,868,44,824,36,768,31,707,29,645,31,590,36,546,44,518,53,508,64,518,74,546,84,590,92,645,96,707,98,768,96,824,92,868,84,896,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="460,61,492,61,492,66,460,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a36501346a8b435a10918cd89a7677cc0" title="Gets the level for a given experience amount." alt="" coords="1351,64,1342,53,1314,44,1269,36,1214,31,1153,29,1091,31,1036,36,992,44,963,53,954,64,963,74,992,84,1036,92,1091,96,1153,98,1214,96,1269,92,1314,84,1342,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="906,61,938,61,938,66,906,66"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a8ccd3bb8873995593a36bebea52b5b9a" title="Performs a binary search to quickly search for the level at the given experience." alt="" coords="1797,64,1788,53,1759,44,1715,36,1660,31,1598,29,1537,31,1482,36,1437,44,1409,53,1399,64,1409,74,1437,84,1482,92,1537,96,1598,98,1660,96,1715,92,1759,84,1788,74"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1352,61,1384,61,1384,66,1352,66"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="1513,32,1515,20,1530,11,1558,5,1598,3,1648,6,1676,15,1675,20,1647,11,1598,8,1558,10,1532,16,1519,23,1519,32"/>
+</map>

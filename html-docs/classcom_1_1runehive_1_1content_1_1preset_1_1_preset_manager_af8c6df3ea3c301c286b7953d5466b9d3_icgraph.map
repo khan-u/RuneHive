@@ -1,0 +1,5 @@
+<map id="com.runehive.content.preset.PresetManager.equipment" name="com.runehive.content.preset.PresetManager.equipment">
+<area shape="poly" id="Node000001" title=" " alt="" coords="691,40,683,29,660,20,625,12,581,7,531,5,482,7,438,12,402,20,380,29,372,40,380,50,402,60,438,68,482,72,531,74,581,72,625,68,660,60,683,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1preset_1_1_preset_manager.html#ad341cefcec9026a5e01e1f68e879e21c" title="Activates the preset." alt="" coords="324,40,316,29,294,20,258,12,214,7,165,5,115,7,71,12,36,20,13,29,5,40,13,50,36,60,71,68,115,72,165,74,214,72,258,68,294,60,316,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="356,42,325,42,325,37,356,37"/>
+</map>

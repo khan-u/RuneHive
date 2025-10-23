@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.warriorguild.WarriorGuild.summon" name="com.runehive.content.activity.impl.warriorguild.WarriorGuild.summon">
+<area shape="poly" id="Node000001" title="Handles summoning the animated npc." alt="" coords="1047,40,1035,29,1000,20,945,12,875,7,799,5,722,7,653,12,598,20,562,29,550,40,562,50,598,60,653,68,722,72,799,74,875,72,945,68,1000,60,1035,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1warriorguild_1_1_warrior_guild.html#a49bc3eafe5c115265c94200f93aa7255" title=" " alt="" coords="502,40,490,29,455,20,400,12,331,7,254,5,177,7,108,12,53,20,17,29,5,40,17,50,53,60,108,68,177,72,254,74,331,72,400,68,455,60,490,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="535,42,503,42,503,37,535,37"/>
+</map>

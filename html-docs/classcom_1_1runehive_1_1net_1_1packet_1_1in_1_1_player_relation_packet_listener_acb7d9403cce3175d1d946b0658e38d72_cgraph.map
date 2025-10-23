@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.in.PlayerRelationPacketListener.handlePacket" name="com.runehive.net.packet.in.PlayerRelationPacketListener.handlePacket">
+<area shape="poly" id="Node000001" title="Handles the packet that has just been received." alt="" coords="409,53,399,38,370,25,326,14,269,8,207,5,145,8,89,14,44,25,15,38,5,53,15,68,44,81,89,92,145,99,207,101,269,99,326,92,370,81,399,68"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a3505a700117a8389b24f27e50de411ca" title=" " alt="" coords="925,53,914,43,881,33,829,25,764,20,691,19,619,20,553,25,502,33,468,43,457,53,468,64,502,73,553,81,619,86,691,88,764,86,829,81,881,73,914,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,51,441,51,441,56,409,56"/>
+</map>

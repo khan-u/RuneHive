@@ -1,0 +1,5 @@
+<map id="com.runehive.content.store.currency.impl.ItemCurrency" name="com.runehive.content.store.currency.impl.ItemCurrency">
+<area shape="poly" id="Node000001" title="The currency that provides basic functionality for all tangible currencies." alt="" coords="450,157,439,146,407,136,358,129,296,124,228,122,159,124,97,129,48,136,16,146,5,157,16,167,48,177,97,184,159,189,228,191,296,189,358,184,407,177,439,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1store_1_1currency_1_1_currency.html" title="The parent class of all currencies that provides basic functionality for any general currency." alt="" coords="426,40,416,29,388,20,344,12,289,7,228,5,166,7,111,12,67,20,39,29,29,40,39,50,67,60,111,68,166,72,228,74,289,72,344,68,388,60,416,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,90,230,122,225,122,225,90"/>
+</map>

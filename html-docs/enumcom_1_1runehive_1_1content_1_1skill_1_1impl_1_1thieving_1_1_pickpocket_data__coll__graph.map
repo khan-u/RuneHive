@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.thieving.PickpocketData" name="com.runehive.content.skill.impl.thieving.PickpocketData">
+<area shape="poly" id="Node000001" title="Holds all the data for pickpocketing Npcs." alt="" coords="434,245,424,234,393,225,346,217,286,212,220,211,154,212,94,217,46,225,16,234,5,245,16,256,46,265,94,273,154,278,220,279,286,278,346,273,393,265,424,256"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="418,118,408,111,380,105,336,101,281,98,220,97,159,98,103,101,59,105,31,111,22,118,31,124,59,130,103,135,159,138,220,139,281,138,336,135,380,130,408,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,154,222,210,217,210,217,154"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="287,26,284,20,274,14,259,9,241,6,220,5,199,6,180,9,165,14,156,20,152,26,156,33,165,39,180,43,199,46,220,47,241,46,259,43,274,39,284,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,63,222,96,217,96,217,63"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.CombatDamage.getNpcKiller" name="com.runehive.game.world.entity.combat.CombatDamage.getNpcKiller">
+<area shape="poly" id="Node000001" title="Determines which player in the backing collection has inflicted the most damage." alt="" coords="437,86,427,76,396,66,348,59,288,54,221,52,155,54,94,59,47,66,16,76,5,86,16,97,47,107,94,114,155,119,221,121,288,119,348,114,396,107,427,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_damage_1_1_damage_counter.html#aed28e58a280727f1cb80fdb304262282" title="Gets the amount of damage within this counter." alt="" coords="966,40,955,29,920,20,867,12,800,7,726,5,651,7,584,12,531,20,497,29,485,40,497,50,531,60,584,68,651,72,726,74,800,72,867,68,920,60,955,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,66,507,57,508,63,409,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_damage_1_1_damage_counter.html#a7baecd650fdea80487c184cf3d474973" title="Determines if this counter has timed out or not." alt="" coords="961,133,949,122,916,113,864,105,798,100,726,99,653,100,588,105,536,113,502,122,491,133,502,144,536,153,588,161,653,166,726,167,798,166,864,161,916,153,949,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="409,101,511,111,511,116,409,106"/>
+</map>

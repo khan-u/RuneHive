@@ -1,0 +1,12 @@
+<map id="com.runehive.content.dialogue.impl.RoyalKingDialogue.store" name="com.runehive.content.dialogue.impl.RoyalKingDialogue.store">
+<area shape="poly" id="Node000001" title=" " alt="" coords="398,86,388,76,360,66,317,59,262,54,201,52,141,54,86,59,43,66,15,76,5,86,15,97,43,107,86,114,141,119,201,121,262,119,317,114,360,107,388,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#ac4da4d5df89a0d0305cdaf81085cd6a2" title="The player that owns this factory." alt="" coords="790,40,781,29,757,20,719,12,671,7,618,5,564,7,516,12,478,20,454,29,446,40,454,50,478,60,516,68,564,72,618,74,671,72,719,68,757,60,781,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="368,65,451,56,452,61,368,70"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#af9f2ccdd07b0e88b0e7c40192a9afa07" title="Appends the OptionDialogue onto the current dialogue chain." alt="" coords="790,133,781,122,757,113,719,105,671,100,618,99,564,100,516,105,478,113,454,122,446,133,454,144,478,153,516,161,564,166,618,167,671,166,719,161,757,153,781,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="368,102,452,112,451,117,368,108"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#a8979431ba1fa2913a9ed65bbf8e4dd3f" title="Appends a chain to this factory." alt="" coords="1182,97,1173,86,1149,77,1111,69,1063,64,1010,63,957,64,909,69,871,77,846,86,838,97,846,108,871,117,909,125,957,130,1010,131,1063,130,1111,125,1149,117,1173,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="774,116,837,110,838,116,775,121"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#aec64ffdeed4c31dfe340a41430f50892" title="Creates a new DialogueFactory." alt="" coords="1598,133,1589,122,1563,113,1522,105,1471,100,1414,99,1357,100,1306,105,1265,113,1239,122,1230,133,1239,144,1265,153,1306,161,1357,166,1414,167,1471,166,1522,161,1563,153,1589,144"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="784,139,838,141,1010,144,1182,141,1220,140,1220,145,1182,146,1010,149,838,146,784,145"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1168,108,1232,114,1232,120,1167,114"/>
+</map>

@@ -1,0 +1,5 @@
+var namespacecom_1_1runehive_1_1content_1_1activity_1_1impl_1_1battleground =
+[
+    [ "BattlegroundLobby", "classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1battleground_1_1_battleground_lobby.html", "classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1battleground_1_1_battleground_lobby" ],
+    [ "BattlegroundTeam", "classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1battleground_1_1_battleground_team.html", "classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1battleground_1_1_battleground_team" ]
+];

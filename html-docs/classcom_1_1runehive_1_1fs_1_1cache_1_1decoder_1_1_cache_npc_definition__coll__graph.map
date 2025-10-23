@@ -1,0 +1,11 @@
+<map id="com.runehive.fs.cache.decoder.CacheNpcDefinition" name="com.runehive.fs.cache.decoder.CacheNpcDefinition">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1715,65,1706,54,1682,44,1643,37,1595,32,1541,30,1488,32,1439,37,1401,44,1376,54,1368,65,1376,75,1401,85,1439,93,1488,97,1541,99,1595,97,1643,93,1682,85,1706,75"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1decoder_1_1_buffer.html" title=" " alt="" coords="797,65,788,54,764,44,725,37,677,32,623,30,570,32,521,37,483,44,458,54,450,65,458,75,483,85,521,93,570,97,623,99,677,97,725,93,764,85,788,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="784,41,885,33,1058,27,1232,33,1390,45,1389,50,1232,38,1058,32,885,38,784,46"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1decoder_1_1_cache_npc_definition.html" title=" " alt="" coords="1232,130,1223,119,1199,110,1160,102,1112,97,1058,96,1005,97,956,102,918,110,893,119,885,130,893,141,918,150,956,158,1005,163,1058,164,1112,163,1160,158,1199,150,1223,141"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="778,85,919,106,918,112,777,90"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1codec_1_1_isaac_cipher.html" title="An implementation of an ISAAC cipher." alt="" coords="334,65,326,54,303,44,266,37,220,32,170,30,119,32,73,37,37,44,13,54,5,65,13,75,37,85,73,93,119,97,170,99,220,97,266,93,303,85,326,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="349,62,450,62,450,67,349,67"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1217,106,1397,81,1397,87,1218,111"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="1021,80,1035,72,1058,69,1078,71,1092,77,1100,86,1102,96,1096,97,1095,88,1089,81,1077,76,1058,74,1037,77,1024,84"/>
+</map>

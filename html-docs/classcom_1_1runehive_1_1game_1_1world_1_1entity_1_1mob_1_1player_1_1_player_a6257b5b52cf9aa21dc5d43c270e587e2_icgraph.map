@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.player.Player.getSceneBaseChunkX" name="com.runehive.game.world.entity.mob.player.Player.getSceneBaseChunkX">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1668,40,1657,29,1624,20,1572,12,1506,7,1434,5,1362,7,1296,12,1244,20,1211,29,1200,40,1211,50,1244,60,1296,68,1362,72,1434,74,1506,72,1572,68,1624,60,1657,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1camera_1_1_dialogue_camera_director.html#a71da127c1ac081b56db1e00ee7018f70" title="Place camera behind &#39;from&#39; and turn toward &#39;to&#39;." alt="" coords="1152,40,1138,29,1099,20,1039,12,962,7,877,5,792,7,716,12,655,20,616,29,603,40,616,50,655,60,716,68,792,72,877,74,962,72,1039,68,1099,60,1138,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1184,42,1152,42,1152,37,1184,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1camera_1_1_dialogue_camera_director.html#a4196040f12e22d77c507cd3f3e5cb2a9" title="Recompute and send camera on each tick while active." alt="" coords="555,40,541,29,502,20,441,12,365,7,280,5,195,7,119,12,58,20,19,29,5,40,19,50,58,60,119,68,195,72,280,74,365,72,441,68,502,60,541,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="587,42,555,42,555,37,587,37"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="com.runehive.game.world.World.sendObjectAnimation" name="com.runehive.game.world.World.sendObjectAnimation">
+<area shape="poly" id="Node000001" title="Sends a world object animation." alt="" coords="1234,110,1226,100,1204,90,1170,83,1126,78,1078,76,1030,78,987,83,952,90,930,100,923,110,930,121,952,131,987,138,1030,143,1078,145,1126,143,1170,138,1204,131,1226,121"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1lms_1_1_l_m_s_game.html#a41cffa110dcbeb3f1559409207e4dfb4" title="Handles rolling the loot chest." alt="" coords="815,64,808,53,787,44,755,36,714,31,669,29,624,31,583,36,551,44,530,53,523,64,530,74,551,84,583,92,624,96,669,98,714,96,755,92,787,84,808,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="924,96,801,81,802,76,924,90"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1combat_1_1cannon_1_1_cannon_manager.html#aa63fb2af4b398ea31788dc0a6a55656c" title=" " alt="" coords="875,157,864,146,835,137,790,129,733,124,669,123,606,124,549,129,503,137,474,146,464,157,474,168,503,177,549,185,606,190,669,191,733,190,790,185,835,177,864,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="924,131,841,140,840,135,924,125"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="740,21,715,12,669,8,631,10,607,16,596,24,597,33,592,34,591,22,605,11,630,5,669,3,717,6,742,16"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1combat_1_1cannon_1_1_cannon_fire_action.html#a71e3a86c59d61b81a211f0c7de91509e" title="A function representing the unit of work that will be carried out." alt="" coords="416,157,406,146,377,137,331,129,274,124,211,123,147,124,90,129,45,137,15,146,5,157,15,168,45,177,90,185,147,190,211,191,274,190,331,185,377,177,406,168"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="448,160,416,160,416,154,448,154"/>
+</map>

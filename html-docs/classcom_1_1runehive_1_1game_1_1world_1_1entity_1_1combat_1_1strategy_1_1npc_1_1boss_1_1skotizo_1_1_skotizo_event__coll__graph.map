@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.SkotizoEvent" name="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.SkotizoEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="693,154,676,143,627,133,551,126,455,121,349,119,243,121,147,126,71,133,22,143,5,154,22,164,71,174,147,182,243,186,349,188,455,186,551,182,627,174,676,164"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="341,26,333,20,310,14,273,9,228,6,177,5,127,6,81,9,45,14,22,20,14,26,22,33,45,39,81,43,127,46,177,47,228,46,273,43,310,39,333,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,54,305,117,302,121,215,59"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_stopwatch.html" title=" " alt="" coords="678,26,670,20,648,14,613,9,570,6,521,5,473,6,429,9,395,14,372,20,365,26,372,33,395,39,429,43,473,46,521,47,570,46,613,43,648,39,670,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="483,59,397,121,394,117,480,54"/>
+</map>

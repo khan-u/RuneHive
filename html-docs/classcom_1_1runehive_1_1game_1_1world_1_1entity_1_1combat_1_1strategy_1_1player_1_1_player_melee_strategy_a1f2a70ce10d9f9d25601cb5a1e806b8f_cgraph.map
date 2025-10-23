@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.PlayerMeleeStrategy.getAttackDistance" name="com.runehive.game.world.entity.combat.strategy.player.PlayerMeleeStrategy.getAttackDistance">
+<area shape="poly" id="Node000001" title=" " alt="" coords="587,40,573,29,531,20,467,12,386,7,296,5,206,7,125,12,61,20,20,29,5,40,20,50,61,60,125,68,206,72,296,74,386,72,467,68,531,60,573,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1_fight_type.html#a5889ef95d96c210d9a7b3677330519f5" title="Gets the attack distance." alt="" coords="1132,40,1120,29,1084,20,1030,12,960,7,883,5,807,7,737,12,682,20,647,29,635,40,647,50,682,60,737,68,807,72,883,74,960,72,1030,68,1084,60,1120,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="588,37,619,37,619,42,588,42"/>
+</map>

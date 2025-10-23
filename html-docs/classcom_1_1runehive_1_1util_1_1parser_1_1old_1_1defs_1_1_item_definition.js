@@ -1,0 +1,27 @@
+var classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition =
+[
+    [ "ItemDefinition", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a1b300636cdbb1b08af2696f892684602", null ],
+    [ "get", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a315ad7889921e0af08a4a0bda843de9d", null ],
+    [ "getDestroyMessage", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a6a96e9c3435bd16e55b03e5f9af62b2b", null ],
+    [ "getExamine", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#aa32ea935f66d7e8760dad693c7666ec3", null ],
+    [ "getId", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#af57aee722a6f65304d2a61e5407978a8", null ],
+    [ "getName", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a37da85417ccc381fe98496390ddf7a9e", null ],
+    [ "isNoted", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a8967c88a6feb454cb5a8d0c4411a3d8e", null ],
+    [ "base_value", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a5ecd0913184538a89e16453da73b766e", null ],
+    [ "DEFINITIONS", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#ae123ea92d1fc8c622de2e8532100e8c7", null ],
+    [ "destroyMessage", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a7e1b9080a77576576b9595470f1f4806", null ],
+    [ "droppable", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a1ec3fc9557b9a7f503b780812afbd898", null ],
+    [ "examine", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a4f169b6dbc1d3099bdeaf5806be13eb9", null ],
+    [ "highAlch", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#ac7f193bb4b470da613dc0c981aa58974", null ],
+    [ "id", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a1244aafd2381c9a1271e5761ad58102a", null ],
+    [ "lowAlch", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a5f5291fe7f2092595fe1f16cbed06a95", null ],
+    [ "members", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#ae74cccf236453f5b15b8f6cc77683d23", null ],
+    [ "name", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a0e9789a74c4844fba400beaaa526f490", null ],
+    [ "noteable", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#aa9146839bf25505968a11ca4283bdd24", null ],
+    [ "noted", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a91d52c255d879887e9b808734a19971c", null ],
+    [ "notedId", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#af4e3c8480940e298b35fab3d61540f16", null ],
+    [ "stackable", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#ad673f0ad18b5e6fc4d154f47b5c504d6", null ],
+    [ "street_value", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a564a3318457feee7da7749ac5de0cc5b", null ],
+    [ "tradeable", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a57b644225a691168d6f85d89f46190aa", null ],
+    [ "weight", "classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_item_definition.html#a48bb4db6e3961edb9a33eda65d72d931", null ]
+];

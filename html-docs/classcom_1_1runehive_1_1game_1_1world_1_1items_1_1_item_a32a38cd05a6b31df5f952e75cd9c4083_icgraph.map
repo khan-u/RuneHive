@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.items.Item.getLowAlch" name="com.runehive.game.world.items.Item.getLowAlch">
+<area shape="poly" id="Node000001" title=" " alt="" coords="920,86,911,76,886,66,847,59,797,54,743,52,688,54,639,59,600,66,574,76,566,86,574,97,600,107,639,114,688,119,743,121,797,119,847,114,886,107,911,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item_comparator.html#aa11016bd47354304dccc017495e6d4a0" title=" " alt="" coords="439,40,430,29,405,20,366,12,316,7,262,5,207,7,157,12,118,20,93,29,85,40,93,50,118,60,157,68,207,72,262,74,316,72,366,68,405,60,430,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="568,72,420,58,421,52,569,67"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1magic_1_1spell_1_1impl_1_1_low_alchemy.html#ab03aecbaca47565436d1802406f3ab7c" title="Executes the magic spell." alt="" coords="518,133,505,122,469,113,412,105,341,100,262,99,182,100,111,105,54,113,18,122,5,133,18,144,54,153,111,161,182,166,262,167,341,166,412,161,469,153,505,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="569,106,471,115,470,110,568,101"/>
+</map>

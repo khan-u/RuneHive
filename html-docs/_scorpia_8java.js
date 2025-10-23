@@ -1,0 +1,7 @@
+var _scorpia_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.scorpia.Scorpia", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.scorpia.Scorpia.Guardian", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_guardian.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_guardian" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.scorpia.Scorpia.GuardianWaypoint", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_decabf35de1bb7a0c181a5631833eed3.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_decabf35de1bb7a0c181a5631833eed3" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.scorpia.Scorpia.Melee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_melee.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1scorpia_1_1_scorpia_1_1_melee" ]
+];

@@ -1,0 +1,9 @@
+<map id="java/com/runehive/game/world/entity/combat/attack/listener/other/prayer/RigourListener.java" name="java/com/runehive/game/world/entity/combat/attack/listener/other/prayer/RigourListener.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="966,53,955,38,924,25,876,14,815,8,748,5,681,8,620,14,572,25,541,38,530,53,541,68,572,81,620,92,681,99,748,101,815,99,876,92,924,81,955,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="437,183,427,173,396,163,348,156,288,151,221,149,155,151,94,156,47,163,16,173,5,183,16,194,47,204,94,211,155,216,221,218,288,216,348,211,396,204,427,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="604,92,353,153,351,148,603,87"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="1035,183,1021,173,980,163,917,156,837,151,748,149,659,151,579,156,515,163,475,173,461,183,475,194,515,204,579,211,659,216,748,218,837,216,917,211,980,204,1021,194"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="751,102,751,133,745,133,745,102"/>
+<area shape="poly" id="Node000004" title=" " alt="" coords="1506,183,1495,177,1463,171,1414,166,1351,163,1283,162,1214,163,1152,166,1102,171,1071,177,1060,183,1071,190,1102,196,1152,200,1214,203,1283,204,1351,203,1414,200,1463,196,1495,190"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="894,87,1189,157,1188,162,893,92"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.tradingpost.TradingPost.alertSeller" name="com.runehive.content.tradingpost.TradingPost.alertSeller">
+<area shape="poly" id="Node000001" title=" " alt="" coords="374,40,364,29,338,20,298,12,246,7,189,5,133,7,81,12,40,20,14,29,5,40,14,50,40,60,81,68,133,72,189,74,246,72,298,68,338,60,364,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a590d2ef2c73cff5df6003fe2440f317d" title="Gets a player by name." alt="" coords="716,40,709,29,688,20,655,12,614,7,569,5,523,7,482,12,450,20,429,29,422,40,429,50,450,60,482,68,523,72,569,74,614,72,655,68,688,60,709,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="374,37,406,37,406,42,374,42"/>
+</map>

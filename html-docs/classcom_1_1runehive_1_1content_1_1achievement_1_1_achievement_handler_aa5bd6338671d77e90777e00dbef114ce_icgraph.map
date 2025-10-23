@@ -1,0 +1,8 @@
+<map id="com.runehive.content.achievement.AchievementHandler.getDifficultyCompletion" name="com.runehive.content.achievement.AchievementHandler.getDifficultyCompletion">
+<area shape="poly" id="Node000001" title="Handles getting the amount of achievements completed based on it&#39;s difficulty." alt="" coords="1383,40,1371,29,1337,20,1284,12,1217,7,1143,5,1069,7,1002,12,949,20,914,29,903,40,914,50,949,60,1002,68,1069,72,1143,74,1217,72,1284,68,1337,60,1371,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1achievement_1_1_achievement_writer.html#a342c6fc5148271ad6d5d6a828e800872" title=" " alt="" coords="422,40,411,29,382,20,336,12,278,7,213,5,149,7,91,12,45,20,16,29,5,40,16,50,45,60,91,68,149,72,213,74,278,72,336,68,382,60,411,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="896,33,855,32,662,29,470,32,415,33,415,28,470,26,662,24,855,26,896,27"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1achievement_1_1_achievement_handler.html#aff5546bdef15c6e40cd690d671382786" title=" " alt="" coords="855,76,845,65,818,56,775,48,722,43,662,41,603,43,549,48,506,56,479,65,470,76,479,86,506,96,549,104,603,108,662,110,722,108,775,104,818,96,845,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="914,60,841,65,840,60,913,54"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="471,63,402,57,402,52,471,58"/>
+</map>

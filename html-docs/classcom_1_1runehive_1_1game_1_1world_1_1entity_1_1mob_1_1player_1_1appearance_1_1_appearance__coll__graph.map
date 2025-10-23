@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.appearance.Appearance" name="com.runehive.game.world.entity.mob.player.appearance.Appearance">
+<area shape="poly" id="Node000001" title="Represents a Players appearance." alt="" coords="600,181,585,170,543,160,477,153,394,148,303,146,211,148,128,153,62,160,20,170,5,181,20,191,62,201,128,208,211,213,303,215,394,213,477,208,543,201,585,191"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1appearance_1_1_gender.html" title="Represents a gender for a player character." alt="" coords="600,40,585,29,543,20,477,12,394,7,303,5,211,7,128,12,62,20,20,29,5,40,20,50,62,60,128,68,211,72,303,74,394,72,477,68,543,60,585,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,89,305,146,300,146,300,89"/>
+</map>

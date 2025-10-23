@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.smithing.SmithingArmour.canInit" name="com.runehive.content.skill.impl.smithing.SmithingArmour.canInit">
+<area shape="poly" id="Node000001" title="Determines if this action can be initialized." alt="" coords="440,86,429,76,398,66,350,59,290,54,223,52,155,54,95,59,47,66,16,76,5,86,16,97,47,107,95,114,155,119,223,121,290,119,350,114,398,107,429,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_string_utils.html#a6111b654554177cd43476fdf8a51eb7f" title="Appends the determined indefinite article to thing." alt="" coords="801,40,793,29,771,20,736,12,693,7,644,5,596,7,552,12,518,20,496,29,488,40,496,50,518,60,552,68,596,72,644,74,693,72,736,68,771,60,793,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="401,64,488,54,489,60,402,69"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="795,133,787,122,766,113,733,105,691,100,644,99,598,100,556,105,523,113,502,122,494,133,502,144,523,153,556,161,598,166,644,167,691,166,733,161,766,153,787,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="402,104,494,114,493,119,401,109"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_string_utils.html#af5ce3222efc613359129234e7bcc9a58" title="Determines the indefinite article of thing." alt="" coords="1186,40,1178,29,1154,20,1117,12,1070,7,1018,5,965,7,918,12,881,20,857,29,849,40,857,50,881,60,918,68,965,72,1018,74,1070,72,1117,68,1154,60,1178,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="801,37,833,37,833,42,801,42"/>
+</map>

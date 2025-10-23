@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.special.range.DarkBow.hit" name="com.runehive.game.world.entity.combat.strategy.player.special.range.DarkBow.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1500,64,1482,53,1431,44,1351,36,1250,31,1138,29,1026,31,926,36,846,44,794,53,776,64,794,74,846,84,926,92,1026,96,1138,98,1250,96,1351,92,1431,84,1482,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="1273,21,1226,12,1138,8,1068,10,1022,16,999,24,996,27,998,31,993,33,991,26,995,20,1021,11,1068,5,1138,3,1226,6,1274,16"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1range_1_1_dark_bow.html#a323270588913104ddf7176796ea2f322" title=" " alt="" coords="728,64,711,53,659,44,579,36,479,31,367,29,255,31,154,36,74,44,23,53,5,64,23,74,74,84,154,92,255,96,367,98,479,96,579,92,659,84,711,74"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="761,66,729,66,729,61,761,61"/>
+</map>

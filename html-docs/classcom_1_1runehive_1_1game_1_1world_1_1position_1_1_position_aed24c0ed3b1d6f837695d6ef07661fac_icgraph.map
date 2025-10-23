@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.position.Position.getDistance" name="com.runehive.game.world.position.Position.getDistance">
+<area shape="poly" id="Node000001" title="Gets the distance between this location and another location." alt="" coords="990,86,981,76,954,66,912,59,859,54,801,52,742,54,689,59,647,66,620,76,611,86,620,97,647,107,689,114,742,119,801,121,859,119,912,114,954,107,981,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1path_1_1impl_1_1_a_star_path_finder.html#a7c75d6f10ec8a9ecb86fead1b5faf902" title="Performs the path finding calculations to find the path using the A* algorithm." alt="" coords="539,40,526,29,490,20,434,12,363,7,284,5,205,7,134,12,78,20,42,29,29,40,42,50,78,60,134,68,205,72,284,74,363,72,434,68,490,60,526,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="614,72,497,62,498,56,615,67"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1_npc_magic_strategy.html#a2b58448e68a8fe2b36e8486a63bcfccb" title=" " alt="" coords="563,133,549,122,510,113,448,105,370,100,284,99,198,100,120,105,59,113,19,122,5,133,19,144,59,153,120,161,198,166,284,167,370,166,448,161,510,153,549,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="615,106,511,115,511,110,614,101"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.Projectile.setOffsetY" name="com.runehive.game.Projectile.setOffsetY">
+<area shape="poly" id="Node000001" title=" " alt="" coords="751,40,743,29,717,20,676,12,626,7,570,5,513,7,463,12,422,20,396,29,388,40,396,50,422,60,463,68,513,72,570,74,626,72,676,68,717,60,743,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1_projectile.html#a5403dfd9088aebd7b83e176b6b108889" title=" " alt="" coords="340,40,331,29,308,20,271,12,224,7,172,5,121,7,74,12,37,20,14,29,5,40,14,50,37,60,74,68,121,72,172,74,224,72,271,68,308,60,331,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="372,42,340,42,340,37,372,37"/>
+</map>

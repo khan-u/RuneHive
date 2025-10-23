@@ -1,0 +1,11 @@
+<map id="com.runehive.content.activity.impl.barrows.Barrows.finish" name="com.runehive.content.activity.impl.barrows.Barrows.finish">
+<area shape="poly" id="Node000001" title="Finishes the activity." alt="" coords="971,180,959,169,927,160,876,152,812,147,741,145,670,147,607,152,556,160,523,169,512,180,523,190,556,200,607,208,670,212,741,214,812,212,876,208,927,200,959,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1barrows_1_1_barrows.html#ac0ce1c33ba43237d5fa5c528cb529517" title=" " alt="" coords="464,40,453,29,420,20,369,12,306,7,235,5,164,7,100,12,49,20,17,29,5,40,17,50,49,60,100,68,164,72,235,74,306,72,369,68,420,60,453,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="639,145,554,116,463,89,381,69,382,64,465,84,555,111,640,140"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1barrows_1_1_barrows.html#a54e540b30fdf5260a0299f7d3860f74b" title="Called when the player die." alt="" coords="464,133,453,122,420,113,369,105,306,100,235,99,164,100,100,105,49,113,17,122,5,133,17,144,49,153,100,161,164,166,235,167,306,166,369,161,420,153,453,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="529,163,431,154,432,149,530,158"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1barrows_1_1_barrows.html#a608aa241ec1eab086117fb1ee9bb44d3" title="Called when the player logs out." alt="" coords="464,226,453,216,420,206,369,199,306,194,235,192,164,194,100,199,49,206,17,216,5,226,17,237,49,247,100,254,164,259,235,261,306,259,369,254,420,247,453,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="530,202,432,211,431,206,529,197"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1barrows_1_1_barrows.html#af724ffaa020257f90b9c46c9f7fc5083" title="Called when the player changes region." alt="" coords="464,320,453,309,420,300,369,292,306,287,235,285,164,287,100,292,49,300,17,309,5,320,17,330,49,340,100,348,164,352,235,354,306,352,369,348,420,340,453,330"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="640,220,555,249,465,276,382,295,381,290,463,271,554,243,639,215"/>
+</map>

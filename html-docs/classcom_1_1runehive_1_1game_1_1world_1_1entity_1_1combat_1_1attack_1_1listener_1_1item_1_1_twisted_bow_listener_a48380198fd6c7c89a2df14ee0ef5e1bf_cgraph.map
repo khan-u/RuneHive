@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.item.TwistedBowListener.modifyAccuracy" name="com.runehive.game.world.entity.combat.attack.listener.item.TwistedBowListener.modifyAccuracy">
+<area shape="poly" id="Node000001" title=" " alt="" coords="628,64,613,53,569,44,500,36,413,31,317,29,220,31,134,36,65,44,21,53,5,64,21,74,65,84,134,92,220,96,317,98,413,96,500,92,569,84,613,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a5ff60aaa9a37a00040b2c69073326d1e" title="Gets the highest possible level of a skill." alt="" coords="1074,64,1064,53,1036,44,992,36,936,31,875,29,814,31,758,36,714,44,686,53,676,64,686,74,714,84,758,92,814,96,875,98,936,96,992,92,1036,84,1064,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="628,61,660,61,660,66,628,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="771,35,768,28,770,21,787,11,822,5,875,3,940,7,974,16,973,22,939,12,875,8,823,10,789,16,774,25,773,28,776,32"/>
+</map>

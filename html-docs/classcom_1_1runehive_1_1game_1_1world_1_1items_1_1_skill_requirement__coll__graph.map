@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.SkillRequirement" name="com.runehive.game.world.items.SkillRequirement">
+<area shape="poly" id="Node000001" title="The skill&#45;related requirement." alt="" coords="359,157,351,146,326,136,286,129,237,124,182,122,128,124,78,129,39,136,14,146,5,157,14,167,39,177,78,184,128,189,182,191,237,189,286,184,326,177,351,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1items_1_1_requirable.html" title="The requirable itemcontainer that allows any implementing class the ability to become a requirement." alt="" coords="359,40,351,29,326,20,286,12,237,7,182,5,128,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,128,72,182,74,237,72,286,68,326,60,351,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,90,185,122,180,122,180,90"/>
+</map>

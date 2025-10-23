@@ -1,0 +1,5 @@
+<map id="com.runehive.net.codec.game.GamePacketDecoder.decodeSize" name="com.runehive.net.codec.game.GamePacketDecoder.decodeSize">
+<area shape="poly" id="Node000001" title="Decodes the packets size." alt="" coords="761,40,752,29,726,20,685,12,633,7,576,5,519,7,467,12,426,20,399,29,390,40,399,50,426,60,467,68,519,72,576,74,633,72,685,68,726,60,752,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1codec_1_1game_1_1_game_packet_decoder.html#a30e3496d1254d0b88da39be6f4a626fc" title=" " alt="" coords="342,40,334,29,310,20,273,12,226,7,174,5,122,7,75,12,38,20,14,29,5,40,14,50,38,60,75,68,122,72,174,74,226,72,273,68,310,60,334,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,42,343,42,343,37,375,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.magic.MagicRune.containsCombo" name="com.runehive.game.world.entity.combat.magic.MagicRune.containsCombo">
+<area shape="poly" id="Node000001" title=" " alt="" coords="504,40,491,29,456,20,401,12,331,7,254,5,177,7,108,12,53,20,18,29,5,40,18,50,53,60,108,68,177,72,254,74,331,72,401,68,456,60,491,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a8acf6f1c920076daea6c80e5afbe3404" title="Determines if this container contains id." alt="" coords="1016,40,1005,29,972,20,920,12,856,7,784,5,712,7,647,12,596,20,563,29,552,40,563,50,596,60,647,68,712,72,784,74,856,72,920,68,972,60,1005,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,37,536,37,536,42,504,42"/>
+</map>

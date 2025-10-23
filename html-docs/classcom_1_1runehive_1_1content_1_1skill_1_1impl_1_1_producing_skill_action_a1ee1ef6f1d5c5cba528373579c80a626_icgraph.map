@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.ProducingSkillAction.produceItem" name="com.runehive.content.skill.impl.ProducingSkillAction.produceItem">
+<area shape="poly" id="Node000001" title="The item that will be added upon production." alt="" coords="778,86,769,76,743,66,702,59,650,54,593,52,536,54,484,59,443,66,416,76,407,86,416,97,443,107,484,114,536,119,593,121,650,119,702,114,743,107,769,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1_producing_skill_action.html#a6cb0238272468239195a1fa39ae64de9" title="Determines if the task can be ran." alt="" coords="354,40,346,29,322,20,283,12,236,7,182,5,129,7,81,12,43,20,19,29,10,40,19,50,43,60,81,68,129,72,182,74,236,72,283,68,322,60,346,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="419,69,333,59,333,54,419,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1_producing_skill_action.html#a5df45526dc17df04cef8508710951561" title="The method which is called on intervals of the specified #delay;." alt="" coords="359,133,351,122,326,113,286,105,237,100,182,99,128,100,78,105,39,113,14,122,5,133,14,144,39,153,78,161,128,166,182,167,237,166,286,161,326,153,351,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="419,109,337,118,336,113,418,104"/>
+</map>

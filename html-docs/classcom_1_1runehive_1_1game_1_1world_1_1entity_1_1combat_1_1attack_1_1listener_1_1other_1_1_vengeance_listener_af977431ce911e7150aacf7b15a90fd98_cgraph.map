@@ -1,0 +1,13 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.other.VengeanceListener.block" name="com.runehive.game.world.entity.combat.attack.listener.other.VengeanceListener.block">
+<area shape="poly" id="Node000001" title=" " alt="" coords="635,160,620,149,575,140,505,132,418,127,320,125,223,127,135,132,65,140,21,149,5,160,21,170,65,180,135,188,223,192,320,194,418,192,505,188,575,180,620,170"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a3e5f834cec039d2c7c0c10b50914717f" title=" " alt="" coords="1172,40,1162,29,1133,20,1089,12,1033,7,970,5,908,7,852,12,808,20,779,29,769,40,779,50,808,60,852,68,908,72,970,74,1033,72,1089,68,1133,60,1162,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="483,127,817,65,818,71,484,132"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a385dc0248234fddaae1b093594d7bf58" title="The combat of the mob." alt="" coords="1708,76,1698,65,1669,56,1625,48,1569,43,1507,41,1445,43,1389,48,1344,56,1316,65,1306,76,1316,86,1344,96,1389,104,1445,108,1507,110,1569,108,1625,104,1669,96,1698,86"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="586,138,1305,87,1305,93,587,144"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1_simplified_listener.html#a6883ea629959aaa051bbfe832c62b8da" title=" " alt="" coords="1258,208,1244,197,1203,188,1139,180,1059,175,970,173,882,175,802,180,738,188,697,197,683,208,697,218,738,228,802,236,882,240,970,242,1059,240,1139,236,1203,228,1244,218"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="583,176,709,186,709,191,583,182"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a26938dbc3c9508164035881aef98271e" title="Sets the mob&#39;s forced chat." alt="" coords="1172,301,1162,290,1133,281,1089,273,1033,268,970,267,908,268,852,273,808,281,779,290,769,301,779,312,808,321,852,329,908,334,970,335,1033,334,1089,329,1133,321,1162,312"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="436,190,555,222,684,252,801,274,800,279,683,257,554,227,434,195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1159,50,1304,60,1304,65,1158,55"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="868,175,871,164,889,155,922,149,970,147,1030,150,1064,159,1062,164,1029,155,970,152,923,154,891,160,875,167,874,176"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.mysterybox.MysteryBoxEvent.tick" name="com.runehive.content.mysterybox.MysteryBoxEvent.tick">
+<area shape="poly" id="Node000001" title=" " alt="" coords="376,40,367,29,341,20,300,12,248,7,191,5,134,7,82,12,41,20,14,29,5,40,14,50,41,60,82,68,134,72,191,74,248,72,300,68,341,60,367,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a2fc8d15b55a8f0a55a20c0b78f77007c" title="Cancels all subsequent executions." alt="" coords="824,40,814,33,785,27,741,23,686,20,624,19,562,20,507,23,462,27,434,33,424,40,434,46,462,52,507,57,562,60,624,61,686,60,741,57,785,52,814,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="377,37,409,37,409,42,377,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#aef9b4245ff3b594dd844c44da99d51a3" title="A function executed on cancellation." alt="" coords="1230,40,1221,29,1196,20,1156,12,1106,7,1051,5,995,7,945,12,906,20,880,29,872,40,880,50,906,60,945,68,995,72,1051,74,1106,72,1156,68,1196,60,1221,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="824,37,856,37,856,42,824,42"/>
+</map>

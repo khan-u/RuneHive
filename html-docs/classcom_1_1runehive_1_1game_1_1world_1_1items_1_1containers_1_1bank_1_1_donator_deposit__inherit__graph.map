@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.items.containers.bank.DonatorDeposit" name="com.runehive.game.world.items.containers.bank.DonatorDeposit">
+<area shape="poly" id="Node000001" title="Handles the donator deposit box." alt="" coords="525,247,512,236,475,226,418,219,345,214,265,212,185,214,112,219,55,226,18,236,5,247,18,257,55,267,112,274,185,279,265,281,345,279,418,274,475,267,512,257"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html" title="An abstraction game representing a group of Items." alt="" coords="497,130,486,119,453,109,402,102,337,97,265,95,193,97,129,102,77,109,44,119,33,130,44,140,77,150,129,158,193,162,265,164,337,162,402,158,453,150,486,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,180,268,212,262,212,262,180"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="357,26,353,20,340,14,319,9,294,6,265,5,237,6,211,9,191,14,177,20,173,26,177,33,191,39,211,43,237,46,265,47,294,46,319,43,340,39,353,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="268,63,268,95,262,95,262,63"/>
+</map>

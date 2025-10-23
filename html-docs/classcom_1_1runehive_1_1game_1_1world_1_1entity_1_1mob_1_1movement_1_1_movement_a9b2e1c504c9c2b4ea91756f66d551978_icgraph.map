@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.movement.Movement.getNextPoint" name="com.runehive.game.world.entity.mob.movement.Movement.getNextPoint">
+<area shape="poly" id="Node000001" title="Gets the next point of movement." alt="" coords="1078,40,1066,29,1029,20,973,12,901,7,822,5,743,7,671,12,615,20,578,29,566,40,578,50,615,60,671,68,743,72,822,74,901,72,973,68,1029,60,1066,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1movement_1_1_movement.html#abeb0ecf3bf489efb1983d2595bd7b0d9" title="Processes the next player&#39;s movement." alt="" coords="518,40,505,29,469,20,412,12,341,7,262,5,182,7,111,12,54,20,18,29,5,40,18,50,54,60,111,68,182,72,262,74,341,72,412,68,469,60,505,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="550,42,518,42,518,37,550,37"/>
+</map>

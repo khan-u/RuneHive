@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.effect.CombatEffectTask" name="com.runehive.game.world.entity.combat.effect.CombatEffectTask">
+<area shape="poly" id="Node000001" title="The Task implementation that provides processing for CombatEffects." alt="" coords="497,130,485,119,450,109,395,102,327,97,251,95,175,97,107,102,52,109,17,119,5,130,17,140,52,150,107,158,175,162,251,164,327,162,395,158,450,150,485,140"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="415,26,407,20,383,14,347,9,301,6,251,5,200,6,155,9,119,14,95,20,87,26,95,33,119,39,155,43,200,46,251,47,301,46,347,43,383,39,407,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,63,254,95,248,95,248,63"/>
+</map>

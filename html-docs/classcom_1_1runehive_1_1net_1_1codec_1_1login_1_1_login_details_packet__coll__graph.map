@@ -1,0 +1,5 @@
+<map id="com.runehive.net.codec.login.LoginDetailsPacket" name="com.runehive.net.codec.login.LoginDetailsPacket">
+<area shape="poly" id="Node000001" title=" " alt="" coords="335,202,327,191,304,182,267,174,221,169,170,167,119,169,73,174,37,182,13,191,5,202,13,213,37,222,73,230,119,235,170,236,221,235,267,230,304,222,327,213"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1codec_1_1_isaac_cipher.html" title="An implementation of an ISAAC cipher." alt="" coords="335,40,327,29,303,20,267,12,221,7,170,5,120,7,74,12,37,20,14,29,6,40,14,50,37,60,74,68,120,72,170,74,221,72,267,68,303,60,327,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,90,173,167,168,167,168,90"/>
+</map>

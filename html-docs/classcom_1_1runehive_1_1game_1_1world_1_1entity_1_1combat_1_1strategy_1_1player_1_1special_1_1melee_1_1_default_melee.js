@@ -1,0 +1,5 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1melee_1_1_default_melee =
+[
+    [ "get", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1melee_1_1_default_melee.html#ae958f1c2eb3b9170174da64f75a5f8dc", null ],
+    [ "INSTANCE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1melee_1_1_default_melee.html#a25a8782af6447bfd305ab533bc5f1ae8", null ]
+];

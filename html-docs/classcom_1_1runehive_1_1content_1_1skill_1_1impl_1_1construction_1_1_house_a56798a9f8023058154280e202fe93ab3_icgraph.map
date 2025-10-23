@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.construction.House.purchase" name="com.runehive.content.skill.impl.construction.House.purchase">
+<area shape="poly" id="Node000001" title=" " alt="" coords="933,40,921,29,887,20,835,12,770,7,697,5,624,7,558,12,506,20,473,29,461,40,473,50,506,60,558,68,624,72,697,74,770,72,835,68,887,60,921,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1impl_1_1_construction_dialogue.html#adc9063cb7e362804fe1fd124d8ac6378" title="Sends a player a dialogue." alt="" coords="413,40,403,29,374,20,329,12,272,7,209,5,146,7,89,12,44,20,15,29,5,40,15,50,44,60,89,68,146,72,209,74,272,72,329,68,374,60,403,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="445,42,414,42,414,37,445,37"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="java/com/runehive/game/world/entity/mob/player/appearance" name="java/com/runehive/game/world/entity/mob/player/appearance">
+<area shape="poly" id="node1" href="dir_183b42689f0e5f8f70da2e31db3befae.html" title="appearance" alt="" coords="177,74,173,68,162,62,146,57,125,54,101,53,78,54,57,57,41,62,30,68,26,74,30,81,41,87,57,91,78,94,101,95,125,94,146,91,162,87,173,81"/>
+<area shape="rect" id="clust1" href="dir_4af7af174bb5e58cd1ba0c50f6ba494a.html" title="player" alt="" coords="16,16,187,106"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.npc.DarkBeast.MagicAttack.hit" name="com.runehive.game.world.entity.combat.attack.listener.npc.DarkBeast.MagicAttack.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="622,64,607,53,563,44,495,36,409,31,314,29,219,31,133,36,64,44,20,53,5,64,20,74,64,84,133,92,219,96,314,98,409,96,495,92,563,84,607,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="197,32,196,26,200,19,220,11,258,5,314,3,383,6,422,15,420,21,382,11,314,8,259,10,222,16,203,23,201,27,202,31"/>
+</map>

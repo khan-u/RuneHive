@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.Entity.setWidth" name="com.runehive.game.world.entity.Entity.setWidth">
+<area shape="poly" id="Node000001" title=" " alt="" coords="808,40,799,29,774,20,735,12,686,7,632,5,577,7,528,12,489,20,464,29,455,40,464,50,489,60,528,68,577,72,632,74,686,72,735,68,774,60,799,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#af7fc72f7973dda8afb23aa8589090467" title="Transforms the mob." alt="" coords="407,40,398,29,369,20,325,12,269,7,206,5,144,7,88,12,44,20,15,29,5,40,15,50,44,60,88,68,144,72,206,74,269,72,325,68,369,60,398,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,42,408,42,408,37,440,37"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.items.Item" name="com.runehive.game.world.items.Item">
+<area shape="poly" id="Node000001" title="The container class that represents an item that can be interacted with." alt="" coords="570,116,561,110,533,104,489,99,433,96,372,95,311,96,256,99,212,104,184,110,174,116,184,123,212,129,256,133,311,136,372,137,433,136,489,133,533,129,561,123"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1mysterybox_1_1_mystery_item.html" title=" " alt="" coords="376,220,367,209,341,199,300,192,248,187,191,185,134,187,82,192,41,199,14,209,5,220,14,230,41,240,82,247,134,252,191,254,248,252,300,247,341,240,367,230"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="325,147,250,189,247,184,322,142"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1store_1_1_store_item.html" title="A simple wrapper class which holds extra attributes for the item object." alt="" coords="706,220,699,209,677,199,643,192,601,187,553,185,506,187,464,192,430,199,408,209,401,220,408,230,430,240,464,247,506,252,553,254,601,252,643,247,677,240,699,230"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="423,143,499,185,496,189,420,147"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="440,26,436,20,427,14,412,9,393,6,372,5,351,6,333,9,318,14,308,20,305,26,308,33,318,39,333,43,351,46,372,47,393,46,412,43,427,39,436,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,63,375,95,369,95,369,63"/>
+</map>

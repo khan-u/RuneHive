@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_dagannoth_prime =
+[
+    [ "DagannothPrime", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_dagannoth_prime.html#a67b449d10a335c1edb091cd42ca2bd37", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_dagannoth_prime.html#a61483aba366ee4f1bda963007415ef18", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_dagannoth_prime.html#a013dfa411551ee31a22e572b13ba951e", null ]
+];

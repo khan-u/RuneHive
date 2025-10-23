@@ -1,0 +1,8 @@
+var namespacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy =
+[
+    [ "MagicAccuracy", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_magic_accuracy.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_magic_accuracy" ],
+    [ "MagicAccuracyNpc", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_magic_accuracy_npc.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_magic_accuracy_npc" ],
+    [ "MeleeAccuracy", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_melee_accuracy.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_melee_accuracy" ],
+    [ "RangeAccuracy", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_range_accuracy.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_range_accuracy" ],
+    [ "RangeAccuracyNpc", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_range_accuracy_npc.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_range_accuracy_npc" ]
+];

@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.position.Boundary.isIn" name="com.runehive.game.world.position.Boundary.isIn">
+<area shape="poly" id="Node000001" title=" " alt="" coords="385,180,376,169,349,160,307,152,254,147,195,145,136,147,84,152,42,160,15,169,5,180,15,190,42,200,84,208,136,212,195,214,254,212,307,208,349,200,376,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_boundary.html#a8c0764e0a5e1a6ccb5e3a98aa40b5e2e" title=" " alt="" coords="812,40,803,29,776,20,734,12,681,7,623,5,564,7,511,12,469,20,442,29,433,40,442,50,469,60,511,68,564,72,623,74,681,72,734,68,776,60,803,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,145,347,114,432,84,487,68,488,73,434,89,349,119,271,150"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a561452a2370cad1b551c6f717121ab31" title=" " alt="" coords="799,133,790,122,765,113,726,105,677,100,623,99,568,100,519,105,480,113,455,122,446,133,455,144,480,153,519,161,568,166,623,167,677,166,726,161,765,153,790,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="359,159,452,149,453,154,359,165"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#aa18a542748cdd46dbd6dd04d2093d7f4" title=" " alt="" coords="799,226,790,216,765,206,726,199,677,194,623,192,568,194,519,199,480,206,455,216,446,226,455,237,480,247,519,254,568,259,623,261,677,259,726,254,765,247,790,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="359,195,453,205,452,211,359,200"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a5b57714d4530546d0fd9597aacd8b330" title=" " alt="" coords="799,320,790,309,765,300,726,292,677,287,623,285,568,287,519,292,480,300,455,309,446,320,455,330,480,340,519,348,568,352,623,354,677,352,726,348,765,340,790,330"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="271,209,349,241,434,271,491,287,490,292,432,276,347,246,269,214"/>
+</map>

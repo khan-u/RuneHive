@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.player.Player.getVenomImmunity" name="com.runehive.game.world.entity.mob.player.Player.getVenomImmunity">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1061,86,1050,76,1016,66,965,59,899,54,827,52,755,54,689,59,637,66,604,76,593,86,604,97,637,107,689,114,755,119,827,121,899,119,965,114,1016,107,1050,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1effect_1_1impl_1_1_combat_venom_effect.html#ab481b4e113a056df6813a46f1291b249" title="Applies this effect to mob." alt="" coords="545,40,531,29,493,20,433,12,358,7,275,5,192,7,116,12,57,20,19,29,5,40,19,50,57,60,116,68,192,72,275,74,358,72,433,68,493,60,531,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="607,71,501,62,501,56,608,65"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_anti_venom_task.html#a123b81064586cbec02236817d8965d82" title="A function representing the unit of work that will be carried out." alt="" coords="439,133,431,122,408,113,372,105,326,100,275,99,224,100,178,105,142,113,119,122,111,133,119,144,142,153,178,161,224,166,275,167,326,166,372,161,408,153,431,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="608,108,428,123,428,118,607,102"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="com.runehive.content.combat.Skulling.skull" name="com.runehive.content.combat.Skulling.skull">
+<area shape="poly" id="Node000001" title=" " alt="" coords="335,64,327,53,304,44,267,36,221,31,170,29,119,31,73,36,37,44,13,53,5,64,13,74,37,84,73,92,119,96,170,98,221,96,267,92,304,84,327,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1combat_1_1_skulling.html#af0c18da743d660106562c71ce9f46f3c" title=" " alt="" coords="713,64,705,53,682,44,645,36,599,31,548,29,497,31,451,36,415,44,391,53,383,64,391,74,415,84,451,92,497,96,548,98,599,96,645,92,682,84,705,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="336,61,368,61,368,66,336,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="476,32,477,21,489,11,513,5,548,3,591,6,615,16,613,21,590,11,548,8,514,10,492,16,481,23,482,33"/>
+</map>

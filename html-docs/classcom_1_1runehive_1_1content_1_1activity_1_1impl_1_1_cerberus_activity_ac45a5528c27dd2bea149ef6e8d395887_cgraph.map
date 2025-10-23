@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.CerberusActivity.finish" name="com.runehive.content.activity.impl.CerberusActivity.finish">
+<area shape="poly" id="Node000001" title="Finishes the activity." alt="" coords="378,40,369,29,342,20,301,12,249,7,192,5,134,7,82,12,41,20,14,29,5,40,14,50,41,60,82,68,134,72,192,74,249,72,301,68,342,60,369,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1_cerberus_activity.html#ab1594793a4f7a0688a51bcc14c8758f9" title="Cleans up the activity when finished." alt="" coords="798,40,789,29,763,20,721,12,669,7,612,5,554,7,502,12,461,20,435,29,426,40,435,50,461,60,502,68,554,72,612,74,669,72,721,68,763,60,789,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,37,410,37,410,42,378,42"/>
+</map>

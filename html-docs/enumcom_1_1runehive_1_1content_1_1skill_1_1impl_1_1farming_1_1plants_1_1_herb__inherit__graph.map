@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.farming.plants.Herb" name="com.runehive.content.skill.impl.farming.plants.Herb">
+<area shape="poly" id="Node000001" title=" " alt="" coords="546,143,533,137,494,131,435,126,359,123,276,122,192,123,117,126,57,131,19,137,5,143,19,150,57,155,117,160,192,163,276,164,359,163,435,160,494,155,533,150"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1plants_1_1_plant.html" title=" " alt="" coords="521,40,509,29,474,20,420,12,352,7,276,5,200,7,131,12,77,20,42,29,30,40,42,50,77,60,131,68,200,72,276,74,352,72,420,68,474,60,509,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,90,278,122,273,122,273,90"/>
+</map>

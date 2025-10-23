@@ -1,0 +1,12 @@
+<map id="com.runehive.game.Graphic" name="com.runehive.game.Graphic">
+<area shape="poly" id="Node000001" title="Represents a single graphic that can be used by entities." alt="" coords="413,348,405,342,383,336,349,331,305,329,257,327,208,329,165,331,130,336,108,342,100,348,108,355,130,361,165,365,208,368,257,369,305,368,349,365,383,361,405,355"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="276,40,269,33,250,27,220,23,182,20,141,19,99,20,61,23,31,27,12,33,5,40,12,46,31,52,61,57,99,60,141,61,182,60,220,57,250,52,269,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,75,102,105,89,140,83,176,85,194,91,212,116,249,148,280,183,306,216,325,214,330,180,311,145,285,112,252,86,214,80,196,78,176,83,138,98,102,115,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1_graphic.html" title="Represents a single graphic that can be used by entities." alt="" coords="413,179,405,173,383,167,349,163,305,160,257,159,208,160,165,163,130,167,108,173,100,179,108,186,130,192,165,196,208,199,257,200,305,199,349,196,383,192,405,186"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="169,71,242,156,238,160,165,74"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,216,259,327,254,327,254,216"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="399,165,427,169,440,179,435,187,422,191,383,195,383,190,421,186,432,182,434,180,425,174,398,170"/>
+<area shape="poly" id="Node000004" href="$enumcom_1_1runehive_1_1game_1_1_update_priority.html" title="Represents different priorities for updating." alt="" coords="676,40,668,29,646,20,612,12,569,7,522,5,474,7,432,12,398,20,376,29,368,40,376,50,398,60,432,68,474,72,522,74,569,72,612,68,646,60,668,50"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="550,87,561,117,568,150,568,183,556,214,538,239,516,260,466,294,410,318,356,334,354,329,408,313,463,289,513,256,534,235,552,212,563,182,563,150,556,118,545,89"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="451,81,296,161,293,156,448,76"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.puzzle.PuzzleType" name="com.runehive.content.puzzle.PuzzleType">
+<area shape="poly" id="Node000001" title="The difference puzzle types." alt="" coords="328,299,320,288,297,279,262,271,217,266,167,264,117,266,72,271,36,279,13,288,5,299,13,309,36,319,72,327,117,331,167,333,217,331,262,327,297,319,320,309"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1puzzle_1_1_puzzle_interface.html" title=" " alt="" coords="328,181,320,170,297,160,262,153,217,148,167,146,117,148,72,153,36,160,13,170,5,181,13,191,36,201,72,208,117,213,167,215,217,213,262,208,297,201,320,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,231,169,264,164,264,164,231"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1puzzle_1_1_puzzle_interface.html" title=" " alt="" coords="328,40,320,29,297,20,262,12,217,7,167,5,117,7,72,12,36,20,13,29,5,40,13,50,36,60,72,68,117,72,167,74,217,72,262,68,297,60,320,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="169,89,169,146,164,146,164,89"/>
+</map>

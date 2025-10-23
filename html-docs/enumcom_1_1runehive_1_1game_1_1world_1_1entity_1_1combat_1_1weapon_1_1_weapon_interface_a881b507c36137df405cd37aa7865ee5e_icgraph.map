@@ -1,0 +1,12 @@
+<map id="com.runehive.game.world.entity.combat.weapon.WeaponInterface.WeaponInterface" name="com.runehive.game.world.entity.combat.weapon.WeaponInterface.WeaponInterface">
+<area shape="poly" id="Node000001" title="Creates a new WeaponInterface." alt="" coords="1656,169,1643,158,1606,149,1549,141,1477,136,1397,135,1316,136,1244,141,1187,149,1150,158,1137,169,1150,180,1187,189,1244,197,1316,202,1397,203,1477,202,1549,197,1606,189,1643,180"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1weapon_1_1_weapon_interface.html#a96bd262500fa77818c469e4cf461ca47" title=" " alt="" coords="1089,40,1077,29,1040,20,983,12,910,7,830,5,750,7,678,12,621,20,584,29,571,40,584,50,621,60,678,68,750,72,830,74,910,72,983,68,1040,60,1077,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1272,136,1089,89,994,70,995,64,1090,84,1273,131"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1weapon_1_1_weapon_interface.html#a2419f55497157cf17025e5a20b5c1110" title=" " alt="" coords="1089,133,1077,122,1040,113,983,105,910,100,830,99,750,100,678,105,621,113,584,122,571,133,584,144,621,153,678,161,750,166,830,167,910,166,983,161,1040,153,1077,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1146,156,1065,151,1066,145,1147,151"/>
+<area shape="poly" id="Node000004" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1weapon_1_1_weapon_interface.html#a12d13b4db32462bb1341666435678108" title=" " alt="" coords="523,169,511,158,474,149,417,141,344,136,264,135,184,136,112,141,55,149,18,158,5,169,18,180,55,189,112,197,184,202,264,203,344,202,417,197,474,189,511,180"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="1132,182,1090,182,830,185,571,182,514,181,514,176,571,177,830,180,1089,177,1132,176"/>
+<area shape="poly" id="Node000005" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1weapon_1_1_weapon_interface.html#a221281111a172c430ca6197c0d5f2fc4" title=" " alt="" coords="1089,277,1077,266,1040,257,983,249,910,244,830,243,750,244,678,249,621,257,584,266,571,277,584,288,621,297,678,305,750,310,830,311,910,310,983,305,1040,297,1077,288"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1232,203,981,251,980,246,1231,198"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="581,152,500,157,499,151,580,146"/>
+</map>

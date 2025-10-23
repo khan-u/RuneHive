@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.position.Position.getChebyshevDistance" name="com.runehive.game.world.position.Position.getChebyshevDistance">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1015,86,1005,76,978,66,936,59,883,54,825,52,766,54,713,59,671,66,644,76,635,86,644,97,671,107,713,114,766,119,825,121,883,119,936,114,978,107,1005,97"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="917,44,885,34,825,31,776,33,744,39,729,47,728,51,731,55,726,58,723,51,725,44,742,34,775,28,825,25,886,29,918,39"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1path_1_1impl_1_1_dijkstra_path_finder.html#ab660180128f97c3e65fff7c68ba799a6" title="Finds a valid path from the origin Position to the target one." alt="" coords="551,40,539,29,502,20,446,12,375,7,296,5,217,7,146,12,90,20,54,29,41,40,54,50,90,60,146,68,217,72,296,74,375,72,446,68,502,60,539,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="638,73,511,61,511,56,638,67"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1_player_magic_strategy.html#a9ed23335699a53de8d4ae2eada6d488a" title=" " alt="" coords="587,133,573,122,531,113,467,105,386,100,296,99,206,100,125,105,61,113,20,122,5,133,20,144,61,153,125,161,206,166,296,167,386,166,467,161,531,153,573,144"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="638,106,532,115,531,110,638,100"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.position.Boundary.getMinimumY" name="com.runehive.game.world.position.Boundary.getMinimumY">
+<area shape="poly" id="Node000001" title=" " alt="" coords="855,40,845,29,818,20,777,12,724,7,665,5,606,7,553,12,511,20,485,29,475,40,485,50,511,60,553,68,606,72,665,74,724,72,777,68,818,60,845,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1_obelisks.html#af5592f22443103730174c91dbc118a21" title=" " alt="" coords="427,40,417,33,387,27,340,23,281,20,216,19,151,20,92,23,46,27,16,33,5,40,16,46,46,52,92,57,151,60,216,61,281,60,340,57,387,52,417,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="460,42,428,42,428,37,460,37"/>
+</map>

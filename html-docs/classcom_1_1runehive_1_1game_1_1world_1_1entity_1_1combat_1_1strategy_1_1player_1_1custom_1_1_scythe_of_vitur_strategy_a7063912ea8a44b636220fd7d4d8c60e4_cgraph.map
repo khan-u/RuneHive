@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.custom.ScytheOfViturStrategy.canAttack" name="com.runehive.game.world.entity.combat.strategy.player.custom.ScytheOfViturStrategy.canAttack">
+<area shape="poly" id="Node000001" title=" " alt="" coords="665,86,649,76,602,66,529,59,437,54,335,52,233,54,141,59,68,66,21,76,5,86,21,97,68,107,141,114,233,119,335,121,437,119,529,114,602,107,649,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a2a021797c58d8e97bf41d1c07ec1fc9f" title="Gets the Item located on index." alt="" coords="1179,40,1168,29,1135,20,1084,12,1019,7,947,5,875,7,811,12,759,20,726,29,715,40,726,50,759,60,811,68,875,72,947,74,1019,72,1084,68,1135,60,1168,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="603,63,724,54,725,59,603,69"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#abf224666b7cf62d0ebd3020de51a55d9" title="The combat of the mob." alt="" coords="1181,133,1170,122,1137,113,1085,105,1020,100,947,99,875,100,809,105,758,113,724,122,713,133,724,144,758,153,809,161,875,166,947,167,1020,166,1085,161,1137,153,1170,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="603,104,723,113,723,119,603,110"/>
+</map>

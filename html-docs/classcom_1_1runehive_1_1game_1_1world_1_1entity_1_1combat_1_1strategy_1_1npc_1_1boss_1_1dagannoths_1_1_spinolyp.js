@@ -1,0 +1,10 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp =
+[
+    [ "Magic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_magic.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_magic" ],
+    [ "Ranged", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_ranged.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_ranged" ],
+    [ "Spinolyp", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp.html#a193439c4668c1ca2b31524a76db3acdc", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp.html#ae002fe773ef3ce4e1d12e2b6bbcbcb9c", null ],
+    [ "MAGIC", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp.html#ad2ce097eadf48152e4b56058f9b7ef13", null ],
+    [ "RANGED", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp.html#af11ddda4105e4e0a9d2a2582ad38f288", null ],
+    [ "STRATEGIES", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp.html#a13f6a1983c4bad29c95b84546afe3e0d", null ]
+];

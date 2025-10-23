@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.World.sendBroadcast" name="com.runehive.game.world.World.sendBroadcast">
+<area shape="poly" id="Node000001" title="Sends a game message." alt="" coords="300,40,293,29,272,20,239,12,198,7,153,5,107,7,66,12,33,20,13,29,5,40,13,50,33,60,66,68,107,72,153,74,198,72,239,68,272,60,293,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a306c0370300580d03034da52e33e4db9" title="Capitalize each letter after ." alt="" coords="712,40,703,29,677,20,637,12,586,7,530,5,474,7,423,12,383,20,357,29,348,40,357,50,383,60,423,68,474,72,530,74,586,72,637,68,677,60,703,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,37,332,37,332,42,300,42"/>
+</map>

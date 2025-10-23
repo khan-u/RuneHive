@@ -1,0 +1,5 @@
+var _derwen_utility_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.DerwenUtility", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_utility.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_derwen_utility" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.DerwenUtility.SpawnData", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena203bfdda9435cac2273f134296b8e40b.html", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena203bfdda9435cac2273f134296b8e40b" ]
+];

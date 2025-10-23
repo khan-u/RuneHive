@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.PacketRepository.registerListener" name="com.runehive.net.packet.PacketRepository.registerListener">
+<area shape="poly" id="Node000001" title="Registers a listener to listen for client &#45;&gt; server packet events." alt="" coords="767,40,758,29,732,20,691,12,640,7,583,5,526,7,475,12,434,20,408,29,399,40,408,50,434,60,475,68,526,72,583,74,640,72,691,68,732,60,758,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1io_1_1_packet_listener_loader.html#a7d41f3118e9d745d8658492aec358380" title=" " alt="" coords="351,40,342,29,318,20,280,12,231,7,178,5,125,7,77,12,38,20,14,29,5,40,14,50,38,60,77,68,125,72,178,74,231,72,280,68,318,60,342,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="384,42,351,42,351,37,384,37"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.hunter.birdhouse.PlayerBirdHouseData" name="com.runehive.content.skill.impl.hunter.birdhouse.PlayerBirdHouseData">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1200,86,1188,76,1151,66,1094,59,1021,54,941,52,861,54,789,59,732,66,695,76,682,86,695,97,732,107,789,114,861,119,941,121,1021,119,1094,114,1151,107,1188,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1hunter_1_1birdhouse_1_1_birdhouse_data.html" title=" " alt="" coords="523,40,511,29,474,20,417,12,344,7,264,5,184,7,112,12,55,20,18,29,5,40,18,50,55,60,112,68,184,72,264,74,344,72,417,68,474,60,511,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="511,54,710,68,710,73,510,59"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="454,133,445,122,418,113,376,105,323,100,264,99,206,100,153,105,111,113,84,122,75,133,84,144,111,153,153,161,206,166,264,167,323,166,376,161,418,153,445,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="457,117,710,100,711,105,458,122"/>
+</map>

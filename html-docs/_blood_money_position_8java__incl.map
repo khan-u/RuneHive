@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/bloodmoney/BloodMoneyPosition.java" name="java/com/runehive/content/bloodmoney/BloodMoneyPosition.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="595,40,585,29,554,20,508,12,449,7,383,5,318,7,259,12,212,20,182,29,172,40,182,50,212,60,259,68,318,72,383,74,449,72,508,68,554,60,585,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="366,157,358,146,332,136,292,129,242,124,186,122,130,124,80,129,40,136,14,146,5,157,14,167,40,177,80,184,130,189,186,191,242,189,292,184,332,177,358,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,76,255,118,253,114,326,71"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="770,157,761,146,734,136,692,129,639,124,581,122,522,124,469,129,427,136,400,146,391,157,400,167,427,177,469,184,522,189,581,191,639,189,692,184,734,177,761,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="441,71,513,113,511,118,438,76"/>
+</map>

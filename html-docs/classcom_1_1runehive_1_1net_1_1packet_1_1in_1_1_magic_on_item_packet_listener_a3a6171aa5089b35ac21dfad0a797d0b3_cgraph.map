@@ -1,0 +1,6 @@
+<map id="com.runehive.net.packet.in.MagicOnItemPacketListener.handlePacket" name="com.runehive.net.packet.in.MagicOnItemPacketListener.handlePacket">
+<area shape="poly" id="Node000001" title="Handles the packet that has just been received." alt="" coords="392,77,382,62,355,49,312,38,258,32,199,29,139,32,85,38,42,49,15,62,5,77,15,92,42,105,85,116,139,123,199,125,258,123,312,116,355,105,382,92"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="107,34,112,21,129,11,158,5,199,3,252,7,282,18,280,23,251,12,199,8,158,10,131,16,116,25,112,35"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_right.html#ab172498577cbeded823a06bb1726a849" title="Checks if the player has developer status." alt="" coords="908,77,897,67,864,57,812,49,747,44,674,43,602,44,536,49,485,57,451,67,440,77,451,88,485,97,536,105,602,110,674,112,747,110,812,105,864,97,897,88"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="392,75,424,75,424,80,392,80"/>
+</map>

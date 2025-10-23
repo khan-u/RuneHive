@@ -1,0 +1,10 @@
+<map id="com.runehive.content.activity.inferno.InfernoWaveData.WaveData.WaveData" name="com.runehive.content.activity.inferno.InfernoWaveData.WaveData.WaveData">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1806,40,1795,29,1765,20,1717,12,1658,7,1591,5,1525,7,1465,12,1418,20,1387,29,1377,40,1387,50,1418,60,1465,68,1525,72,1591,74,1658,72,1717,68,1765,60,1795,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1activity_1_1inferno_1_1_inferno_wave_data_1_1_wave_data.html#a64ee4caabe0dc51b6858cf9da5e88d3f" title=" " alt="" coords="853,40,844,29,815,20,771,12,715,7,653,5,591,7,535,12,491,20,462,29,453,40,462,50,491,60,535,68,591,72,653,74,715,72,771,68,815,60,844,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1369,33,1329,32,1115,29,901,32,847,33,847,28,901,26,1115,23,1329,26,1369,27"/>
+<area shape="poly" id="Node000004" href="$enumcom_1_1runehive_1_1content_1_1activity_1_1inferno_1_1_inferno_wave_data_1_1_wave_data.html#a8fed8f25714ca6337c0899d324386e69" title=" " alt="" coords="1329,76,1318,65,1288,56,1241,48,1181,43,1115,41,1049,43,989,48,942,56,912,65,901,76,912,86,942,96,989,104,1049,108,1115,110,1181,108,1241,104,1288,96,1318,86"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1381,58,1310,64,1309,58,1381,53"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1inferno_1_1_inferno.html#aa1efb6eb7e92f0bbae592a7e6f4c5758" title="Handles what happens to a mob when they die in the activity." alt="" coords="405,40,395,29,366,20,322,12,267,7,205,5,143,7,88,12,43,20,15,29,5,40,15,50,43,60,88,68,143,72,205,74,267,72,322,68,366,60,395,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,42,405,42,405,37,437,37"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="906,62,836,57,837,51,907,57"/>
+</map>

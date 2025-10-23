@@ -1,0 +1,7 @@
+<map id="com.runehive.game.ProjectileTest.getDuration" name="com.runehive.game.ProjectileTest.getDuration">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1053,40,1045,29,1022,20,985,12,940,7,889,5,838,7,792,12,756,20,733,29,725,40,733,50,756,60,792,68,838,72,889,74,940,72,985,68,1022,60,1045,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1_projectile_test.html#ad8057723f552b3a602ce2ec4897bde5e" title=" " alt="" coords="677,40,668,29,645,20,609,12,563,7,512,5,461,7,416,12,379,20,356,29,348,40,356,50,379,60,416,68,461,72,512,74,563,72,609,68,645,60,668,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="709,42,677,42,677,37,709,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a8b46d91daa66a42e09d790c7694289e4" title=" " alt="" coords="300,40,293,29,272,20,239,12,198,7,153,5,107,7,66,12,33,20,13,29,5,40,13,50,33,60,66,68,107,72,153,74,198,72,239,68,272,60,293,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,42,300,42,300,37,332,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.util.StringUtils.appendPluralCheck" name="com.runehive.util.StringUtils.appendPluralCheck">
+<area shape="poly" id="Node000001" title="Appends the determined plural check to thing." alt="" coords="287,40,280,29,260,20,229,12,190,7,146,5,103,7,63,12,32,20,12,29,5,40,12,50,32,60,63,68,103,72,146,74,190,72,229,68,260,60,280,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_string_utils.html#acf9e5cd2da09772aa551da5ff9817919" title="Determines the plural check of thing." alt="" coords="641,40,634,29,612,20,578,12,535,7,488,5,441,7,398,12,364,20,343,29,335,40,343,50,364,60,398,68,441,72,488,74,535,72,578,68,612,60,634,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="288,37,320,37,320,42,288,42"/>
+</map>

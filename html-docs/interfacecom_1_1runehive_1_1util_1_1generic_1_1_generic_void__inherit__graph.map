@@ -1,0 +1,7 @@
+<map id="com.runehive.util.generic.GenericVoid&lt; T &gt;" name="com.runehive.util.generic.GenericVoid&lt; T &gt;">
+<area shape="poly" id="Node000001" title=" " alt="" coords="293,86,286,76,265,66,234,59,194,54,149,52,105,54,65,59,33,66,12,76,5,86,12,97,33,107,65,114,105,119,149,121,194,119,234,114,265,107,286,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1construction_1_1_buildable_map.html" title=" " alt="" coords="881,40,870,29,836,20,784,12,718,7,646,5,573,7,507,12,455,20,421,29,410,40,421,50,455,60,507,68,573,72,646,74,718,72,784,68,836,60,870,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,70,446,56,446,61,299,75"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1util_1_1generic_1_1_generic_void.html" title=" " alt="" coords="789,133,782,122,762,113,730,105,690,100,646,99,601,100,561,105,529,113,509,122,502,133,509,144,529,153,561,161,601,166,646,167,690,166,730,161,762,153,782,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="299,98,511,118,511,123,298,103"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.PacketListenerMeta.value" name="com.runehive.net.packet.PacketListenerMeta.value">
+<area shape="poly" id="Node000001" title="The client&#45;server packet identifiers that this annotated listener can listen to." alt="" coords="689,40,682,29,662,20,629,12,589,7,544,5,499,7,459,12,427,20,406,29,399,40,406,50,427,60,459,68,499,72,544,74,589,72,629,68,662,60,682,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1io_1_1_packet_listener_loader.html#a7d41f3118e9d745d8658492aec358380" title=" " alt="" coords="351,40,342,29,318,20,280,12,231,7,178,5,125,7,77,12,38,20,14,29,5,40,14,50,38,60,77,68,125,72,178,74,231,72,280,68,318,60,342,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="383,42,351,42,351,37,383,37"/>
+</map>

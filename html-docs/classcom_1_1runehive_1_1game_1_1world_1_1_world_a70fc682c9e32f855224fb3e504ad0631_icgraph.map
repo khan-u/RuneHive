@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.World.cancelTask" name="com.runehive.game.world.World.cancelTask">
+<area shape="poly" id="Node000001" title=" " alt="" coords="817,86,809,76,788,66,756,59,715,54,669,52,624,54,583,59,550,66,529,76,522,86,529,97,550,107,583,114,624,119,669,121,715,119,756,114,788,107,809,97"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="745,44,719,35,669,31,629,33,603,39,592,47,594,57,589,57,587,45,601,34,628,28,669,25,720,29,746,39"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1bot_1_1_player_bot.html#a832bcdc38f9e612050affebb59ac6e6e" title="Unregisters an entity from the World." alt="" coords="383,40,376,29,356,20,324,12,284,7,240,5,195,7,155,12,123,20,103,29,96,40,103,50,123,60,155,68,195,72,240,74,284,72,324,68,356,60,376,50"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="520,73,371,57,372,51,521,68"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a2f63e67e6e58a4919fd1140aff2d91a6" title="Unregisters an entity from the World." alt="" coords="474,133,462,122,429,113,377,105,312,100,240,99,167,100,102,105,50,113,17,122,5,133,17,144,50,153,102,161,167,166,240,167,312,166,377,161,429,153,462,144"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="520,105,430,115,429,110,520,100"/>
+</map>

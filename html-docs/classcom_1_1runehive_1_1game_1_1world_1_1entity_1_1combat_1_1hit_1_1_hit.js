@@ -1,0 +1,25 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit =
+[
+    [ "Hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a7eeb0f6c7299f767afaa1295e394b412", null ],
+    [ "Hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a55ae5061e1993585dd4285479502b53a", null ],
+    [ "Hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a5fd2bf761780e2528560f2c8352f4ab9", null ],
+    [ "Hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a30e56fc14f1720f2b1e3100bc8dca88b", null ],
+    [ "Hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#ac5c11553ef53631bd4e0240e2de9ae23", null ],
+    [ "Hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a5b6be02056dec24058d96b13f7fff01b", null ],
+    [ "getDamage", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a22fdbfd63860fbd3c03d530ef8b97fe0", null ],
+    [ "getHitIcon", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#ab8164563cb20b41eef85559203d1d239", null ],
+    [ "getHitsplat", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a866aeb42303a4d4b0ca08be98e882af8", null ],
+    [ "getMultipleHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a1880fd09b27125bbeecb9631c5d25f0e", null ],
+    [ "isAccurate", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#adc06211aa68c244ba28c50ca4b7b8240", null ],
+    [ "modifyDamage", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#acb9b39bef483bed4580a94dcf8895f77", null ],
+    [ "setAccurate", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a01f5f411e33fdb2b4fe291d44b0693d1", null ],
+    [ "setAs", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#ae9abf22593e1351f39c18e7526e101a6", null ],
+    [ "setDamage", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#abddf29c1b89952d1bbb38aa47192f964", null ],
+    [ "setHitsplat", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#ada4f09e506dee77b98c9addcdc0e77ac", null ],
+    [ "setIcon", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a5a18b22300a2bc769bc1e521fb26dcac", null ],
+    [ "accurate", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a8c3209c96cd4449a4efa6a83557800ff", null ],
+    [ "damage", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a3f309de14c1528053fd658d2534a8264", null ],
+    [ "hitIcon", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#afbd17d747fe2e92bc456a9c22992c9c8", null ],
+    [ "hitsplat", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a0e75bab6a78faabd1fa917fcdeb7c998", null ],
+    [ "multipleHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a351d18912e891147bde5f8d5c545d0bb", null ]
+];

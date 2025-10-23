@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.randomevent.RandomEvent.eventNpcIdentification" name="com.runehive.content.activity.randomevent.RandomEvent.eventNpcIdentification">
+<area shape="poly" id="Node000001" title="The event npc identification." alt="" coords="976,40,965,29,932,20,881,12,817,7,746,5,674,7,610,12,559,20,526,29,515,40,526,50,559,60,610,68,674,72,746,74,817,72,881,68,932,60,965,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1randomevent_1_1_random_event.html#afe22c05826b6131098f593a642bda19e" title="Starts the next activity stage." alt="" coords="467,40,456,29,423,20,372,12,307,7,236,5,165,7,100,12,49,20,17,29,5,40,17,50,49,60,100,68,165,72,236,74,307,72,372,68,423,60,456,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="499,42,467,42,467,37,499,37"/>
+</map>

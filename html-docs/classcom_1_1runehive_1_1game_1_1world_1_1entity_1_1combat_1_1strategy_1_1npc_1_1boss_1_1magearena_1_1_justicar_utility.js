@@ -1,0 +1,13 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justicar_utility =
+[
+    [ "SpawnData2", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenaec73a20b3d2315cf8cdb76b31dc00524.html", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenaec73a20b3d2315cf8cdb76b31dc00524" ],
+    [ "defeated", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justicar_utility.html#a7c672c25b744cc810c5f62fe5ed5c8a4", null ],
+    [ "generateSpawn", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justicar_utility.html#afedad0b062da742993456383343a50dc", null ],
+    [ "activated", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justicar_utility.html#acf54f43d046509722ade0e36b1425123", null ],
+    [ "ALWAYSLOOT", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justicar_utility.html#aaa7e655b4fc6d67444e8592b17d7a297", null ],
+    [ "COMMONLOOT", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justicar_utility.html#a0d5571b8697a883c754c1b16be54befc", null ],
+    [ "justicarbutton", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justicar_utility.html#a8d9db65b350b3385883585e672fee9db", null ],
+    [ "RARELOOT", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justicar_utility.html#a39a3ded276d80a0dd9e6d60a1f35b357", null ],
+    [ "spawn", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justicar_utility.html#ab86ca69c6f3f5cb936af66c9bf0fcf38", null ],
+    [ "SUPERRARELOOT", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justicar_utility.html#a6b468fb8ad9cfc7947f49eaa797061a1", null ]
+];

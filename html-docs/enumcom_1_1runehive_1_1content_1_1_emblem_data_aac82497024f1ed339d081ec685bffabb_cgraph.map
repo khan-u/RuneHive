@@ -1,0 +1,5 @@
+<map id="com.runehive.content.EmblemData.forId" name="com.runehive.content.EmblemData.forId">
+<area shape="poly" id="Node000001" title=" " alt="" coords="340,40,331,29,308,20,271,12,224,7,172,5,121,7,74,12,37,20,14,29,5,40,14,50,37,60,74,68,121,72,172,74,224,72,271,68,308,60,331,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1_emblem_data.html#a7468fd1e19b46b099c3b04b8f736db9b" title=" " alt="" coords="722,40,714,29,690,20,653,12,606,7,555,5,503,7,456,12,419,20,396,29,388,40,396,50,419,60,456,68,503,72,555,74,606,72,653,68,690,60,714,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="340,37,372,37,372,42,340,42"/>
+</map>

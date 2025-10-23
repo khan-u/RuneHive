@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.Skotizo.LightingRain.attack" name="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.Skotizo.LightingRain.attack">
+<area shape="poly" id="Node000001" title=" " alt="" coords="693,64,676,53,627,44,551,36,455,31,349,29,243,31,147,36,71,44,22,53,5,64,22,74,71,84,147,92,243,96,349,98,455,96,551,92,627,84,676,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_1_1_lighting_rain.html#af5ae87104b0b253e6db4a9ce3e100db7" title=" " alt="" coords="1429,64,1412,53,1363,44,1287,36,1191,31,1085,29,979,31,883,36,807,44,758,53,741,64,758,74,807,84,883,92,979,96,1085,98,1191,96,1287,92,1363,84,1412,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="694,61,725,61,725,66,694,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="947,33,944,26,949,20,973,11,1018,5,1085,3,1169,6,1215,16,1214,21,1168,12,1085,8,1019,10,974,16,952,24,950,27,952,31"/>
+</map>

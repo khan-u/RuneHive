@@ -1,0 +1,10 @@
+<map id="com.runehive.game.world.items.containers.bank.BankVault.deposit" name="com.runehive.game.world.items.containers.bank.BankVault.deposit">
+<area shape="poly" id="Node000001" title="Deposits an an amount into the player&#39;s bank vaut." alt="" coords="525,157,512,146,475,137,418,129,345,124,265,123,185,124,112,129,55,137,18,146,5,157,18,168,55,177,112,185,185,190,265,191,345,190,418,185,475,177,512,168"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1bank_1_1_bank_vault.html#ad61ea332ce6aa7be0acedcf6a80fcba8" title="Adds an amount into the player&#39;s bank vault with no checks." alt="" coords="1092,64,1080,53,1043,44,985,36,913,31,833,29,752,31,680,36,622,44,586,53,573,64,586,74,622,84,680,92,752,96,833,98,913,96,985,92,1043,84,1080,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,127,652,91,653,96,431,133"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a490026d68b72e2dea391680a7d49a844" title="Formats digits for integers." alt="" coords="998,157,989,146,966,137,930,129,884,124,833,123,782,124,736,129,699,137,676,146,668,157,676,168,699,177,736,185,782,190,833,191,884,190,930,185,966,177,989,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="525,154,652,154,652,160,525,160"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1bank_1_1_bank_vault.html#a172765da33fa01167dee02050668e885" title=" " alt="" coords="1092,250,1080,240,1043,230,985,223,913,218,833,216,752,218,680,223,622,230,586,240,573,250,586,261,622,271,680,278,752,283,833,285,913,283,985,278,1043,271,1080,261"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="431,182,653,218,652,223,430,187"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="725,33,724,26,727,20,746,11,781,5,833,3,896,6,932,15,931,21,896,11,833,8,781,10,747,16,731,24,729,27,730,31"/>
+</map>

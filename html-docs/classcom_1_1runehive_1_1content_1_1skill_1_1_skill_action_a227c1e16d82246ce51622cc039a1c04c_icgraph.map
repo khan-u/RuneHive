@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.SkillAction.execute" name="com.runehive.content.skill.SkillAction.execute">
+<area shape="poly" id="Node000001" title="A function representing the unit of work that will be carried out." alt="" coords="804,40,797,29,776,20,743,12,702,7,656,5,610,7,569,12,536,20,515,29,508,40,515,50,536,60,569,68,610,72,656,74,702,72,743,68,776,60,797,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1firemaking_1_1_firemaking_action.html#adc37700942087dfeb4c69d13ac390b9e" title="The method executed upon destruction of the item." alt="" coords="460,40,449,29,416,20,366,12,303,7,233,5,162,7,99,12,49,20,16,29,5,40,16,50,49,60,99,68,162,72,233,74,303,72,366,68,416,60,449,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,42,460,42,460,37,492,37"/>
+</map>

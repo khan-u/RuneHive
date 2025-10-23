@@ -1,0 +1,10 @@
+<map id="com.runehive.content.activity.impl.barrows.Barrows.reset" name="com.runehive.content.activity.impl.barrows.Barrows.reset">
+<area shape="poly" id="Node000001" title=" " alt="" coords="464,98,453,88,420,78,369,71,306,66,235,64,164,66,100,71,49,78,17,88,5,98,17,109,49,119,100,126,164,131,235,133,306,131,369,126,420,119,453,109"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1barrows_1_1_barrows.html#a93d2e493ae20982e925c3719f013d505" title="The update method." alt="" coords="971,98,959,88,927,78,876,71,812,66,741,64,670,66,607,71,556,78,523,88,512,98,523,109,556,119,607,126,670,131,741,133,812,131,876,126,927,119,959,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="464,96,496,96,496,101,464,101"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a493263be718b90fac4e54a5fd5f960c4" title="Gets a percentage amount." alt="" coords="1361,40,1354,29,1333,20,1300,12,1258,7,1212,5,1166,7,1124,12,1091,20,1070,29,1063,40,1070,50,1091,60,1124,68,1166,72,1212,74,1258,72,1300,68,1333,60,1354,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="919,74,1064,55,1065,61,919,79"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1panel_1_1_activity_panel.html#a7ffba562a8efc282cfbd57985eba70ef" title="Sends all the information for the activity panel." alt="" coords="1405,157,1396,146,1368,137,1326,129,1272,124,1212,123,1152,124,1098,129,1056,137,1028,146,1019,157,1028,168,1056,177,1098,185,1152,190,1212,191,1272,190,1326,185,1368,177,1396,168"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="919,118,1037,133,1037,138,919,123"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="1123,126,1123,114,1139,104,1168,98,1212,96,1265,100,1295,109,1293,114,1264,105,1212,101,1169,104,1141,109,1128,117,1128,126"/>
+</map>

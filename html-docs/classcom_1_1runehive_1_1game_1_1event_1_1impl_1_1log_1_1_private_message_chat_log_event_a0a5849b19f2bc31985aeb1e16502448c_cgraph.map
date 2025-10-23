@@ -1,0 +1,5 @@
+<map id="com.runehive.game.event.impl.log.PrivateMessageChatLogEvent.onLog" name="com.runehive.game.event.impl.log.PrivateMessageChatLogEvent.onLog">
+<area shape="poly" id="Node000001" title=" " alt="" coords="412,40,402,29,373,20,328,12,271,7,209,5,146,7,89,12,44,20,15,29,5,40,15,50,44,60,89,68,146,72,209,74,271,72,328,68,373,60,402,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1service_1_1_postgre_service.html#abef8ab837459e1cdae4dcb61530327d3" title=" " alt="" coords="843,40,834,29,807,20,764,12,711,7,652,5,592,7,539,12,496,20,469,29,460,40,469,50,496,60,539,68,592,72,652,74,711,72,764,68,807,60,834,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,37,444,37,444,42,412,42"/>
+</map>

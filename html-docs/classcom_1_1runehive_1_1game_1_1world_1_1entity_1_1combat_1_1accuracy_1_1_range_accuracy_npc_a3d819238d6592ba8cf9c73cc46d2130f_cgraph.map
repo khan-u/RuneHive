@@ -1,0 +1,16 @@
+<map id="com.runehive.game.world.entity.combat.accuracy.RangeAccuracyNpc.getDefenceRoll" name="com.runehive.game.world.entity.combat.accuracy.RangeAccuracyNpc.getDefenceRoll">
+<area shape="poly" id="Node000001" title=" " alt="" coords="532,97,519,86,482,77,423,69,350,64,269,63,187,64,114,69,56,77,18,86,5,97,18,108,56,117,114,125,187,130,269,131,350,130,423,125,482,117,519,108"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_range_accuracy_npc.html#a14c8c34b4843dd296754346f2da8a5d6" title=" " alt="" coords="1106,50,1094,40,1056,30,998,23,925,18,843,16,762,18,688,23,630,30,593,40,580,50,593,61,630,71,688,78,762,83,843,85,925,83,998,78,1056,71,1094,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="493,76,603,67,603,73,494,81"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_range_accuracy_npc.html#a75b0e6f64962abff5ba30ef7518c022a" title=" " alt="" coords="1106,144,1094,133,1056,124,998,116,925,111,843,109,762,111,688,116,630,124,593,133,580,144,593,154,630,164,688,172,762,176,843,178,925,176,998,172,1056,164,1094,154"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="494,113,603,122,603,127,493,118"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_range_accuracy_npc.html#a4a541f8743843c851da3ec51e7a55cec" title=" " alt="" coords="1681,50,1668,40,1631,30,1572,23,1499,18,1418,16,1336,18,1263,23,1205,30,1167,40,1154,50,1167,61,1205,71,1263,78,1336,83,1418,85,1499,83,1572,78,1631,71,1668,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1107,48,1138,48,1138,53,1107,53"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a1bc291ddb555d1ee3a6a8b9bc1ee4a35" title=" " alt="" coords="2201,133,2191,122,2163,113,2118,105,2062,100,2000,99,1938,100,1882,105,1837,113,1809,122,1799,133,1809,144,1837,153,1882,161,1938,166,2000,167,2062,166,2118,161,2163,153,2191,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1598,73,1829,106,1829,112,1598,79"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1definition_1_1_npc_definition.html#ac1c89ec5c0a7cce9e34ce9faeae3d7b9" title=" " alt="" coords="2271,40,2258,29,2219,20,2159,12,2084,7,2000,5,1916,7,1841,12,1781,20,1742,29,1729,40,1742,50,1781,60,1841,68,1916,72,2000,74,2084,72,2159,68,2219,60,2258,50"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1679,43,1716,42,1716,48,1679,48"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="1106,139,1784,132,1784,138,1106,144"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1_npc.html#a0d794c4ef464a5018aa2c6cb9fd8b762" title=" " alt="" coords="1640,205,1629,194,1598,185,1548,177,1486,172,1418,171,1349,172,1287,177,1238,185,1206,194,1195,205,1206,216,1238,225,1287,233,1349,238,1418,239,1486,238,1548,233,1598,225,1629,216"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1049,163,1219,181,1218,186,1049,168"/>
+</map>

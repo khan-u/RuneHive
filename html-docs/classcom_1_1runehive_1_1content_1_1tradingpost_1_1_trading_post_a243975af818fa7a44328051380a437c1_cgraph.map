@@ -1,0 +1,5 @@
+<map id="com.runehive.content.tradingpost.TradingPost.updatePriceStrings" name="com.runehive.content.tradingpost.TradingPost.updatePriceStrings">
+<area shape="poly" id="Node000001" title=" " alt="" coords="374,40,364,29,338,20,298,12,246,7,189,5,133,7,81,12,40,20,14,29,5,40,14,50,40,60,81,68,133,72,189,74,246,72,298,68,338,60,364,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a490026d68b72e2dea391680a7d49a844" title="Formats digits for integers." alt="" coords="751,40,743,29,720,20,683,12,637,7,586,5,536,7,490,12,453,20,430,29,422,40,430,50,453,60,490,68,536,72,586,74,637,72,683,68,720,60,743,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="374,37,406,37,406,42,374,42"/>
+</map>

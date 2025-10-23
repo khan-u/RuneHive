@@ -1,0 +1,5 @@
+<map id="com.runehive.content.triviabot.TriviaBot" name="com.runehive.content.triviabot.TriviaBot">
+<area shape="poly" id="Node000001" title="Manages the trivia bot system." alt="" coords="341,181,333,170,309,160,272,153,225,148,173,146,121,148,75,153,37,160,14,170,5,181,14,191,37,201,75,208,121,213,173,215,225,213,272,208,309,201,333,191"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1triviabot_1_1_trivia_bot_data.html" title="Holds all the trivia bot data." alt="" coords="341,40,333,29,309,20,272,12,225,7,173,5,121,7,75,12,37,20,14,29,5,40,14,50,37,60,75,68,121,72,173,74,225,72,272,68,309,60,333,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,89,176,146,170,146,170,89"/>
+</map>

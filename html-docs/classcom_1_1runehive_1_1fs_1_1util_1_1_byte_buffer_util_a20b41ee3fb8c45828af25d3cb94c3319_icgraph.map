@@ -1,0 +1,11 @@
+<map id="com.runehive.fs.util.ByteBufferUtil.readStringCp1252NullTerminated" name="com.runehive.fs.util.ByteBufferUtil.readStringCp1252NullTerminated">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1936,53,1928,38,1902,25,1863,14,1814,8,1759,5,1704,8,1654,14,1615,25,1590,38,1581,53,1590,68,1615,81,1654,92,1704,99,1759,101,1814,99,1863,92,1902,81,1928,68"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1decoder_1_1_object_definition_decoder.html#a1236043b1d489167c087be06d8efb1ac" title="Parses a single game object definition by reading object info from a buffer." alt="" coords="1533,53,1524,43,1499,33,1459,25,1410,20,1354,19,1299,20,1250,25,1210,33,1185,43,1176,53,1185,64,1210,73,1250,81,1299,86,1354,88,1410,86,1459,81,1499,73,1524,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1565,56,1533,56,1533,51,1565,51"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1decoder_1_1_object_definition_decoder.html#a8342efcffe40226296cb14d56e932e4c" title=" " alt="" coords="1128,53,1120,43,1095,33,1057,25,1008,20,955,19,901,20,853,25,814,33,790,43,781,53,790,64,814,73,853,81,901,86,955,88,1008,86,1057,81,1095,73,1120,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1160,56,1128,56,1128,51,1160,51"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1_rune_hive.html#a17f40f99cb718b86302b394cf505f0a8" title=" " alt="" coords="733,53,724,43,699,33,659,25,609,20,554,19,499,20,449,25,409,33,384,43,375,53,384,64,409,73,449,81,499,86,554,88,609,86,659,81,699,73,724,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="765,56,734,56,734,51,765,51"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1_rune_hive.html#ab9a24653997a7d8bb955f26c59b7f8ea" title=" " alt="" coords="327,53,319,47,296,41,261,36,216,33,166,32,116,33,72,36,36,41,13,47,5,53,13,60,36,66,72,70,116,73,166,74,216,73,261,70,296,66,319,60"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="360,56,327,56,327,51,360,51"/>
+</map>

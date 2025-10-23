@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.pathfinding.TraversalMap.getRandomNonDiagonal" name="com.runehive.game.world.pathfinding.TraversalMap.getRandomNonDiagonal">
+<area shape="poly" id="Node000001" title=" " alt="" coords="958,40,948,29,917,20,870,12,811,7,746,5,680,7,621,12,574,20,544,29,533,40,544,50,574,60,621,68,680,72,746,74,811,72,870,68,917,60,948,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1duelarena_1_1_duel_arena_activity.html#a1c940f87b83aacb1975e75af59c97bf7" title="Starts the next activity stage." alt="" coords="485,40,473,29,439,20,386,12,319,7,245,5,171,7,104,12,51,20,17,29,5,40,17,50,51,60,104,68,171,72,245,74,319,72,386,68,439,60,473,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="518,42,486,42,486,37,518,37"/>
+</map>

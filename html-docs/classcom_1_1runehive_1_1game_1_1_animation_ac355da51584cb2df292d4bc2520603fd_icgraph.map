@@ -1,0 +1,7 @@
+<map id="com.runehive.game.Animation.Animation" name="com.runehive.game.Animation.Animation">
+<area shape="poly" id="Node000001" title="Creates a new instance of the animation with a hidden delay of 0." alt="" coords="848,60,839,49,815,39,777,32,730,27,677,25,624,27,577,32,539,39,515,49,506,60,515,70,539,80,577,87,624,92,677,94,730,92,777,87,815,80,839,70"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1_animation.html#a27a2a37383b02a5f8fc4e16af843cb33" title=" " alt="" coords="458,26,447,20,415,14,365,9,302,6,232,5,162,6,99,9,49,14,16,20,5,26,16,33,49,39,99,43,162,46,232,47,302,46,365,43,415,39,447,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,49,410,42,411,37,502,44"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1_animation.html#afc3358ecb428d89866817d7b5bf3053a" title=" " alt="" coords="436,92,426,85,397,79,352,75,295,72,232,71,169,72,112,75,66,79,37,85,27,92,37,98,66,104,112,109,169,112,232,113,295,112,352,109,397,104,426,98"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="501,75,401,82,401,77,501,70"/>
+</map>

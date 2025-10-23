@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.mob.Mob.forceMove" name="com.runehive.game.world.entity.mob.Mob.forceMove">
+<area shape="poly" id="Node000001" title=" " alt="" coords="407,64,398,53,369,44,325,36,269,31,206,29,144,31,88,36,44,44,15,53,5,64,15,74,44,84,88,92,144,96,206,98,269,96,325,92,369,84,398,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="129,31,131,20,145,11,170,5,206,3,251,6,276,15,274,20,249,11,206,8,171,10,147,16,135,23,135,32"/>
+</map>

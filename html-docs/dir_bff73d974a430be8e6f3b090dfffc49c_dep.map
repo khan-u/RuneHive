@@ -1,0 +1,5 @@
+<map id="java/com/runehive/game/world/entity/mob/movement" name="java/com/runehive/game/world/entity/mob/movement">
+<area shape="poly" id="node2" href="dir_3062afa0cf5bd4ae0377fea9f3960a1e.html" title="waypoint" alt="" coords="278,85,275,78,266,73,253,68,236,65,217,64,199,65,182,68,169,73,160,78,157,85,160,91,169,97,182,102,199,105,217,106,236,105,253,102,266,97,275,91"/>
+<area shape="rect" id="clust2" href="dir_bff73d974a430be8e6f3b090dfffc49c.html" alt="" coords="27,53,288,117"/>
+<area shape="rect" id="clust1" href="dir_c1813d5429991afe8f7a4b2c8ffff824.html" title="mob" alt="" coords="16,16,299,127"/>
+</map>

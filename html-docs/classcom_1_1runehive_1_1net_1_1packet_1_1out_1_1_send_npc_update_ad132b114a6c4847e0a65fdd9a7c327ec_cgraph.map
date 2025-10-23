@@ -1,0 +1,11 @@
+<map id="com.runehive.net.packet.out.SendNpcUpdate.appendForceChatMask" name="com.runehive.net.packet.out.SendNpcUpdate.appendForceChatMask">
+<area shape="poly" id="Node000001" title=" " alt="" coords="446,40,435,29,404,20,355,12,294,7,225,5,157,7,96,12,47,20,16,29,5,40,16,50,47,60,96,68,157,72,225,74,294,72,355,68,404,60,435,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_builder.html#adcb9c33f385fa5ccd589c80fe3a9a9b7" title=" " alt="" coords="777,40,770,29,750,20,719,12,679,7,635,5,592,7,552,12,521,20,501,29,494,40,501,50,521,60,552,68,592,72,635,74,679,72,719,68,750,60,770,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,37,478,37,478,42,446,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_builder.html#a8af8ccb250104b80abcc50f2b4db7608" title=" " alt="" coords="1471,40,1463,29,1440,20,1405,12,1361,7,1312,5,1263,7,1219,12,1184,20,1161,29,1153,40,1161,50,1184,60,1219,68,1263,72,1312,74,1361,72,1405,68,1440,60,1463,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="759,20,825,14,965,9,1106,14,1159,18,1158,24,1105,20,965,14,825,20,760,25"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_builder.html#a8f33868284aaa55fd60ce47d5b8d5170" title=" " alt="" coords="1105,88,1099,77,1079,68,1048,60,1009,55,965,53,922,55,883,60,852,68,832,77,825,88,832,98,852,108,883,116,922,120,965,122,1009,120,1048,116,1079,108,1099,98"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="758,55,829,65,829,71,757,60"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="1088,68,1162,58,1163,63,1089,73"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="902,56,902,45,913,35,934,29,965,27,1003,30,1024,40,1021,45,1001,35,965,32,935,34,916,40,907,47,907,57"/>
+</map>

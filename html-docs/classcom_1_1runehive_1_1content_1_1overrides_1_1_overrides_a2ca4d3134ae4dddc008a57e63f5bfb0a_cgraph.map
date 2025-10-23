@@ -1,0 +1,5 @@
+<map id="com.runehive.content.overrides.Overrides.addOverride" name="com.runehive.content.overrides.Overrides.addOverride">
+<area shape="poly" id="Node000001" title=" " alt="" coords="355,40,347,29,322,20,283,12,234,7,180,5,126,7,77,12,39,20,14,29,5,40,14,50,39,60,77,68,126,72,180,74,234,72,283,68,322,60,347,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html#ab9375a2c4a03fb08f1091f57b8ef70ba" title=" " alt="" coords="783,40,773,29,746,20,704,12,651,7,593,5,534,7,481,12,439,20,412,29,403,40,412,50,439,60,481,68,534,72,593,74,651,72,704,68,746,60,773,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,37,388,37,388,42,355,42"/>
+</map>

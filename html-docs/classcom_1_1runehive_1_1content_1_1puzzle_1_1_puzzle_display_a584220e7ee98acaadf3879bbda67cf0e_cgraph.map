@@ -1,0 +1,5 @@
+<map id="com.runehive.content.puzzle.PuzzleDisplay.randomize" name="com.runehive.content.puzzle.PuzzleDisplay.randomize">
+<area shape="poly" id="Node000001" title="Randomize the puzzle." alt="" coords="328,40,320,29,297,20,262,12,217,7,167,5,117,7,72,12,36,20,13,29,5,40,13,50,36,60,72,68,117,72,167,74,217,72,262,68,297,60,320,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#ae85630ca496361b51d07383676885311" title=" " alt="" coords="710,40,702,29,679,20,642,12,595,7,543,5,492,7,445,12,408,20,384,29,376,40,384,50,408,60,445,68,492,72,543,74,595,72,642,68,679,60,702,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,37,361,37,361,42,329,42"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="com.runehive.content.activity.impl.duelarena.DuelArenaActivity.sequence" name="com.runehive.content.activity.impl.duelarena.DuelArenaActivity.sequence">
+<area shape="poly" id="Node000001" title="Sequences the activity." alt="" coords="485,180,473,169,439,160,386,152,319,147,245,145,171,147,104,152,51,160,17,169,5,180,17,190,51,200,104,208,171,212,245,214,319,212,386,208,439,200,473,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#acbfce600b13e1f2629e4eb5835f34ea0" title="Sets the cooldown flag to FINISH." alt="" coords="858,40,850,29,827,20,791,12,745,7,695,5,645,7,600,12,564,20,541,29,533,40,541,50,564,60,600,68,645,72,695,74,745,72,791,68,827,60,850,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="341,145,532,84,581,69,583,74,534,89,343,150"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#a9939405a11beba6f434c44eb98d428c1" title="Gets the current ticks." alt="" coords="858,133,850,122,827,113,791,105,745,100,695,99,645,100,600,105,564,113,541,122,533,133,541,144,564,153,600,161,645,166,695,167,745,166,791,161,827,153,850,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="441,157,533,147,534,152,441,162"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#a1ef67e5defb6d01ff7f19292537210d1" title="Checks if the cooldown is paused." alt="" coords="858,226,850,216,827,206,791,199,745,194,695,192,645,194,600,199,564,206,541,216,533,226,541,237,564,247,600,254,645,259,695,261,745,259,791,254,827,247,850,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="441,197,534,207,533,212,441,203"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#aa1f8bdf272e21ec87f9128996d1190aa" title="Removes all mobs from the activity." alt="" coords="858,320,850,309,827,300,791,292,745,287,695,285,645,287,600,292,564,300,541,309,533,320,541,330,564,340,600,348,645,352,695,354,745,352,791,348,827,340,850,330"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="343,209,534,271,583,285,581,290,532,276,341,214"/>
+</map>

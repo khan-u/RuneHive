@@ -1,0 +1,9 @@
+<map id="com.runehive.content.tittle.PlayerTitle.equals" name="com.runehive.content.tittle.PlayerTitle.equals">
+<area shape="poly" id="Node000001" title=" " alt="" coords="303,133,296,122,274,113,241,105,200,100,154,99,108,100,67,105,34,113,13,122,5,133,13,144,34,153,67,161,108,166,154,167,200,166,241,161,274,153,296,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1tittle_1_1_player_title.html#afcdc64ce4fb793ae12875835847f75f7" title="Gets the color." alt="" coords="648,40,641,29,620,20,587,12,545,7,500,5,454,7,412,12,379,20,358,29,351,40,358,50,379,60,412,68,454,72,500,74,545,72,587,68,620,60,641,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,104,386,67,388,73,253,109"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1tittle_1_1_player_title.html#a151a7321efb3f4d7b8d57321a2def9e9" title="Gets the title." alt="" coords="648,133,641,122,620,113,587,105,545,100,500,99,454,100,412,105,379,113,358,122,351,133,358,144,379,153,412,161,454,166,500,167,545,166,587,161,620,153,641,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="303,130,335,130,335,136,303,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1tittle_1_1_player_title.html#ab3607db7ec8e9b0cbac7b5eeb5621f7a" title="Constructs a new PlayerTitle." alt="" coords="648,226,641,216,620,206,587,199,545,194,500,192,454,194,412,199,379,206,358,216,351,226,358,237,379,247,412,254,454,259,500,261,545,259,587,254,620,247,641,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="253,157,388,194,386,199,252,162"/>
+</map>

@@ -1,0 +1,8 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_pink_dragonfire_attack =
+[
+    [ "PinkDragonfireAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_pink_dragonfire_attack.html#a849c49ca23891410176e5b43919a5cb8", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_pink_dragonfire_attack.html#a79e3f379bd76612b7df5d10aac4ca836", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_pink_dragonfire_attack.html#ab8cb659076f0d3c847c194431f66d1bb", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_pink_dragonfire_attack.html#a8e0971ed1ed7ddfc5f985ff15bd8cc00", null ],
+    [ "hitsplat", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_vorkath_1_1_pink_dragonfire_attack.html#a346f73e547b1ac6c4f71bb3a2279a73f", null ]
+];

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.Activity.pickupItem" name="com.runehive.content.activity.Activity.pickupItem">
+<area shape="poly" id="Node000001" title=" " alt="" coords="702,40,694,29,671,20,635,12,590,7,540,5,490,7,445,12,409,20,386,29,378,40,386,50,409,60,445,68,490,72,540,74,590,72,635,68,671,60,694,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#abe2b7fb90cff9a51ba529ce01a753e2f" title=" " alt="" coords="330,40,322,29,299,20,263,12,218,7,167,5,117,7,72,12,36,20,13,29,5,40,13,50,36,60,72,68,117,72,167,74,218,72,263,68,299,60,322,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="362,42,330,42,330,37,362,37"/>
+</map>

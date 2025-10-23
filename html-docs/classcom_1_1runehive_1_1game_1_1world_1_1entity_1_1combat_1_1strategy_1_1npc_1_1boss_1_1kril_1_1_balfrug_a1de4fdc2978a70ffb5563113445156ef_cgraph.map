@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.kril.Balfrug.Balfrug" name="com.runehive.game.world.entity.combat.strategy.npc.boss.kril.Balfrug.Balfrug">
+<area shape="poly" id="Node000001" title=" " alt="" coords="652,40,636,29,590,20,519,12,429,7,329,5,229,7,139,12,67,20,21,29,5,40,21,50,67,60,139,68,229,72,329,74,429,72,519,68,590,60,636,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1projectile_1_1_combat_projectile.html#a1e090708d8c4d96ce405306cd2e04830" title=" " alt="" coords="1229,40,1217,29,1179,20,1120,12,1047,7,965,5,883,7,809,12,751,20,713,29,700,40,713,50,751,60,809,68,883,72,965,74,1047,72,1120,68,1179,60,1217,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="652,37,685,37,685,42,652,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1projectile_1_1_combat_projectile.html#afbf68a4a19d1cd6d1224b6238ebaee23" title=" " alt="" coords="1807,40,1794,29,1756,20,1698,12,1624,7,1542,5,1460,7,1387,12,1328,20,1290,29,1277,40,1290,50,1328,60,1387,68,1460,72,1542,74,1624,72,1698,68,1756,60,1794,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1230,37,1262,37,1262,42,1230,42"/>
+</map>

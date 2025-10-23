@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.items.containers.ItemContainer.swap" name="com.runehive.game.world.items.containers.ItemContainer.swap">
+<area shape="poly" id="Node000001" title="Swaps the Items on oldIndex and newIndex." alt="" coords="470,64,458,53,425,44,374,36,309,31,238,29,166,31,101,36,50,44,17,53,5,64,17,74,50,84,101,92,166,96,238,98,309,96,374,92,425,84,458,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="149,31,151,20,167,11,196,5,238,3,289,6,318,15,317,20,288,11,237,8,196,10,169,16,155,23,154,32"/>
+</map>

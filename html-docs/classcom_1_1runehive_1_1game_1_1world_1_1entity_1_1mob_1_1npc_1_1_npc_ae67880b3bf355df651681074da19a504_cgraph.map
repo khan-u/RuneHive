@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.npc.Npc.equals" name="com.runehive.game.world.entity.mob.npc.Npc.equals">
+<area shape="poly" id="Node000001" title=" " alt="" coords="450,86,439,76,407,66,358,59,296,54,228,52,159,54,97,59,48,66,16,76,5,86,16,97,48,107,97,114,159,119,228,121,296,119,358,114,407,107,439,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a09cee7c391bb1206725815ce0f3cd1f1" title=" " alt="" coords="896,40,888,29,863,20,824,12,775,7,720,5,666,7,617,12,578,20,552,29,544,40,552,50,578,60,617,68,666,72,720,74,775,72,824,68,863,60,888,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,66,545,54,546,59,419,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1_npc.html#aba5a9431f5a724ed3af7eeecfcd1d28a" title=" " alt="" coords="942,133,932,122,900,113,851,105,789,100,720,99,651,100,589,105,540,113,509,122,498,133,509,144,540,153,589,161,651,166,720,167,789,166,851,161,900,153,932,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="419,102,514,111,514,116,418,107"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a92ce9da19cead3d907d2516d76785ed7" title="Constructs a new Mob." alt="" coords="1393,133,1383,122,1354,113,1310,105,1254,100,1191,99,1129,100,1073,105,1029,113,1000,122,990,133,1000,144,1029,153,1073,161,1129,166,1191,167,1254,166,1310,161,1354,153,1383,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="943,130,975,130,975,136,943,136"/>
+</map>

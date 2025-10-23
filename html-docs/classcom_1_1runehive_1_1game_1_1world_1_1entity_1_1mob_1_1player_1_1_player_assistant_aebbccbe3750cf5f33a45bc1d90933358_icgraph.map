@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.PlayerAssistant.checkSendString" name="com.runehive.game.world.entity.mob.player.PlayerAssistant.checkSendString">
+<area shape="poly" id="Node000001" title="Checks if the string is already stored in the list." alt="" coords="839,40,828,29,794,20,743,12,677,7,605,5,532,7,467,12,415,20,382,29,371,40,382,50,415,60,467,68,532,72,605,74,677,72,743,68,794,60,828,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_string.html#a186a8ebc9c9dc883425a4bd0e2437967" title=" " alt="" coords="323,40,315,29,292,20,257,12,213,7,164,5,115,7,71,12,36,20,13,29,5,40,13,50,36,60,71,68,115,72,164,74,213,72,257,68,292,60,315,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,42,323,42,323,37,355,37"/>
+</map>

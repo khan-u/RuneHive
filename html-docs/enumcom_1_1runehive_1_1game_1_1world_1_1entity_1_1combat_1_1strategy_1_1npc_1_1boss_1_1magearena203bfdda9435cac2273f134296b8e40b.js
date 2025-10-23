@@ -1,0 +1,11 @@
+var enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena203bfdda9435cac2273f134296b8e40b =
+[
+    [ "SpawnData", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena203bfdda9435cac2273f134296b8e40b.html#aed8b82535af62e11413b09c1b7ef655c", null ],
+    [ "generate", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena203bfdda9435cac2273f134296b8e40b.html#a93fb3b8c5bcbd534c514d90298d05ce3", null ],
+    [ "LEVEL_19", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena203bfdda9435cac2273f134296b8e40b.html#a30b84b727d8b25a94f13f1a99c5a95b3", null ],
+    [ "LEVEL_28", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena203bfdda9435cac2273f134296b8e40b.html#aae3e12c8dd88335e441b5eb4bb2b51c2", null ],
+    [ "LEVEL_41", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena203bfdda9435cac2273f134296b8e40b.html#ab3d5d5a6f982fdb26b9023949a4448ce", null ],
+    [ "LEVEL_53", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena203bfdda9435cac2273f134296b8e40b.html#a3e42701fef1bebe55b942851618131dd", null ],
+    [ "location", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena203bfdda9435cac2273f134296b8e40b.html#a67b9c6b5f9919c2078ffcecdb9632e2a", null ],
+    [ "position", "enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena203bfdda9435cac2273f134296b8e40b.html#a955eacd2187c6c864a853a6fae68be63", null ]
+];

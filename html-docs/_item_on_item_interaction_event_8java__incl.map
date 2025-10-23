@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/event/impl/ItemOnItemInteractionEvent.java" name="java/com/runehive/content/event/impl/ItemOnItemInteractionEvent.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="532,53,524,38,498,25,457,14,407,8,350,5,294,8,244,14,203,25,177,38,169,53,177,68,203,81,244,92,294,99,350,101,407,99,457,92,498,81,524,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="317,183,309,173,287,163,253,156,209,151,161,149,113,151,70,156,35,163,13,173,5,183,13,194,35,204,70,211,113,216,161,218,209,216,253,211,287,204,309,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="287,101,222,144,219,140,284,96"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="738,183,728,177,700,171,656,166,601,163,540,162,479,163,423,166,379,171,351,177,342,183,351,190,379,196,423,200,479,203,540,204,601,203,656,200,700,196,728,190"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="417,96,499,151,496,156,414,101"/>
+</map>

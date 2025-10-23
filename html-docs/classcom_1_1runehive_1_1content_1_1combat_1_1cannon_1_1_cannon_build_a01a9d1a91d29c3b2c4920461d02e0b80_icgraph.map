@@ -1,0 +1,4 @@
+<map id="com.runehive.content.combat.cannon.CannonBuild.tick" name="com.runehive.content.combat.cannon.CannonBuild.tick">
+<area shape="poly" id="Node000001" title=" " alt="" coords="416,64,406,53,377,44,331,36,274,31,211,29,147,31,90,36,45,44,15,53,5,64,15,74,45,84,90,92,147,96,211,98,274,96,331,92,377,84,406,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="280,20,255,11,211,8,174,10,150,16,138,23,137,32,132,31,134,20,148,11,173,5,211,3,256,6,282,15"/>
+</map>

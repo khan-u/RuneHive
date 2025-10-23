@@ -1,0 +1,7 @@
+<map id="com.runehive.game.action.impl.ScatterAshAction.canInit" name="com.runehive.game.action.impl.ScatterAshAction.canInit">
+<area shape="poly" id="Node000001" title="Determines if this action can be initialized." alt="" coords="354,86,345,76,320,66,282,59,233,54,180,52,126,54,77,59,39,66,14,76,5,86,14,97,39,107,77,114,126,119,180,121,233,119,282,114,320,107,345,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="726,40,719,29,697,20,664,12,622,7,576,5,529,7,488,12,454,20,433,29,426,40,433,50,454,60,488,68,529,72,576,74,622,72,664,68,697,60,719,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,66,426,55,426,60,331,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_scatter_ash_action.html#ad7ee88080dd65b6c190ffcaa2dfabc6c" title="The skill we should hand to experience to." alt="" coords="750,133,742,122,717,113,678,105,630,100,576,99,522,100,474,105,435,113,410,122,402,133,410,144,435,153,474,161,522,166,576,167,630,166,678,161,717,153,742,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="331,101,411,111,410,116,330,107"/>
+</map>

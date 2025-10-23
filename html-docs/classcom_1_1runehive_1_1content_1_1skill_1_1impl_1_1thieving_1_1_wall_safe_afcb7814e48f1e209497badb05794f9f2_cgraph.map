@@ -1,0 +1,11 @@
+<map id="com.runehive.content.skill.impl.thieving.WallSafe.rate" name="com.runehive.content.skill.impl.thieving.WallSafe.rate">
+<area shape="poly" id="Node000001" title="Gets the thieving rate." alt="" coords="434,157,424,146,393,137,346,129,286,124,220,123,154,124,94,129,46,137,16,146,5,157,16,168,46,177,94,185,154,190,220,191,286,190,346,185,393,177,424,168"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a8acf6f1c920076daea6c80e5afbe3404" title="Determines if this container contains id." alt="" coords="947,40,935,29,902,20,851,12,786,7,714,5,643,7,578,12,527,20,494,29,482,40,494,50,527,60,578,68,643,72,714,74,786,72,851,68,902,60,935,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="326,124,482,84,555,68,556,73,483,89,328,129"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a5ff60aaa9a37a00040b2c69073326d1e" title="Gets the highest possible level of a skill." alt="" coords="913,157,904,146,875,137,831,129,776,124,714,123,653,124,598,129,554,137,525,146,516,157,525,168,554,177,598,185,653,190,714,191,776,190,831,185,875,177,904,168"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="435,154,500,154,500,160,435,160"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a0961417523881e9a3bef6e9da541942a" title=" " alt="" coords="887,261,878,255,854,249,816,244,768,241,714,240,661,241,613,244,575,249,551,255,542,261,551,268,575,273,613,278,661,281,714,282,768,281,816,278,854,273,878,268"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="352,182,611,237,610,242,351,187"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="621,127,621,115,637,105,668,98,714,96,771,100,802,109,800,114,770,105,714,101,669,104,639,110,626,117,627,126"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="629,244,619,233,631,222,663,216,714,213,778,217,806,227,805,232,777,222,714,219,664,221,634,227,624,233,633,240"/>
+</map>

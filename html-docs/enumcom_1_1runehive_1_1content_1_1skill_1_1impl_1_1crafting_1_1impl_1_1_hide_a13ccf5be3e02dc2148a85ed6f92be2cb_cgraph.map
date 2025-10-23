@@ -1,0 +1,13 @@
+<map id="com.runehive.content.skill.impl.crafting.impl.Hide.load" name="com.runehive.content.skill.impl.crafting.impl.Hide.load">
+<area shape="poly" id="Node000001" title=" " alt="" coords="477,180,465,169,432,160,380,152,314,147,241,145,168,147,102,152,50,160,17,169,5,180,17,190,50,200,102,208,168,212,241,214,314,212,380,208,432,200,465,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_crafting.html#a05286c649d8cc6257b704978391d2671" title=" " alt="" coords="972,133,962,122,932,113,885,105,826,100,760,99,695,100,636,105,589,113,559,122,549,133,559,144,589,153,636,161,695,166,760,167,826,166,885,161,932,153,962,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,159,559,148,559,154,444,164"/>
+<area shape="poly" id="Node000006" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1impl_1_1_hide.html#affb62ec447dbcabde70d0dbf87177c89" title=" " alt="" coords="996,226,985,216,951,206,899,199,833,194,760,192,688,194,622,199,570,206,536,216,525,226,536,237,570,247,622,254,688,259,760,261,833,259,899,254,951,247,985,237"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="444,195,544,204,543,210,443,201"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1cec21ca5ef1783808d4ca9de1051a29" title="Gets the identification of this item." alt="" coords="1433,40,1424,29,1399,20,1360,12,1311,7,1256,5,1201,7,1152,12,1113,20,1087,29,1079,40,1087,50,1113,60,1152,68,1201,72,1256,74,1311,72,1360,68,1399,60,1424,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="900,104,1112,64,1113,69,901,109"/>
+<area shape="poly" id="Node000004" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_craftable.html#a91f8fc194273f2e84b529514d1be5ba7" title="Gets the craftable name." alt="" coords="1467,133,1457,122,1427,113,1380,105,1321,100,1256,99,1190,100,1131,105,1085,113,1055,122,1044,133,1055,144,1085,153,1131,161,1190,166,1256,167,1321,166,1380,161,1427,153,1457,144"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="973,130,1029,130,1029,136,973,136"/>
+<area shape="poly" id="Node000005" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_craftable.html#ac1582b15d639eb93dc2a187750b6f300" title="Gets the craftable item used with." alt="" coords="1467,226,1457,216,1427,206,1380,199,1321,194,1256,192,1190,194,1131,199,1085,206,1055,216,1044,226,1055,237,1085,247,1131,254,1190,259,1256,261,1321,259,1380,254,1427,247,1457,237"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="901,157,1101,195,1100,200,900,162"/>
+</map>

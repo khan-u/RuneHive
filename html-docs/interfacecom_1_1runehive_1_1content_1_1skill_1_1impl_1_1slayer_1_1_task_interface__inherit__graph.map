@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.slayer.TaskInterface&lt; T &gt;" name="com.runehive.content.skill.impl.slayer.TaskInterface&lt; T &gt;">
+<area shape="poly" id="Node000001" title=" " alt="" coords="415,40,404,29,375,20,330,12,273,7,210,5,147,7,90,12,44,20,15,29,5,40,15,50,44,60,90,68,147,72,210,74,273,72,330,68,375,60,404,50"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_task_interface.html" title=" " alt="" coords="415,181,404,170,375,160,330,153,273,148,210,146,147,148,90,153,44,160,15,170,5,181,15,191,44,201,90,208,147,213,210,215,273,213,330,208,375,201,404,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,89,213,146,207,146,207,89"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_slayer_task.html" title="Holds all the slayer task data." alt="" coords="415,299,404,288,375,279,330,271,273,266,210,264,147,266,90,271,44,279,15,288,5,299,15,309,44,319,90,327,147,331,210,333,273,331,330,327,375,319,404,309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="213,231,213,264,207,264,207,231"/>
+</map>

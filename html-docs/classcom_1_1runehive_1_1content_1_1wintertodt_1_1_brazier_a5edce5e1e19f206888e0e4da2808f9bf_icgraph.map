@@ -1,0 +1,13 @@
+<map id="com.runehive.content.wintertodt.Brazier.getFlameOffsetX" name="com.runehive.content.wintertodt.Brazier.getFlameOffsetX">
+<area shape="poly" id="Node000001" title=" " alt="" coords="2341,40,2333,29,2307,20,2268,12,2219,7,2164,5,2109,7,2060,12,2021,20,1996,29,1987,40,1996,50,2021,60,2060,68,2109,72,2164,74,2219,72,2268,68,2307,60,2333,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1wintertodt_1_1_wintertodt.html#a0e10a7e08c146b0563766b5f047b18fb" title="Handles spawning the flame that goes to the middle." alt="" coords="1939,40,1931,29,1905,20,1866,12,1817,7,1762,5,1707,7,1658,12,1619,20,1594,29,1585,40,1594,50,1619,60,1658,68,1707,72,1762,74,1817,72,1866,68,1905,60,1931,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1971,42,1939,42,1939,37,1971,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1wintertodt_1_1_wintertodt.html#af918b54b256603729c75d9d4cebc3d50" title="Handles dealing damage to the boss." alt="" coords="1537,40,1528,29,1503,20,1464,12,1415,7,1360,5,1305,7,1256,12,1217,20,1192,29,1183,40,1192,50,1217,60,1256,68,1305,72,1360,74,1415,72,1464,68,1503,60,1528,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1569,42,1537,42,1537,37,1569,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1wintertodt_1_1_wintertodt.html#ae4af45a5fcdf15d8085fd761dde9bf06" title=" " alt="" coords="1135,40,1126,29,1101,20,1062,12,1013,7,958,5,903,7,854,12,815,20,790,29,781,40,790,50,815,60,854,68,903,72,958,74,1013,72,1062,68,1101,60,1126,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1167,42,1135,42,1135,37,1167,37"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1_rune_hive.html#a17f40f99cb718b86302b394cf505f0a8" title=" " alt="" coords="733,40,724,29,699,20,659,12,609,7,554,5,499,7,449,12,409,20,384,29,375,40,384,50,409,60,449,68,499,72,554,74,609,72,659,68,699,60,724,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="766,42,734,42,734,37,766,37"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1_rune_hive.html#ab9a24653997a7d8bb955f26c59b7f8ea" title=" " alt="" coords="327,40,319,33,296,27,261,23,216,20,166,19,116,20,72,23,36,27,13,33,5,40,13,46,36,52,72,57,116,60,166,61,216,60,261,57,296,52,319,46"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="360,42,327,42,327,37,360,37"/>
+</map>

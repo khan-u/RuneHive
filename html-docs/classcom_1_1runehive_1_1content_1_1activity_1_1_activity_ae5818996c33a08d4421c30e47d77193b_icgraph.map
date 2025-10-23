@@ -1,0 +1,15 @@
+<map id="com.runehive.content.activity.Activity.update" name="com.runehive.content.activity.Activity.update">
+<area shape="poly" id="Node000001" title="The update method." alt="" coords="1554,112,1546,101,1523,92,1487,84,1442,79,1392,77,1342,79,1297,84,1261,92,1238,101,1230,112,1238,122,1261,132,1297,140,1342,144,1392,146,1442,144,1487,140,1523,132,1546,122"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_tutorial_activity.html#a1facb560ce1fde87f68ea607808456da" title=" " alt="" coords="1182,40,1173,29,1149,20,1110,12,1061,7,1008,5,954,7,905,12,867,20,842,29,833,40,842,50,867,60,905,68,954,72,1008,74,1061,72,1110,68,1149,60,1173,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1254,89,1135,66,1136,61,1255,83"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_tutorial_activity.html#a09b83051024b731a49bc206a1e46f99c" title="Starts the next activity stage." alt="" coords="768,106,759,96,734,86,696,79,647,74,594,72,540,74,491,79,453,86,428,96,419,106,428,117,453,127,491,134,540,139,594,141,647,139,696,134,734,127,759,117"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="1214,113,768,110,768,105,1214,108"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#ad9bfc3adc62283f0a0ea3330eaa92e88" title="Sequences the activity." alt="" coords="1170,189,1162,178,1139,169,1103,161,1058,156,1008,155,957,156,912,161,876,169,853,178,845,189,853,200,876,209,912,217,957,222,1008,223,1058,222,1103,217,1139,209,1162,200"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1259,141,1127,168,1126,163,1258,136"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_tutorial_activity.html#a04dd219bbece872de1c0785b7f9ae166" title=" " alt="" coords="354,70,345,60,320,50,282,43,233,38,180,36,126,38,77,43,39,50,14,60,5,70,14,81,39,91,77,98,126,103,180,105,233,103,282,98,320,91,345,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="820,48,402,62,349,65,349,59,402,57,820,43"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="857,67,730,87,729,82,856,61"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="418,94,340,87,340,82,418,89"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1activity_1_1lobby_1_1_lobby_manager.html#aca70241d469dcd0e98dfb814b089b83d" title=" " alt="" coords="785,200,776,189,749,180,706,172,653,167,594,165,534,167,481,172,438,180,411,189,402,200,411,210,438,220,481,228,534,232,594,234,653,232,706,228,749,220,776,210"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="831,196,784,198,784,192,831,191"/>
+</map>

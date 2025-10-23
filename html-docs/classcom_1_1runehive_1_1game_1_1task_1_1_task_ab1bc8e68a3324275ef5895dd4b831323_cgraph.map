@@ -1,0 +1,5 @@
+<map id="com.runehive.game.task.Task.cancel" name="com.runehive.game.task.Task.cancel">
+<area shape="poly" id="Node000001" title="Cancels all subsequent executions." alt="" coords="405,40,395,33,366,27,322,23,267,20,205,19,143,20,88,23,43,27,15,33,5,40,15,46,43,52,88,57,143,60,205,61,267,60,322,57,366,52,395,46"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#aef9b4245ff3b594dd844c44da99d51a3" title="A function executed on cancellation." alt="" coords="811,40,802,29,777,20,737,12,687,7,632,5,576,7,526,12,487,20,461,29,453,40,461,50,487,60,526,68,576,72,632,74,687,72,737,68,777,60,802,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="405,37,437,37,437,42,405,42"/>
+</map>

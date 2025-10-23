@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.slayer.SlayerOfferings.OfferingData.forItem" name="com.runehive.content.skill.impl.slayer.SlayerOfferings.OfferingData.forItem">
+<area shape="poly" id="Node000001" title=" " alt="" coords="415,40,404,29,375,20,330,12,273,7,210,5,147,7,90,12,44,20,15,29,5,40,15,50,44,60,90,68,147,72,210,74,273,72,330,68,375,60,404,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_slayer_offerings_1_1_offering_data.html#a5fdb966096589c63e9d4398f1cb82d79" title="Constructs a new OfferingData." alt="" coords="914,40,903,29,871,20,821,12,758,7,688,5,619,7,556,12,506,20,474,29,463,40,474,50,506,60,556,68,619,72,688,74,758,72,821,68,871,60,903,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="415,37,447,37,447,42,415,42"/>
+</map>

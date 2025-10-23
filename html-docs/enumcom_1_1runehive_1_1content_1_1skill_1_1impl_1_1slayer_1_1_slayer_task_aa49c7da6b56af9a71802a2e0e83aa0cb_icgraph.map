@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.slayer.SlayerTask.getDifficulty" name="com.runehive.content.skill.impl.slayer.SlayerTask.getDifficulty">
+<area shape="poly" id="Node000001" title="Gets the difficulty of the slayer task." alt="" coords="872,40,862,29,833,20,787,12,730,7,667,5,604,7,547,12,502,20,473,29,463,40,473,50,502,60,547,68,604,72,667,74,730,72,787,68,833,60,862,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_slayer.html#afa51e36cc9ee0cfeffac9270d92dbff8" title="Assigns a slayer task to the player." alt="" coords="415,40,404,29,375,20,330,12,273,7,210,5,147,7,90,12,44,20,15,29,5,40,15,50,44,60,90,68,147,72,210,74,273,72,330,68,375,60,404,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,42,415,42,415,37,447,37"/>
+</map>

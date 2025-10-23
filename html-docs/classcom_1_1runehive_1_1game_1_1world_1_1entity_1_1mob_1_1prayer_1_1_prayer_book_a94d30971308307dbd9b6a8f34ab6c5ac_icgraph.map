@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.prayer.PrayerBook.only" name="com.runehive.game.world.entity.mob.prayer.PrayerBook.only">
+<area shape="poly" id="Node000001" title="Activates only the prayers provided." alt="" coords="1511,86,1500,76,1466,66,1414,59,1349,54,1276,52,1204,54,1138,59,1086,66,1053,76,1041,86,1053,97,1086,107,1138,114,1204,119,1276,121,1349,119,1414,114,1466,107,1500,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer_book.html#a1b4a14014286d6c7caba444ead2f202e" title="Activates only the prayers provided." alt="" coords="993,40,982,29,948,20,896,12,831,7,758,5,686,7,620,12,568,20,535,29,523,40,535,50,568,60,620,68,686,72,758,74,831,72,896,68,948,60,982,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1059,70,959,61,960,55,1060,64"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1preset_1_1_preset_manager.html#a591d0b3d9cf806f1746fdd0c2e51761d" title="Handles uploading the preset content." alt="" coords="918,133,910,122,887,113,852,105,808,100,758,99,709,100,665,105,629,113,607,122,599,133,607,144,629,153,665,161,709,166,758,167,808,166,852,161,887,153,910,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1060,109,906,122,906,117,1059,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer_book.html#aa755fa89afe344d33cdce786f0c2bf75" title="Sets all prayers active from another prayer book." alt="" coords="475,40,464,29,430,20,378,12,313,7,240,5,168,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,168,72,240,74,313,72,378,68,430,60,464,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,42,476,42,476,37,507,37"/>
+</map>

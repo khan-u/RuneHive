@@ -1,0 +1,8 @@
+<map id="com.runehive.game.action.impl.ChestAction.onCancel" name="com.runehive.game.action.impl.ChestAction.onCancel">
+<area shape="poly" id="Node000001" title="A function executed on cancellation." alt="" coords="354,110,345,100,320,90,282,83,233,78,180,76,126,78,77,83,39,90,14,100,5,110,14,121,39,131,77,138,126,143,180,145,233,143,282,138,320,131,345,121"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1achievement_1_1_achievement_handler.html#a383fb0ccbf23e33737c19d61fcb332ac" title="Activates the achievement for the individual player." alt="" coords="787,64,777,53,750,44,707,36,654,31,594,29,535,31,481,36,438,44,411,53,402,64,411,74,438,84,481,92,535,96,594,98,654,96,707,92,750,84,777,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,91,415,81,415,87,332,96"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="744,157,737,146,716,137,683,129,641,124,594,123,548,124,506,129,473,137,451,146,444,157,451,168,473,177,506,185,548,190,594,191,641,190,683,185,716,177,737,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="332,125,444,138,443,143,332,130"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="515,32,516,20,530,11,556,5,594,3,640,6,666,15,665,20,639,11,594,8,557,10,532,16,521,23,520,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="com.runehive.content.store.StoreItem.copy" name="com.runehive.content.store.StoreItem.copy">
+<area shape="poly" id="Node000001" title="A substitute for Object#clone() that creates another &#39;copy&#39; of this instance." alt="" coords="311,133,304,122,282,113,248,105,206,100,158,99,111,100,68,105,35,113,13,122,5,133,13,144,35,153,68,161,111,166,158,167,206,166,248,161,282,153,304,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a469ed0805255f62514005f11dc213676" title="Gets the quantity of this item." alt="" coords="713,40,705,29,679,20,640,12,591,7,536,5,482,7,432,12,393,20,368,29,359,40,368,50,393,60,432,68,482,72,536,74,591,72,640,68,679,60,705,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,105,410,68,412,73,263,110"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1cec21ca5ef1783808d4ca9de1051a29" title="Gets the identification of this item." alt="" coords="713,133,705,122,679,113,640,105,591,100,536,99,482,100,432,105,393,113,368,122,359,133,368,144,393,153,432,161,482,166,536,167,591,166,640,161,679,153,705,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="312,130,344,130,344,136,312,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1store_1_1_store_item.html#aa59e4a7b03f83b3c9b4dcee03c68e1d6" title="Creates a new Item." alt="" coords="689,226,682,216,660,206,626,199,584,194,536,192,489,194,446,199,413,206,391,216,383,226,391,237,413,247,446,254,489,259,536,261,584,259,626,254,660,247,682,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="263,156,418,195,417,200,262,161"/>
+</map>

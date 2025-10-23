@@ -1,0 +1,7 @@
+<map id="com.runehive.game.action.ActionManager.cancelQueuedActions" name="com.runehive.game.action.ActionManager.cancelQueuedActions">
+<area shape="poly" id="Node000001" title="Cancels all the queued actions by stopping them and removing all elements from the queue." alt="" coords="415,40,404,29,375,20,330,12,273,7,210,5,147,7,90,12,44,20,15,29,5,40,15,50,44,60,90,68,147,72,210,74,273,72,330,68,375,60,404,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a2fc8d15b55a8f0a55a20c0b78f77007c" title="Cancels all subsequent executions." alt="" coords="862,40,852,33,824,27,779,23,724,20,662,19,600,20,545,23,501,27,472,33,463,40,472,46,501,52,545,57,600,60,662,61,724,60,779,57,824,52,852,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="415,37,447,37,447,42,415,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#aef9b4245ff3b594dd844c44da99d51a3" title="A function executed on cancellation." alt="" coords="1268,40,1259,29,1234,20,1194,12,1144,7,1089,5,1034,7,984,12,944,20,919,29,910,40,919,50,944,60,984,68,1034,72,1089,74,1144,72,1194,68,1234,60,1259,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="862,37,894,37,894,42,862,42"/>
+</map>

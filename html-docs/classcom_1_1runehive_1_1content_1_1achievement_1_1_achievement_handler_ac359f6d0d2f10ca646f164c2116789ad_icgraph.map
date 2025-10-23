@@ -1,0 +1,7 @@
+<map id="com.runehive.content.achievement.AchievementHandler.completedAll" name="com.runehive.content.achievement.AchievementHandler.completedAll">
+<area shape="poly" id="Node000001" title="Checks if a player has completed all the available achievements." alt="" coords="862,86,852,76,825,66,782,59,729,54,669,52,610,54,556,59,513,66,486,76,477,86,486,97,513,107,556,114,610,119,669,121,729,119,782,114,825,107,852,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1achievement_1_1_achievement_handler.html#ab24b394566431f82c4b6a531e6cb4c87" title="Completes all the achievements for player (used for administrative purposes)." alt="" coords="410,40,400,29,373,20,330,12,277,7,217,5,157,7,104,12,61,20,34,29,24,40,34,50,61,60,104,68,157,72,217,74,277,72,330,68,373,60,400,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="487,70,385,60,385,54,487,65"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1packet_1_1in_1_1_wield_item_packet_listener.html#a839b019b6680c6f35b682511e989d581" title="Handles the packet that has just been received." alt="" coords="429,133,418,122,388,113,341,105,282,100,217,99,152,100,93,105,46,113,16,122,5,133,16,144,46,153,93,161,152,166,217,167,282,166,341,161,388,153,418,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="487,108,397,117,397,112,487,103"/>
+</map>

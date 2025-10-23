@@ -1,0 +1,12 @@
+<map id="com.runehive.content.activity.infernomobs.JalAk.hit" name="com.runehive.content.activity.infernomobs.JalAk.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="460,133,449,122,416,113,366,105,303,100,233,99,162,100,99,105,49,113,16,122,5,133,16,144,49,153,99,161,162,166,233,167,303,166,366,161,416,153,449,144"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="136,101,137,90,154,80,186,74,233,72,290,75,321,85,320,90,289,81,233,77,187,79,156,85,141,93,141,101"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#abff0c847f98d14619ca50e0210568e56" title=" " alt="" coords="944,40,934,29,905,20,861,12,805,7,743,5,681,7,625,12,580,20,552,29,542,40,552,50,580,60,625,68,681,72,743,74,805,72,861,68,905,60,934,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="379,104,588,65,589,70,380,109"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer_book.html#ab410a6704bdd57b8f722a17f2d874a93" title="Checks if all given prayers are active." alt="" coords="978,133,966,122,933,113,881,105,815,100,743,99,670,100,605,105,553,113,519,122,508,133,519,144,553,153,605,161,670,166,743,167,815,166,881,161,933,153,966,144"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="460,130,492,130,492,136,460,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#ac7ddf988f32265b28e7af7283b406df1" title="Check if an entity is a player." alt="" coords="944,226,934,216,905,206,861,199,805,194,743,192,681,194,625,199,580,206,552,216,542,226,552,237,580,247,625,254,681,259,743,261,805,259,861,254,905,247,934,237"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="380,157,589,196,588,201,379,162"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a64f68055122aaf4af08787378c7ac356" title="Gets the EntityType." alt="" coords="1378,226,1370,216,1345,206,1306,199,1257,194,1202,192,1148,194,1098,199,1059,206,1034,216,1026,226,1034,237,1059,247,1098,254,1148,259,1202,261,1257,259,1306,254,1345,247,1370,237"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="944,224,1010,224,1010,229,944,229"/>
+</map>

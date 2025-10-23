@@ -1,0 +1,16 @@
+<map id="com.runehive.game.world.entity.mob.Mob.walkTo" name="com.runehive.game.world.entity.mob.Mob.walkTo">
+<area shape="poly" id="Node000001" title=" " alt="" coords="407,226,398,216,369,206,325,199,269,194,206,192,144,194,88,199,44,206,15,216,5,226,15,237,44,247,88,254,144,259,206,261,269,259,325,254,369,247,398,237"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#a22cd7c00a274589573f03c45a0b67688" title="Creates a new instance of an Interactable." alt="" coords="804,150,797,140,776,130,743,123,702,118,656,116,611,118,570,123,537,130,516,140,509,150,516,161,537,171,570,178,611,183,656,185,702,183,743,178,776,171,797,161"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,199,520,171,521,176,352,205"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#ad8c9a5ff8cbfc49c63ce5fee9b1873a4" title=" " alt="" coords="858,285,848,274,819,265,775,257,719,252,656,251,594,252,538,257,494,265,465,274,455,285,465,296,494,305,538,313,594,318,656,319,719,318,775,313,819,305,848,296"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="368,245,481,260,480,265,367,250"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#a49e07a60c6643c0ba33bc9754305c352" title=" " alt="" coords="1254,40,1247,29,1226,20,1193,12,1152,7,1107,5,1061,7,1020,12,987,20,966,29,959,40,966,50,987,60,1020,68,1061,72,1107,74,1152,72,1193,68,1226,60,1247,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="755,122,905,84,984,65,986,70,906,89,757,127"/>
+<area shape="poly" id="Node000004" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#a9513e5e63159a738b417ceba87cd1de8" title=" " alt="" coords="1254,133,1247,122,1226,113,1193,105,1152,100,1107,99,1061,100,1020,105,987,113,966,122,959,133,966,144,987,153,1020,161,1061,166,1107,167,1152,166,1193,161,1226,153,1247,144"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="802,142,946,137,946,142,803,147"/>
+<area shape="poly" id="Node000005" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#ad7eb47dad8c89c478cedc32ea6fe3a5b" title=" " alt="" coords="1254,226,1247,216,1226,206,1193,199,1152,194,1107,192,1061,194,1020,199,987,206,966,216,959,226,966,237,987,247,1020,254,1061,259,1107,261,1152,259,1193,254,1226,247,1247,237"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="778,168,971,201,970,206,777,173"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="571,253,572,242,587,232,615,226,657,224,707,227,735,237,733,242,706,233,656,229,616,231,589,237,576,244,576,253"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a385dc0248234fddaae1b093594d7bf58" title="The combat of the mob." alt="" coords="1308,320,1298,309,1269,300,1225,292,1169,287,1107,285,1044,287,988,292,944,300,915,309,906,320,915,330,944,340,988,348,1044,352,1107,354,1169,352,1225,348,1269,340,1298,330"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="841,297,907,302,907,307,840,302"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="java/com/runehive/game/world/entity/combat/hit/CombatData.java" name="java/com/runehive/game/world/entity/combat/hit/CombatData.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="653,53,646,38,627,25,596,14,558,8,515,5,472,8,434,14,403,25,384,38,377,53,384,68,403,81,434,92,472,99,515,101,558,99,596,92,627,81,646,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="521,183,508,173,471,163,414,156,343,151,263,149,183,151,112,156,55,163,18,173,5,183,18,194,55,204,112,211,183,216,263,218,343,216,414,211,471,204,508,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="439,96,342,145,339,140,437,91"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="990,183,979,177,947,171,898,166,836,163,767,162,698,163,636,166,587,171,555,177,544,183,555,190,587,196,636,200,698,203,767,204,836,203,898,200,947,196,979,190"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="593,91,715,153,713,158,591,96"/>
+</map>

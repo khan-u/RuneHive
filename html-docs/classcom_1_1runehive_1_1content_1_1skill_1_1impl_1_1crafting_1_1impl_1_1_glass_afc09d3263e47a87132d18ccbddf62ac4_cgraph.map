@@ -1,0 +1,6 @@
+<map id="com.runehive.content.skill.impl.crafting.impl.Glass.open" name="com.runehive.content.skill.impl.crafting.impl.Glass.open">
+<area shape="poly" id="Node000001" title="Handles opening the glass crafting interface." alt="" coords="477,64,465,53,432,44,380,36,314,31,241,29,168,31,102,36,50,44,17,53,5,64,17,74,50,84,102,92,168,96,241,98,314,96,380,92,432,84,465,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_interface_manager.html#adebec4d4ec0e26a757e34f40cd0c7626" title="Opens an interface for the player." alt="" coords="993,64,982,53,949,44,897,36,831,31,759,29,687,31,621,36,569,44,536,53,525,64,536,74,569,84,621,92,687,96,759,98,831,96,897,92,949,84,982,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="477,61,509,61,509,66,477,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="661,32,662,20,680,11,712,5,759,3,817,6,850,15,848,21,817,11,759,8,712,10,681,16,666,23,666,32"/>
+</map>

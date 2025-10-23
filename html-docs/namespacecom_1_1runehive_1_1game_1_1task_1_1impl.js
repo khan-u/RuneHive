@@ -1,0 +1,26 @@
+var namespacecom_1_1runehive_1_1game_1_1task_1_1impl =
+[
+    [ "AntiVenomTask", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_anti_venom_task.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_anti_venom_task" ],
+    [ "BotStartupEvent", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_bot_startup_event.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_bot_startup_event" ],
+    [ "CeillingCollapseTask", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_ceilling_collapse_task.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_ceilling_collapse_task" ],
+    [ "ChopVineTask", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_chop_vine_task.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_chop_vine_task" ],
+    [ "ClanUpdateEvent", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_clan_update_event.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_clan_update_event" ],
+    [ "DoubleExperienceEvent", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_double_experience_event.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_double_experience_event" ],
+    [ "DuelNotificationTask", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_duel_notification_task.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_duel_notification_task" ],
+    [ "ForceChatEvent", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_force_chat_event.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_force_chat_event" ],
+    [ "ForceMovementTask", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_force_movement_task.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_force_movement_task" ],
+    [ "HunterTask", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_hunter_task.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_hunter_task" ],
+    [ "MessageEvent", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_message_event.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_message_event" ],
+    [ "ObjectPlacementEvent", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_object_placement_event.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_object_placement_event" ],
+    [ "ObjectReplacementEvent", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_object_replacement_event.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_object_replacement_event" ],
+    [ "PlayerRemovalTask", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_player_removal_task.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_player_removal_task" ],
+    [ "PlayerSaveEvent", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_player_save_event.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_player_save_event" ],
+    [ "PvPTimerTask", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_pv_p_timer_task.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_pv_p_timer_task" ],
+    [ "SessionRemovalNotificationTask", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_session_removal_notification_task.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_session_removal_notification_task" ],
+    [ "SkullRemoveTask", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_skull_remove_task.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_skull_remove_task" ],
+    [ "SteppingStoneTask", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_stepping_stone_task.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_stepping_stone_task" ],
+    [ "SuperAntipoisonTask", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_super_antipoison_task.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_super_antipoison_task" ],
+    [ "SystemUpdateEvent", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_system_update_event.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_system_update_event" ],
+    [ "TeleblockTask", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_teleblock_task.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_teleblock_task" ],
+    [ "WarriorGuildCyclopEvent", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_warrior_guild_cyclop_event.html", "classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_warrior_guild_cyclop_event" ]
+];

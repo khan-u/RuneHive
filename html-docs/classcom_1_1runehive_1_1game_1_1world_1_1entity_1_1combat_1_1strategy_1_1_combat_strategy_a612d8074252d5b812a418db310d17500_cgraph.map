@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.strategy.CombatStrategy.getEndGraphic" name="com.runehive.game.world.entity.combat.strategy.CombatStrategy.getEndGraphic">
+<area shape="poly" id="Node000001" title=" " alt="" coords="521,80,508,69,471,60,414,52,343,47,263,45,183,47,112,52,55,60,18,69,5,80,18,90,55,100,112,108,183,112,263,114,343,112,414,108,471,100,508,90"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1_graphic.html#aa542dd4438813fced8394614397e2f5f" title="Gets the height of this graphic." alt="" coords="928,40,919,29,894,20,855,12,807,7,753,5,699,7,650,12,611,20,586,29,578,40,586,50,611,60,650,68,699,72,753,74,807,72,855,68,894,60,919,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,59,575,52,575,57,485,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1_graphic.html#a9f86da8909e238b12adf06354b8ded2e" title="Gets the id of this graphic." alt="" coords="937,120,928,113,902,107,861,103,810,100,753,99,696,100,644,103,604,107,578,113,569,120,578,126,604,132,644,137,696,140,753,141,810,140,861,137,902,132,928,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="485,95,586,104,586,109,484,100"/>
+</map>

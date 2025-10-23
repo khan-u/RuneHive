@@ -1,0 +1,7 @@
+<map id="com.runehive.content.event.impl.ThirdObjectClick" name="com.runehive.content.event.impl.ThirdObjectClick">
+<area shape="poly" id="Node000001" title=" " alt="" coords="365,273,356,263,331,253,291,246,241,241,185,239,130,241,79,246,40,253,14,263,5,273,14,284,40,294,79,301,130,306,185,308,241,306,291,301,331,294,356,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1event_1_1impl_1_1_object_interaction_event.html" title=" " alt="" coords="365,157,356,146,331,136,291,129,241,124,185,122,130,124,79,129,40,136,14,146,5,157,14,167,40,177,79,184,130,189,185,191,241,189,291,184,331,177,356,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,207,188,239,183,239,183,207"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1event_1_1_interaction_event.html" title=" " alt="" coords="341,40,333,29,311,20,277,12,233,7,185,5,137,7,94,12,59,20,37,29,29,40,37,50,59,60,94,68,137,72,185,74,233,72,277,68,311,60,333,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,90,188,122,183,122,183,90"/>
+</map>

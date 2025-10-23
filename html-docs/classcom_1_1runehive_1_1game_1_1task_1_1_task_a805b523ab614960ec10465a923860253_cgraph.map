@@ -1,0 +1,5 @@
+<map id="com.runehive.game.task.Task.attach" name="com.runehive.game.task.Task.attach">
+<area shape="poly" id="Node000001" title="Attaches a new key." alt="" coords="399,26,389,20,361,14,318,9,263,6,202,5,141,6,86,9,43,14,15,20,5,26,15,33,43,39,86,43,141,46,202,47,263,46,318,43,361,39,389,33"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a8fd9ca2bfc396f359956ba04785ee083" title="Creates a new Task." alt="" coords="826,26,817,20,790,14,748,9,695,6,637,5,578,6,525,9,483,14,456,20,447,26,456,33,483,39,525,43,578,46,637,47,695,46,748,43,790,39,817,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="399,24,431,24,431,29,399,29"/>
+</map>

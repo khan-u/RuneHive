@@ -1,0 +1,7 @@
+<map id="com.runehive.content.triviabot.TriviaBot.answer" name="com.runehive.content.triviabot.TriviaBot.answer">
+<area shape="poly" id="Node000001" title="Handles player answering the question." alt="" coords="725,64,716,53,693,44,655,36,609,31,557,29,505,31,458,36,421,44,397,53,389,64,397,74,421,84,458,92,505,96,557,98,609,96,655,92,693,84,716,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="622,20,599,11,557,8,522,10,499,16,489,23,489,33,484,32,484,21,497,11,521,5,557,3,600,6,624,15"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1triviabot_1_1_trivia_bot.html#ad1368bd943f7dd2754aef4ffaea557b4" title="Handles player answering the question successfully." alt="" coords="341,64,333,53,309,44,272,36,225,31,173,29,121,31,75,36,37,44,14,53,5,64,14,74,37,84,75,92,121,96,173,98,225,96,272,92,309,84,333,74"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="379,75,336,75,336,70,379,70"/>
+<area shape="poly" id="edge3_Node000002_Node000001" title=" " alt="" coords="351,52,394,52,394,58,351,57"/>
+</map>

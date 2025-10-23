@@ -1,0 +1,7 @@
+<map id="com.runehive.game.plugin.PluginContext.allButOneItemContainer" name="com.runehive.game.plugin.PluginContext.allButOneItemContainer">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1213,53,1203,43,1173,33,1126,25,1068,20,1003,19,938,20,879,25,833,33,803,43,792,53,803,64,833,73,879,81,938,86,1003,88,1068,86,1126,81,1173,73,1203,64"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1plugin_1_1_plugin_context.html#aa57b8e7a3d1a4c777ff43ac2c269cc6a" title=" " alt="" coords="744,53,735,38,707,25,664,14,610,8,550,5,490,8,435,14,392,25,365,38,355,53,365,68,392,81,435,92,490,99,550,101,610,99,664,92,707,81,735,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="777,56,745,56,745,51,777,51"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1plugin_1_1_plugin_context.html#a07799fbe60ad6f7b7324e9926a0ab5a4" title="The method that allows an event listener to accept an event." alt="" coords="307,53,300,43,278,33,245,25,203,20,156,19,110,20,68,25,34,33,13,43,5,53,13,64,34,73,68,81,110,86,156,88,203,86,245,81,278,73,300,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,56,307,56,307,51,339,51"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.godwars.GodwarsActivity" name="com.runehive.content.activity.impl.godwars.GodwarsActivity">
+<area shape="poly" id="Node000001" title="Handles the godwars activity." alt="" coords="470,273,458,263,425,253,374,246,309,241,238,239,166,241,101,246,50,253,17,263,5,273,17,284,50,294,101,301,166,306,238,308,309,306,374,301,425,294,458,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html" title="A Activity object constructs an in&#45;game activity and sequences it through the start() and finish() me..." alt="" coords="400,157,392,146,369,136,333,129,288,124,238,122,187,124,142,129,106,136,83,146,75,157,83,167,106,177,142,184,187,189,238,191,288,189,333,184,369,177,392,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,207,240,239,235,239,235,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="393,40,386,29,364,20,329,12,286,7,238,5,189,7,146,12,111,20,89,29,82,40,89,50,111,60,146,68,189,72,238,74,286,72,329,68,364,60,386,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,90,240,122,235,122,235,90"/>
+</map>

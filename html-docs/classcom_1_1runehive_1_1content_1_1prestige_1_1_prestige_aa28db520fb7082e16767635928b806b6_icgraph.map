@@ -1,0 +1,7 @@
+<map id="com.runehive.content.prestige.Prestige.getColorInterface" name="com.runehive.content.prestige.Prestige.getColorInterface">
+<area shape="poly" id="Node000001" title="Gets the prestige color based on the tier for the itemcontainer." alt="" coords="1112,40,1104,29,1080,20,1043,12,996,7,944,5,892,7,845,12,808,20,784,29,775,40,784,50,808,60,845,68,892,72,944,74,996,72,1043,68,1080,60,1104,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1prestige_1_1_prestige.html#a03899e34373f8e8aac62d9104cac1d89" title="Opens the prestige panel." alt="" coords="727,40,719,29,695,20,658,12,611,7,559,5,507,7,460,12,423,20,399,29,390,40,399,50,423,60,460,68,507,72,559,74,611,72,658,68,695,60,719,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="760,42,728,42,728,37,760,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1prestige_1_1_prestige.html#a8eafbea6964e519c58fd9533184d925c" title="Handles prestiging the skill." alt="" coords="342,40,334,29,310,20,273,12,226,7,174,5,122,7,75,12,38,20,14,29,5,40,14,50,38,60,75,68,122,72,174,74,226,72,273,68,310,60,334,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,42,343,42,343,37,375,37"/>
+</map>

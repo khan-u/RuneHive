@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.strategy.basic.RangedStrategy.addCombatExperience" name="com.runehive.game.world.entity.combat.strategy.basic.RangedStrategy.addCombatExperience">
+<area shape="poly" id="Node000001" title=" " alt="" coords="580,64,566,53,525,44,462,36,381,31,293,29,204,31,124,36,60,44,19,53,5,64,19,74,60,84,124,92,204,96,293,98,381,96,462,92,525,84,566,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1_combat_strategy.html#ae0fc15223ccd357a69095846f176bc22" title="Called when the attacking mob performs an attack on the defender." alt="" coords="1143,64,1131,53,1094,44,1037,36,965,31,886,29,806,31,734,36,677,44,641,53,628,64,641,74,677,84,734,92,806,96,886,98,965,96,1037,92,1094,84,1131,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="580,61,613,61,613,66,580,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="774,34,772,27,775,20,794,11,831,5,886,3,953,6,990,16,989,21,952,12,886,8,832,10,796,16,779,24,777,27,779,31"/>
+</map>

@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_magic_attack =
+[
+    [ "MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_magic_attack.html#a8265cf01aafe552217590a73f9346523", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_magic_attack.html#a048318732f920fe475610d27d1523149", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_mutant_tarn_1_1_magic_attack.html#a48413e0b84a5adcc388712f7f98d1dd2", null ]
+];

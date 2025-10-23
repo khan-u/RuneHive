@@ -1,0 +1,5 @@
+<map id="com.runehive.content.clanchannel.ClanUtility.getRewardItems" name="com.runehive.content.clanchannel.ClanUtility.getRewardItems">
+<area shape="poly" id="Node000001" title="Gets the rewards based on the clan level." alt="" coords="841,40,831,29,804,20,762,12,709,7,651,5,592,7,539,12,497,20,470,29,461,40,470,50,497,60,539,68,592,72,651,74,709,72,762,68,804,60,831,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1itemaction_1_1impl_1_1_clan_showcase_box.html#a3e4dc5749f843fb28948a30275aded60" title="The execution method of the action." alt="" coords="413,40,403,29,374,20,329,12,272,7,209,5,146,7,89,12,44,20,15,29,5,40,15,50,44,60,89,68,146,72,209,74,272,72,329,68,374,60,403,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,42,413,42,413,37,446,37"/>
+</map>

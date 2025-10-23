@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_poison =
+[
+    [ "Poison", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_poison.html#ad9d97bd584e8ce867b492371165bfa4f", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_poison.html#a414c77e0abcaddabd356de074dccb469", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_king_black_dragon_strategy_1_1_poison.html#a7f9148d3be176df0da376cea699cb7cb", null ]
+];

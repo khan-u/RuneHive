@@ -1,0 +1,11 @@
+<map id="com.runehive.game.task.impl.AntiVenomTask.execute" name="com.runehive.game.task.impl.AntiVenomTask.execute">
+<area shape="poly" id="Node000001" title="A function representing the unit of work that will be carried out." alt="" coords="334,120,326,109,303,100,266,92,220,87,170,85,119,87,73,92,37,100,13,109,5,120,13,130,37,140,73,148,119,152,170,154,220,152,266,148,303,140,326,130"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a2fc8d15b55a8f0a55a20c0b78f77007c" title="Cancels all subsequent executions." alt="" coords="816,40,806,33,778,27,734,23,678,20,616,19,554,20,499,23,455,27,426,33,417,40,426,46,455,52,499,57,554,60,616,61,678,60,734,57,778,52,806,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,91,381,70,472,56,472,61,382,76,281,96"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1_mutable_number.html#a94a770c04909629574a9078013249e4f" title="Decrements the value within this counter by amount to a minimum of minimum and then returns it." alt="" coords="765,120,758,109,737,100,704,92,662,87,616,85,570,87,529,92,496,100,475,109,467,120,475,130,496,140,529,148,570,152,616,154,662,152,704,148,737,140,758,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="334,117,452,117,452,122,334,122"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a99f0febcfcce86f1fe27803e0665e81d" title=" " alt="" coords="850,213,839,202,806,193,754,185,689,180,616,179,544,180,478,185,427,193,393,202,382,213,393,224,427,233,478,241,544,246,616,247,689,246,754,241,806,233,839,224"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="284,142,382,164,459,180,458,185,381,169,283,148"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#aef9b4245ff3b594dd844c44da99d51a3" title="A function executed on cancellation." alt="" coords="1257,40,1248,29,1223,20,1183,12,1133,7,1078,5,1022,7,972,12,933,20,907,29,898,40,907,50,933,60,972,68,1022,72,1078,74,1133,72,1183,68,1223,60,1248,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="816,37,883,37,883,42,816,42"/>
+</map>

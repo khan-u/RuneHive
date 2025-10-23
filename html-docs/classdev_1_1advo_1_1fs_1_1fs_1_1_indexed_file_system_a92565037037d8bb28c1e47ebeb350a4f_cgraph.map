@@ -1,0 +1,12 @@
+<map id="dev.advo.fs.fs.IndexedFileSystem.detectLayout" name="dev.advo.fs.fs.IndexedFileSystem.detectLayout">
+<area shape="poly" id="Node000001" title="Automatically detect the layout of the specified directory." alt="" coords="296,157,289,146,268,137,236,129,195,124,151,123,106,124,65,129,33,137,12,146,5,157,12,168,33,177,65,185,106,190,151,191,195,190,236,185,268,177,289,168"/>
+<area shape="poly" id="Node000002" href="$classdev_1_1advo_1_1fs_1_1fs_1_1_indexed_file_system.html#aba787ddb71518e58f678747e8032c7f1" title=" " alt="" coords="634,157,627,146,606,137,574,129,534,124,489,123,444,124,404,129,371,137,351,146,344,157,351,168,371,177,404,185,444,190,489,191,534,190,574,185,606,177,627,168"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="296,154,328,154,328,160,296,160"/>
+<area shape="poly" id="Node000003" href="$classdev_1_1advo_1_1fs_1_1fs_1_1_indexed_file_system.html#a0592170186edacec421321bce95e3da2" title="Gets a file." alt="" coords="972,64,965,53,945,44,913,36,872,31,827,29,782,31,742,36,710,44,689,53,682,64,689,74,710,84,742,92,782,96,827,98,872,96,913,92,945,84,965,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="584,128,717,91,718,96,585,133"/>
+<area shape="poly" id="Node000004" href="$classdev_1_1advo_1_1fs_1_1fs_1_1_indexed_file_system.html#ab1de97c50c480e64d4c6d8d07a84bb9d" title="Gets the number of files with the specified type." alt="" coords="972,157,965,146,945,137,913,129,872,124,827,123,782,124,742,129,710,137,689,146,682,157,689,168,710,177,742,185,782,190,827,191,872,190,913,185,945,177,965,168"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="635,154,667,154,667,160,635,160"/>
+<area shape="poly" id="Node000005" href="$classdev_1_1advo_1_1fs_1_1fs_1_1_indexed_file_system.html#a05570eb33fdf45ff02b2666234dd7658" title="Compresses a GZIP file." alt="" coords="972,250,965,240,945,230,913,223,872,218,827,216,782,218,742,223,710,230,689,240,682,250,689,261,710,271,742,278,782,283,827,285,872,283,913,278,945,271,965,261"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="585,181,718,218,717,223,584,186"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="762,32,763,21,774,11,796,5,827,3,866,6,887,16,885,21,865,11,827,8,797,10,777,16,768,23,768,33"/>
+</map>

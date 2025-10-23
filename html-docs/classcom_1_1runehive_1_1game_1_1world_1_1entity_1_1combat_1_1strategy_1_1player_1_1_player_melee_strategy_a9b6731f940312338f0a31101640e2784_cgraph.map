@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.PlayerMeleeStrategy.getAttackDelay" name="com.runehive.game.world.entity.combat.strategy.player.PlayerMeleeStrategy.getAttackDelay">
+<area shape="poly" id="Node000001" title=" " alt="" coords="587,40,573,29,531,20,467,12,386,7,296,5,206,7,125,12,61,20,20,29,5,40,20,50,61,60,125,68,206,72,296,74,386,72,467,68,531,60,573,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#abf224666b7cf62d0ebd3020de51a55d9" title="The combat of the mob." alt="" coords="1104,40,1092,29,1059,20,1007,12,942,7,869,5,797,7,732,12,680,20,647,29,635,40,647,50,680,60,732,68,797,72,869,74,942,72,1007,68,1059,60,1092,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="587,37,620,37,620,42,587,42"/>
+</map>

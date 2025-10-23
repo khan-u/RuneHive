@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.other.PrayerListener.PrayerListener" name="com.runehive.game.world.entity.combat.attack.listener.other.PrayerListener.PrayerListener">
+<area shape="poly" id="Node000001" title=" " alt="" coords="2863,40,2847,29,2803,20,2733,12,2645,7,2548,5,2450,7,2363,12,2293,20,2248,29,2233,40,2248,50,2293,60,2363,68,2450,72,2548,74,2645,72,2733,68,2803,60,2847,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1other_1_1_prayer_listener.html#a02a231078545e1fa3d4cb99e5d564389" title=" " alt="" coords="2185,40,2169,29,2125,20,2055,12,1967,7,1870,5,1773,7,1685,12,1615,20,1570,29,1555,40,1570,50,1615,60,1685,68,1773,72,1870,74,1967,72,2055,68,2125,60,2169,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2218,42,2186,42,2186,37,2218,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_assistant.html#ade06803c34a5ac3ffae5c27f42394b36" title="Sets the prayer book." alt="" coords="1507,40,1496,29,1462,20,1410,12,1345,7,1273,5,1200,7,1135,12,1083,20,1050,29,1038,40,1050,50,1083,60,1135,68,1200,72,1273,74,1345,72,1410,68,1462,60,1496,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1540,42,1507,42,1507,37,1540,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_assistant.html#ae959f7086eabbe319912af17ae5f975e" title="Handles initializing all the player assistant methods on login." alt="" coords="990,40,979,29,946,20,894,12,829,7,756,5,684,7,618,12,567,20,533,29,522,40,533,50,567,60,618,68,684,72,756,74,829,72,894,68,946,60,979,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1023,42,991,42,991,37,1023,37"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_assistant.html#a97f8f5f4569f166d479c5b190a5d7449" title=" " alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="507,42,475,42,475,37,507,37"/>
+</map>

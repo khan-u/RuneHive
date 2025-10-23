@@ -1,0 +1,14 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1mafa089eba79a86d837ab5af834954e21d =
+[
+    [ "VolatileNightmareStaff", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1mafa089eba79a86d837ab5af834954e21d.html#a4de6ed5bb2e129dd347697c69a03f71d", null ],
+    [ "get", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1mafa089eba79a86d837ab5af834954e21d.html#a09ce45617cb28609142d047df02c8799", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1mafa089eba79a86d837ab5af834954e21d.html#aad19793e738e431e5f5a69a5e4abd969", null ],
+    [ "getAttackDelay", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1mafa089eba79a86d837ab5af834954e21d.html#aeedaad74035e9f6d3878244398bc0264", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1mafa089eba79a86d837ab5af834954e21d.html#a0290ac945388efff0a0d8de5d6d14ad9", null ],
+    [ "hitsplat", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1mafa089eba79a86d837ab5af834954e21d.html#a99c1b13ed9d57a7dfeaeba4d06cb62c1", null ],
+    [ "modifyAccuracy", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1mafa089eba79a86d837ab5af834954e21d.html#a9abf17af5b2934b88be58df16a5a543c", null ],
+    [ "modifyDamage", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1mafa089eba79a86d837ab5af834954e21d.html#aea9b63067d9e9c7d420d21dd6de109e5", null ],
+    [ "ANIMATION", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1mafa089eba79a86d837ab5af834954e21d.html#aff70aaf7c14266bf2832eb9d7ee5fd0e", null ],
+    [ "GRAPHIC", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1mafa089eba79a86d837ab5af834954e21d.html#ad919c7a1055429462a24f358bcfc1e28", null ],
+    [ "INSTANCE", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1mafa089eba79a86d837ab5af834954e21d.html#aae19cd2f546a73d3c1aefc8c140e4b4f", null ]
+];

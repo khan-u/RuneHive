@@ -1,0 +1,12 @@
+<map id="com.runehive.content.activity.impl.magearena.MageArena.update" name="com.runehive.content.activity.impl.magearena.MageArena.update">
+<area shape="poly" id="Node000001" title="The update method." alt="" coords="498,160,486,149,451,140,396,132,328,127,252,125,176,127,107,132,52,140,17,149,5,160,17,170,52,180,107,188,176,192,252,194,328,192,396,188,451,180,486,170"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a493263be718b90fac4e54a5fd5f960c4" title="Gets a percentage amount." alt="" coords="889,40,881,29,860,20,827,12,785,7,739,5,693,7,651,12,618,20,597,29,590,40,597,50,618,60,651,68,693,72,739,74,785,72,827,68,860,60,881,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="373,127,545,84,619,66,620,71,547,89,374,132"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a9d880a8e3188a9193421cc25bc0eef46" title="Gets the current server time and formats it." alt="" coords="913,120,905,113,880,107,842,103,793,100,739,99,685,100,637,103,598,107,574,113,565,120,574,126,598,132,637,137,685,140,739,141,793,140,842,137,880,132,905,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="465,140,578,130,578,136,466,145"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a6b7f2d3477a5cc439ea612233a45ce0b" title="Picks a random element out of any array type." alt="" coords="911,200,903,189,878,180,840,172,792,167,739,165,686,167,638,172,600,180,576,189,567,200,576,210,600,220,638,228,686,232,739,234,792,232,840,228,878,220,903,210"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="466,175,564,183,564,188,465,180"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1activity_1_1panel_1_1_activity_panel.html#a7ffba562a8efc282cfbd57985eba70ef" title="Sends all the information for the activity panel." alt="" coords="933,317,923,306,896,297,853,289,799,284,739,283,680,284,626,289,583,297,555,306,546,317,555,328,583,337,626,345,680,350,739,351,799,350,853,345,896,337,923,328"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="353,189,631,279,629,285,351,194"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="647,287,647,275,663,265,694,258,739,256,795,260,825,269,824,274,794,265,739,261,694,264,665,270,652,277,653,286"/>
+</map>

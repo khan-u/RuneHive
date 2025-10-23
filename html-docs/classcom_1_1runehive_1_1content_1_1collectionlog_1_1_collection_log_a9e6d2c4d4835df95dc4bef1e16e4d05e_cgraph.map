@@ -1,0 +1,9 @@
+<map id="com.runehive.content.collectionlog.CollectionLog.increaseCounter" name="com.runehive.content.collectionlog.CollectionLog.increaseCounter">
+<area shape="poly" id="Node000001" title=" " alt="" coords="389,133,380,122,352,113,310,105,256,100,197,99,138,100,84,105,42,113,15,122,5,133,15,144,42,153,84,161,138,166,197,167,256,166,310,161,352,153,380,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#ad161ee8145da645f610de820095d5bc3" title=" " alt="" coords="906,40,894,29,861,20,809,12,744,7,671,5,599,7,534,12,482,20,449,29,437,40,449,50,482,60,534,68,599,72,671,74,744,72,809,68,861,60,894,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="327,105,514,68,515,73,329,110"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1collectionlog_1_1_collection_log.html#a62ca05dd09aa1cd3e999b4a1ed1cbc8d" title=" " alt="" coords="863,133,854,122,827,113,784,105,731,100,671,99,612,100,559,105,516,113,489,122,479,133,489,144,516,153,559,161,612,166,671,167,731,166,784,161,827,153,854,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="390,130,464,130,464,136,390,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1collectionlog_1_1_collection_log_item.html#a48f8f55857d41b9008de71bf8107cd09" title=" " alt="" coords="863,226,854,216,827,206,784,199,731,194,671,192,612,194,559,199,516,206,489,216,479,226,489,237,516,247,559,254,612,259,671,261,731,259,784,254,827,247,854,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="329,156,526,195,525,200,327,161"/>
+</map>

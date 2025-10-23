@@ -1,0 +1,11 @@
+<map id="com.runehive.game.world.entity.Entity" name="com.runehive.game.world.entity.Entity">
+<area shape="poly" id="Node000001" title="Represents a character in the game world, i.e." alt="" coords="1332,133,1324,122,1299,113,1260,105,1211,100,1156,99,1102,100,1052,105,1013,113,988,122,980,133,988,144,1013,153,1052,161,1102,166,1156,167,1211,166,1260,161,1299,153,1324,144"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="800,40,793,29,772,20,740,12,699,7,653,5,607,7,566,12,534,20,513,29,506,40,513,50,534,60,566,68,607,72,653,74,699,72,740,68,772,60,793,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="785,61,1027,107,1026,112,784,67"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="843,133,833,122,807,113,765,105,712,100,653,99,594,100,541,105,499,113,473,122,463,133,473,144,499,153,541,161,594,166,653,167,712,166,765,161,807,153,833,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="858,130,979,130,979,136,858,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region.html" title="Represents a single region." alt="" coords="835,226,826,216,800,206,760,199,709,194,653,192,597,194,546,199,506,206,480,216,471,226,480,237,506,247,546,254,597,259,653,261,709,259,760,254,800,247,826,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="799,197,1026,154,1027,160,800,202"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_block.html" title="Represents a single region." alt="" coords="369,226,360,216,335,206,294,199,244,194,187,192,131,194,80,199,40,206,14,216,5,226,14,237,40,247,80,254,131,259,187,261,244,259,294,254,335,247,360,237"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="385,224,470,224,470,229,385,229"/>
+</map>

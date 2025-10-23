@@ -1,0 +1,7 @@
+<map id="com.runehive.content.store.currency.impl.PrestigePointCurrency.recieveCurrency" name="com.runehive.content.store.currency.impl.PrestigePointCurrency.recieveCurrency">
+<area shape="poly" id="Node000001" title="The method executed when the currency is given to player." alt="" coords="450,86,439,76,407,66,358,59,296,54,228,52,159,54,97,59,48,66,16,76,5,86,16,97,48,107,97,114,159,119,228,121,296,119,358,114,407,107,439,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1prestige_1_1_prestige.html#a387d89f928298791548034a14241018e" title=" " alt="" coords="835,40,827,29,803,20,765,12,718,7,666,5,614,7,567,12,530,20,506,29,498,40,506,50,530,60,567,68,614,72,666,74,718,72,765,68,803,60,827,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,64,501,55,501,60,412,69"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1prestige_1_1_prestige.html#ac6a7f51b00cc78c72816ed5b3c41135d" title=" " alt="" coords="835,133,827,122,803,113,765,105,718,100,666,99,614,100,567,105,530,113,506,122,498,133,506,144,530,153,567,161,614,166,666,167,718,166,765,161,803,153,827,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="412,103,501,113,501,118,412,109"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.position.Area.inInferno" name="com.runehive.game.world.position.Area.inInferno">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1272,86,1263,76,1236,66,1194,59,1141,54,1083,52,1024,54,971,59,929,66,902,76,893,86,902,97,929,107,971,114,1024,119,1083,121,1141,119,1194,114,1236,107,1263,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html#a38adc89ccda694453823cc323fd2176e" title=" " alt="" coords="835,40,826,29,799,20,757,12,704,7,645,5,587,7,534,12,492,20,465,29,455,40,465,50,492,60,534,68,587,72,645,74,704,72,757,68,799,60,826,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="903,70,810,60,810,55,903,65"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1inferno_1_1_inferno.html#a33c640d9449e1ed191b97c887352a8db" title="Called when the player changes region." alt="" coords="845,133,835,122,807,113,763,105,707,100,645,99,583,100,528,105,484,113,455,122,446,133,455,144,484,153,528,161,583,166,645,167,707,166,763,161,807,153,835,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="903,108,816,118,816,112,903,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1_waypoints.html#a280712bf33d2f8ed046e34a395c4990e" title=" " alt="" coords="398,40,388,29,360,20,317,12,262,7,201,5,141,7,86,12,43,20,15,29,5,40,15,50,43,60,86,68,141,72,201,74,262,72,317,68,360,60,388,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,42,398,42,398,37,440,37"/>
+</map>

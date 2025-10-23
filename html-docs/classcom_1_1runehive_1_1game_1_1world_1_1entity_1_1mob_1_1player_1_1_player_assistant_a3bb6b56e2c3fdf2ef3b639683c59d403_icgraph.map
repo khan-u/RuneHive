@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.player.PlayerAssistant.setContextMenu" name="com.runehive.game.world.entity.mob.player.PlayerAssistant.setContextMenu">
+<area shape="poly" id="Node000001" title="Sends the context menu to the Player&#39;s context." alt="" coords="1507,40,1496,29,1462,20,1410,12,1345,7,1273,5,1200,7,1135,12,1083,20,1050,29,1038,40,1050,50,1083,60,1135,68,1200,72,1273,74,1345,72,1410,68,1462,60,1496,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_assistant.html#ae959f7086eabbe319912af17ae5f975e" title="Handles initializing all the player assistant methods on login." alt="" coords="990,40,979,29,946,20,894,12,829,7,756,5,684,7,618,12,567,20,533,29,522,40,533,50,567,60,618,68,684,72,756,74,829,72,894,68,946,60,979,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1023,42,991,42,991,37,1023,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_assistant.html#a97f8f5f4569f166d479c5b190a5d7449" title=" " alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="507,42,475,42,475,37,507,37"/>
+</map>

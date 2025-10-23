@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.player.IPMutedPlayers.writeIpMutes" name="com.runehive.game.world.entity.mob.player.IPMutedPlayers.writeIpMutes">
+<area shape="poly" id="Node000001" title=" " alt="" coords="990,86,979,76,946,66,894,59,829,54,756,52,684,54,618,59,567,66,533,76,522,86,533,97,567,107,618,114,684,119,756,121,829,119,894,114,946,107,979,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_i_p_muted_players.html#ac1103f6bb5765ca72dff816f7a847b7f" title=" " alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="540,70,440,61,441,55,541,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_i_p_muted_players.html#aa4eb0c765240cd13c0397fa9b45408a2" title=" " alt="" coords="474,133,462,122,429,113,377,105,312,100,240,99,167,100,102,105,50,113,17,122,5,133,17,144,50,153,102,161,167,166,240,167,312,166,377,161,429,153,462,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="541,109,441,118,440,112,540,103"/>
+</map>

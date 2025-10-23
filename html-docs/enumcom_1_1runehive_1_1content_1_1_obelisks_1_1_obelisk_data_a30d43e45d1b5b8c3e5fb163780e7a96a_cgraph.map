@@ -1,0 +1,8 @@
+<map id="com.runehive.content.Obelisks.ObeliskData.getRandom" name="com.runehive.content.Obelisks.ObeliskData.getRandom">
+<area shape="poly" id="Node000001" title=" " alt="" coords="349,92,341,81,317,72,279,64,231,59,177,57,124,59,76,64,38,72,14,81,5,92,14,102,38,112,76,120,124,124,177,126,231,124,279,120,317,112,341,102"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1_obelisks_1_1_obelisk_data.html#ac2480bfafcdee9ae1054cf7c92af44f4" title=" " alt="" coords="742,40,733,29,709,20,671,12,623,7,570,5,516,7,468,12,430,20,406,29,397,40,406,50,430,60,468,68,516,72,570,74,623,72,671,68,709,60,733,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="322,70,410,58,410,64,322,75"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a0961417523881e9a3bef6e9da541942a" title=" " alt="" coords="742,144,733,137,709,131,671,127,623,124,570,123,516,124,468,127,430,131,406,137,397,144,406,150,430,156,468,161,516,164,570,165,623,164,671,161,709,156,733,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="322,108,436,123,435,129,322,114"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="500,125,493,114,504,104,530,98,570,96,614,99,638,106,637,111,613,104,570,101,530,104,507,109,499,115,504,122"/>
+</map>

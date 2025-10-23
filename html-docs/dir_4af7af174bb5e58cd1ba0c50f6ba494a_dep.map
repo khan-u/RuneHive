@@ -1,0 +1,12 @@
+<map id="java/com/runehive/game/world/entity/mob/player" name="java/com/runehive/game/world/entity/mob/player">
+<area shape="poly" id="node2" href="dir_183b42689f0e5f8f70da2e31db3befae.html" title="appearance" alt="" coords="283,85,280,78,269,73,252,68,231,65,208,64,185,65,164,68,147,73,136,78,133,85,136,91,147,97,164,102,185,105,208,106,231,105,252,102,269,97,280,91"/>
+<area shape="poly" id="node3" href="dir_1060fc1754e51282fced64c98eeea236.html" title="camera" alt="" coords="413,85,410,78,403,73,391,68,376,65,360,64,344,65,329,68,317,73,310,78,307,85,310,91,317,97,329,102,344,105,360,106,376,105,391,102,403,97,410,91"/>
+<area shape="poly" id="node4" href="dir_ef26c78b8adce880de7be6416dbc3c08.html" title="command" alt="" coords="566,85,563,78,554,73,539,68,521,65,501,64,481,65,463,68,449,73,440,78,437,85,440,91,449,97,463,102,481,105,501,106,521,105,539,102,554,97,563,91"/>
+<area shape="poly" id="node5" href="dir_37fe071c1cbe5c1fd3bf32ad6dd563e1.html" title="exchange" alt="" coords="719,85,716,78,707,73,693,68,675,65,655,64,635,65,617,68,602,73,593,78,590,85,593,91,602,97,617,102,635,105,655,106,675,105,693,102,707,97,716,91"/>
+<area shape="poly" id="node6" href="dir_fa44a67f8dfc95f290b36f42cd9759cb.html" title="persist" alt="" coords="840,85,838,78,831,73,820,68,807,65,792,64,777,65,764,68,753,73,746,78,744,85,746,91,753,97,764,102,777,105,792,106,807,105,820,102,831,97,838,91"/>
+<area shape="poly" id="node7" href="dir_b2b66e16ca41c7b231548ec93873f361.html" title="profile" alt="" coords="957,85,955,78,948,73,938,68,925,65,911,64,896,65,884,68,873,73,867,78,864,85,867,91,873,97,884,102,896,105,911,106,925,105,938,102,948,97,955,91"/>
+<area shape="poly" id="node8" href="dir_4cfac9e9150c0423ab1c56b65f3e7c4c.html" title="relations" alt="" coords="1097,85,1094,78,1086,73,1073,68,1057,65,1039,64,1021,65,1004,68,992,73,983,78,980,85,983,91,992,97,1004,102,1021,105,1039,106,1057,105,1073,102,1086,97,1094,91"/>
+<area shape="poly" id="node9" href="dir_e15c6b43b8ff442dca8cba0ed58c078d.html" title="requests" alt="" coords="1237,85,1234,78,1226,73,1213,68,1197,65,1179,64,1161,65,1144,68,1132,73,1123,78,1120,85,1123,91,1132,97,1144,102,1161,105,1179,106,1197,105,1213,102,1226,97,1234,91"/>
+<area shape="rect" id="clust2" href="dir_4af7af174bb5e58cd1ba0c50f6ba494a.html" alt="" coords="27,53,1248,117"/>
+<area shape="rect" id="clust1" href="dir_c1813d5429991afe8f7a4b2c8ffff824.html" title="mob" alt="" coords="16,16,1259,127"/>
+</map>

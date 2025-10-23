@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.magic.spell.SpellCasting.hasEnchantRunes" name="com.runehive.content.skill.impl.magic.spell.SpellCasting.hasEnchantRunes">
+<area shape="poly" id="Node000001" title=" " alt="" coords="470,40,458,29,425,20,374,12,309,7,238,5,166,7,101,12,50,20,17,29,5,40,17,50,50,60,101,68,166,72,238,74,309,72,374,68,425,60,458,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1magic_1_1enchant_1_1_spell_enchant.html#aa6a46ce65b7c15e029f37c7e0d7b2f80" title=" " alt="" coords="1015,40,1002,29,967,20,912,12,843,7,766,5,689,7,620,12,565,20,530,29,518,40,530,50,565,60,620,68,689,72,766,74,843,72,912,68,967,60,1002,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,37,502,37,502,42,470,42"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1magic_1_1enchant_1_1_spell_enchant.html#a5addd4508d52d04fff0d3c19b5365e43" title=" " alt="" coords="1559,40,1547,29,1512,20,1457,12,1388,7,1311,5,1234,7,1165,12,1110,20,1075,29,1063,40,1075,50,1110,60,1165,68,1234,72,1311,74,1388,72,1457,68,1512,60,1547,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1015,37,1047,37,1047,42,1015,42"/>
+</map>

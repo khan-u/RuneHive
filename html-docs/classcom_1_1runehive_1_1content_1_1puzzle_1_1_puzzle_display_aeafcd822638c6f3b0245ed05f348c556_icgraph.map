@@ -1,0 +1,5 @@
+<map id="com.runehive.content.puzzle.PuzzleDisplay.checkAnswer" name="com.runehive.content.puzzle.PuzzleDisplay.checkAnswer">
+<area shape="poly" id="Node000001" title="Checks the puzzle answer." alt="" coords="699,40,691,29,668,20,633,12,588,7,538,5,488,7,443,12,407,20,384,29,376,40,384,50,407,60,443,68,488,72,538,74,588,72,633,68,668,60,691,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1puzzle_1_1_puzzle_display.html#a9dbf035975108b39d345c7f560cd80bc" title="Handles clicking on the puzzle interface." alt="" coords="328,40,320,29,297,20,262,12,217,7,167,5,117,7,72,12,36,20,13,29,5,40,13,50,36,60,72,68,117,72,167,74,217,72,262,68,297,60,320,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="361,42,329,42,329,37,361,37"/>
+</map>

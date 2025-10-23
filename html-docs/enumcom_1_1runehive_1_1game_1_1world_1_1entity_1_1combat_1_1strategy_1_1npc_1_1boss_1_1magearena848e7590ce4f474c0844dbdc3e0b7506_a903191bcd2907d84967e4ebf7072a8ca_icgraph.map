@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.PorazdirUtility.SpawnData.SpawnData" name="com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.PorazdirUtility.SpawnData.SpawnData">
+<area shape="poly" id="Node000001" title=" " alt="" coords="2296,40,2278,29,2226,20,2145,12,2043,7,1930,5,1817,7,1715,12,1634,20,1582,29,1565,40,1582,50,1634,60,1715,68,1817,72,1930,74,2043,72,2145,68,2226,60,2278,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena848e7590ce4f474c0844dbdc3e0b7506.html#a9251c76c3ed5690ef8bba12620243a12" title=" " alt="" coords="1517,40,1499,29,1447,20,1366,12,1264,7,1151,5,1038,7,936,12,855,20,803,29,785,40,803,50,855,60,936,68,1038,72,1151,74,1264,72,1366,68,1447,60,1499,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1549,42,1517,42,1517,37,1549,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_porazdir_utility.html#a1f1ca7f25168850c8433755446d59a18" title=" " alt="" coords="737,40,719,29,667,20,586,12,484,7,371,5,258,7,156,12,75,20,23,29,5,40,23,50,75,60,156,68,258,72,371,74,484,72,586,68,667,60,719,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="770,42,737,42,737,37,770,37"/>
+</map>

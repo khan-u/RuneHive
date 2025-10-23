@@ -1,0 +1,8 @@
+<map id="com.runehive.content.skill.impl.runecrafting.RunecraftData.getLevel" name="com.runehive.content.skill.impl.runecrafting.RunecraftData.getLevel">
+<area shape="poly" id="Node000001" title="Gets the level required." alt="" coords="1507,40,1496,29,1462,20,1410,12,1345,7,1273,5,1200,7,1135,12,1083,20,1050,29,1038,40,1050,50,1083,60,1135,68,1200,72,1273,74,1345,72,1410,68,1462,60,1496,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1runecrafting_1_1_runecraft.html#aa1f13c7e10dce38b8d41fe8b4c4be887" title=" " alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1031,33,990,32,756,29,522,32,466,33,466,28,522,26,756,23,991,26,1031,27"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1runecrafting_1_1_runecraft.html#a0bbf447a7e93c5c4aba44c28cad5c826" title=" " alt="" coords="990,76,979,65,946,56,894,48,829,43,756,41,684,43,618,48,567,56,533,65,522,76,533,86,567,96,618,104,684,108,756,110,829,108,894,104,946,96,979,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1045,58,969,64,969,58,1045,53"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="528,63,452,57,452,52,529,57"/>
+</map>

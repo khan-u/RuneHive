@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.player.InterfaceManager.isClear" name="com.runehive.game.world.entity.mob.player.InterfaceManager.isClear">
+<area shape="poly" id="Node000001" title="Checks if the player&#39;s screen is clear." alt="" coords="945,86,934,76,900,66,849,59,783,54,711,52,639,54,573,59,521,66,488,76,477,86,488,97,521,107,573,114,639,119,711,121,783,119,849,114,900,107,934,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1in_1_1_drop_item_packet_listener.html#a2b8c666f0fe2f5482b0102a33c6184ce" title="Handles the packet that has just been received." alt="" coords="424,40,414,29,385,20,339,12,281,7,217,5,153,7,95,12,49,20,20,29,10,40,20,50,49,60,95,68,153,72,217,74,281,72,339,68,385,60,414,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,69,398,59,399,54,498,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1packet_1_1in_1_1_wield_item_packet_listener.html#a839b019b6680c6f35b682511e989d581" title="Handles the packet that has just been received." alt="" coords="429,133,418,122,388,113,341,105,282,100,217,99,152,100,93,105,46,113,16,122,5,133,16,144,46,153,93,161,152,166,217,167,282,166,341,161,388,153,418,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="498,109,401,118,401,113,497,104"/>
+</map>

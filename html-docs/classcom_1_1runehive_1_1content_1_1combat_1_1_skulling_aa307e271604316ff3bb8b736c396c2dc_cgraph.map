@@ -1,0 +1,5 @@
+<map id="com.runehive.content.combat.Skulling.unskull" name="com.runehive.content.combat.Skulling.unskull">
+<area shape="poly" id="Node000001" title="Unskulls the player." alt="" coords="335,40,327,29,304,20,267,12,221,7,170,5,119,7,73,12,37,20,13,29,5,40,13,50,37,60,73,68,119,72,170,74,221,72,267,68,304,60,327,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1combat_1_1_skulling.html#a228d71ed85e986952c1ba1809ec52652" title=" " alt="" coords="713,40,705,29,682,20,645,12,599,7,548,5,497,7,451,12,415,20,391,29,383,40,391,50,415,60,451,68,497,72,548,74,599,72,645,68,682,60,705,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="336,37,368,37,368,42,336,42"/>
+</map>

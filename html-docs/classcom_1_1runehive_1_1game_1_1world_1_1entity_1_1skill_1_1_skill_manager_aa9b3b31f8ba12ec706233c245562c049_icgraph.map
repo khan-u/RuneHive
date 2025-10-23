@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.skill.SkillManager.isMaxed" name="com.runehive.game.world.entity.skill.SkillManager.isMaxed">
+<area shape="poly" id="Node000001" title="Checks if the mob is maxed in all skills." alt="" coords="875,40,865,29,837,20,793,12,737,7,676,5,614,7,559,12,515,20,486,29,477,40,486,50,515,60,559,68,614,72,676,74,737,72,793,68,837,60,865,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1in_1_1_wield_item_packet_listener.html#a839b019b6680c6f35b682511e989d581" title="Handles the packet that has just been received." alt="" coords="429,40,418,29,388,20,341,12,282,7,217,5,152,7,93,12,46,20,16,29,5,40,16,50,46,60,93,68,152,72,217,74,282,72,341,68,388,60,418,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="461,42,429,42,429,37,461,37"/>
+</map>

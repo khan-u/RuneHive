@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.object.StaticGameObject.register" name="com.runehive.game.world.object.StaticGameObject.register">
+<area shape="poly" id="Node000001" title="Registers the game object." alt="" coords="776,86,767,76,741,66,701,59,651,54,595,52,539,54,489,59,449,66,423,76,414,86,423,97,449,107,489,114,539,119,595,121,651,119,701,114,741,107,767,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_static_game_object.html#a9e5015f175ac2d29f110afa38e66dc27" title=" " alt="" coords="366,40,358,29,332,20,292,12,242,7,186,5,130,7,80,12,40,20,14,29,5,40,14,50,40,60,80,68,130,72,186,74,242,72,292,68,332,60,358,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="424,70,342,60,342,55,424,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1object_1_1_static_game_object.html#ae3b63a10192eb98998adbc5b85bd820a" title=" " alt="" coords="366,133,358,122,332,113,292,105,242,100,186,99,130,100,80,105,40,113,14,122,5,133,14,144,40,153,80,161,130,166,186,167,242,166,292,161,332,153,358,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="424,109,342,118,342,113,424,103"/>
+</map>

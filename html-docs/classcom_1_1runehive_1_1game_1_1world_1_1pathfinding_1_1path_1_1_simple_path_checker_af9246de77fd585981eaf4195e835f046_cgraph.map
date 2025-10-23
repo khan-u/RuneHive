@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.pathfinding.path.SimplePathChecker.checkLine" name="com.runehive.game.world.pathfinding.path.SimplePathChecker.checkLine">
+<area shape="poly" id="Node000001" title=" " alt="" coords="467,86,456,76,423,66,372,59,307,54,236,52,165,54,100,59,49,66,17,76,5,86,17,97,49,107,100,114,165,119,236,121,307,119,372,114,423,107,456,97"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#a49e07a60c6643c0ba33bc9754305c352" title=" " alt="" coords="809,40,802,29,781,20,749,12,708,7,662,5,617,7,576,12,543,20,522,29,515,40,522,50,543,60,576,68,617,72,662,74,708,72,749,68,781,60,802,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="423,63,513,53,513,59,423,69"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#ad7eb47dad8c89c478cedc32ea6fe3a5b" title=" " alt="" coords="809,133,802,122,781,113,749,105,708,100,662,99,617,100,576,105,543,113,522,122,515,133,522,144,543,153,576,161,617,166,662,167,708,166,749,161,781,153,802,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="423,104,513,114,513,119,423,110"/>
+</map>

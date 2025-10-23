@@ -1,0 +1,5 @@
+<map id="com.runehive.content.combat.SkullHeadIconType.lookup" name="com.runehive.content.combat.SkullHeadIconType.lookup">
+<area shape="poly" id="Node000001" title=" " alt="" coords="335,40,327,29,304,20,267,12,221,7,170,5,119,7,73,12,37,20,13,29,5,40,13,50,37,60,73,68,119,72,170,74,221,72,267,68,304,60,327,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1combat_1_1_skull_head_icon_type.html#a3fdd2cdfac4ae25d89ee515dde36a99d" title=" " alt="" coords="815,40,805,29,774,20,726,12,666,7,599,5,533,7,472,12,425,20,394,29,383,40,394,50,425,60,472,68,533,72,599,74,666,72,726,68,774,60,805,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="336,37,368,37,368,42,336,42"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/skill/impl/magic" name="java/com/runehive/content/skill/impl/magic">
+<area shape="poly" id="node2" href="dir_fec33ac79830010043263503a11c1e7e.html" title="enchant" alt="" coords="245,85,242,78,234,73,222,68,206,65,189,64,172,65,157,68,145,73,137,78,134,85,137,91,145,97,157,102,172,105,189,106,206,105,222,102,234,97,242,91"/>
+<area shape="poly" id="node3" href="dir_608592dd94671c496974a31b26632852.html" title="spell" alt="" coords="347,85,345,78,340,73,331,68,320,65,308,64,296,65,285,68,276,73,271,78,269,85,271,91,276,97,285,102,296,105,308,106,320,105,331,102,340,97,345,91"/>
+<area shape="poly" id="node4" href="dir_90d2497ed5222c5e097ea91cfa74fff9.html" title="teleport" alt="" coords="477,85,474,78,467,73,455,68,440,65,424,64,408,65,393,68,381,73,374,78,371,85,374,91,381,97,393,102,408,105,424,106,440,105,455,102,467,97,474,91"/>
+<area shape="rect" id="clust2" href="dir_a0a8a2a58eb123694c7b52774ed56d29.html" alt="" coords="27,53,487,117"/>
+<area shape="rect" id="clust1" href="dir_008527c31759837636c022d137266fe6.html" title="impl" alt="" coords="16,16,497,127"/>
+</map>

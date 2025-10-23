@@ -1,0 +1,9 @@
+<map id="com.runehive.content.activity.impl.kraken.KrakenActivity.add" name="com.runehive.content.activity.impl.kraken.KrakenActivity.add">
+<area shape="poly" id="Node000001" title="Adds a mob to the activity." alt="" coords="451,86,440,76,409,66,359,59,297,54,228,52,159,54,97,59,48,66,16,76,5,86,16,97,48,107,97,114,159,119,228,121,297,119,359,114,409,107,440,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a1bc291ddb555d1ee3a6a8b9bc1ee4a35" title=" " alt="" coords="901,40,892,29,863,20,819,12,762,7,700,5,638,7,582,12,538,20,509,29,499,40,509,50,538,60,582,68,638,72,700,74,762,72,819,68,863,60,892,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="417,65,510,56,510,61,418,70"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#ac1ffa95e70f2c18a6695328fb2afc585" title="Check if an entity is an npc." alt="" coords="901,133,892,122,863,113,819,105,762,100,700,99,638,100,582,105,538,113,509,122,499,133,509,144,538,153,582,161,638,166,700,167,762,166,819,161,863,153,892,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="418,102,510,112,510,117,417,108"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a64f68055122aaf4af08787378c7ac356" title="Gets the EntityType." alt="" coords="1302,133,1293,122,1268,113,1229,105,1180,100,1126,99,1071,100,1022,105,983,113,958,122,949,133,958,144,983,153,1022,161,1071,166,1126,167,1180,166,1229,161,1268,153,1293,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="902,130,934,130,934,136,902,136"/>
+</map>

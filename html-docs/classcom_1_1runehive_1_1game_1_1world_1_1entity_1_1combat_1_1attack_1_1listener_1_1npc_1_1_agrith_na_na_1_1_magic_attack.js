@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_agrith_na_na_1_1_magic_attack =
+[
+    [ "MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_agrith_na_na_1_1_magic_attack.html#a45a8ecb4b33499d48e323275b63906a9", null ],
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_agrith_na_na_1_1_magic_attack.html#a2d2d232c1d632001299a4d2fdbe1bdca", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_agrith_na_na_1_1_magic_attack.html#a7dacb11d716b14f008b718418353c975", null ]
+];

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.exchange.ExchangeSession.request" name="com.runehive.game.world.entity.mob.player.exchange.ExchangeSession.request">
+<area shape="poly" id="Node000001" title="Attempts to start an exchange session." alt="" coords="1200,40,1186,29,1145,20,1082,12,1002,7,913,5,825,7,745,12,681,20,641,29,627,40,641,50,681,60,745,68,825,72,913,74,1002,72,1082,68,1145,60,1186,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1exchange_1_1_exchange_session_manager.html#a7b5cbe3eb19a2034106725062e326652" title="Attempts to request the specified session." alt="" coords="579,40,565,29,524,20,460,12,381,7,292,5,203,7,123,12,60,20,19,29,5,40,19,50,60,60,123,68,203,72,292,74,381,72,460,68,524,60,565,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="611,42,579,42,579,37,611,37"/>
+</map>

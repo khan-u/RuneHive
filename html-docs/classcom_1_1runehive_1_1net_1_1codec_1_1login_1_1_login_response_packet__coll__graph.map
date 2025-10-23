@@ -1,0 +1,7 @@
+<map id="com.runehive.net.codec.login.LoginResponsePacket" name="com.runehive.net.codec.login.LoginResponsePacket">
+<area shape="poly" id="Node000001" title="An immutable message that is written through a channel and forwarded to the LoginResponseEncoder wher..." alt="" coords="913,86,905,76,881,66,845,59,799,54,748,52,697,54,651,59,614,66,591,76,583,86,591,97,614,107,651,114,697,119,748,121,799,119,845,114,881,107,905,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1net_1_1codec_1_1login_1_1_login_response.html" title="Represents the enumerated login response codes." alt="" coords="405,40,397,29,373,20,337,12,291,7,240,5,189,7,143,12,106,20,83,29,75,40,83,50,106,60,143,68,189,72,240,74,291,72,337,68,373,60,397,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,52,596,70,596,75,406,58"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_right.html" title="Holds all the player right data." alt="" coords="474,133,462,122,429,113,377,105,312,100,240,99,167,100,102,105,50,113,17,122,5,133,17,144,50,153,102,161,167,166,240,167,312,166,377,161,429,153,462,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="454,111,596,98,596,103,455,116"/>
+</map>

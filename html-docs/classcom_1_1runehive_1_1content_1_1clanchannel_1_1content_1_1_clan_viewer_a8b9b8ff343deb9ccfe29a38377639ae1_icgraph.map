@@ -1,0 +1,9 @@
+<map id="com.runehive.content.clanchannel.content.ClanViewer.update" name="com.runehive.content.clanchannel.content.ClanViewer.update">
+<area shape="poly" id="Node000001" title=" " alt="" coords="978,133,967,122,934,113,883,105,819,100,748,99,678,100,614,105,563,113,530,122,519,133,530,144,563,153,614,161,678,166,748,167,819,166,883,161,934,153,967,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1channel_1_1_clan_channel.html#af8bb82f9bf9f3a3bd9c2d0dbed770728" title=" " alt="" coords="471,40,460,29,427,20,375,12,310,7,238,5,166,7,101,12,50,20,17,29,5,40,17,50,50,60,101,68,166,72,238,74,310,72,375,68,427,60,460,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="586,106,386,69,387,64,587,101"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1channel_1_1_clan_channel.html#ab82befac6c6abaa70c6ee1100faae285" title=" " alt="" coords="471,133,460,122,427,113,375,105,310,100,238,99,166,100,101,105,50,113,17,122,5,133,17,144,50,153,101,161,166,166,238,167,310,166,375,161,427,153,460,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="503,136,471,136,471,130,503,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1clanchannel_1_1channel_1_1_clan_channel.html#adba4773e20b878281137bcc3c061915c" title=" " alt="" coords="471,226,460,216,427,206,375,199,310,194,238,192,166,194,101,199,50,206,17,216,5,226,17,237,50,247,101,254,166,259,238,261,310,259,375,254,427,247,460,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="587,165,387,202,386,197,586,160"/>
+</map>

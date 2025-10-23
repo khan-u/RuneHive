@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.Direction.getManhattanDirection" name="com.runehive.game.world.entity.mob.Direction.getManhattanDirection">
+<area shape="poly" id="Node000001" title="Gets the direction between two locations, ignoring corners." alt="" coords="407,133,398,122,369,113,325,105,269,100,206,99,144,100,88,105,44,113,15,122,5,133,15,144,44,153,88,161,144,166,206,167,269,166,325,161,369,153,398,144"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_direction.html#a8b0c9cd92772067ca662f10b70a6a487" title=" " alt="" coords="858,40,848,29,819,20,775,12,719,7,656,5,594,7,538,12,494,20,465,29,455,40,465,50,494,60,538,68,594,72,656,74,719,72,775,68,819,60,848,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,104,511,67,513,72,336,109"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a7bfa5292d8c3f79100a6bc85ea27b5ea" title="Gets the absolute x coordinate." alt="" coords="846,133,837,122,810,113,768,105,715,100,656,99,598,100,545,105,503,113,476,122,467,133,476,144,503,153,545,161,598,166,656,167,715,166,768,161,810,153,837,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="408,130,451,130,451,136,408,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a55498d0fafce9fdeedca16984d79aee5" title="Gets the absolute y coordinate." alt="" coords="846,226,837,216,810,206,768,199,715,194,656,192,598,194,545,199,503,206,476,216,467,226,476,237,503,247,545,254,598,259,656,261,715,259,768,254,810,247,837,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="336,157,516,195,515,200,335,162"/>
+</map>

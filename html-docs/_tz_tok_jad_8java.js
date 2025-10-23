@@ -1,0 +1,7 @@
+var _tz_tok_jad_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.TzTokJad", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_tz_tok_jad.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_tz_tok_jad" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.TzTokJad.MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_tz_tok_jad_1_1_magic_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_tz_tok_jad_1_1_magic_attack" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.TzTokJad.MeleeAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_tz_tok_jad_1_1_melee_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_tz_tok_jad_1_1_melee_attack" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.TzTokJad.RangedAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_tz_tok_jad_1_1_ranged_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_tz_tok_jad_1_1_ranged_attack" ]
+];

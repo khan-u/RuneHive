@@ -1,0 +1,7 @@
+<map id="com.runehive.content.combat.cannon.Cannon" name="com.runehive.content.combat.cannon.Cannon">
+<area shape="poly" id="Node000001" title="Handles the dwarf cannon." alt="" coords="416,273,406,263,377,253,331,246,274,241,211,239,147,241,90,246,45,253,15,263,5,273,15,284,45,294,90,301,147,306,211,308,274,306,331,301,377,294,406,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html" title="Represents a character in the game world, i.e." alt="" coords="387,157,378,146,353,136,314,129,265,124,211,122,156,124,107,129,68,136,43,146,34,157,43,167,68,177,107,184,156,189,211,191,265,189,314,184,353,177,378,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,207,213,239,208,239,208,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="358,40,351,29,330,20,297,12,256,7,211,5,165,7,124,12,91,20,71,29,63,40,71,50,91,60,124,68,165,72,211,74,256,72,297,68,330,60,351,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="213,90,213,122,208,122,208,90"/>
+</map>

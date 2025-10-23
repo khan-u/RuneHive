@@ -1,0 +1,11 @@
+<map id="com.runehive.content.consume.PotionData.PotionData" name="com.runehive.content.consume.PotionData.PotionData">
+<area shape="poly" id="Node000001" title="Create a new PotionData." alt="" coords="1565,86,1557,76,1532,66,1494,59,1445,54,1391,52,1337,54,1289,59,1250,66,1226,76,1217,86,1226,97,1250,107,1289,114,1337,119,1391,121,1445,119,1494,114,1532,107,1557,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1consume_1_1_potion_data.html#a8d600b7bf75e32cf1fb9de0b2d7f45c0" title="Retrieves the potion consumable element for id." alt="" coords="1169,86,1161,76,1136,66,1097,59,1049,54,995,52,941,54,892,59,854,66,829,76,821,86,829,97,854,107,892,114,941,119,995,121,1049,119,1097,114,1136,107,1161,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1202,89,1169,89,1169,84,1202,84"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1consume_1_1_potion_data.html#a2d2efa7711afc51cf1807a64ff5c6ca4" title="Retrieves the replacement item for item." alt="" coords="735,40,726,29,701,20,662,12,612,7,557,5,502,7,452,12,412,20,387,29,378,40,387,50,412,60,452,68,502,72,557,74,612,72,662,68,701,60,726,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="825,71,714,59,714,54,826,66"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1bot_1_1objective_1_1impl_1_1_restock_objective.html#a142c62cc71dcafb8dc91882acf1b508b" title=" " alt="" coords="773,133,762,122,731,113,684,105,624,100,557,99,490,100,430,105,382,113,351,122,341,133,351,144,382,153,430,161,490,166,557,167,624,166,684,161,731,153,762,144"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="826,107,738,117,737,111,825,102"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1bot_1_1_player_bot.html#ac2ae59f2c2972145bd2d311b6801dfb2" title=" " alt="" coords="293,40,286,29,265,20,234,12,194,7,149,5,105,7,65,12,33,20,12,29,5,40,12,50,33,60,65,68,105,72,149,74,194,72,234,68,265,60,286,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="363,42,293,42,293,37,363,37"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="com.runehive.content.mysterybox.MysteryBoxEvent.reward" name="com.runehive.content.mysterybox.MysteryBoxEvent.reward">
+<area shape="poly" id="Node000001" title=" " alt="" coords="376,133,367,122,341,113,300,105,248,100,191,99,134,100,82,105,41,113,14,122,5,133,14,144,41,153,82,161,134,166,191,167,248,166,300,161,341,153,367,144"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="109,102,110,90,124,80,151,74,191,72,239,76,266,85,265,90,238,81,191,77,152,80,126,85,114,93,115,102"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a949eda7f39a8a3e15e29283f8b0d0623" title="A or an." alt="" coords="770,40,763,29,741,20,708,12,667,7,620,5,574,7,533,12,500,20,478,29,471,40,478,50,500,60,533,68,574,72,620,74,667,72,708,68,741,60,763,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="312,104,495,64,496,69,313,109"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1mysterybox_1_1_mystery_box_event.html#ad41786baef45ab47d12166e73537bd74" title=" " alt="" coords="817,133,807,122,779,113,736,105,681,100,620,99,560,100,505,105,462,113,434,122,424,133,434,144,462,153,505,161,560,166,620,167,681,166,736,161,779,153,807,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="377,130,409,130,409,136,377,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a9a241d1bef16b172bbbf1df6767443b2" title="Sends a global message." alt="" coords="768,226,761,216,740,206,707,199,666,194,620,192,575,194,534,199,501,206,480,216,473,226,480,237,501,247,534,254,575,259,620,261,666,259,707,254,740,247,761,237"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="313,157,497,197,496,202,312,162"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#aea9414faed608c5daf7defab8f0a1f07" title=" " alt="" coords="1159,226,1152,216,1131,206,1098,199,1057,194,1012,192,966,194,925,199,893,206,872,216,865,226,872,237,893,247,925,254,966,259,1012,261,1057,259,1098,254,1131,247,1152,237"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="768,224,849,224,849,229,768,229"/>
+</map>

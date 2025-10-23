@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.combat.formula.MagicFormula.modifyDefensiveBonus" name="com.runehive.game.world.entity.combat.formula.MagicFormula.modifyDefensiveBonus">
+<area shape="poly" id="Node000001" title=" " alt="" coords="518,86,505,76,469,66,412,59,341,54,262,52,182,54,111,59,54,66,18,76,5,86,18,97,54,107,111,114,182,119,262,121,341,119,412,114,469,107,505,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a15c70b1ab880b5e8dab6a8a3006df952" title=" " alt="" coords="968,40,958,29,929,20,885,12,829,7,767,5,705,7,649,12,604,20,576,29,566,40,576,50,604,60,649,68,705,72,767,74,829,72,885,68,929,60,958,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,64,574,55,574,60,474,69"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a385dc0248234fddaae1b093594d7bf58" title="The combat of the mob." alt="" coords="968,133,958,122,929,113,885,105,829,100,767,99,705,100,649,105,604,113,576,122,566,133,576,144,604,153,649,161,705,166,767,167,829,166,885,161,929,153,958,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="474,103,574,113,574,118,474,109"/>
+</map>

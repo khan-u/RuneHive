@@ -1,0 +1,5 @@
+<map id="com.runehive.util.tools.wiki.impl.NpcDropsParser.DropItem" name="com.runehive.util.tools.wiki.impl.NpcDropsParser.DropItem">
+<area shape="poly" id="Node000001" title=" " alt="" coords="359,181,351,170,326,160,286,153,237,148,182,146,128,148,78,153,39,160,14,170,5,181,14,191,39,201,78,208,128,213,182,215,237,213,286,208,326,201,351,191"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1util_1_1tools_1_1wiki_1_1impl_1_1_npc_drops_parser_1_1_drop_rarity.html" title=" " alt="" coords="359,40,351,29,326,20,286,12,237,7,182,5,128,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,128,72,182,74,237,72,286,68,326,60,351,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,89,185,146,180,146,180,89"/>
+</map>

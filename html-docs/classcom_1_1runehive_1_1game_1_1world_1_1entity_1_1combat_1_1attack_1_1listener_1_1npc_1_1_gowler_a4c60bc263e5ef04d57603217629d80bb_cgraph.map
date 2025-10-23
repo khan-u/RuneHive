@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.npc.Gowler.canAttack" name="com.runehive.game.world.entity.combat.attack.listener.npc.Gowler.canAttack">
+<area shape="poly" id="Node000001" title=" " alt="" coords="622,40,607,29,563,20,495,12,409,7,314,5,219,7,133,12,64,20,20,29,5,40,20,50,64,60,133,68,219,72,314,74,409,72,495,68,563,60,607,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1_npc.html#af40078deb7e0b8637766fa13cbd421c8" title="The combat strategy of the mob." alt="" coords="1115,40,1104,29,1072,20,1023,12,961,7,893,5,824,7,762,12,713,20,681,29,670,40,681,50,713,60,762,68,824,72,893,74,961,72,1023,68,1072,60,1104,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="623,37,655,37,655,42,623,42"/>
+</map>

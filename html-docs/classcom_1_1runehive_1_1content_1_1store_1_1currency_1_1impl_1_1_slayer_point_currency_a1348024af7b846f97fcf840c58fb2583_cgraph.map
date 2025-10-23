@@ -1,0 +1,7 @@
+<map id="com.runehive.content.store.currency.impl.SlayerPointCurrency.recieveCurrency" name="com.runehive.content.store.currency.impl.SlayerPointCurrency.recieveCurrency">
+<area shape="poly" id="Node000001" title="The method executed when the currency is given to player." alt="" coords="450,86,439,76,407,66,358,59,296,54,228,52,159,54,97,59,48,66,16,76,5,86,16,97,48,107,97,114,159,119,228,121,296,119,358,114,407,107,439,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_slayer.html#a1ba211498db8d74df04291337c16df16" title=" " alt="" coords="907,40,897,29,868,20,823,12,766,7,702,5,639,7,582,12,537,20,508,29,498,40,508,50,537,60,582,68,639,72,702,74,766,72,823,68,868,60,897,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,65,509,56,510,61,417,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_slayer.html#ab954d02f7780223f3e113e82e7a2a1c8" title=" " alt="" coords="907,133,897,122,868,113,823,105,766,100,702,99,639,100,582,105,537,113,508,122,498,133,508,144,537,153,582,161,639,166,702,167,766,166,823,161,868,153,897,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="417,102,510,112,509,117,416,108"/>
+</map>

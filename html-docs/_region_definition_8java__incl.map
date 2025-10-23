@@ -1,0 +1,7 @@
+<map id="java/com/runehive/game/world/region/RegionDefinition.java" name="java/com/runehive/game/world/region/RegionDefinition.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="471,40,462,29,435,20,392,12,339,7,280,5,220,7,167,12,124,20,97,29,88,40,97,50,124,60,167,68,220,72,280,74,339,72,392,68,435,60,462,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="260,157,254,146,236,136,208,129,172,124,133,122,93,124,58,129,30,136,12,146,5,157,12,167,30,177,58,184,93,189,133,191,172,189,208,184,236,177,254,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,76,187,116,184,112,236,72"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="569,157,562,146,541,136,510,129,470,124,426,122,382,124,343,129,311,136,291,146,284,157,291,167,311,177,343,184,382,189,426,191,470,189,510,184,541,177,562,167"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="323,72,375,112,371,116,320,76"/>
+</map>

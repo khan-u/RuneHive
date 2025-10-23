@@ -1,0 +1,4 @@
+<map id="com.runehive.net.packet.GamePacket.readBytesReverse" name="com.runehive.net.packet.GamePacket.readBytesReverse">
+<area shape="poly" id="Node000001" title="Reads a series of bytes in reverse." alt="" coords="358,64,349,53,324,44,285,36,236,31,182,29,127,31,78,36,39,44,14,53,5,64,14,74,39,84,78,92,127,96,182,98,236,96,285,92,324,84,349,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="114,31,115,20,127,11,150,5,182,3,221,6,243,15,241,20,220,11,182,8,150,10,130,15,120,23,119,32"/>
+</map>

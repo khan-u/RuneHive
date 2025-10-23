@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.position.Position.isViewableFrom" name="com.runehive.game.world.position.Position.isViewableFrom">
+<area shape="poly" id="Node000001" title=" " alt="" coords="727,40,718,29,691,20,649,12,596,7,538,5,479,7,426,12,384,20,357,29,348,40,357,50,384,60,426,68,479,72,538,74,596,72,649,68,691,60,718,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a8b46d91daa66a42e09d790c7694289e4" title=" " alt="" coords="300,40,293,29,272,20,239,12,198,7,153,5,107,7,66,12,33,20,13,29,5,40,13,50,33,60,66,68,107,72,153,74,198,72,239,68,272,60,293,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,42,300,42,300,37,332,37"/>
+</map>

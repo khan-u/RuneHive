@@ -1,0 +1,7 @@
+<map id="com.runehive.game.task.impl.ObjectPlacementEvent.execute" name="com.runehive.game.task.impl.ObjectPlacementEvent.execute">
+<area shape="poly" id="Node000001" title="A function representing the unit of work that will be carried out." alt="" coords="351,40,342,29,318,20,280,12,231,7,178,5,125,7,77,12,38,20,14,29,5,40,14,50,38,60,77,68,125,72,178,74,231,72,280,68,318,60,342,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#a2fc8d15b55a8f0a55a20c0b78f77007c" title="Cancels all subsequent executions." alt="" coords="798,40,788,33,760,27,716,23,660,20,599,19,537,20,481,23,437,27,409,33,399,40,409,46,437,52,481,57,537,60,599,61,660,60,716,57,760,52,788,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,37,383,37,383,42,351,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html#aef9b4245ff3b594dd844c44da99d51a3" title="A function executed on cancellation." alt="" coords="1204,40,1196,29,1170,20,1131,12,1081,7,1025,5,970,7,920,12,880,20,855,29,846,40,855,50,880,60,920,68,970,72,1025,74,1081,72,1131,68,1170,60,1196,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="798,37,831,37,831,42,798,42"/>
+</map>

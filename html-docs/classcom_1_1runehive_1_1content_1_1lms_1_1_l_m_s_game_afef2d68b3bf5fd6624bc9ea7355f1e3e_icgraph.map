@@ -1,0 +1,9 @@
+<map id="com.runehive.content.lms.LMSGame.gearUpPlayers" name="com.runehive.content.lms.LMSGame.gearUpPlayers">
+<area shape="poly" id="Node000001" title="Handles gearing up all the players." alt="" coords="1379,40,1372,29,1351,20,1318,12,1277,7,1231,5,1186,7,1145,12,1112,20,1091,29,1084,40,1091,50,1112,60,1145,68,1186,72,1231,74,1277,72,1318,68,1351,60,1372,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1lms_1_1_l_m_s_game.html#a9b188ee174cb4ceee6bf2ff6a89ff820" title="Handles starting the lms game." alt="" coords="1036,40,1029,29,1008,20,976,12,935,7,890,5,845,7,804,12,772,20,751,29,744,40,751,50,772,60,804,68,845,72,890,74,935,72,976,68,1008,60,1029,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1069,42,1037,42,1037,37,1069,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1lms_1_1_l_m_s_game.html#a49c9fa39000e5a0dc7f1b3db3f5f0c81" title="Handles moving all the players to the game." alt="" coords="696,40,689,29,668,20,636,12,596,7,550,5,505,7,465,12,432,20,412,29,405,40,412,50,432,60,465,68,505,72,550,74,596,72,636,68,668,60,689,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="729,42,697,42,697,37,729,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1lms_1_1lobby_1_1_l_m_s_lobby_event.html#aa5be272ca519c8d746f280d12ba74841" title="A function representing the unit of work that will be carried out." alt="" coords="357,40,348,29,323,20,284,12,235,7,181,5,127,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,127,72,181,74,235,72,284,68,323,60,348,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="389,42,357,42,357,37,389,37"/>
+</map>

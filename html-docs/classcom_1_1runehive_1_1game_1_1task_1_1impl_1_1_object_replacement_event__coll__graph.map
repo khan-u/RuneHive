@@ -1,0 +1,9 @@
+<map id="com.runehive.game.task.impl.ObjectReplacementEvent" name="com.runehive.game.task.impl.ObjectReplacementEvent">
+<area shape="poly" id="Node000001" title="An randomevent which replaces an object with another object." alt="" coords="436,299,428,288,404,279,368,271,322,266,272,264,221,266,175,271,139,279,115,288,107,299,115,309,139,319,175,327,221,331,272,333,322,331,368,327,404,319,428,309"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1_task.html" title="A game representing a cyclic unit of work." alt="" coords="332,158,324,151,301,146,265,141,219,138,169,137,118,138,73,141,37,146,13,151,5,158,13,164,37,170,73,175,118,178,169,179,219,178,265,175,301,170,324,164"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,189,249,263,245,266,190,193"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1object_1_1_game_object.html" title="Represents a game object." alt="" coords="717,158,709,147,683,138,643,130,593,125,537,123,481,125,431,130,391,138,365,147,356,158,365,169,391,178,431,186,481,191,537,192,593,191,643,186,683,178,709,169"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="464,200,333,268,330,264,461,196"/>
+<area shape="poly" id="Node000004" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="684,40,677,29,656,20,623,12,582,7,537,5,491,7,450,12,418,20,397,29,390,40,397,50,418,60,450,68,491,72,537,74,582,72,623,68,656,60,677,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="540,90,540,123,534,123,534,90"/>
+</map>

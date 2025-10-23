@@ -1,0 +1,9 @@
+<map id="com.runehive.game.plugin.PluginContext.handleCommandEvent" name="com.runehive.game.plugin.PluginContext.handleCommandEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="416,133,406,122,377,113,331,105,274,100,211,99,147,100,90,105,45,113,15,122,5,133,15,144,45,153,90,161,147,166,211,167,274,166,331,161,377,153,406,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#ab0b75fe839132b4c1940e8d68a44bec3" title=" " alt="" coords="788,40,780,29,759,20,727,12,686,7,640,5,595,7,554,12,521,20,500,29,493,40,500,50,521,60,554,68,595,72,640,74,686,72,727,68,759,60,780,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="337,103,516,64,517,69,338,108"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1plugin_1_1_plugin_context.html#add5efccde96117dca158bd1de998bdd4" title=" " alt="" coords="817,133,808,122,783,113,744,105,695,100,640,99,586,100,537,105,498,113,473,122,464,133,473,144,498,153,537,161,586,166,640,167,695,166,744,161,783,153,808,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="416,130,448,130,448,136,416,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1event_1_1bus_1_1_data_bus.html#a1f0a15e61511479385c584a62130c932" title="Sends an Event to all subscribed listeners." alt="" coords="809,226,801,216,777,206,739,199,692,194,640,192,588,194,541,199,504,206,480,216,472,226,480,237,504,247,541,254,588,259,640,261,692,259,739,254,777,247,801,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="338,158,509,195,508,200,337,163"/>
+</map>

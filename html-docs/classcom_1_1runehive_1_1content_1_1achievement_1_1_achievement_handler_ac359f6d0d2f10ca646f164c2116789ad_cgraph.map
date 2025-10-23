@@ -1,0 +1,9 @@
+<map id="com.runehive.content.achievement.AchievementHandler.completedAll" name="com.runehive.content.achievement.AchievementHandler.completedAll">
+<area shape="poly" id="Node000001" title="Checks if a player has completed all the available achievements." alt="" coords="390,86,381,76,354,66,311,59,257,54,198,52,138,54,85,59,42,66,15,76,5,86,15,97,42,107,85,114,138,119,198,121,257,119,311,114,354,107,381,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1achievement_1_1_achievement_list.html#a223eca57bed0b768e386c5440b882da2" title=" " alt="" coords="849,40,840,29,812,20,770,12,716,7,656,5,597,7,543,12,501,20,473,29,464,40,473,50,501,60,543,68,597,72,656,74,716,72,770,68,812,60,840,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="366,67,473,56,473,61,367,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1achievement_1_1_achievement_handler.html#abff00ad3ddc0083818c29dfa5fc6354e" title="Gets the total amount of achievements completed." alt="" coords="875,133,864,122,833,113,785,105,724,100,656,99,589,100,528,105,480,113,449,122,438,133,449,144,480,153,528,161,589,166,656,167,724,166,785,161,833,153,864,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="367,101,457,110,456,115,366,106"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1achievement_1_1_achievement_handler.html#aa5cd8779fd809711e8dafc366c6365a1" title="Checks if the reward is completed." alt="" coords="1308,133,1298,122,1271,113,1228,105,1175,100,1115,99,1056,100,1002,105,959,113,932,122,923,133,932,144,959,153,1002,161,1056,166,1115,167,1175,166,1228,161,1271,153,1298,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="875,130,907,130,907,136,875,136"/>
+</map>

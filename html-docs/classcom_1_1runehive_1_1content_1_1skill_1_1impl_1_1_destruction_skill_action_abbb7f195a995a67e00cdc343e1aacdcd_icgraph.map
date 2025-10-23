@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.DestructionSkillAction.onDestruct" name="com.runehive.content.skill.impl.DestructionSkillAction.onDestruct">
+<area shape="poly" id="Node000001" title="The method executed upon destruction of the item." alt="" coords="785,40,776,29,750,20,710,12,659,7,602,5,545,7,494,12,454,20,428,29,419,40,428,50,454,60,494,68,545,72,602,74,659,72,710,68,750,60,776,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1_destruction_skill_action.html#ae3bf610adcbd9cda2260cde28e4e5602" title="The method which is called on intervals of the specified #delay;." alt="" coords="371,40,362,29,336,20,295,12,244,7,188,5,132,7,81,12,40,20,14,29,5,40,14,50,40,60,81,68,132,72,188,74,244,72,295,68,336,60,362,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="403,42,371,42,371,37,403,37"/>
+</map>

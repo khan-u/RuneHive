@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.crafting.impl.Jewellery.JewelleryData" name="com.runehive.content.skill.impl.crafting.impl.Jewellery.JewelleryData">
+<area shape="poly" id="Node000001" title="The jewellery data." alt="" coords="1241,80,1230,69,1196,60,1144,52,1078,47,1006,45,933,47,867,52,815,60,781,69,770,80,781,90,815,100,867,108,933,112,1006,114,1078,112,1144,108,1196,100,1230,90"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1impl_1_1_jewellery_1_1_jewellery_type.html" title="The jewellery type." alt="" coords="661,40,649,29,616,20,564,12,498,7,425,5,352,7,287,12,235,20,201,29,189,40,201,50,235,60,287,68,352,72,425,74,498,72,564,68,616,60,649,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="655,53,792,62,791,68,655,58"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="623,120,614,113,586,107,542,103,486,100,425,99,364,100,309,103,265,107,237,113,227,120,237,126,265,132,309,137,364,140,425,141,486,140,542,137,586,132,614,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="608,105,791,92,792,97,608,110"/>
+<area shape="poly" id="Node000004" title=" " alt="" coords="140,120,137,113,127,107,112,103,94,100,73,99,52,100,33,103,18,107,9,113,5,120,9,126,18,132,33,137,52,140,73,141,94,140,112,137,127,132,137,126"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="156,117,227,117,227,122,156,122"/>
+</map>

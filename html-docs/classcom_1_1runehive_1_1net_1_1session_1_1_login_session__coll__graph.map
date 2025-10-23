@@ -1,0 +1,5 @@
+<map id="com.runehive.net.session.LoginSession" name="com.runehive.net.session.LoginSession">
+<area shape="poly" id="Node000001" title="Represents a Session for authenticating users logging in." alt="" coords="297,157,290,146,269,136,237,129,196,124,151,122,106,124,65,129,33,136,12,146,5,157,12,167,33,177,65,184,106,189,151,191,196,189,237,184,269,177,290,167"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1session_1_1_session.html" title="Represents a session between a user and the server." alt="" coords="297,40,290,29,269,20,237,12,196,7,151,5,106,7,65,12,33,20,12,29,5,40,12,50,33,60,65,68,106,72,151,74,196,72,237,68,269,60,290,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,90,154,122,149,122,149,90"/>
+</map>

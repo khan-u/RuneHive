@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.persist.PlayerPersistDB" name="com.runehive.game.world.entity.mob.player.persist.PlayerPersistDB">
+<area shape="poly" id="Node000001" title=" " alt="" coords="546,157,533,146,494,136,435,129,359,124,276,122,192,124,117,129,57,136,19,146,5,157,19,167,57,177,117,184,192,189,276,191,359,189,435,184,494,177,533,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1persist_1_1_player_persistable.html" title=" " alt="" coords="546,40,533,29,494,20,435,12,359,7,276,5,192,7,117,12,57,20,19,29,5,40,19,50,57,60,117,68,192,72,276,74,359,72,435,68,494,60,533,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,90,278,122,273,122,273,90"/>
+</map>

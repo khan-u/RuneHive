@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.skill.Skill.itemContainerAction" name="com.runehive.game.world.entity.skill.Skill.itemContainerAction">
+<area shape="poly" id="Node000001" title=" " alt="" coords="849,40,839,29,811,20,767,12,712,7,650,5,589,7,533,12,489,20,461,29,451,40,461,50,489,60,533,68,589,72,650,74,712,72,767,68,811,60,839,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a5eb9c0e77a18aaa735556cf4760a18d1" title=" " alt="" coords="403,40,393,29,365,20,321,12,266,7,204,5,143,7,87,12,43,20,15,29,5,40,15,50,43,60,87,68,143,72,204,74,266,72,321,68,365,60,393,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,42,404,42,404,37,436,37"/>
+</map>

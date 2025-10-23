@@ -1,0 +1,13 @@
+<map id="com.runehive.game.world.entity.skill.SkillManager.regress" name="com.runehive.game.world.entity.skill.SkillManager.regress">
+<area shape="poly" id="Node000001" title="Handles regressing the skills." alt="" coords="403,192,393,181,365,172,321,164,266,159,204,157,143,159,87,164,43,172,15,181,5,192,15,202,43,212,87,220,143,224,204,226,266,224,321,220,365,212,393,202"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a635cfacdd28d86af90cf45a3f4df39b9" title="Gets the current skill level." alt="" coords="849,40,839,29,811,20,767,12,712,7,650,5,589,7,533,12,489,20,461,29,451,40,461,50,489,60,533,68,589,72,650,74,712,72,767,68,811,60,839,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,157,356,119,450,84,506,68,508,73,452,89,358,124,274,161"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#af32f0e457bf38ac0e56bb3b789db7725" title="Gets the maximum skill level." alt="" coords="849,133,839,122,811,113,767,105,712,100,650,99,589,100,533,105,489,113,461,122,451,133,461,144,489,153,533,161,589,166,650,167,712,166,767,161,811,153,839,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="363,168,475,153,476,159,364,173"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a3c8eb963f046bbc4188f6e76d93fa17b" title="Modifies the current level with a given function." alt="" coords="849,250,839,240,811,230,767,223,712,218,650,216,589,218,533,223,489,230,461,240,451,250,461,261,489,271,533,278,589,283,650,285,712,283,767,278,811,271,839,261"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="364,210,476,225,475,230,363,215"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a9d2f706cb24e30ca8451a4f49401df4c" title="Refreshes all the skills for the mob." alt="" coords="849,368,839,357,811,348,767,340,712,335,650,333,589,335,533,340,489,348,461,357,451,368,461,378,489,388,533,396,589,400,650,402,712,400,767,396,811,388,839,378"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="279,222,452,295,545,329,543,334,450,300,277,227"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="565,218,566,207,582,197,609,192,650,189,700,193,728,202,726,207,699,198,650,195,610,197,584,202,571,210,570,219"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="565,336,566,324,582,315,609,309,650,307,700,310,728,319,726,324,699,315,650,312,610,314,584,320,571,327,570,336"/>
+</map>

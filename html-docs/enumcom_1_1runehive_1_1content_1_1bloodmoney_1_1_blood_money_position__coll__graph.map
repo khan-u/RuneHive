@@ -1,0 +1,8 @@
+<map id="com.runehive.content.bloodmoney.BloodMoneyPosition" name="com.runehive.content.bloodmoney.BloodMoneyPosition">
+<area shape="poly" id="Node000001" title=" " alt="" coords="869,110,860,100,833,90,791,83,738,78,680,76,621,78,568,83,526,90,499,100,490,110,499,121,526,131,568,138,621,143,680,145,738,143,791,138,833,131,860,121"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="385,40,376,29,349,20,307,12,254,7,195,5,136,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,136,72,195,74,254,72,307,68,349,60,376,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="360,61,531,86,530,91,359,66"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1object_1_1_object_direction.html" title="The enumerated type whose elements represent the directions for objects." alt="" coords="376,181,367,170,341,161,301,153,251,148,195,147,139,148,89,153,49,161,23,170,15,181,23,192,49,201,89,209,139,214,195,215,251,214,301,209,341,201,367,192"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="354,155,530,130,530,135,355,161"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="154,131,169,123,195,120,217,122,232,128,241,137,243,147,238,148,236,139,229,132,216,127,195,125,171,128,156,136"/>
+</map>

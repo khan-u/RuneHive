@@ -1,0 +1,5 @@
+<map id="com.runehive.content.achievement.AchievementHandler.getDifficultyCompletion" name="com.runehive.content.achievement.AchievementHandler.getDifficultyCompletion">
+<area shape="poly" id="Node000001" title="Handles getting the amount of achievements completed based on it&#39;s difficulty." alt="" coords="485,40,473,29,439,20,386,12,319,7,245,5,171,7,104,12,51,20,17,29,5,40,17,50,51,60,104,68,171,72,245,74,319,72,386,68,439,60,473,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1achievement_1_1_achievement_handler.html#aa5cd8779fd809711e8dafc366c6365a1" title="Checks if the reward is completed." alt="" coords="918,40,909,29,882,20,839,12,785,7,726,5,666,7,613,12,570,20,543,29,533,40,543,50,570,60,613,68,666,72,726,74,785,72,839,68,882,60,909,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="486,37,518,37,518,42,486,42"/>
+</map>

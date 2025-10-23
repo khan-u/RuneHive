@@ -1,0 +1,6 @@
+<map id="com.runehive.content.lms.loadouts.LMSLoadout.getOffensiveItemUpgrades" name="com.runehive.content.lms.loadouts.LMSLoadout.getOffensiveItemUpgrades">
+<area shape="poly" id="Node000001" title=" " alt="" coords="777,64,766,53,736,44,688,36,628,31,561,29,494,31,434,36,386,44,356,53,345,64,356,74,386,84,434,92,494,96,561,98,628,96,688,92,736,84,766,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1lms_1_1_l_m_s_game.html#a41cffa110dcbeb3f1559409207e4dfb4" title="Handles rolling the loot chest." alt="" coords="297,64,290,53,269,44,237,36,196,31,151,29,106,31,65,36,33,44,12,53,5,64,12,74,33,84,65,92,106,96,151,98,196,96,237,92,269,84,290,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,66,297,66,297,61,330,61"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="222,21,198,12,151,8,113,10,89,16,78,24,79,33,74,34,73,22,86,11,112,5,151,3,199,6,224,16"/>
+</map>

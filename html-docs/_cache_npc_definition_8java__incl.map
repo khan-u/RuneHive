@@ -1,0 +1,7 @@
+<map id="java/com/runehive/fs/cache/decoder/CacheNpcDefinition.java" name="java/com/runehive/fs/cache/decoder/CacheNpcDefinition.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="537,40,527,29,495,20,446,12,385,7,317,5,248,7,187,12,138,20,107,29,96,40,107,50,138,60,187,68,248,72,317,74,385,72,446,68,495,60,527,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="345,157,337,146,313,136,275,129,228,124,175,122,123,124,75,129,38,136,14,146,5,157,14,167,38,177,75,184,123,189,175,191,228,189,275,184,313,177,337,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,76,229,115,226,111,274,72"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="547,157,543,150,530,144,510,140,486,137,458,136,430,137,405,140,386,144,373,150,369,157,373,163,386,169,405,174,430,177,458,178,486,177,510,174,530,169,543,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="359,72,424,124,421,129,356,76"/>
+</map>

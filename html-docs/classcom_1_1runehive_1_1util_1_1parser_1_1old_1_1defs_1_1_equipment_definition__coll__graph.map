@@ -1,0 +1,10 @@
+<map id="com.runehive.util.parser.old.defs.EquipmentDefinition" name="com.runehive.util.parser.old.defs.EquipmentDefinition">
+<area shape="poly" id="Node000001" title="Represents an in&#45;game equipped item." alt="" coords="1475,136,1467,125,1441,116,1401,108,1351,103,1296,101,1240,103,1190,108,1150,116,1125,125,1116,136,1125,146,1150,156,1190,164,1240,168,1296,170,1351,168,1401,164,1441,156,1467,146"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1equipment_1_1_equipment_type.html" title="The enumerated types of a players equipped item slots." alt="" coords="985,88,971,77,930,68,866,60,786,55,697,53,608,55,527,60,464,68,423,77,409,88,423,98,464,108,527,116,608,120,697,122,786,120,866,116,930,108,971,98"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="953,106,1129,120,1128,125,952,111"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="644,37,664,30,697,27,724,29,744,34,755,43,758,53,753,54,751,46,741,39,723,34,697,32,665,35,646,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_skill_requirement.html" title="The skill&#45;related requirement." alt="" coords="874,181,865,170,840,161,801,153,751,148,697,147,642,148,593,153,554,161,528,170,520,181,528,192,554,201,593,209,642,214,697,215,751,214,801,209,840,201,865,192"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="878,165,1092,149,1128,146,1129,152,1092,154,879,170"/>
+<area shape="poly" id="Node000004" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1items_1_1_requirable.html" title="The requirable itemcontainer that allows any implementing class the ability to become a requirement." alt="" coords="359,181,351,170,326,161,286,153,237,148,182,147,128,148,78,153,39,161,14,170,5,181,14,192,39,201,78,209,128,214,182,215,237,214,286,209,326,201,351,192"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="375,178,519,178,519,184,375,184"/>
+</map>

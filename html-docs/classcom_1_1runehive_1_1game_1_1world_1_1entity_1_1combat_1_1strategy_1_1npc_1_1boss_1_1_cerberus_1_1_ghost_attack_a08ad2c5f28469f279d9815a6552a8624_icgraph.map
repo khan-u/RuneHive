@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.Cerberus.GhostAttack.special" name="com.runehive.game.world.entity.combat.strategy.npc.boss.Cerberus.GhostAttack.special">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1276,40,1261,29,1218,20,1150,12,1065,7,970,5,876,7,791,12,723,20,680,29,665,40,680,50,723,60,791,68,876,72,970,74,1065,72,1150,68,1218,60,1261,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_ghost_attack.html#aceb9d21535f91d22093134004a4ae6dc" title=" " alt="" coords="617,40,602,29,558,20,491,12,406,7,311,5,217,7,131,12,64,20,20,29,5,40,20,50,64,60,131,68,217,72,311,74,406,72,491,68,558,60,602,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="649,42,617,42,617,37,649,37"/>
+</map>

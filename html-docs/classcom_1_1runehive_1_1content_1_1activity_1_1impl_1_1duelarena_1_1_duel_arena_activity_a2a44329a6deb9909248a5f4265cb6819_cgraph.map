@@ -1,0 +1,9 @@
+<map id="com.runehive.content.activity.impl.duelarena.DuelArenaActivity.onDeath" name="com.runehive.content.activity.impl.duelarena.DuelArenaActivity.onDeath">
+<area shape="poly" id="Node000001" title="Called when the player die." alt="" coords="485,133,473,122,439,113,386,105,319,100,245,99,171,100,104,105,51,113,17,122,5,133,17,144,51,153,104,161,171,166,245,167,319,166,386,161,439,153,473,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#aef07d450bf9991b7b3298e8d051e672f" title=" " alt="" coords="886,40,877,29,852,20,813,12,764,7,710,5,655,7,606,12,567,20,542,29,533,40,542,50,567,60,606,68,655,72,710,74,764,72,813,68,852,60,877,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,102,570,65,571,70,387,107"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#acbfce600b13e1f2629e4eb5835f34ea0" title="Sets the cooldown flag to FINISH." alt="" coords="872,133,864,122,841,113,805,105,760,100,710,99,659,100,614,105,578,113,555,122,547,133,555,144,578,153,614,161,659,166,710,167,760,166,805,161,841,153,864,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="486,130,532,130,532,136,486,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#aa1f8bdf272e21ec87f9128996d1190aa" title="Removes all mobs from the activity." alt="" coords="872,226,864,216,841,206,805,199,760,194,710,192,659,194,614,199,578,206,555,216,547,226,555,237,578,247,614,254,659,259,710,261,760,259,805,254,841,247,864,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="387,159,576,197,575,202,386,164"/>
+</map>

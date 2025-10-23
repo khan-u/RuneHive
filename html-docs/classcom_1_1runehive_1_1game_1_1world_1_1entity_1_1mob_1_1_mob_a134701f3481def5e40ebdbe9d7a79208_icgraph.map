@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.Mob.getPoisonDamage" name="com.runehive.game.world.entity.mob.Mob.getPoisonDamage">
+<area shape="poly" id="Node000001" title=" " alt="" coords="804,40,794,29,765,20,721,12,665,7,603,5,541,7,485,12,440,20,412,29,402,40,412,50,440,60,485,68,541,72,603,74,665,72,721,68,765,60,794,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1consume_1_1_potion_data.html#a97bb7fbdf9f800507a2f8ba8ae738f73" title="The method that executes the anti&#45;poison potion action." alt="" coords="354,40,345,29,320,20,282,12,233,7,180,5,126,7,77,12,39,20,14,29,5,40,14,50,39,60,77,68,126,72,180,74,233,72,282,68,320,60,345,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,42,354,42,354,37,386,37"/>
+</map>

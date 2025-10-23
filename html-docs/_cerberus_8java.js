@@ -1,0 +1,8 @@
+var _cerberus_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.Cerberus", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.Cerberus.GhostAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_ghost_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_ghost_attack" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.Cerberus.LavaAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_lava_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_lava_attack" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.Cerberus.MagicAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_magic_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_magic_attack" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.Cerberus.RangedAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_ranged_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_cerberus_1_1_ranged_attack" ]
+];

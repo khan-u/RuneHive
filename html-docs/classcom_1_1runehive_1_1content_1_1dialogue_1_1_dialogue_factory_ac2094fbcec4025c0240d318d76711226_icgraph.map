@@ -1,0 +1,7 @@
+<map id="com.runehive.content.dialogue.DialogueFactory.sendItem" name="com.runehive.content.dialogue.DialogueFactory.sendItem">
+<area shape="poly" id="Node000001" title=" " alt="" coords="742,86,733,76,709,66,671,59,623,54,570,52,516,54,468,59,430,66,406,76,397,86,406,97,430,107,468,114,516,119,570,121,623,119,671,114,709,107,733,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_item_dialogue.html#a4bc3011d72cc7e6cf21b944e64870383" title=" " alt="" coords="349,40,341,29,317,20,279,12,231,7,177,5,124,7,76,12,38,20,14,29,5,40,14,50,38,60,76,68,124,72,177,74,231,72,279,68,317,60,341,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="406,70,326,60,326,55,406,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1_crystal_chest.html#a0aa173e2ab175e6ce817db900ef7db9a" title="Handles creating a key." alt="" coords="338,133,330,122,307,113,272,105,227,100,177,99,128,100,83,105,47,113,25,122,17,133,25,144,47,153,83,161,128,166,177,167,227,166,272,161,307,153,330,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="406,109,319,119,318,114,406,103"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.object.GameObject" name="com.runehive.game.world.object.GameObject">
+<area shape="poly" id="Node000001" title="Represents a game object." alt="" coords="366,157,358,146,332,136,292,129,242,124,186,122,130,124,80,129,40,136,14,146,5,157,14,167,40,177,80,184,130,189,186,191,242,189,292,184,332,177,358,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html" title="An object implementing Interactable has uses." alt="" coords="333,40,326,29,305,20,272,12,231,7,186,5,140,7,99,12,67,20,46,29,39,40,46,50,67,60,99,68,140,72,186,74,231,72,272,68,305,60,326,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,90,189,122,183,122,183,90"/>
+</map>

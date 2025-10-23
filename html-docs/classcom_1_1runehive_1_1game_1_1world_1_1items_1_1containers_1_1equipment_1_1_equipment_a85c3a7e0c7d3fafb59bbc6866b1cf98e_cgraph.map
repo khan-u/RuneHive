@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.items.containers.equipment.Equipment.equip" name="com.runehive.game.world.items.containers.equipment.Equipment.equip">
+<area shape="poly" id="Node000001" title=" " alt="" coords="581,64,567,53,526,44,463,36,382,31,293,29,204,31,124,36,60,44,19,53,5,64,19,74,60,84,124,92,204,96,293,98,382,96,463,92,526,84,567,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="195,30,198,19,216,10,248,5,293,3,350,6,382,15,381,20,349,11,293,8,248,10,218,15,202,23,201,31"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1cec21ca5ef1783808d4ca9de1051a29" title="Gets the identification of this item." alt="" coords="983,64,975,53,950,44,910,36,861,31,806,29,752,31,702,36,663,44,638,53,629,64,638,74,663,84,702,92,752,96,806,98,861,96,910,92,950,84,975,74"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="582,61,614,61,614,66,582,66"/>
+</map>

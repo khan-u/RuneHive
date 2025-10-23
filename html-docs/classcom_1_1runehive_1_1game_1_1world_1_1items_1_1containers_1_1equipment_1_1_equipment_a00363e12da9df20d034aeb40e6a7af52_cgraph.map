@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.items.containers.equipment.Equipment.unequip" name="com.runehive.game.world.items.containers.equipment.Equipment.unequip">
+<area shape="poly" id="Node000001" title="Unequips an Item from the underlying player&#39;s Equipment." alt="" coords="581,64,567,53,526,44,463,36,382,31,293,29,204,31,124,36,60,44,19,53,5,64,19,74,60,84,124,92,204,96,293,98,382,96,463,92,526,84,567,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="184,32,183,26,187,19,206,11,241,5,293,3,358,6,394,15,393,21,357,11,293,8,242,10,208,16,190,23,188,27,189,31"/>
+</map>

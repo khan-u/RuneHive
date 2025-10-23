@@ -1,0 +1,4 @@
+var _first_npc_click_8java =
+[
+    [ "com.runehive.content.event.impl.FirstNpcClick", "classcom_1_1runehive_1_1content_1_1event_1_1impl_1_1_first_npc_click.html", "classcom_1_1runehive_1_1content_1_1event_1_1impl_1_1_first_npc_click" ]
+];

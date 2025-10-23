@@ -1,0 +1,5 @@
+<map id="com.runehive.content.itemaction.impl.ClanShowcaseBox" name="com.runehive.content.itemaction.impl.ClanShowcaseBox">
+<area shape="poly" id="Node000001" title=" " alt="" coords="413,157,403,146,374,136,329,129,272,124,209,122,146,124,89,129,44,136,15,146,5,157,15,167,44,177,89,184,146,189,209,191,272,189,329,184,374,177,403,167"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1itemaction_1_1_item_action.html" title="Handles executing an item action." alt="" coords="389,40,380,29,355,20,315,12,265,7,209,5,154,7,104,12,64,20,38,29,29,40,38,50,64,60,104,68,154,72,209,74,265,72,315,68,355,60,380,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,90,212,122,207,122,207,90"/>
+</map>

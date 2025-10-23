@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.player.relations.ChatMessage.create" name="com.runehive.game.world.entity.mob.player.relations.ChatMessage.create">
+<area shape="poly" id="Node000001" title=" " alt="" coords="566,40,552,29,512,20,450,12,372,7,286,5,199,7,121,12,59,20,19,29,5,40,19,50,59,60,121,68,199,72,286,74,372,72,450,68,512,60,552,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1relations_1_1_chat_message.html#a7f997e4a41e6660620f309e37259bb0d" title=" " alt="" coords="1783,40,1769,29,1729,20,1667,12,1589,7,1503,5,1416,7,1338,12,1276,20,1236,29,1222,40,1236,50,1276,60,1338,68,1416,72,1503,74,1589,72,1667,68,1729,60,1769,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="524,19,614,14,894,8,1174,14,1249,18,1249,23,1174,20,894,13,614,20,524,24"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1relations_1_1_chat_message.html#aebdf7ebd17d946e9a66c71e7b38ba3d8" title=" " alt="" coords="1174,88,1161,77,1121,68,1059,60,981,55,894,53,807,55,729,60,667,68,628,77,614,88,628,98,667,108,729,116,807,120,894,122,981,120,1059,116,1121,108,1161,98"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="523,56,642,65,642,71,523,61"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="1131,66,1250,57,1251,62,1132,72"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="779,57,777,50,781,44,801,35,839,29,894,27,963,30,1000,39,999,45,962,36,894,32,839,34,803,40,785,48,783,51,784,55"/>
+</map>

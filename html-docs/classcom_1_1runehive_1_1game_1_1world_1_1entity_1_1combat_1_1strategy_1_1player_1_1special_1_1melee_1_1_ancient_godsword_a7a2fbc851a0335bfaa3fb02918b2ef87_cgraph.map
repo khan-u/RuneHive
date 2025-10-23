@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.special.melee.AncientGodsword.start" name="com.runehive.game.world.entity.combat.strategy.player.special.melee.AncientGodsword.start">
+<area shape="poly" id="Node000001" title=" " alt="" coords="733,64,715,53,663,44,583,36,481,31,369,29,257,31,155,36,75,44,23,53,5,64,23,74,75,84,155,92,257,96,369,98,481,96,583,92,663,84,715,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a763d4a9979297da0ff66b8f4b86fd5bc" title=" " alt="" coords="1183,64,1173,53,1144,44,1100,36,1044,31,982,29,920,31,864,36,819,44,791,53,781,64,791,74,819,84,864,92,920,96,982,98,1044,96,1100,92,1144,84,1173,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="733,61,765,61,765,66,733,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="869,36,865,30,866,22,885,12,923,5,982,3,1054,7,1092,17,1090,22,1053,12,982,8,924,10,886,17,870,25,870,28,873,33"/>
+</map>

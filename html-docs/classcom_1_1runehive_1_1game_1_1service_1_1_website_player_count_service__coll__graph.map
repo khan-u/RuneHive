@@ -1,0 +1,9 @@
+<map id="com.runehive.game.service.WebsitePlayerCountService" name="com.runehive.game.service.WebsitePlayerCountService">
+<area shape="poly" id="Node000001" title=" " alt="" coords="320,272,312,261,290,252,255,244,211,239,163,237,114,239,70,244,35,252,13,261,5,272,13,282,35,292,70,300,114,305,163,306,211,305,255,300,290,292,312,282"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="306,26,299,20,278,14,245,9,203,6,157,5,111,6,70,9,37,14,16,20,8,26,16,33,37,39,70,43,111,46,157,47,203,46,245,43,278,39,299,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,63,164,237,159,237,155,63"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1service_1_1_website_player_count_service.html" title=" " alt="" coords="493,131,485,120,463,111,428,103,384,98,336,97,287,98,243,103,209,111,186,120,179,131,186,142,209,151,243,159,287,164,336,165,384,164,428,159,463,151,485,142"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="206,53,282,96,279,101,203,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,176,205,240,201,236,282,172"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="503,121,515,125,520,131,510,139,488,143,487,138,508,134,514,131,512,129,502,126"/>
+</map>

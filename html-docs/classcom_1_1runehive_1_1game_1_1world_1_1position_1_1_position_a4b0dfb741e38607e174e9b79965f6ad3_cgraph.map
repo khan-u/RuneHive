@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.position.Position.west" name="com.runehive.game.world.position.Position.west">
+<area shape="poly" id="Node000001" title=" " alt="" coords="385,40,376,29,349,20,307,12,254,7,195,5,136,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,136,72,195,74,254,72,307,68,349,60,376,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a7803ff05a7b4b99d2883898ade9427f7" title="Creates a location with a default height of 0." alt="" coords="1240,40,1230,29,1204,20,1162,12,1109,7,1050,5,991,7,939,12,897,20,870,29,860,40,870,50,897,60,939,68,991,72,1050,74,1109,72,1162,68,1204,60,1230,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="379,28,433,26,623,24,812,26,851,27,851,33,812,32,623,29,433,32,379,33"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a92154563715ed156b00ee6220e2991ff" title="Creates a new location based on this location." alt="" coords="812,76,803,65,776,56,734,48,681,43,623,41,564,43,511,48,469,56,442,65,433,76,442,86,469,96,511,104,564,108,623,110,681,108,734,104,776,96,803,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="368,52,434,57,434,63,368,57"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="795,59,861,53,862,58,796,64"/>
+</map>

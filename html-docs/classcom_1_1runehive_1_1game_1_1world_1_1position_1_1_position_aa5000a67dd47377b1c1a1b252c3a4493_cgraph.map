@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.position.Position.equals" name="com.runehive.game.world.position.Position.equals">
+<area shape="poly" id="Node000001" title=" " alt="" coords="385,40,376,29,349,20,307,12,254,7,195,5,136,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,136,72,195,74,254,72,307,68,349,60,376,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a7803ff05a7b4b99d2883898ade9427f7" title="Creates a location with a default height of 0." alt="" coords="812,40,803,29,776,20,734,12,681,7,623,5,564,7,511,12,469,20,442,29,433,40,442,50,469,60,511,68,564,72,623,74,681,72,734,68,776,60,803,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,37,417,37,417,42,385,42"/>
+</map>

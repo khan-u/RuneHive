@@ -1,0 +1,5 @@
+var _armadyl_spirtual_ranger_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.godwar.ArmadylSpirtualRanger", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar_1_1_armadyl_spirtual_ranger.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwar_1_1_armadyl_spirtual_ranger" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.godwar.ArmadylSpirtualRanger.RangedAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwarf33e7376c22ef727e80bd9e456c2bc1e.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1godwarf33e7376c22ef727e80bd9e456c2bc1e" ]
+];

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.recipefordisaster.RecipeForDisaster" name="com.runehive.content.activity.impl.recipefordisaster.RecipeForDisaster">
+<area shape="poly" id="Node000001" title="Handles the recipe for disaster activity." alt="" coords="549,273,536,263,497,253,437,246,361,241,277,239,193,241,117,246,57,253,19,263,5,273,19,284,57,294,117,301,193,306,277,308,361,306,437,301,497,294,536,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html" title="A Activity object constructs an in&#45;game activity and sequences it through the start() and finish() me..." alt="" coords="439,157,431,146,408,136,372,129,327,124,277,122,227,124,182,129,146,136,123,146,115,157,123,167,146,177,182,184,227,189,277,191,327,189,372,184,408,177,431,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,207,280,239,274,239,274,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="433,40,425,29,403,20,369,12,325,7,277,5,229,7,186,12,151,20,129,29,121,40,129,50,151,60,186,68,229,72,277,74,325,72,369,68,403,60,425,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="280,90,280,122,274,122,274,90"/>
+</map>

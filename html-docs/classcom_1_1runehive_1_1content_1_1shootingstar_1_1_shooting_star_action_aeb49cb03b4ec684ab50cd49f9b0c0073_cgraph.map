@@ -1,0 +1,5 @@
+<map id="com.runehive.content.shootingstar.ShootingStarAction.onSchedule" name="com.runehive.content.shootingstar.ShootingStarAction.onSchedule">
+<area shape="poly" id="Node000001" title="A function executed on registration." alt="" coords="383,40,374,29,347,20,305,12,253,7,194,5,136,7,83,12,41,20,15,29,5,40,15,50,41,60,83,68,136,72,194,74,253,72,305,68,347,60,374,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="732,40,724,29,703,20,670,12,628,7,582,5,535,7,493,12,460,20,439,29,431,40,439,50,460,60,493,68,535,72,582,74,628,72,670,68,703,60,724,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="384,37,416,37,416,42,384,42"/>
+</map>

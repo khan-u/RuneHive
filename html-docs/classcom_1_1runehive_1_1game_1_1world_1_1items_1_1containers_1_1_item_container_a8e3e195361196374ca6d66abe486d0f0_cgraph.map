@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.items.containers.ItemContainer.removeAll" name="com.runehive.game.world.items.containers.ItemContainer.removeAll">
+<area shape="poly" id="Node000001" title="Attempts to withdraw items in bulk from this container." alt="" coords="470,86,458,76,425,66,374,59,309,54,238,52,166,54,101,59,50,66,17,76,5,86,17,97,50,107,101,114,166,119,238,121,309,119,374,114,425,107,458,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a1d29cdc85900ea92d5f8c578279e7001" title="Creates a new ItemContainer." alt="" coords="982,40,971,29,938,20,886,12,822,7,750,5,678,7,613,12,562,20,529,29,518,40,529,50,562,60,613,68,678,72,750,74,822,72,886,68,938,60,971,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,66,536,57,536,62,437,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#ac4103a0a751630964c33a8eecf50adf3" title="Attempts to withdraw items in bulk from this container." alt="" coords="982,133,971,122,938,113,886,105,822,100,750,99,678,100,613,105,562,113,529,122,518,133,529,144,562,153,613,161,678,166,750,167,822,166,886,161,938,153,971,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="437,102,536,111,536,116,436,107"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a2e553566f34372cb6e66ecf38ddf28f4" title="Fires the ItemContainerListener.bulkItemsUpdated(ItemContainer) event." alt="" coords="1494,133,1483,122,1450,113,1399,105,1334,100,1262,99,1190,100,1126,105,1074,113,1041,122,1030,133,1041,144,1074,153,1126,161,1190,166,1262,167,1334,166,1399,161,1450,153,1483,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="983,130,1015,130,1015,136,983,136"/>
+</map>

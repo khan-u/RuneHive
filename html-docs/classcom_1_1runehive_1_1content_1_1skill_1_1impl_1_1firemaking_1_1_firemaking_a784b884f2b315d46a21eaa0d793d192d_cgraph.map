@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.firemaking.Firemaking.getBonus" name="com.runehive.content.skill.impl.firemaking.Firemaking.getBonus">
+<area shape="poly" id="Node000001" title=" " alt="" coords="460,86,449,76,416,66,366,59,303,54,233,52,162,54,99,59,49,66,16,76,5,86,16,97,49,107,99,114,162,119,233,121,303,119,366,114,416,107,449,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#aebdab14dd029dc2f4e35b60e677dfb97" title="Determines if this container contains all identifiers." alt="" coords="972,40,961,29,928,20,876,12,812,7,740,5,668,7,603,12,552,20,519,29,508,40,519,50,552,60,603,68,668,72,740,74,812,72,876,68,928,60,961,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="428,66,526,57,527,62,428,71"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a4dca6bddcb13a93b4a23ef7e0658b91f" title="Gets the item id located on index." alt="" coords="972,133,961,122,928,113,876,105,812,100,740,99,668,100,603,105,552,113,519,122,508,133,519,144,552,153,603,161,668,166,740,167,812,166,876,161,928,153,961,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="428,102,527,111,526,116,428,107"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#a8acf6f1c920076daea6c80e5afbe3404" title="Determines if this container contains id." alt="" coords="1484,40,1473,29,1440,20,1389,12,1324,7,1252,5,1181,7,1116,12,1064,20,1031,29,1020,40,1031,50,1064,60,1116,68,1181,72,1252,74,1324,72,1389,68,1440,60,1473,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="973,37,1005,37,1005,42,973,42"/>
+</map>

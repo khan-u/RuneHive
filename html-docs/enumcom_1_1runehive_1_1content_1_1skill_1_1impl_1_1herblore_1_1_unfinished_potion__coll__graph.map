@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.herblore.UnfinishedPotion" name="com.runehive.content.skill.impl.herblore.UnfinishedPotion">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1175,80,1164,69,1134,60,1086,52,1025,47,958,45,891,47,831,52,783,60,752,69,742,80,752,90,783,100,831,108,891,112,958,114,1025,112,1086,108,1134,100,1164,90"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1herblore_1_1_potion.html" title="The potion making itemcontainer." alt="" coords="623,40,612,29,581,20,533,12,473,7,406,5,339,7,279,12,231,20,200,29,189,40,200,50,231,60,279,68,339,72,406,74,473,72,533,68,581,60,612,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="619,53,760,63,760,68,619,58"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="604,120,595,113,566,107,523,103,467,100,406,99,345,100,290,103,246,107,218,113,208,120,218,126,246,132,290,137,345,140,406,141,467,140,523,137,566,132,595,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="586,104,760,91,760,97,587,109"/>
+<area shape="poly" id="Node000004" title=" " alt="" coords="140,120,137,113,127,107,112,103,94,100,73,99,52,100,33,103,18,107,9,113,5,120,9,126,18,132,33,137,52,140,73,141,94,140,112,137,127,132,137,126"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="156,117,207,117,207,122,156,122"/>
+</map>

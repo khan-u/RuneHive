@@ -1,0 +1,5 @@
+<map id="dev.advo.fs.fs.IndexedFileSystem" name="dev.advo.fs.fs.IndexedFileSystem">
+<area shape="poly" id="Node000001" title="A file system based on top of the operating system&#39;s file system." alt="" coords="296,130,289,119,268,109,236,102,195,97,151,95,106,97,65,102,33,109,12,119,5,130,12,140,33,150,65,158,106,162,151,164,195,162,236,158,268,150,289,140"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="217,26,214,20,204,14,190,9,171,6,151,5,130,6,111,9,97,14,87,20,84,26,87,33,97,39,111,43,130,46,151,47,171,46,190,43,204,39,214,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,63,153,95,148,95,148,63"/>
+</map>

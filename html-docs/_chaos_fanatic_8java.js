@@ -1,0 +1,6 @@
+var _chaos_fanatic_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.ChaosFanatic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_chaos_fanatic.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_chaos_fanatic" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.ChaosFanatic.RainAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_chaos_fanatic_1_1_rain_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_chaos_fanatic_1_1_rain_attack" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.ChaosFanatic.RangeAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_chaos_fanatic_1_1_range_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1_chaos_fanatic_1_1_range_attack" ]
+];

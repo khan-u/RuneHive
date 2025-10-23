@@ -1,0 +1,9 @@
+<map id="com.runehive.content.StarterKit.KitData" name="com.runehive.content.StarterKit.KitData">
+<area shape="poly" id="Node000001" title="Holds the starter kit data." alt="" coords="1091,80,1084,69,1061,60,1026,52,982,47,933,45,884,47,839,52,804,60,782,69,774,80,782,90,804,100,839,108,884,112,933,114,982,112,1026,108,1061,100,1084,90"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player_right.html" title="Holds all the player right data." alt="" coords="658,40,647,29,613,20,561,12,496,7,424,5,351,7,286,12,234,20,201,29,189,40,201,50,234,60,286,68,351,72,424,74,496,72,561,68,613,60,647,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="647,55,783,65,783,71,646,60"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="622,120,612,113,584,107,540,103,485,100,424,99,363,100,307,103,263,107,235,113,226,120,235,126,263,132,307,137,363,140,424,141,485,140,540,137,584,132,612,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="635,120,750,113,822,102,822,107,750,118,635,125"/>
+<area shape="poly" id="Node000004" title=" " alt="" coords="140,120,137,113,127,107,112,103,94,100,73,99,52,100,33,103,18,107,9,113,5,120,9,126,18,132,33,137,52,140,73,141,94,140,112,137,127,132,137,126"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="155,117,225,117,225,122,155,122"/>
+</map>

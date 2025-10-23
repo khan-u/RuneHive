@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.thieving.Thieving" name="com.runehive.content.skill.impl.thieving.Thieving">
+<area shape="poly" id="Node000001" title="Handles the thieving skill." alt="" coords="434,273,424,263,393,253,346,246,286,241,220,239,154,241,94,246,46,253,16,263,5,273,16,284,46,294,94,301,154,306,220,308,286,306,346,301,393,294,424,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html" title="Represents a trainable and usable skill." alt="" coords="419,157,409,146,381,136,337,129,281,124,220,122,158,124,103,129,59,136,31,146,21,157,31,167,59,177,103,184,158,189,220,191,281,189,337,184,381,177,409,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,207,222,239,217,239,217,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="376,40,368,29,346,20,311,12,268,7,220,5,172,7,128,12,94,20,72,29,64,40,72,50,94,60,128,68,172,72,220,74,268,72,311,68,346,60,368,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,90,222,122,217,122,217,90"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.simulator.DropSimulator" name="com.runehive.content.simulator.DropSimulator">
+<area shape="poly" id="Node000001" title="This class simulates drops of an npc and places it on an itemcontainer." alt="" coords="352,299,344,288,319,279,281,271,232,266,179,264,125,266,77,271,38,279,14,288,5,299,14,309,38,319,77,327,125,331,179,333,232,331,281,327,319,319,344,309"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1simulator_1_1_simulation.html" title="Created by Daniel on 2018&#45;02&#45;03." alt="" coords="352,158,344,147,319,138,281,130,232,125,179,123,125,125,77,130,38,138,14,147,5,158,14,169,38,178,77,186,125,191,179,192,232,191,281,186,319,178,344,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,208,181,264,176,264,176,208"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1simulator_1_1_simulation_function.html" title=" " alt="" coords="352,40,344,29,319,20,281,12,232,7,179,5,125,7,77,12,38,20,14,29,5,40,14,50,38,60,77,68,125,72,179,74,232,72,281,68,319,60,344,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="181,90,181,123,176,123,176,90"/>
+</map>

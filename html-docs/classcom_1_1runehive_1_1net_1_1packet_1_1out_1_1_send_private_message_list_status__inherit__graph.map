@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.out.SendPrivateMessageListStatus" name="com.runehive.net.packet.out.SendPrivateMessageListStatus">
+<area shape="poly" id="Node000001" title=" " alt="" coords="351,157,342,146,318,136,280,129,231,124,178,122,125,124,77,129,38,136,14,146,5,157,14,167,38,177,77,184,125,189,178,191,231,189,280,184,318,177,342,167"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_outgoing_packet.html" title=" " alt="" coords="318,40,311,29,292,20,261,12,221,7,178,5,135,7,96,12,65,20,45,29,38,40,45,50,65,60,96,68,135,72,178,74,221,72,261,68,292,60,311,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,90,181,122,175,122,175,90"/>
+</map>

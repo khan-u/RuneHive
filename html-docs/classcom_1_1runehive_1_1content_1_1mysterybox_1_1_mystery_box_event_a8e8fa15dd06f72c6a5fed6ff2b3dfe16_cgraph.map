@@ -1,0 +1,5 @@
+<map id="com.runehive.content.mysterybox.MysteryBoxEvent.move" name="com.runehive.content.mysterybox.MysteryBoxEvent.move">
+<area shape="poly" id="Node000001" title=" " alt="" coords="376,40,367,29,341,20,300,12,248,7,191,5,134,7,82,12,41,20,14,29,5,40,14,50,41,60,82,68,134,72,191,74,248,72,300,68,341,60,367,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1mysterybox_1_1_mystery_box_event.html#a322430c1438c0d4499dd4186ef9ea293" title=" " alt="" coords="795,40,786,29,760,20,719,12,667,7,610,5,553,7,501,12,460,20,433,29,424,40,433,50,460,60,501,68,553,72,610,74,667,72,719,68,760,60,786,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="377,37,409,37,409,42,377,42"/>
+</map>

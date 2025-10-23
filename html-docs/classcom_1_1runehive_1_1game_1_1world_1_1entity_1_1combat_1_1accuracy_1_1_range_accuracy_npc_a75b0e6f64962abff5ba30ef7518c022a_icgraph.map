@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.accuracy.RangeAccuracyNpc.getRangeDefenceLevelNpc" name="com.runehive.game.world.entity.combat.accuracy.RangeAccuracyNpc.getRangeDefenceLevelNpc">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1106,40,1094,29,1056,20,998,12,925,7,843,5,762,7,688,12,630,20,593,29,580,40,593,50,630,60,688,68,762,72,843,74,925,72,998,68,1056,60,1094,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1accuracy_1_1_range_accuracy_npc.html#a3d819238d6592ba8cf9c73cc46d2130f" title=" " alt="" coords="532,40,519,29,482,20,423,12,350,7,269,5,187,7,114,12,56,20,18,29,5,40,18,50,56,60,114,68,187,72,269,74,350,72,423,68,482,60,519,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="564,42,533,42,533,37,564,37"/>
+</map>

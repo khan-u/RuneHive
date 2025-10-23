@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.construction.BuildableMap" name="com.runehive.content.skill.impl.construction.BuildableMap">
+<area shape="poly" id="Node000001" title=" " alt="" coords="957,86,946,76,912,66,860,59,794,54,722,52,649,54,583,59,531,66,497,76,486,86,497,97,531,107,583,114,649,119,722,121,794,119,860,114,912,107,946,97"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1util_1_1generic_1_1_generic_void.html" title=" " alt="" coords="339,40,332,29,311,20,280,12,240,7,195,5,151,7,111,12,79,20,58,29,51,40,58,50,79,60,111,68,151,72,195,74,240,72,280,68,311,60,332,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="346,50,519,66,518,71,345,56"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="385,133,376,122,349,113,307,105,254,100,195,99,136,100,84,105,42,113,15,122,5,133,15,144,42,153,84,161,136,166,195,167,254,166,307,161,349,153,376,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="381,114,518,102,519,107,382,119"/>
+</map>

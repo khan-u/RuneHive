@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.mob.Mob.isNpc" name="com.runehive.game.world.entity.mob.Mob.isNpc">
+<area shape="poly" id="Node000001" title="Check if an entity is an npc." alt="" coords="407,133,398,122,369,113,325,105,269,100,206,99,144,100,88,105,44,113,15,122,5,133,15,144,44,153,88,161,144,166,206,167,269,166,325,161,369,153,398,144"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1util_1_1generic_1_1_boolean_interface.html#abd905286787b3960fcc83133b86c21c3" title=" " alt="" coords="805,40,798,29,777,20,744,12,702,7,656,5,611,7,569,12,536,20,515,29,508,40,515,50,536,60,569,68,611,72,656,74,702,72,744,68,777,60,798,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,104,529,63,530,69,336,109"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a1bc291ddb555d1ee3a6a8b9bc1ee4a35" title=" " alt="" coords="858,133,848,122,819,113,775,105,719,100,656,99,594,100,538,105,494,113,465,122,455,133,465,144,494,153,538,161,594,166,656,167,719,166,775,161,819,153,848,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="408,130,440,130,440,136,408,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a64f68055122aaf4af08787378c7ac356" title="Gets the EntityType." alt="" coords="833,226,824,216,799,206,760,199,711,194,656,192,602,194,553,199,514,206,489,216,480,226,489,237,514,247,553,254,602,259,656,261,711,259,760,254,799,247,824,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="336,157,520,195,519,201,335,162"/>
+</map>

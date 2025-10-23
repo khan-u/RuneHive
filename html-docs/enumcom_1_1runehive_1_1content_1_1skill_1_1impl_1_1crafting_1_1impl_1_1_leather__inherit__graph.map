@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.crafting.impl.Leather" name="com.runehive.content.skill.impl.crafting.impl.Leather">
+<area shape="poly" id="Node000001" title=" " alt="" coords="477,157,465,146,432,136,380,129,314,124,241,122,168,124,102,129,50,136,17,146,5,157,17,167,50,177,102,184,168,189,241,191,314,189,380,184,432,177,465,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1crafting_1_1_craftable.html" title="The craftable itemcontainer." alt="" coords="453,40,442,29,412,20,365,12,306,7,241,5,176,7,117,12,70,20,40,29,29,40,40,50,70,60,117,68,176,72,241,74,306,72,365,68,412,60,442,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,90,244,122,238,122,238,90"/>
+</map>

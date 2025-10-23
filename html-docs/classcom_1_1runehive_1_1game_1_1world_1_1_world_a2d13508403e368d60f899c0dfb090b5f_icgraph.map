@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.World.shutdown" name="com.runehive.game.world.World.shutdown">
+<area shape="poly" id="Node000001" title="Shuts down the server." alt="" coords="688,40,681,29,660,20,627,12,586,7,541,5,495,7,454,12,421,20,400,29,393,40,400,50,421,60,454,68,495,72,541,74,586,72,627,68,660,60,681,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_system_update_event.html#add555f8f9c5afb187adac00588c41171" title="A function executed on cancellation." alt="" coords="345,40,337,29,313,20,275,12,228,7,175,5,123,7,75,12,38,20,14,29,5,40,14,50,38,60,75,68,123,72,175,74,228,72,275,68,313,60,337,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,42,346,42,346,37,378,37"/>
+</map>

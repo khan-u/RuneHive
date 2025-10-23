@@ -1,0 +1,9 @@
+<map id="com.runehive.content.activity.ActivityType.getFirst" name="com.runehive.content.activity.ActivityType.getFirst">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1499,40,1491,29,1468,20,1432,12,1387,7,1337,5,1287,7,1241,12,1206,20,1183,29,1175,40,1183,50,1206,60,1241,68,1287,72,1337,74,1387,72,1432,68,1468,60,1491,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1plugin_1_1_plugin_context.html#a0657fb2e82319028b3891d6aabfdf9f9" title=" " alt="" coords="1127,40,1119,29,1098,20,1064,12,1022,7,976,5,929,7,887,12,854,20,832,29,825,40,832,50,854,60,887,68,929,72,976,74,1022,72,1064,68,1098,60,1119,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1159,42,1127,42,1127,37,1159,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1plugin_1_1_plugin_context.html#a030bf416734707c861648b0a85fb6632" title=" " alt="" coords="777,40,767,29,737,20,690,12,631,7,566,5,501,7,442,12,395,20,365,29,355,40,365,50,395,60,442,68,501,72,566,74,631,72,690,68,737,60,767,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="809,42,777,42,777,37,809,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1plugin_1_1_plugin_context.html#a07799fbe60ad6f7b7324e9926a0ab5a4" title="The method that allows an event listener to accept an event." alt="" coords="307,40,300,29,278,20,245,12,203,7,156,5,110,7,68,12,34,20,13,29,5,40,13,50,34,60,68,68,110,72,156,74,203,72,245,68,278,60,300,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="339,42,307,42,307,37,339,37"/>
+</map>

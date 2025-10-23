@@ -1,0 +1,5 @@
+var _infernal_mage_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.InfernalMage", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_infernal_mage.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_infernal_mage" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.InfernalMage.MageAttack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_infernal_mage_1_1_mage_attack.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1_infernal_mage_1_1_mage_attack" ]
+];

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.pathfinding.TraversalMap.unmarkWall" name="com.runehive.game.world.pathfinding.TraversalMap.unmarkWall">
+<area shape="poly" id="Node000001" title="Informs the region of an existing wall being removed." alt="" coords="417,40,407,29,378,20,332,12,275,7,211,5,148,7,90,12,45,20,15,29,5,40,15,50,45,60,90,68,148,72,211,74,275,72,332,68,378,60,407,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1_traversal_map.html#a9b155eeee0f84b0b97125e24a6302b60" title="Unsets the specified flag from the specified position." alt="" coords="877,40,867,29,838,20,792,12,735,7,671,5,608,7,550,12,505,20,475,29,465,40,475,50,505,60,550,68,608,72,671,74,735,72,792,68,838,60,867,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,37,449,37,449,42,418,42"/>
+</map>

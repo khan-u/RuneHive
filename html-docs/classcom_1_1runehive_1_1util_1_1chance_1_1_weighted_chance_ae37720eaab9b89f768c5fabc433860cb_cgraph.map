@@ -1,0 +1,7 @@
+<map id="com.runehive.util.chance.WeightedChance.compareTo" name="com.runehive.util.chance.WeightedChance.compareTo">
+<area shape="poly" id="Node000001" title=" " alt="" coords="328,86,320,76,297,66,262,59,217,54,167,52,117,54,72,59,36,66,13,76,5,86,13,97,36,107,72,114,117,119,167,121,217,119,262,114,297,107,320,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1chance_1_1_weighted_chance.html#a351be0683a49a9abef7dfefd6a0b924a" title="Gets the object&#39;s weight." alt="" coords="689,40,682,29,659,20,625,12,581,7,533,5,484,7,441,12,406,20,384,29,376,40,384,50,406,60,441,68,484,72,533,74,581,72,625,68,659,60,682,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,66,381,56,382,62,307,71"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1util_1_1chance_1_1_weighted_object.html#ac8c2f20f356bb369738955e76371f9ce" title="Gets the object&#39;s weight." alt="" coords="682,133,675,122,654,113,621,105,579,100,533,99,487,100,445,105,412,113,391,122,383,133,391,144,412,153,445,161,487,166,533,167,579,166,621,161,654,153,675,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="307,102,387,112,386,117,306,107"/>
+</map>

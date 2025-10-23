@@ -1,0 +1,13 @@
+<map id="com.runehive.content.clanchannel.content.ClanShowcase.select" name="com.runehive.content.clanchannel.content.ClanShowcase.select">
+<area shape="poly" id="Node000001" title=" " alt="" coords="464,86,453,76,420,66,369,59,306,54,235,52,164,54,100,59,49,66,17,76,5,86,17,97,49,107,100,114,164,119,235,121,306,119,369,114,420,107,453,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_interface_manager.html#abeef1b9c5738fda1822c862657bb1383" title="Checks if a certain interface is enter." alt="" coords="981,40,969,29,936,20,884,12,819,7,746,5,674,7,609,12,557,20,523,29,512,40,523,50,557,60,609,68,674,72,746,74,819,72,884,68,936,60,969,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="432,66,531,57,531,62,432,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#ab8309e5d532b7540f48bf25f8dea92a8" title=" " alt="" coords="981,133,969,122,936,113,884,105,819,100,746,99,674,100,609,105,557,113,523,122,512,133,523,144,557,153,609,161,674,166,746,167,819,166,884,161,936,153,969,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="432,102,531,111,531,116,432,107"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_outgoing_packet.html#a3dde4d77b8c8bbd686b8e121fd6514a7" title=" " alt="" coords="1309,133,1302,122,1282,113,1251,105,1212,100,1169,99,1125,100,1086,105,1055,113,1035,122,1029,133,1035,144,1055,153,1086,161,1125,166,1169,167,1212,166,1251,161,1282,153,1302,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="981,130,1013,130,1013,136,981,136"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_outgoing_packet.html#a74fc13c106ab76f87daec1e8bab6a2a1" title=" " alt="" coords="1732,86,1725,76,1705,66,1674,59,1635,54,1591,52,1548,54,1509,59,1478,66,1458,76,1451,86,1458,97,1478,107,1509,114,1548,119,1591,121,1635,119,1674,114,1705,107,1725,97"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1297,116,1447,100,1448,105,1298,122"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a908fb61974719a74180d6300b838bfe1" title=" " alt="" coords="1826,180,1814,169,1781,160,1729,152,1664,147,1591,145,1519,147,1454,152,1402,160,1369,169,1357,180,1369,190,1402,200,1454,208,1519,212,1591,214,1664,212,1729,208,1781,200,1814,190"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1298,145,1388,155,1387,160,1297,150"/>
+</map>

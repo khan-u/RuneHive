@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.custom.TumekenStrategy.getAttackAnimation" name="com.runehive.game.world.entity.combat.strategy.player.custom.TumekenStrategy.getAttackAnimation">
+<area shape="poly" id="Node000001" title=" " alt="" coords="665,40,649,29,602,20,529,12,437,7,335,5,233,7,141,12,68,20,21,29,5,40,21,50,68,60,141,68,233,72,335,74,437,72,529,68,602,60,649,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#abf224666b7cf62d0ebd3020de51a55d9" title="The combat of the mob." alt="" coords="1181,40,1170,29,1137,20,1085,12,1020,7,947,5,875,7,809,12,758,20,724,29,713,40,724,50,758,60,809,68,875,72,947,74,1020,72,1085,68,1137,60,1170,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="665,37,697,37,697,42,665,42"/>
+</map>

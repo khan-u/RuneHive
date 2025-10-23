@@ -1,0 +1,7 @@
+<map id="com.runehive.util.parser.GenericParser" name="com.runehive.util.parser.GenericParser">
+<area shape="poly" id="Node000001" title="Represents an abstract parser." alt="" coords="378,154,371,143,352,133,321,126,283,121,241,119,198,121,160,126,129,133,110,143,103,154,110,164,129,174,160,182,198,186,241,188,283,186,321,182,352,174,371,164"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="134,26,131,20,122,14,108,9,90,6,70,5,50,6,32,9,18,14,8,20,5,26,8,33,18,39,32,43,50,46,70,47,90,46,108,43,122,39,131,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,53,199,118,196,123,106,57"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1path_1_1_path.html" title="Represents a single path in the path finding system." alt="" coords="667,26,654,20,618,14,562,9,491,6,413,5,334,6,263,9,207,14,171,20,158,26,171,33,207,39,263,43,334,46,413,47,491,46,562,43,618,39,654,33"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="374,59,286,123,283,119,371,54"/>
+</map>

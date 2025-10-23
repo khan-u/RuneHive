@@ -1,0 +1,5 @@
+<map id="java/com/runehive/game/world/Interactable.java" name="java/com/runehive/game/world/Interactable.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="333,40,326,29,307,20,276,12,238,7,195,5,152,7,114,12,83,20,64,29,57,40,64,50,83,60,114,68,152,72,195,74,238,72,276,68,307,60,326,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="385,157,376,146,349,136,307,129,254,124,195,122,136,124,84,129,42,136,15,146,5,157,15,167,42,177,84,184,136,189,195,191,254,189,307,184,349,177,376,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,75,198,107,192,107,192,75"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="com.runehive.content.gambling.GambleManager.finish" name="com.runehive.content.gambling.GambleManager.finish">
+<area shape="poly" id="Node000001" title="Handles finishing up a automated gamble." alt="" coords="1247,112,1238,101,1213,92,1175,84,1126,79,1072,77,1018,79,969,84,930,92,906,101,897,112,906,122,930,132,969,140,1018,144,1072,146,1126,144,1175,140,1213,132,1238,122"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1impl_1_1_fifty_five.html#af5f6ed4cea71bfd23632adf9edf4a934" title=" " alt="" coords="849,40,839,29,811,20,767,12,712,7,650,5,589,7,533,12,489,20,461,29,451,40,461,50,489,60,533,68,589,72,650,74,712,72,767,68,811,60,839,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="923,89,793,67,794,61,924,84"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1impl_1_1_flower_poker.html#a76fa8a3673c57c4ff3454dfbb7f67fd4" title=" " alt="" coords="403,148,393,137,365,128,321,120,266,115,204,113,143,115,87,120,43,128,15,137,5,148,15,158,43,168,87,176,143,180,204,182,266,180,321,176,365,168,393,158"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="885,122,451,140,398,142,398,137,451,134,885,117"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1impl_1_1_flower_poker.html#a5775750835ce7be3868e8b33aafcc172" title=" " alt="" coords="849,184,839,173,811,164,767,156,712,151,650,149,589,151,533,156,489,164,461,173,451,184,461,194,489,204,533,212,589,216,650,218,712,216,767,212,811,204,839,194"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="924,140,794,162,793,157,923,134"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="454,171,385,165,386,160,454,165"/>
+</map>

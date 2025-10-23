@@ -1,0 +1,7 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon14c7d0bfdb1096ceaae9b95864d8e3a6 =
+[
+    [ "getAttackAnimation", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon14c7d0bfdb1096ceaae9b95864d8e3a6.html#a18a21636527dcf010347917b279b5244", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon14c7d0bfdb1096ceaae9b95864d8e3a6.html#a9bb3a4a7f1613b9323e85abc16e506f8", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon14c7d0bfdb1096ceaae9b95864d8e3a6.html#a9b8d5d61a3452a1f87befc2615d14673", null ],
+    [ "ANIMATION", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon14c7d0bfdb1096ceaae9b95864d8e3a6.html#a1a50fc89eac12bf904659ac4cb7e4e69", null ]
+];

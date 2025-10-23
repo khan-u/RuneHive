@@ -1,0 +1,5 @@
+<map id="com.runehive.game.event.impl.log.DropItemLogEvent.onLog" name="com.runehive.game.event.impl.log.DropItemLogEvent.onLog">
+<area shape="poly" id="Node000001" title=" " alt="" coords="385,40,376,29,349,20,307,12,254,7,195,5,136,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,136,72,195,74,254,72,307,68,349,60,376,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1service_1_1_postgre_service.html#abef8ab837459e1cdae4dcb61530327d3" title=" " alt="" coords="817,40,807,29,780,20,737,12,684,7,625,5,565,7,512,12,469,20,442,29,433,40,442,50,469,60,512,68,565,72,625,74,684,72,737,68,780,60,807,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="385,37,417,37,417,42,385,42"/>
+</map>

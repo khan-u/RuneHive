@@ -1,0 +1,4 @@
+<map id="com.runehive.content.achievement.AchievementHandler.activate" name="com.runehive.content.achievement.AchievementHandler.activate">
+<area shape="poly" id="Node000001" title="Activates the achievement for the individual player." alt="" coords="390,64,381,53,354,44,311,36,257,31,198,29,138,31,85,36,42,44,15,53,5,64,15,74,42,84,85,92,138,96,198,98,257,96,311,92,354,84,381,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="124,31,125,20,139,11,163,5,198,3,240,6,265,15,263,20,239,11,198,8,164,10,141,16,130,23,129,32"/>
+</map>

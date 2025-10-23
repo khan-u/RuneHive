@@ -1,0 +1,7 @@
+<map id="com.runehive.content.gambling.Gamble" name="com.runehive.content.gambling.Gamble">
+<area shape="poly" id="Node000001" title=" " alt="" coords="355,86,347,76,322,66,283,59,234,54,180,52,126,54,77,59,39,66,14,76,5,86,14,97,39,107,77,114,126,119,180,121,234,119,283,114,322,107,347,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1impl_1_1_fifty_five.html" title=" " alt="" coords="801,40,791,29,763,20,719,12,664,7,602,5,541,7,485,12,441,20,413,29,403,40,413,50,441,60,485,68,541,72,602,74,664,72,719,68,763,60,791,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,65,433,56,434,61,349,70"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1impl_1_1_flower_poker.html" title=" " alt="" coords="801,133,791,122,763,113,719,105,664,100,602,99,541,100,485,105,441,113,413,122,403,133,413,144,441,153,485,161,541,166,602,167,664,166,719,161,763,153,791,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="349,102,434,112,433,117,348,108"/>
+</map>

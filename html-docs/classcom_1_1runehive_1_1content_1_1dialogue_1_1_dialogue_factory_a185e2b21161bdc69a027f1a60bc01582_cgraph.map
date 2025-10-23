@@ -1,0 +1,7 @@
+<map id="com.runehive.content.dialogue.DialogueFactory.onNext" name="com.runehive.content.dialogue.DialogueFactory.onNext">
+<area shape="poly" id="Node000001" title="Accepts the next dialogue in the chain." alt="" coords="349,86,341,76,317,66,279,59,231,54,177,52,124,54,76,59,38,66,14,76,5,86,14,97,38,107,76,114,124,119,177,121,231,119,279,114,317,107,341,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#aec64ffdeed4c31dfe340a41430f50892" title="Creates a new DialogueFactory." alt="" coords="766,40,757,29,730,20,690,12,638,7,582,5,525,7,473,12,433,20,406,29,397,40,406,50,433,60,473,68,525,72,582,74,638,72,690,68,730,60,757,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="327,67,408,57,409,62,327,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#a5f56390c19e58a8e3390f46449e6c6cf" title="Gets the current chain." alt="" coords="754,133,745,122,721,113,683,105,635,100,582,99,528,100,480,105,442,113,418,122,409,133,418,144,442,153,480,161,528,166,582,167,635,166,683,161,721,153,745,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="327,101,417,111,416,117,327,106"/>
+</map>

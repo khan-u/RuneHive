@@ -1,0 +1,13 @@
+<map id="com.runehive.game.world.entity.mob.Viewport.shouldRemove" name="com.runehive.game.world.entity.mob.Viewport.shouldRemove">
+<area shape="poly" id="Node000001" title="Determines if a Mob should be removed from this viewport." alt="" coords="1673,98,1663,88,1635,78,1590,71,1534,66,1472,64,1410,66,1354,71,1309,78,1281,88,1271,98,1281,109,1309,119,1354,126,1410,131,1472,133,1534,131,1590,126,1635,119,1663,109"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_viewport.html#aff3eac23755007ec27d0463fa47a247f" title="Determines if a Mob can be added to this viewport." alt="" coords="1223,98,1213,88,1184,78,1140,71,1084,66,1022,64,960,66,904,71,859,78,831,88,821,98,831,109,859,119,904,126,960,131,1022,133,1084,131,1140,126,1184,119,1213,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1255,101,1223,101,1223,96,1255,96"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_npc_update.html#ae3390bd5532a4bb508d0fc0af5b12f6f" title=" " alt="" coords="323,40,315,29,292,20,257,12,213,7,164,5,115,7,71,12,36,20,13,29,5,40,13,50,36,60,71,68,115,72,164,74,213,72,257,68,292,60,315,50"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="1332,71,1223,54,976,37,729,31,504,31,320,36,320,30,503,26,729,25,976,32,1223,49,1333,65"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_player_update.html#a7fc41a75d429e69ba854c5ad60365976" title=" " alt="" coords="323,145,315,134,292,125,257,117,213,112,164,111,115,112,71,117,36,125,13,134,5,145,13,156,36,165,71,173,115,178,164,179,213,178,257,173,292,165,315,156"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="1334,132,1223,148,975,163,727,167,501,164,318,157,318,151,501,158,727,162,975,158,1223,142,1333,126"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_viewport.html#a4428a237eae218eb0c8000ccf042d12d" title="Adds a Mob to this viewport." alt="" coords="773,98,763,88,734,78,690,71,634,66,572,64,510,66,453,71,409,78,380,88,371,98,380,109,409,119,453,126,510,131,572,133,634,131,690,126,734,119,763,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="805,101,773,101,773,96,805,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="401,77,297,61,297,56,402,71"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="389,122,305,132,305,126,388,117"/>
+</map>

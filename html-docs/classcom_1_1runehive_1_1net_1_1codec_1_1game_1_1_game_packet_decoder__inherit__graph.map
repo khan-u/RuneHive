@@ -1,0 +1,5 @@
+<map id="com.runehive.net.codec.game.GamePacketDecoder" name="com.runehive.net.codec.game.GamePacketDecoder">
+<area shape="poly" id="Node000001" title="The class that reads packets from the client into GamePacket&#39;s." alt="" coords="342,130,334,119,310,109,273,102,226,97,174,95,122,97,75,102,38,109,14,119,5,130,14,140,38,150,75,158,122,162,174,164,226,162,273,158,310,150,334,140"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="313,26,306,20,286,14,255,9,217,6,174,5,131,6,92,9,62,14,42,20,35,26,42,33,62,39,92,43,131,46,174,47,217,46,255,43,286,39,306,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,63,177,95,171,95,171,63"/>
+</map>

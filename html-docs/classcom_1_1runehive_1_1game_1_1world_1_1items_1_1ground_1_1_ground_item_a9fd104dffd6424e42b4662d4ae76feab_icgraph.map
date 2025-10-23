@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.items.ground.GroundItem.canSee" name="com.runehive.game.world.items.ground.GroundItem.canSee">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1393,86,1382,76,1351,66,1304,59,1244,54,1177,52,1111,54,1051,59,1003,66,973,76,962,86,973,97,1003,107,1051,114,1111,119,1177,121,1244,119,1304,114,1351,107,1382,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1ground_1_1_ground_item.html#a3cace6a4100698cb9acae3004418b559" title="Adds this entity to the specified region." alt="" coords="914,40,904,29,873,20,825,12,765,7,699,5,632,7,572,12,525,20,494,29,484,40,494,50,525,60,572,68,632,72,699,74,765,72,825,68,873,60,904,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="977,70,884,60,884,55,978,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1ground_1_1_ground_item.html#addc36cacc04d954df2cfb8927d82d7c2" title="Removes this entity from the specified region." alt="" coords="914,133,904,122,873,113,825,105,765,100,699,99,632,100,572,105,525,113,494,122,484,133,494,144,525,153,572,161,632,166,699,167,765,166,825,161,873,153,904,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="978,109,884,118,884,112,977,103"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1ground_1_1_ground_item.html#a906ee7fbc6edafe12299fab5af323ccf" title="Unregisters an entity from the World." alt="" coords="436,133,425,122,395,113,347,105,287,100,221,99,154,100,94,105,46,113,16,122,5,133,16,144,46,153,94,161,154,166,221,167,287,166,347,161,395,153,425,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="468,136,436,136,436,130,468,130"/>
+</map>

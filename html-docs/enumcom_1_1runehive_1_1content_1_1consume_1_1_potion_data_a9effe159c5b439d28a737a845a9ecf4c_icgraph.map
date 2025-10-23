@@ -1,0 +1,5 @@
+<map id="com.runehive.content.consume.PotionData.canDrink" name="com.runehive.content.consume.PotionData.canDrink">
+<area shape="poly" id="Node000001" title="The method which determines if the player can drink the potion." alt="" coords="689,40,681,29,656,20,617,12,569,7,515,5,461,7,413,12,374,20,349,29,341,40,349,50,374,60,413,68,461,72,515,74,569,72,617,68,656,60,681,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1bot_1_1_player_bot.html#ac2ae59f2c2972145bd2d311b6801dfb2" title=" " alt="" coords="293,40,286,29,265,20,234,12,194,7,149,5,105,7,65,12,33,20,12,29,5,40,12,50,33,60,65,68,105,72,149,74,194,72,234,68,265,60,286,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,42,293,42,293,37,325,37"/>
+</map>

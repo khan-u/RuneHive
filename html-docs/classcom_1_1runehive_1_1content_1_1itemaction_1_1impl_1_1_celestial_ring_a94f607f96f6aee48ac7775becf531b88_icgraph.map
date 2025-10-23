@@ -1,0 +1,11 @@
+<map id="com.runehive.content.itemaction.impl.CelestialRing.name" name="com.runehive.content.itemaction.impl.CelestialRing.name">
+<area shape="poly" id="Node000001" title="The name of the action." alt="" coords="1325,133,1315,122,1286,113,1241,105,1184,100,1121,99,1058,100,1001,105,956,113,927,122,917,133,927,144,956,153,1001,161,1058,166,1121,167,1184,166,1241,161,1286,153,1315,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1itemaction_1_1impl_1_1_celestial_ring.html#aaefc7136506fea3710c50efd3fef19c7" title=" " alt="" coords="869,86,859,76,830,66,785,59,728,54,665,52,602,54,545,59,500,66,471,76,461,86,471,97,500,107,545,114,602,119,665,121,728,119,785,114,830,107,859,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="930,116,840,107,841,102,931,111"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1itemaction_1_1impl_1_1_celestial_ring.html#af96e93916a3377194bd402787276b71c" title=" " alt="" coords="869,180,859,169,830,160,785,152,728,147,665,145,602,147,545,152,500,160,471,169,461,180,471,190,500,200,545,208,602,212,665,214,728,212,785,208,830,200,859,190"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="931,155,841,164,840,159,930,150"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1itemaction_1_1impl_1_1_celestial_ring.html#a302305f86103b816cfeee00129885f29" title="The execution method of the action." alt="" coords="413,40,403,29,374,20,329,12,272,7,209,5,146,7,89,12,44,20,15,29,5,40,15,50,44,60,89,68,146,72,209,74,272,72,329,68,374,60,403,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="474,70,384,60,385,55,475,64"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1itemaction_1_1impl_1_1_celestial_ring.html#a78d90e8656e8712f5a9bbe30d8937fde" title=" " alt="" coords="413,133,403,122,374,113,329,105,272,100,209,99,146,100,89,105,44,113,15,122,5,133,15,144,44,153,89,161,146,166,209,167,272,166,329,161,374,153,403,144"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="475,109,385,118,384,112,474,103"/>
+</map>

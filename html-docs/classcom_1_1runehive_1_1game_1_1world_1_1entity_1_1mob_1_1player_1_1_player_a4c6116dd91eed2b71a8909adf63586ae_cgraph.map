@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.Player.appendDeath" name="com.runehive.game.world.entity.mob.player.Player.appendDeath">
+<area shape="poly" id="Node000001" title="Handles the mob death." alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a245edcc5b77cbc6d0a4aa8a0a0125d67" title="Submits a new event." alt="" coords="817,40,809,29,788,20,756,12,715,7,669,5,624,7,583,12,550,20,529,29,522,40,529,50,550,60,583,68,624,72,669,74,715,72,756,68,788,60,809,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,37,506,37,506,42,474,42"/>
+</map>

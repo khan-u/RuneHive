@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.smithing.SmithingTable.BronzeTable" name="com.runehive.content.skill.impl.smithing.SmithingTable.BronzeTable">
+<area shape="poly" id="Node000001" title="The table for the bronze items." alt="" coords="440,157,429,146,398,136,350,129,290,124,223,122,155,124,95,129,47,136,16,146,5,157,16,167,47,177,95,184,155,189,223,191,290,189,350,184,398,177,429,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1smithing_1_1_smithing_table.html" title=" " alt="" coords="440,40,429,29,398,20,350,12,290,7,223,5,155,7,95,12,47,20,16,29,5,40,16,50,47,60,95,68,155,72,223,74,290,72,350,68,398,60,429,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,90,225,122,220,122,220,90"/>
+</map>

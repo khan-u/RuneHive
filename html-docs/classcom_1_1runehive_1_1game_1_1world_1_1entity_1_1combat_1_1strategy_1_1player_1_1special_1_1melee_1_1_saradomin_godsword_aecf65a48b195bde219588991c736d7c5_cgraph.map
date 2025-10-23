@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.special.melee.SaradominGodsword.hit" name="com.runehive.game.world.entity.combat.strategy.player.special.melee.SaradominGodsword.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="733,64,715,53,663,44,583,36,481,31,369,29,257,31,155,36,75,44,23,53,5,64,23,74,75,84,155,92,257,96,369,98,481,96,583,92,663,84,715,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="232,32,230,26,235,19,259,10,304,5,369,3,451,6,496,16,495,21,451,12,369,8,304,10,260,16,238,24,235,27,237,31"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.crafting.impl.Spinning.Spinnable" name="com.runehive.content.skill.impl.crafting.impl.Spinning.Spinnable">
+<area shape="poly" id="Node000001" title="The spinnable data." alt="" coords="477,266,465,256,432,246,380,238,314,234,241,232,168,234,102,238,50,246,17,256,5,266,17,277,50,287,102,294,168,299,241,301,314,299,380,294,432,287,465,277"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="439,118,430,111,401,105,358,101,302,98,241,97,180,98,125,101,81,105,53,111,43,118,53,124,81,130,125,135,180,138,241,139,302,138,358,135,401,130,430,124"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,154,244,231,238,231,238,154"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="308,26,305,20,296,14,281,9,262,6,241,5,220,6,201,9,186,14,177,20,174,26,177,33,186,39,201,43,220,46,241,47,262,46,281,43,296,39,305,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,63,244,96,238,96,238,63"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="com.runehive.content.skill.impl.fletching.Fletching.start" name="com.runehive.content.skill.impl.fletching.Fletching.start">
+<area shape="poly" id="Node000001" title=" " alt="" coords="923,133,912,122,881,113,833,105,772,100,705,99,638,100,578,105,529,113,499,122,488,133,499,144,529,153,578,161,638,166,705,167,772,166,833,161,881,153,912,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1fletching_1_1_fletching.html#a5486905b40cb4e59d273a5ffb4605d4a" title=" " alt="" coords="440,40,429,29,398,20,350,12,290,7,223,5,155,7,95,12,47,20,16,29,5,40,16,50,47,60,95,68,155,72,223,74,290,72,350,68,398,60,429,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="550,106,362,69,363,64,551,101"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1fletching_1_1_fletching.html#a57b291720b03414c020b180edc8c9200" title=" " alt="" coords="440,133,429,122,398,113,350,105,290,100,223,99,155,100,95,105,47,113,16,122,5,133,16,144,47,153,95,161,155,166,223,167,290,166,350,161,398,153,429,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="480,145,433,145,433,139,480,139"/>
+<area shape="poly" id="edge3_Node000003_Node000001" title=" " alt="" coords="448,121,495,121,495,127,448,127"/>
+</map>

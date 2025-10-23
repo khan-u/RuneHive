@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.magearena.MageArena.MageArena" name="com.runehive.content.activity.impl.magearena.MageArena.MageArena">
+<area shape="poly" id="Node000001" title="Constructs a new MageArena." alt="" coords="1039,40,1027,29,992,20,937,12,868,7,792,5,716,7,647,12,593,20,558,29,546,40,558,50,593,60,647,68,716,72,792,74,868,72,937,68,992,60,1027,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1magearena_1_1_mage_arena.html#ad3ea7bc78fa867fbde4770ebff7a1938" title="Creates a new MageArena activity." alt="" coords="498,40,486,29,451,20,396,12,328,7,252,5,176,7,107,12,52,20,17,29,5,40,17,50,52,60,107,68,176,72,252,74,328,72,396,68,451,60,486,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="530,42,498,42,498,37,530,37"/>
+</map>

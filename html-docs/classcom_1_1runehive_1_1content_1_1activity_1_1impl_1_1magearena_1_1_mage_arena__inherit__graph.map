@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.magearena.MageArena" name="com.runehive.content.activity.impl.magearena.MageArena">
+<area shape="poly" id="Node000001" title="The Kolodion&#39;s mage arena activity." alt="" coords="498,273,486,263,451,253,396,246,328,241,252,239,176,241,107,246,52,253,17,263,5,273,17,284,52,294,107,301,176,306,252,308,328,306,396,301,451,294,486,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html" title="A Activity object constructs an in&#45;game activity and sequences it through the start() and finish() me..." alt="" coords="414,157,406,146,383,136,347,129,302,124,252,122,202,124,156,129,120,136,97,146,89,157,97,167,120,177,156,184,202,189,252,191,302,189,347,184,383,177,406,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,207,254,239,249,239,249,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="407,40,400,29,378,20,343,12,300,7,252,5,203,7,160,12,126,20,103,29,96,40,103,50,126,60,160,68,203,72,252,74,300,72,343,68,378,60,400,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,90,254,122,249,122,249,90"/>
+</map>

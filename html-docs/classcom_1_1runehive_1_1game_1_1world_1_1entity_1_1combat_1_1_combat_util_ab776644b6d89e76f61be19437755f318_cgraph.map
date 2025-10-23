@@ -1,0 +1,12 @@
+<map id="com.runehive.game.world.entity.combat.CombatUtil.canAttack" name="com.runehive.game.world.entity.combat.CombatUtil.canAttack">
+<area shape="poly" id="Node000001" title=" " alt="" coords="437,133,427,122,396,113,348,105,288,100,221,99,155,100,94,105,47,113,16,122,5,133,16,144,47,153,94,161,155,166,221,167,288,166,348,161,396,153,427,144"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="133,101,134,90,150,80,179,74,221,72,273,75,302,85,301,90,272,81,221,77,179,79,152,85,138,92,138,101"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a1bc291ddb555d1ee3a6a8b9bc1ee4a35" title=" " alt="" coords="887,40,877,29,849,20,804,12,748,7,686,5,624,7,568,12,524,20,495,29,485,40,495,50,524,60,568,68,624,72,686,74,748,72,804,68,849,60,877,50"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="357,103,539,67,540,72,358,108"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#abff0c847f98d14619ca50e0210568e56" title=" " alt="" coords="887,133,877,122,849,113,804,105,748,100,686,99,624,100,568,105,524,113,495,122,485,133,495,144,524,153,568,161,624,166,686,167,748,166,804,161,849,153,877,144"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="437,130,469,130,469,136,437,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#ac7ddf988f32265b28e7af7283b406df1" title="Check if an entity is a player." alt="" coords="887,226,877,216,849,206,804,199,748,194,686,192,624,194,568,199,524,206,495,216,485,226,495,237,524,247,568,254,624,259,686,261,748,259,804,254,849,247,877,237"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="358,158,540,194,539,200,357,163"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a64f68055122aaf4af08787378c7ac356" title="Gets the EntityType." alt="" coords="1288,226,1279,216,1254,206,1215,199,1166,194,1112,192,1057,194,1008,199,969,206,944,216,935,226,944,237,969,247,1008,254,1057,259,1112,261,1166,259,1215,254,1254,247,1279,237"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="888,224,920,224,920,229,888,229"/>
+</map>

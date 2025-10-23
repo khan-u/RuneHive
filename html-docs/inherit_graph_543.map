@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="poly" id="Node000000" title=" " alt="" coords="255,86,249,80,231,74,203,69,169,66,130,65,91,66,57,69,29,74,11,80,5,86,11,93,29,99,57,103,91,106,130,107,169,106,203,103,231,99,249,93"/>
+<area shape="poly" id="Node000001" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_game_packet.html" title="Represents a single game packet." alt="" coords="583,40,576,29,556,20,525,12,486,7,443,5,400,7,361,12,329,20,310,29,303,40,310,50,329,60,361,68,400,72,443,74,486,72,525,68,556,60,576,50"/>
+<area shape="poly" id="edge837_Node000000_Node000001" title=" " alt="" coords="239,67,322,55,323,60,240,73"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_builder.html" title="The implementation that functions as a dynamic buffer wrapper backed by a ByteBuf that is used for re..." alt="" coords="583,133,576,122,556,113,525,105,486,100,443,99,400,100,361,105,329,113,310,122,303,133,310,144,329,153,361,161,400,166,443,167,486,166,525,161,556,153,576,144"/>
+<area shape="poly" id="edge838_Node000000_Node000002" title=" " alt="" coords="240,100,323,113,322,118,239,105"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="com.runehive.util.Utility.getInnerBoundaries" name="com.runehive.util.Utility.getInnerBoundaries">
+<area shape="poly" id="Node000001" title=" " alt="" coords="304,180,297,169,276,160,243,152,201,147,155,145,109,147,67,152,34,160,13,169,5,180,13,190,34,200,67,208,109,212,155,214,201,212,243,208,276,200,297,190"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#a49e07a60c6643c0ba33bc9754305c352" title=" " alt="" coords="689,40,682,29,661,20,629,12,587,7,542,5,496,7,455,12,423,20,402,29,395,40,402,50,423,60,455,68,496,72,542,74,587,72,629,68,661,60,682,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,145,279,114,351,84,416,64,418,69,353,89,281,118,216,150"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#a9513e5e63159a738b417ceba87cd1de8" title=" " alt="" coords="689,133,682,122,661,113,629,105,587,100,542,99,496,100,455,105,423,113,402,122,395,133,402,144,423,153,455,161,496,166,542,167,587,166,629,161,661,153,682,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="288,161,395,148,396,153,288,166"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a92154563715ed156b00ee6220e2991ff" title="Creates a new location based on this location." alt="" coords="732,226,722,216,695,206,653,199,601,194,542,192,483,194,430,199,388,206,361,216,352,226,361,237,388,247,430,254,483,259,542,261,601,259,653,254,695,247,722,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="288,193,368,203,367,208,288,198"/>
+<area shape="poly" id="Node000006" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1_interactable.html#ad7eb47dad8c89c478cedc32ea6fe3a5b" title=" " alt="" coords="689,320,682,309,661,300,629,292,587,287,542,285,496,287,455,292,423,300,402,309,395,320,402,330,423,340,455,348,496,352,542,354,587,352,629,348,661,340,682,330"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="216,209,281,241,353,271,418,290,416,296,351,276,279,246,214,214"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a7803ff05a7b4b99d2883898ade9427f7" title="Creates a location with a default height of 0." alt="" coords="1159,226,1150,216,1123,206,1081,199,1028,194,969,192,911,194,858,199,816,206,789,216,780,226,789,237,816,247,858,254,911,259,969,261,1028,259,1081,254,1123,247,1150,237"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="732,224,764,224,764,229,732,229"/>
+</map>

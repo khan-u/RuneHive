@@ -1,0 +1,7 @@
+<map id="com.runehive.net.packet.PacketRepository.lookupType" name="com.runehive.net.packet.PacketRepository.lookupType">
+<area shape="poly" id="Node000001" title="The method that looks up the packets type." alt="" coords="1173,40,1165,29,1142,20,1105,12,1059,7,1008,5,957,7,911,12,875,20,851,29,843,40,851,50,875,60,911,68,957,72,1008,74,1059,72,1105,68,1142,60,1165,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1codec_1_1game_1_1_game_packet_decoder.html#af1d978873ffa6880bf1d6b4213d5efb1" title="Decodes the packet identifier." alt="" coords="795,40,785,29,757,20,712,12,655,7,593,5,530,7,474,12,429,20,400,29,390,40,400,50,429,60,474,68,530,72,593,74,655,72,712,68,757,60,785,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="828,42,796,42,796,37,828,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1codec_1_1game_1_1_game_packet_decoder.html#a30e3496d1254d0b88da39be6f4a626fc" title=" " alt="" coords="342,40,334,29,310,20,273,12,226,7,174,5,122,7,75,12,38,20,14,29,5,40,14,50,38,60,75,68,122,72,174,74,226,72,273,68,310,60,334,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,42,343,42,343,37,375,37"/>
+</map>

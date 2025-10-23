@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.slayer.SlayerTask.canAttack" name="com.runehive.content.skill.impl.slayer.SlayerTask.canAttack">
+<area shape="poly" id="Node000001" title="Checks if a player can attack a slayer monster." alt="" coords="894,40,884,29,855,20,810,12,753,7,690,5,627,7,569,12,524,20,495,29,485,40,495,50,524,60,569,68,627,72,690,74,753,72,810,68,855,60,884,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_util.html#acacc8e36221674dd7ccf6acc748b0385" title=" " alt="" coords="437,40,427,29,396,20,348,12,288,7,221,5,155,7,94,12,47,20,16,29,5,40,16,50,47,60,94,68,155,72,221,74,288,72,348,68,396,60,427,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,42,438,42,438,37,470,37"/>
+</map>

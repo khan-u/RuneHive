@@ -1,0 +1,7 @@
+<map id="com.runehive.util.parser.old.defs.EquipmentDefinition.getSlot" name="com.runehive.util.parser.old.defs.EquipmentDefinition.getSlot">
+<area shape="poly" id="Node000001" title=" " alt="" coords="365,86,356,76,331,66,291,59,241,54,185,52,130,54,79,59,40,66,14,76,5,86,14,97,40,107,79,114,130,119,185,121,241,119,291,114,331,107,356,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1equipment_1_1_equipment_type.html#a760b75355927796525714564561f0cae" title=" " alt="" coords="989,40,975,29,934,20,870,12,790,7,701,5,612,7,532,12,468,20,427,29,413,40,427,50,468,60,532,68,612,72,701,74,790,72,870,68,934,60,975,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="349,69,454,59,455,65,349,74"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_equipment_definition.html#af87df58eb2a9ddc58b86aea416762c3d" title=" " alt="" coords="881,133,872,122,847,113,807,105,757,100,701,99,645,100,595,105,556,113,530,122,521,133,530,144,556,153,595,161,645,166,701,167,757,166,807,161,847,153,872,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="349,99,523,114,522,120,349,104"/>
+</map>

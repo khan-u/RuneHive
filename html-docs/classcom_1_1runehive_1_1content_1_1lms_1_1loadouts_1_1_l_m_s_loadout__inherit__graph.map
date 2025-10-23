@@ -1,0 +1,9 @@
+<map id="com.runehive.content.lms.loadouts.LMSLoadout" name="com.runehive.content.lms.loadouts.LMSLoadout">
+<area shape="poly" id="Node000001" title=" " alt="" coords="389,92,380,81,352,71,310,64,256,59,197,57,138,59,84,64,42,71,15,81,5,92,15,102,42,112,84,119,138,124,197,126,256,124,310,119,352,112,380,102"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1lms_1_1loadouts_1_1impl_1_1_max.html" title=" " alt="" coords="914,26,903,20,869,14,816,9,750,6,677,5,604,6,538,9,485,14,451,20,440,26,451,33,485,39,538,43,604,46,677,47,750,46,816,43,869,39,903,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,66,437,56,542,41,542,47,437,61,365,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1lms_1_1loadouts_1_1impl_1_1_pure.html" title=" " alt="" coords="917,92,905,85,871,79,818,75,751,72,677,71,603,72,536,75,483,79,449,85,437,92,449,98,483,104,536,109,603,112,677,113,751,112,818,109,871,104,905,98"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="405,89,437,89,437,94,405,94"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1lms_1_1loadouts_1_1impl_1_1_zerk.html" title=" " alt="" coords="916,157,904,150,870,145,817,140,751,137,677,136,603,137,537,140,484,145,450,150,438,157,450,163,484,169,537,174,603,177,677,178,751,177,817,174,870,169,904,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="365,112,437,122,542,137,542,142,437,128,365,118"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="com.runehive.content.pet.Pets.openLostPets" name="com.runehive.content.pet.Pets.openLostPets">
+<area shape="poly" id="Node000001" title="Handles opening the insurance interface." alt="" coords="293,157,286,146,265,137,234,129,194,124,149,123,105,124,65,129,33,137,12,146,5,157,12,168,33,177,65,185,105,190,149,191,194,190,234,185,265,177,286,168"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a490026d68b72e2dea391680a7d49a844" title="Formats digits for integers." alt="" coords="740,40,732,29,709,20,672,12,626,7,575,5,524,7,478,12,442,20,418,29,410,40,418,50,442,60,478,68,524,72,575,74,626,72,672,68,709,60,732,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,124,340,84,431,62,432,67,342,89,224,130"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_interface_manager.html#adebec4d4ec0e26a757e34f40cd0c7626" title="Opens an interface for the player." alt="" coords="809,157,798,146,765,137,713,129,648,124,575,123,503,124,437,129,386,137,352,146,341,157,352,168,386,177,437,185,503,190,575,191,648,190,713,185,765,177,798,168"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,154,326,154,326,160,293,160"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#ab8309e5d532b7540f48bf25f8dea92a8" title=" " alt="" coords="809,250,798,240,765,230,713,223,648,218,575,216,503,218,437,223,386,230,352,240,341,250,352,261,386,271,437,278,503,283,575,285,648,283,713,278,765,271,798,261"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="250,180,341,201,417,217,416,222,340,206,249,185"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="494,124,496,113,511,104,537,98,575,96,621,99,648,108,646,113,620,105,575,101,538,103,513,109,501,116,499,125"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_outgoing_packet.html#a3dde4d77b8c8bbd686b8e121fd6514a7" title=" " alt="" coords="1138,250,1131,240,1111,230,1080,223,1041,218,998,216,954,218,915,223,884,230,864,240,857,250,864,261,884,271,915,278,954,283,998,285,1041,283,1080,278,1111,271,1131,261"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="810,248,842,248,842,253,810,253"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_outgoing_packet.html#a74fc13c106ab76f87daec1e8bab6a2a1" title=" " alt="" coords="1560,204,1554,193,1534,184,1503,176,1464,171,1420,169,1377,171,1338,176,1307,184,1287,193,1280,204,1287,214,1307,224,1338,232,1377,236,1420,238,1464,236,1503,232,1534,224,1554,214"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="1126,234,1276,217,1277,222,1126,239"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_player.html#a908fb61974719a74180d6300b838bfe1" title=" " alt="" coords="1655,297,1643,286,1610,277,1558,269,1493,264,1420,263,1348,264,1283,269,1231,277,1197,286,1186,297,1197,308,1231,317,1283,325,1348,330,1420,331,1493,330,1558,325,1610,317,1643,308"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="1126,262,1217,272,1216,277,1126,267"/>
+</map>

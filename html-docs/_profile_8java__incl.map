@@ -1,0 +1,7 @@
+<map id="java/com/runehive/game/world/entity/mob/player/profile/Profile.java" name="java/com/runehive/game/world/entity/mob/player/profile/Profile.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="543,53,536,38,517,25,486,14,448,8,405,5,362,8,324,14,293,25,274,38,267,53,274,68,293,81,324,92,362,99,405,101,448,99,486,92,517,81,536,68"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="474,183,462,173,429,163,377,156,312,151,240,149,167,151,102,156,50,163,17,173,5,183,17,194,50,204,102,211,167,216,240,218,312,216,377,211,429,204,462,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,99,296,142,292,138,348,95"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="645,183,642,177,631,171,615,166,594,163,572,162,549,163,528,166,512,171,501,177,498,183,501,190,512,196,528,200,549,203,572,204,594,203,615,200,631,196,642,190"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="463,95,536,152,533,156,459,99"/>
+</map>

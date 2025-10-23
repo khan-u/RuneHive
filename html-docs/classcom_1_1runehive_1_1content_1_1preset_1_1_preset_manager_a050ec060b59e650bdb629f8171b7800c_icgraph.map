@@ -1,0 +1,13 @@
+<map id="com.runehive.content.preset.PresetManager.refresh" name="com.runehive.content.preset.PresetManager.refresh">
+<area shape="poly" id="Node000001" title="Refreshes all the components on the interface." alt="" coords="691,157,683,146,660,137,625,129,581,124,531,123,482,124,438,129,402,137,380,146,372,157,380,168,402,177,438,185,482,190,531,191,581,190,625,185,660,177,683,168"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1preset_1_1_preset_manager.html#a14e91ee95d005942a3705ffbd3191861" title="Handles deleting the preset." alt="" coords="324,40,316,29,294,20,258,12,214,7,165,5,115,7,71,12,36,20,13,29,5,40,13,50,36,60,71,68,115,72,165,74,214,72,258,68,294,60,316,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="431,125,323,89,262,70,263,65,325,84,433,120"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1preset_1_1_preset_manager.html#a7a3edb3eee46d2bb84f42971b4033123" title="Handles naming the preset." alt="" coords="324,157,316,146,294,137,258,129,214,124,165,123,115,124,71,129,36,137,13,146,5,157,13,168,36,177,71,185,115,190,165,191,214,190,258,185,294,177,316,168"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="361,169,319,169,319,163,361,163"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1preset_1_1_preset_manager.html#a54851ab5597e0565496a2ccb086ed4e7" title="Opens the preset to a specific slot." alt="" coords="324,250,316,240,294,230,258,223,214,218,165,216,115,218,71,223,36,230,13,240,5,250,13,261,36,271,71,278,115,283,165,285,214,283,258,278,294,271,316,261"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="413,190,270,227,268,221,411,185"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1preset_1_1_preset_manager.html#a591d0b3d9cf806f1746fdd0c2e51761d" title="Handles uploading the preset content." alt="" coords="324,344,316,333,294,324,258,316,214,311,165,309,115,311,71,316,36,324,13,333,5,344,13,354,36,364,71,372,115,376,165,378,214,376,258,372,294,364,316,354"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="479,202,408,252,325,299,272,320,270,315,323,295,405,248,476,198"/>
+<area shape="poly" id="edge4_Node000003_Node000001" title=" " alt="" coords="334,145,377,146,377,151,334,151"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="227,114,205,105,165,101,131,104,110,109,100,117,100,126,95,126,95,114,107,104,131,98,165,96,206,100,229,109"/>
+</map>

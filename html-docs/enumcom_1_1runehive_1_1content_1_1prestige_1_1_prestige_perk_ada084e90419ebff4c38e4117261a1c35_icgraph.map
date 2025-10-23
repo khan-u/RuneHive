@@ -1,0 +1,5 @@
+<map id="com.runehive.content.prestige.PrestigePerk.forItem" name="com.runehive.content.prestige.PrestigePerk.forItem">
+<area shape="poly" id="Node000001" title=" " alt="" coords="727,40,719,29,695,20,658,12,611,7,559,5,507,7,460,12,423,20,399,29,390,40,399,50,423,60,460,68,507,72,559,74,611,72,658,68,695,60,719,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1prestige_1_1_prestige.html#a88f11f8068f1d95d34879f1d744c6649" title="Activates the perk." alt="" coords="342,40,334,29,310,20,273,12,226,7,174,5,122,7,75,12,38,20,14,29,5,40,14,50,38,60,75,68,122,72,174,74,226,72,273,68,310,60,334,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,42,343,42,343,37,375,37"/>
+</map>

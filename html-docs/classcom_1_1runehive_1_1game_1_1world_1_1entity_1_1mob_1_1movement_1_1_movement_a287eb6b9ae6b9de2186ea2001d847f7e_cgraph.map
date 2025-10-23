@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.movement.Movement.addStepInternal" name="com.runehive.game.world.entity.mob.movement.Movement.addStepInternal">
+<area shape="poly" id="Node000001" title="Adds a single step to the queue internally without counting gaps." alt="" coords="518,40,505,29,469,20,412,12,341,7,262,5,182,7,111,12,54,20,18,29,5,40,18,50,54,60,111,68,182,72,262,74,341,72,412,68,469,60,505,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_direction.html#a7247f505f05e99449f91275bdff606a1" title=" " alt="" coords="968,40,958,29,929,20,885,12,829,7,767,5,705,7,649,12,604,20,576,29,566,40,576,50,604,60,649,68,705,72,767,74,829,72,885,68,929,60,958,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="518,37,550,37,550,42,518,42"/>
+</map>

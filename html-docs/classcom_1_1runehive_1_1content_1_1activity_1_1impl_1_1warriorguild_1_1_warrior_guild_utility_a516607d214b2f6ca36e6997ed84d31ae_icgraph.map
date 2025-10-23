@@ -1,0 +1,9 @@
+<map id="com.runehive.content.activity.impl.warriorguild.WarriorGuildUtility.getDefender" name="com.runehive.content.activity.impl.warriorguild.WarriorGuildUtility.getDefender">
+<area shape="poly" id="Node000001" title="Gets the defender index to drop for the player." alt="" coords="1047,133,1035,122,1000,113,945,105,875,100,799,99,722,100,653,105,598,113,562,122,550,133,562,144,598,153,653,161,722,166,799,167,875,166,945,161,1000,153,1035,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1warriorguild_1_1_warrior_guild.html#ae3c59a10dc6ff51492d456c0fad22000" title=" " alt="" coords="502,40,490,29,455,20,400,12,331,7,254,5,177,7,108,12,53,20,17,29,5,40,17,50,53,60,108,68,177,72,254,74,331,72,400,68,455,60,490,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="625,106,411,69,412,64,626,101"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1_npc_death.html#afce283afd4f9c9ebadcddee739eb19bb" title="The last part of the death process where the character is reset." alt="" coords="476,133,465,122,434,113,384,105,322,100,254,99,185,100,123,105,74,113,42,122,31,133,42,144,74,153,123,161,185,166,254,167,322,166,384,161,434,153,465,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="535,136,476,136,476,130,535,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1warriorguild_1_1_warrior_guild.html#a5c43847a85e7f743b5113acdcf849a2c" title="The update method." alt="" coords="502,226,490,216,455,206,400,199,331,194,254,192,177,194,108,199,53,206,17,216,5,226,17,237,53,247,108,254,177,259,254,261,331,259,400,254,455,247,490,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="626,165,412,202,411,197,625,160"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="com.runehive.net.packet.PacketBuilder.writeBits" name="com.runehive.net.packet.PacketBuilder.writeBits">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1430,86,1423,76,1403,66,1372,59,1333,54,1289,52,1246,54,1207,59,1176,66,1156,76,1149,86,1156,97,1176,107,1207,114,1246,119,1289,121,1333,119,1372,114,1403,107,1423,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_player_update.html#a94c0b0f3a9b7a89ed81e3a7a436688bb" title=" " alt="" coords="761,40,751,29,725,20,683,12,630,7,572,5,513,7,461,12,419,20,392,29,383,40,392,50,419,60,461,68,513,72,572,74,630,72,683,68,725,60,751,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1184,58,1101,42,1012,34,921,30,752,32,751,26,921,25,1012,29,1102,37,1185,53"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_player_update.html#a2fe225a0c1b440547d024d8231d02cef" title=" " alt="" coords="773,133,763,122,734,113,690,105,634,100,572,99,510,100,453,105,409,113,380,122,371,133,380,144,409,153,453,161,510,166,572,167,634,166,690,161,734,153,763,144"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1185,120,1102,136,1016,144,928,148,762,147,763,142,928,142,1015,138,1101,130,1184,114"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_builder.html#a5efe8998fa7ae32ac753f3d605285124" title=" " alt="" coords="1101,86,1094,76,1074,66,1043,59,1004,54,961,52,918,54,879,59,847,66,828,76,821,86,828,97,847,107,879,114,918,119,961,121,1004,119,1043,114,1074,107,1094,97"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1134,89,1101,89,1101,84,1134,84"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_player_update.html#a7fc41a75d429e69ba854c5ad60365976" title=" " alt="" coords="323,86,315,76,292,66,257,59,213,54,164,52,115,54,71,59,36,66,13,76,5,86,13,97,36,107,71,114,115,119,164,121,213,119,257,114,292,107,315,97"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,62,305,73,305,68,396,57"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="388,115,305,105,305,100,389,109"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="819,72,730,61,731,56,820,67"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="819,106,738,116,737,111,819,101"/>
+</map>

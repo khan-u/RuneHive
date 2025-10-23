@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.item.StarterWhipListener.hit" name="com.runehive.game.world.entity.combat.attack.listener.item.StarterWhipListener.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="628,64,613,53,569,44,500,36,413,31,317,29,220,31,134,36,65,44,21,53,5,64,21,74,65,84,134,92,220,96,317,98,413,96,500,92,569,84,613,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="424,21,386,11,317,8,261,10,224,16,205,23,203,27,204,31,199,32,197,26,202,19,222,11,261,5,317,3,387,6,425,15"/>
+</map>

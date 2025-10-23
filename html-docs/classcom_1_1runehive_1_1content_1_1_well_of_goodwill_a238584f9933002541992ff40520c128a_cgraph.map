@@ -1,0 +1,9 @@
+<map id="com.runehive.content.WellOfGoodwill.activate" name="com.runehive.content.WellOfGoodwill.activate">
+<area shape="poly" id="Node000001" title="Handles activating the well." alt="" coords="301,86,294,76,273,66,240,59,199,54,153,52,108,54,66,59,34,66,13,76,5,86,13,97,34,107,66,114,108,119,153,121,199,119,240,114,273,107,294,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a245edcc5b77cbc6d0a4aa8a0a0125d67" title="Submits a new event." alt="" coords="644,40,637,29,616,20,583,12,542,7,497,5,451,7,410,12,378,20,357,29,349,40,357,50,378,60,410,68,451,72,497,74,542,72,583,68,616,60,637,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,66,353,57,354,62,282,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a9a241d1bef16b172bbbf1df6767443b2" title="Sends a global message." alt="" coords="644,133,637,122,616,113,583,105,542,100,497,99,451,100,410,105,378,113,357,122,349,133,357,144,378,153,410,161,451,166,497,167,542,166,583,161,616,153,637,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,101,354,111,353,116,282,106"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#aea9414faed608c5daf7defab8f0a1f07" title=" " alt="" coords="987,133,979,122,958,113,926,105,885,100,839,99,794,100,753,105,720,113,699,122,692,133,699,144,720,153,753,161,794,166,839,167,885,166,926,161,958,153,979,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="645,130,677,130,677,136,645,136"/>
+</map>

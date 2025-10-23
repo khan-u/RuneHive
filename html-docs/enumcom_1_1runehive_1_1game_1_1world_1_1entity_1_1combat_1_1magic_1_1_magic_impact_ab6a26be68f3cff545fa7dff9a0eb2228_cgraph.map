@@ -1,0 +1,14 @@
+<map id="com.runehive.game.world.entity.combat.magic.MagicImpact.lowerSkill" name="com.runehive.game.world.entity.combat.magic.MagicImpact.lowerSkill">
+<area shape="poly" id="Node000001" title=" " alt="" coords="504,180,491,169,456,160,401,152,331,147,254,145,177,147,108,152,53,160,18,169,5,180,18,190,53,200,108,208,177,212,254,214,331,212,401,208,456,200,491,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a8167146b6fbdc949d0d7950e5e7e3b34" title="Gets the skill for an id." alt="" coords="952,40,942,29,914,20,870,12,814,7,753,5,691,7,636,12,592,20,563,29,554,40,563,50,592,60,636,68,691,72,753,74,814,72,870,68,914,60,942,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="351,145,551,84,613,68,614,73,552,89,352,150"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#abff0c847f98d14619ca50e0210568e56" title=" " alt="" coords="954,133,944,122,915,113,871,105,815,100,753,99,691,100,634,105,590,113,561,122,552,133,561,144,590,153,634,161,691,166,753,167,815,166,871,161,915,153,944,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="462,158,560,148,560,154,462,163"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#ac7ddf988f32265b28e7af7283b406df1" title="Check if an entity is a player." alt="" coords="954,226,944,216,915,206,871,199,815,194,753,192,691,194,634,199,590,206,561,216,552,226,561,237,590,247,634,254,691,259,753,261,815,259,871,254,915,247,944,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="462,197,560,206,560,211,462,202"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill_manager.html#a9d2f706cb24e30ca8451a4f49401df4c" title="Refreshes all the skills for the mob." alt="" coords="952,344,942,333,914,324,870,316,814,311,753,309,691,311,636,316,592,324,563,333,554,344,563,354,592,364,636,372,691,376,753,378,814,376,870,372,914,364,942,354"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="354,209,645,306,643,311,352,214"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a64f68055122aaf4af08787378c7ac356" title="Gets the EntityType." alt="" coords="1354,226,1346,216,1321,206,1282,199,1233,194,1178,192,1124,194,1074,199,1035,206,1010,216,1002,226,1010,237,1035,247,1074,254,1124,259,1178,261,1233,259,1282,254,1321,247,1346,237"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="954,224,986,224,986,229,954,229"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="671,312,673,300,687,291,714,285,753,283,800,286,827,295,825,300,799,291,753,288,714,290,689,296,677,303,677,312"/>
+</map>

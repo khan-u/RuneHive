@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.barrows.BrotherData.getNpcId" name="com.runehive.content.activity.impl.barrows.BrotherData.getNpcId">
+<area shape="poly" id="Node000001" title="Gets the npc id of the barrows brother." alt="" coords="1477,40,1466,29,1434,20,1383,12,1319,7,1248,5,1177,7,1113,12,1062,20,1030,29,1019,40,1030,50,1062,60,1113,68,1177,72,1248,74,1319,72,1383,68,1434,60,1466,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1barrows_1_1_barrows.html#a01d42c2dd9446c28b1c94ef484e661f7" title=" " alt="" coords="971,40,959,29,927,20,876,12,812,7,741,5,670,7,607,12,556,20,523,29,512,40,523,50,556,60,607,68,670,72,741,74,812,72,876,68,927,60,959,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1003,42,971,42,971,37,1003,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1activity_1_1impl_1_1barrows_1_1_barrows.html#ac0ce1c33ba43237d5fa5c528cb529517" title=" " alt="" coords="464,40,453,29,420,20,369,12,306,7,235,5,164,7,100,12,49,20,17,29,5,40,17,50,49,60,100,68,164,72,235,74,306,72,369,68,420,60,453,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="497,42,465,42,465,37,497,37"/>
+</map>

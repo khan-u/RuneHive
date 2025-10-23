@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.special.range.DragonKnife.hit" name="com.runehive.game.world.entity.combat.strategy.player.special.range.DragonKnife.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="728,64,711,53,659,44,579,36,479,31,367,29,255,31,154,36,74,44,23,53,5,64,23,74,74,84,154,92,255,96,367,98,479,96,579,92,659,84,711,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="493,21,448,12,367,8,302,10,259,16,237,24,234,27,235,31,230,32,229,26,234,19,258,10,302,5,367,3,449,6,494,16"/>
+</map>

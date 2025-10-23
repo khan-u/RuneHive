@@ -1,0 +1,12 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.PlayerMeleeStrategy.getCombatType" name="com.runehive.game.world.entity.combat.strategy.player.PlayerMeleeStrategy.getCombatType">
+<area shape="poly" id="Node000001" title=" " alt="" coords="3689,76,3674,65,3633,56,3569,48,3488,43,3398,41,3308,43,3227,48,3162,56,3121,65,3107,76,3121,86,3162,96,3227,104,3308,108,3398,110,3488,108,3569,104,3633,96,3674,86"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1melee_1_1_dragon_claws.html#a39c9e75ca504f263b1ff166266f69af0" title=" " alt="" coords="3059,40,3041,29,2989,20,2909,12,2808,7,2695,5,2583,7,2481,12,2401,20,2349,29,2331,40,2349,50,2401,60,2481,68,2583,72,2695,74,2808,72,2909,68,2989,60,3041,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3114,64,3016,59,3016,54,3115,59"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1melee_1_1_dragon_claws.html#a9ee9bbd0a567c32e9b786a8c9fa41fb3" title=" " alt="" coords="2283,76,2266,65,2214,56,2134,48,2032,43,1920,41,1807,43,1706,48,1626,56,1574,65,1556,76,1574,86,1626,96,1706,104,1807,108,1920,110,2032,108,2134,104,2214,96,2266,86"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="3102,88,3059,89,2695,93,2331,89,2270,88,2270,83,2331,84,2695,87,3059,84,3102,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="2352,58,2248,63,2248,58,2352,53"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1melee_1_1_dragon_claws.html#ae450ca57b7a25132cdec56cc98492059" title=" " alt="" coords="1508,76,1490,65,1439,56,1358,48,1257,43,1144,41,1032,43,931,48,850,56,799,65,781,76,799,86,850,96,931,104,1032,108,1144,110,1257,108,1358,104,1439,96,1490,86"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1541,78,1509,78,1509,73,1541,73"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1melee_1_1_dragon_claws.html#a297d76e30c2a7527a6d3e2f005f62cc2" title=" " alt="" coords="733,76,715,65,663,56,583,48,481,43,369,41,257,43,155,48,75,56,23,65,5,76,23,86,75,96,155,104,257,108,369,110,481,108,583,104,663,96,715,86"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="765,78,733,78,733,73,765,73"/>
+</map>

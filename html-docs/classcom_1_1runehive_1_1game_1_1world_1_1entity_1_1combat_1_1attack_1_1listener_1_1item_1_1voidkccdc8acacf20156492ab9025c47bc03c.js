@@ -1,0 +1,5 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1voidkccdc8acacf20156492ab9025c47bc03c =
+[
+    [ "modifyAttackLevel", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1voidkccdc8acacf20156492ab9025c47bc03c.html#a808806a5d1c6d41086b0de6ad9509c8c", null ],
+    [ "modifyStrengthLevel", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1item_1_1voidkccdc8acacf20156492ab9025c47bc03c.html#a001de8d1d58b01ee226dd116d1decfbb", null ]
+];

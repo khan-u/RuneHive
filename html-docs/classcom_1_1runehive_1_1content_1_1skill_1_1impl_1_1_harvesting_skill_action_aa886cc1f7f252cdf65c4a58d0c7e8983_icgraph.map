@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.HarvestingSkillAction.removeItems" name="com.runehive.content.skill.impl.HarvestingSkillAction.removeItems">
+<area shape="poly" id="Node000001" title="The items to be removed upon a successful harvest." alt="" coords="794,86,785,76,758,66,715,59,662,54,603,52,545,54,492,59,449,66,422,76,413,86,422,97,449,107,492,114,545,119,603,121,662,119,715,114,758,107,785,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1_harvesting_skill_action.html#a6cfc2d89736eaef3fed6c65fe358ac9d" title="Determines if the task can be ran." alt="" coords="357,40,349,29,324,20,286,12,238,7,185,5,132,7,84,12,46,20,22,29,13,40,22,50,46,60,84,68,132,72,185,74,238,72,286,68,324,60,349,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,69,336,59,337,54,426,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1_harvesting_skill_action.html#ac8631e82e19083c3978493e906f9c488" title="The method which is called on intervals of the specified #delay;." alt="" coords="365,133,356,122,331,113,291,105,241,100,185,99,130,100,79,105,40,113,14,122,5,133,14,144,40,153,79,161,130,166,185,167,241,166,291,161,331,153,356,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="426,109,342,118,341,113,425,104"/>
+</map>

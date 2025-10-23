@@ -1,0 +1,15 @@
+<map id="com.runehive.net.packet.out.SendItemOnInterfaceSlot" name="com.runehive.net.packet.out.SendItemOnInterfaceSlot">
+<area shape="poly" id="Node000001" title=" " alt="" coords="690,413,682,402,659,392,624,385,580,380,531,378,482,380,438,385,403,392,380,402,372,413,380,423,403,433,438,441,482,445,531,447,580,445,624,441,659,433,682,423"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_outgoing_packet.html" title=" " alt="" coords="491,272,484,261,464,252,433,244,394,239,351,237,308,239,268,244,237,252,218,261,211,272,218,282,237,292,268,300,308,305,351,306,394,305,433,300,464,292,484,282"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="406,312,490,377,487,381,403,317"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1net_1_1packet_1_1_packet_type.html" title="Represents a type of packet." alt="" coords="286,131,279,120,259,111,228,103,189,98,146,97,102,98,63,103,32,111,12,120,5,131,12,142,32,151,63,159,102,164,146,165,189,164,228,159,259,151,279,142"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,170,306,237,303,241,204,175"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1net_1_1packet_1_1_packet_builder.html" title="The implementation that functions as a dynamic buffer wrapper backed by a ByteBuf that is used for re..." alt="" coords="590,131,583,120,563,111,532,103,493,98,450,97,406,98,367,103,336,111,316,120,309,131,316,142,336,151,367,159,406,164,450,165,493,164,532,159,563,151,583,142"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="419,179,377,239,372,236,415,176"/>
+<area shape="poly" id="Node000005" title=" " alt="" coords="574,26,568,20,550,14,523,9,488,6,450,5,411,6,376,9,349,14,331,20,325,26,331,33,349,39,376,43,411,46,450,47,488,46,523,43,550,39,568,33"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="452,63,452,96,447,96,447,63"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="912,272,902,265,874,260,830,255,775,252,714,251,652,252,597,255,553,260,525,265,515,272,525,278,553,284,597,289,652,292,714,293,775,292,830,289,874,284,902,278"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="677,304,575,381,572,377,673,300"/>
+<area shape="poly" id="Node000007" title=" " alt="" coords="781,131,778,125,768,119,753,114,734,111,714,110,693,111,674,114,659,119,649,125,646,131,649,138,659,143,674,148,693,151,714,152,734,151,753,148,768,143,778,138"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="716,167,716,250,711,250,711,167"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.relations.PrivacyChatMode.get" name="com.runehive.game.world.entity.mob.player.relations.PrivacyChatMode.get">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1174,40,1161,29,1121,20,1059,12,981,7,894,5,807,7,729,12,667,20,628,29,614,40,628,50,667,60,729,68,807,72,894,74,981,72,1059,68,1121,60,1161,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1relations_1_1_player_relation.html#aeaae60e70ff68e65aa5d565113e3e683" title=" " alt="" coords="566,40,552,29,512,20,450,12,372,7,286,5,199,7,121,12,59,20,19,29,5,40,19,50,59,60,121,68,199,72,286,74,372,72,450,68,512,60,552,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="598,42,566,42,566,37,598,37"/>
+</map>

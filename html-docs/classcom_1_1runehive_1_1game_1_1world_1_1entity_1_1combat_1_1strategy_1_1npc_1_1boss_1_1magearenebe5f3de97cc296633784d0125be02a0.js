@@ -1,0 +1,8 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenebe5f3de97cc296633784d0125be02a0 =
+[
+    [ "LightingRain", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenebe5f3de97cc296633784d0125be02a0.html#aee14dd6d5b27c6cfed42feea56df6e55", null ],
+    [ "attack", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenebe5f3de97cc296633784d0125be02a0.html#a39bb7c923a15efa7af7df776d4386271", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenebe5f3de97cc296633784d0125be02a0.html#a4c18deba6267081df7cded9c8ec039f4", null ],
+    [ "hit", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenebe5f3de97cc296633784d0125be02a0.html#a28b963e6f332374dbd6d74be3e8d96d0", null ],
+    [ "start", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenebe5f3de97cc296633784d0125be02a0.html#ab6ca11870d79fc6174d5e5089e97c1ba", null ]
+];

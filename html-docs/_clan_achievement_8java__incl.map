@@ -1,0 +1,7 @@
+<map id="java/com/runehive/content/clanchannel/content/ClanAchievement.java" name="java/com/runehive/content/clanchannel/content/ClanAchievement.java">
+<area shape="poly" id="Node000001" title=" " alt="" coords="522,40,511,29,477,20,425,12,359,7,287,5,214,7,148,12,96,20,62,29,51,40,62,50,96,60,148,68,214,72,287,74,359,72,425,68,477,60,511,50"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="299,143,291,137,271,131,238,126,197,123,152,122,107,123,66,126,33,131,13,137,5,143,13,150,33,155,66,160,107,163,152,164,197,163,238,160,271,155,291,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,76,192,115,189,111,241,72"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="521,143,516,137,502,131,480,126,452,123,421,122,391,123,363,126,341,131,327,137,322,143,327,150,341,155,363,160,391,163,421,164,452,163,480,160,502,155,516,150"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="332,72,385,111,382,116,329,76"/>
+</map>

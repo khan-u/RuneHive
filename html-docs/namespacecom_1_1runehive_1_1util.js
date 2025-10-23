@@ -1,0 +1,26 @@
+var namespacecom_1_1runehive_1_1util =
+[
+    [ "chance", "namespacecom_1_1runehive_1_1util_1_1chance.html", "namespacecom_1_1runehive_1_1util_1_1chance" ],
+    [ "generic", "namespacecom_1_1runehive_1_1util_1_1generic.html", "namespacecom_1_1runehive_1_1util_1_1generic" ],
+    [ "parser", "namespacecom_1_1runehive_1_1util_1_1parser.html", "namespacecom_1_1runehive_1_1util_1_1parser" ],
+    [ "tools", "namespacecom_1_1runehive_1_1util_1_1tools.html", "namespacecom_1_1runehive_1_1util_1_1tools" ],
+    [ "ArrayIterator", "classcom_1_1runehive_1_1util_1_1_array_iterator.html", "classcom_1_1runehive_1_1util_1_1_array_iterator" ],
+    [ "Difficulty", "enumcom_1_1runehive_1_1util_1_1_difficulty.html", "enumcom_1_1runehive_1_1util_1_1_difficulty" ],
+    [ "GameSaver", "classcom_1_1runehive_1_1util_1_1_game_saver.html", "classcom_1_1runehive_1_1util_1_1_game_saver" ],
+    [ "GsonUtils", "enumcom_1_1runehive_1_1util_1_1_gson_utils.html", "enumcom_1_1runehive_1_1util_1_1_gson_utils" ],
+    [ "HSL", "classcom_1_1runehive_1_1util_1_1_h_s_l.html", "classcom_1_1runehive_1_1util_1_1_h_s_l" ],
+    [ "InclusiveRandom", "classcom_1_1runehive_1_1util_1_1_inclusive_random.html", "classcom_1_1runehive_1_1util_1_1_inclusive_random" ],
+    [ "Items", "classcom_1_1runehive_1_1util_1_1_items.html", "classcom_1_1runehive_1_1util_1_1_items" ],
+    [ "MessageColor", "enumcom_1_1runehive_1_1util_1_1_message_color.html", "enumcom_1_1runehive_1_1util_1_1_message_color" ],
+    [ "MutableNumber", "classcom_1_1runehive_1_1util_1_1_mutable_number.html", "classcom_1_1runehive_1_1util_1_1_mutable_number" ],
+    [ "OptionalIntAdapter", "classcom_1_1runehive_1_1util_1_1_optional_int_adapter.html", "classcom_1_1runehive_1_1util_1_1_optional_int_adapter" ],
+    [ "RandomGen", "classcom_1_1runehive_1_1util_1_1_random_gen.html", "classcom_1_1runehive_1_1util_1_1_random_gen" ],
+    [ "RandomUtils", "classcom_1_1runehive_1_1util_1_1_random_utils.html", "classcom_1_1runehive_1_1util_1_1_random_utils" ],
+    [ "ScreenMode", "enumcom_1_1runehive_1_1util_1_1_screen_mode.html", "enumcom_1_1runehive_1_1util_1_1_screen_mode" ],
+    [ "SortedQueue", "classcom_1_1runehive_1_1util_1_1_sorted_queue.html", "classcom_1_1runehive_1_1util_1_1_sorted_queue" ],
+    [ "Stopwatch", "classcom_1_1runehive_1_1util_1_1_stopwatch.html", "classcom_1_1runehive_1_1util_1_1_stopwatch" ],
+    [ "StringUtils", "classcom_1_1runehive_1_1util_1_1_string_utils.html", "classcom_1_1runehive_1_1util_1_1_string_utils" ],
+    [ "TinterfaceText", "classcom_1_1runehive_1_1util_1_1_tinterface_text.html", "classcom_1_1runehive_1_1util_1_1_tinterface_text" ],
+    [ "Utility", "classcom_1_1runehive_1_1util_1_1_utility.html", "classcom_1_1runehive_1_1util_1_1_utility" ],
+    [ "Words", "classcom_1_1runehive_1_1util_1_1_words.html", "classcom_1_1runehive_1_1util_1_1_words" ]
+];

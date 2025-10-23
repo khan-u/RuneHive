@@ -1,0 +1,8 @@
+var _justiciar_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Justiciar", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Justiciar.LightingRain", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenebe5f3de97cc296633784d0125be02a0.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearenebe5f3de97cc296633784d0125be02a0" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Justiciar.Magic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_magic.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_magic" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Justiciar.Melee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_melee.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_melee" ],
+    [ "com.runehive.game.world.entity.combat.strategy.npc.boss.magearena.Justiciar.TeleGrab", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_tele_grab.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1magearena_1_1_justiciar_1_1_tele_grab" ]
+];

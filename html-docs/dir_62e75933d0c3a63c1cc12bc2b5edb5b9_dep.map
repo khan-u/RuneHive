@@ -1,0 +1,6 @@
+<map id="java/com/runehive/game/world/entity/mob/npc" name="java/com/runehive/game/world/entity/mob/npc">
+<area shape="poly" id="node2" href="dir_b7e07fbb6220ea2e3e7dfc33d90a7a78.html" title="definition" alt="" coords="256,85,253,78,244,73,231,68,214,65,195,64,176,65,159,68,145,73,137,78,134,85,137,91,145,97,159,102,176,105,195,106,214,105,231,102,244,97,253,91"/>
+<area shape="poly" id="node3" href="dir_16f0a5193d29d85d15e77c9a8bd7667e.html" title="drop" alt="" coords="355,85,353,78,348,73,340,68,329,65,317,64,306,65,295,68,287,73,281,78,280,85,281,91,287,97,295,102,306,105,317,106,329,105,340,102,348,97,353,91"/>
+<area shape="rect" id="clust2" href="dir_62e75933d0c3a63c1cc12bc2b5edb5b9.html" alt="" coords="27,53,365,117"/>
+<area shape="rect" id="clust1" href="dir_c1813d5429991afe8f7a4b2c8ffff824.html" title="mob" alt="" coords="16,16,376,127"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="com.runehive.content.activity.impl.zulrah.ZulrahActivity.onDeath" name="com.runehive.content.activity.impl.zulrah.ZulrahActivity.onDeath">
+<area shape="poly" id="Node000001" title="Called when the player die." alt="" coords="446,180,435,169,404,160,355,152,294,147,225,145,157,147,96,152,47,160,16,169,5,180,16,190,47,200,96,208,157,212,225,214,294,212,355,208,404,200,435,190"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#aef07d450bf9991b7b3298e8d051e672f" title=" " alt="" coords="871,40,862,29,837,20,798,12,749,7,695,5,640,7,591,12,552,20,527,29,518,40,527,50,552,60,591,68,640,72,695,74,749,72,798,68,837,60,862,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="311,145,493,84,559,66,561,71,494,89,312,150"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a1bc291ddb555d1ee3a6a8b9bc1ee4a35" title=" " alt="" coords="896,133,886,122,857,113,813,105,757,100,695,99,633,100,577,105,532,113,503,122,494,133,503,144,532,153,577,161,633,166,695,167,757,166,813,161,857,153,886,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="412,159,504,149,505,155,413,164"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#ac1ffa95e70f2c18a6695328fb2afc585" title="Check if an entity is an npc." alt="" coords="896,226,886,216,857,206,813,199,757,194,695,192,633,194,577,199,532,206,503,216,494,226,503,237,532,247,577,254,633,259,695,261,757,259,813,254,857,247,886,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="413,196,505,205,504,210,412,201"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a245edcc5b77cbc6d0a4aa8a0a0125d67" title="Submits a new event." alt="" coords="842,320,835,309,814,300,781,292,740,287,695,285,649,287,608,292,575,300,555,309,547,320,555,330,575,340,608,348,649,352,695,354,740,352,781,348,814,340,835,330"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="312,209,494,271,570,290,569,296,493,276,311,214"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a64f68055122aaf4af08787378c7ac356" title="Gets the EntityType." alt="" coords="1296,226,1288,216,1263,206,1224,199,1175,194,1120,192,1066,194,1016,199,977,206,952,216,944,226,952,237,977,247,1016,254,1066,259,1120,261,1175,259,1224,254,1263,247,1288,237"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="896,224,928,224,928,229,896,229"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.CombatListenerManager.loadNpcs" name="com.runehive.game.world.entity.combat.attack.listener.CombatListenerManager.loadNpcs">
+<area shape="poly" id="Node000001" title=" " alt="" coords="580,40,566,29,525,20,462,12,381,7,293,5,204,7,124,12,60,20,19,29,5,40,19,50,60,60,124,68,204,72,293,74,381,72,462,68,525,60,566,50"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1_npc_combat_listener_signature.html#a5907fb7f9ecea60770ab3f2a29991b81" title="The NPC ids to attach this listener to." alt="" coords="1203,40,1189,29,1148,20,1084,12,1004,7,915,5,827,7,746,12,683,20,642,29,628,40,642,50,683,60,746,68,827,72,915,74,1004,72,1084,68,1148,60,1189,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="580,37,612,37,612,42,580,42"/>
+</map>

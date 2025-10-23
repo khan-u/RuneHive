@@ -1,0 +1,10 @@
+<map id="com.runehive.content.activity.impl.recipefordisaster.RecipeForDisaster.update" name="com.runehive.content.activity.impl.recipefordisaster.RecipeForDisaster.update">
+<area shape="poly" id="Node000001" title="The update method." alt="" coords="549,120,536,109,497,100,437,92,361,87,277,85,193,87,117,92,57,100,19,109,5,120,19,130,57,140,117,148,193,152,277,154,361,152,437,148,497,140,536,130"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a493263be718b90fac4e54a5fd5f960c4" title="Gets a percentage amount." alt="" coords="940,40,932,29,911,20,878,12,836,7,790,5,744,7,702,12,669,20,648,29,641,40,648,50,669,60,702,68,744,72,790,74,836,72,878,68,911,60,932,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="450,90,650,59,651,64,451,95"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a9d880a8e3188a9193421cc25bc0eef46" title="Gets the current server time and formats it." alt="" coords="964,120,956,113,931,107,893,103,844,100,790,99,736,100,688,103,649,107,624,113,616,120,624,126,649,132,688,137,736,140,790,141,844,140,893,137,931,132,956,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="549,117,600,117,600,122,549,122"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1activity_1_1panel_1_1_activity_panel.html#a7ffba562a8efc282cfbd57985eba70ef" title="Sends all the information for the activity panel." alt="" coords="983,224,974,213,947,204,904,196,850,191,790,189,730,191,677,196,634,204,606,213,597,224,606,234,634,244,677,252,730,256,790,258,850,256,904,252,947,244,974,234"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="424,147,647,192,646,197,423,152"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="694,193,693,181,710,171,742,165,790,163,849,166,881,176,879,181,848,172,790,168,743,170,712,176,698,184,699,193"/>
+</map>

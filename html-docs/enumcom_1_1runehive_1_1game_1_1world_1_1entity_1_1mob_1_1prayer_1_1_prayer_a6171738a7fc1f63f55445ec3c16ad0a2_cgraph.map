@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.prayer.Prayer.is" name="com.runehive.game.world.entity.mob.prayer.Prayer.is">
+<area shape="poly" id="Node000001" title="Checks if a prayer is of a certain type." alt="" coords="475,40,464,29,430,20,378,12,313,7,240,5,168,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,168,72,240,74,313,72,378,68,430,60,464,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer.html#a8192d89fa5d03ca2c5c12200251c0219" title=" " alt="" coords="993,40,982,29,948,20,896,12,831,7,758,5,686,7,620,12,568,20,535,29,523,40,535,50,568,60,620,68,686,72,758,74,831,72,896,68,948,60,982,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="476,37,507,37,507,42,476,42"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer.html#ad0a955ea0d063ee18f3403e93f7c5333" title="Constructs a new default prayer book." alt="" coords="1511,40,1500,29,1466,20,1414,12,1349,7,1276,5,1204,7,1138,12,1086,20,1053,29,1041,40,1053,50,1086,60,1138,68,1204,72,1276,74,1349,72,1414,68,1466,60,1500,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="994,37,1025,37,1025,42,994,42"/>
+</map>

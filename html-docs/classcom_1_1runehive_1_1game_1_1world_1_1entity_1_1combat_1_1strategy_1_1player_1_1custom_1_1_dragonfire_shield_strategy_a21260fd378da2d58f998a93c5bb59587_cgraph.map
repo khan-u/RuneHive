@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.custom.DragonfireShieldStrategy.hit" name="com.runehive.game.world.entity.combat.strategy.player.custom.DragonfireShieldStrategy.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="665,64,649,53,602,44,529,36,437,31,335,29,233,31,141,36,68,44,21,53,5,64,21,74,68,84,141,92,233,96,335,98,437,96,529,92,602,84,649,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="225,31,224,25,228,19,248,10,284,5,335,3,399,6,436,15,434,20,399,11,335,8,284,10,250,15,232,23,229,26,230,30"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#ada8b3342903dae696a350045399e39ca" title="Resets the mob&#39;s face location." alt="" coords="1115,64,1105,53,1077,44,1032,36,976,31,914,29,852,31,796,36,751,44,723,53,713,64,723,74,751,84,796,92,852,96,914,98,976,96,1032,92,1077,84,1105,74"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="665,61,697,61,697,66,665,66"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.position.Position.getLocalX" name="com.runehive.game.world.position.Position.getLocalX">
+<area shape="poly" id="Node000001" title="Gets the local x coordinate relative to a specific region." alt="" coords="385,86,376,76,349,66,307,59,254,54,195,52,136,54,84,59,42,66,15,76,5,86,15,97,42,107,84,114,136,119,195,121,254,119,307,114,349,107,376,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#ae19d7507bc351f13d237634449c16388" title="Gets the chunk x coordinate." alt="" coords="812,40,803,29,776,20,734,12,681,7,623,5,564,7,511,12,469,20,442,29,433,40,442,50,469,60,511,68,564,72,623,74,681,72,734,68,776,60,803,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="359,66,444,57,444,62,359,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a7803ff05a7b4b99d2883898ade9427f7" title="Creates a location with a default height of 0." alt="" coords="812,133,803,122,776,113,734,105,681,100,623,99,564,100,511,105,469,113,442,122,433,133,442,144,469,153,511,161,564,166,623,167,681,166,734,161,776,153,803,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="359,102,444,111,444,116,359,107"/>
+</map>

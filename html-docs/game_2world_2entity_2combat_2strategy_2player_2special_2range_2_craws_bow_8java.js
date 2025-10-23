@@ -1,0 +1,4 @@
+var game_2world_2entity_2combat_2strategy_2player_2special_2range_2_craws_bow_8java =
+[
+    [ "com.runehive.game.world.entity.combat.strategy.player.special.range.CrawsBow", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1range_1_1_craws_bow.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1player_1_1special_1_1range_1_1_craws_bow" ]
+];

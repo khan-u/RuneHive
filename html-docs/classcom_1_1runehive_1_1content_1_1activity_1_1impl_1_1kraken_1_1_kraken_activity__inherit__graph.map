@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.impl.kraken.KrakenActivity" name="com.runehive.content.activity.impl.kraken.KrakenActivity">
+<area shape="poly" id="Node000001" title="Handles the Kraken boss." alt="" coords="451,273,440,263,409,253,359,246,297,241,228,239,159,241,97,246,48,253,16,263,5,273,16,284,48,294,97,301,159,306,228,308,297,306,359,301,409,294,440,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html" title="A Activity object constructs an in&#45;game activity and sequences it through the start() and finish() me..." alt="" coords="390,157,383,146,360,136,324,129,278,124,228,122,178,124,133,129,97,136,74,146,66,157,74,167,97,177,133,184,178,189,228,191,278,189,324,184,360,177,383,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,207,231,239,226,239,226,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="384,40,376,29,354,20,320,12,276,7,228,5,180,7,137,12,102,20,80,29,73,40,80,50,102,60,137,68,180,72,228,74,276,72,320,68,354,60,376,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="231,90,231,122,226,122,226,90"/>
+</map>

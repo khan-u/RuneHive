@@ -1,0 +1,5 @@
+<map id="com.runehive.game.plugin.PluginContext.onMovement" name="com.runehive.game.plugin.PluginContext.onMovement">
+<area shape="poly" id="Node000001" title=" " alt="" coords="664,40,656,29,634,20,600,12,557,7,509,5,462,7,419,12,385,20,363,29,355,40,363,50,385,60,419,68,462,72,509,74,557,72,600,68,634,60,656,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1plugin_1_1_plugin_context.html#a07799fbe60ad6f7b7324e9926a0ab5a4" title="The method that allows an event listener to accept an event." alt="" coords="307,40,300,29,278,20,245,12,203,7,156,5,110,7,68,12,34,20,13,29,5,40,13,50,34,60,68,68,110,72,156,74,203,72,245,68,278,60,300,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="340,42,308,42,308,37,340,37"/>
+</map>

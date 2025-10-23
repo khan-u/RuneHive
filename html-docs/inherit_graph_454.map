@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="poly" id="Node000000" href="$interfacecom_1_1runehive_1_1game_1_1world_1_1items_1_1_requirable.html" title="The requirable itemcontainer that allows any implementing class the ability to become a requirement." alt="" coords="359,40,351,29,326,20,286,12,237,7,182,5,128,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,128,72,182,74,237,72,286,68,326,60,351,50"/>
+<area shape="poly" id="Node000001" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_skill_requirement.html" title="The skill&#45;related requirement." alt="" coords="761,40,753,29,728,20,688,12,639,7,584,5,530,7,480,12,441,20,416,29,407,40,416,50,441,60,480,68,530,72,584,74,639,72,688,68,728,60,753,50"/>
+<area shape="poly" id="edge675_Node000000_Node000001" title=" " alt="" coords="375,37,407,37,407,42,375,42"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1parser_1_1old_1_1defs_1_1_equipment_requirement.html" title="Represents the requirements for equipping items." alt="" coords="1169,40,1160,29,1135,20,1095,12,1045,7,989,5,934,7,884,12,844,20,818,29,809,40,818,50,844,60,884,68,934,72,989,74,1045,72,1095,68,1135,60,1160,50"/>
+<area shape="poly" id="edge676_Node000001_Node000002" title=" " alt="" coords="777,37,809,37,809,42,777,42"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.TzTokJad.MeleeAttack.hit" name="com.runehive.game.world.entity.combat.strategy.npc.boss.TzTokJad.MeleeAttack.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="617,64,602,53,558,44,491,36,406,31,311,29,217,31,131,36,64,44,20,53,5,64,20,74,64,84,131,92,217,96,311,98,406,96,491,92,558,84,602,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="199,32,198,26,202,19,222,11,258,5,311,3,377,6,414,15,413,21,376,11,311,8,259,10,223,16,206,23,203,27,205,31"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer_book.html#ab410a6704bdd57b8f722a17f2d874a93" title="Checks if all given prayers are active." alt="" coords="1135,64,1123,53,1090,44,1038,36,972,31,900,29,827,31,762,36,710,44,676,53,665,64,676,74,710,84,762,92,827,96,900,98,972,96,1038,92,1090,84,1123,74"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="617,61,649,61,649,66,617,66"/>
+</map>

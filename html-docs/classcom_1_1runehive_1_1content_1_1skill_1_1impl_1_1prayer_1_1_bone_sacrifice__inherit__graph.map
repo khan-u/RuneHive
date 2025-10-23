@@ -1,0 +1,7 @@
+<map id="com.runehive.content.skill.impl.prayer.BoneSacrifice" name="com.runehive.content.skill.impl.prayer.BoneSacrifice">
+<area shape="poly" id="Node000001" title="Handles sacrificing bones to an altar." alt="" coords="417,273,407,263,378,253,332,246,275,241,211,239,148,241,90,246,45,253,15,263,5,273,15,284,45,294,90,301,148,306,211,308,275,306,332,301,378,294,407,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html" title="Represents a trainable and usable skill." alt="" coords="410,157,401,146,372,136,328,129,273,124,211,122,150,124,94,129,50,136,22,146,12,157,22,167,50,177,94,184,150,189,211,191,273,189,328,184,372,177,401,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,207,214,239,209,239,209,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="367,40,360,29,337,20,303,12,259,7,211,5,163,7,120,12,85,20,63,29,56,40,63,50,85,60,120,68,163,72,211,74,259,72,303,68,337,60,360,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="214,90,214,122,209,122,209,90"/>
+</map>

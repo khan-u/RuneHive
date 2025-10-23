@@ -1,0 +1,4 @@
+<map id="java/com/runehive/game/world/items/containers/inventory" name="java/com/runehive/game/world/items/containers/inventory">
+<area shape="poly" id="node1" href="dir_b7791ca9d53662b5c93490fb1233c831.html" title="inventory" alt="" coords="149,74,146,68,137,62,124,57,107,54,88,53,69,54,52,57,39,62,30,68,27,74,30,81,39,87,52,91,69,94,88,95,107,94,124,91,137,87,146,81"/>
+<area shape="rect" id="clust1" href="dir_c84401593a424732abcf414de3fecd64.html" title="containers" alt="" coords="16,16,160,106"/>
+</map>

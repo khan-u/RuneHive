@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.farming.Farming.tick" name="com.runehive.content.skill.impl.farming.Farming.tick">
+<area shape="poly" id="Node000001" title=" " alt="" coords="430,40,420,29,390,20,343,12,283,7,218,5,152,7,93,12,46,20,16,29,5,40,16,50,46,60,93,68,152,72,218,74,283,72,343,68,390,60,420,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1farming_1_1zones_1_1_farming_zone.html#a66d25bd994853c52af45ea6569a9730c" title="Ticks the farming patches in this zone." alt="" coords="969,40,957,29,922,20,868,12,800,7,724,5,648,7,579,12,525,20,490,29,478,40,490,50,525,60,579,68,648,72,724,74,800,72,868,68,922,60,957,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="431,37,462,37,462,42,431,42"/>
+</map>

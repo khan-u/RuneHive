@@ -1,0 +1,5 @@
+var _skeletal_wyvern_8java =
+[
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.dragon.SkeletalWyvern", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_skeletal_wyvern.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_skeletal_wyvern" ],
+    [ "com.runehive.game.world.entity.combat.attack.listener.npc.dragon.SkeletalWyvern.Melee", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_skeletal_wyvern_1_1_melee.html", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1listener_1_1npc_1_1dragon_1_1_skeletal_wyvern_1_1_melee" ]
+];

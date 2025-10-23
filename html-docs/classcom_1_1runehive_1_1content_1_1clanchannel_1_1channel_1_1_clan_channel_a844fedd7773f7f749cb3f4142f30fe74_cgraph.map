@@ -1,0 +1,5 @@
+<map id="com.runehive.content.clanchannel.channel.ClanChannel.getShowcaseItems" name="com.runehive.content.clanchannel.channel.ClanChannel.getShowcaseItems">
+<area shape="poly" id="Node000001" title=" " alt="" coords="471,40,460,29,427,20,375,12,310,7,238,5,166,7,101,12,50,20,17,29,5,40,17,50,50,60,101,68,166,72,238,74,310,72,375,68,427,60,460,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a05ea6fb3c13b43190ac60fddb90ab365" title="Sets the quantity of this item." alt="" coords="873,40,864,29,839,20,800,12,751,7,696,5,641,7,592,12,553,20,528,29,519,40,528,50,553,60,592,68,641,72,696,74,751,72,800,68,839,60,864,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,37,503,37,503,42,471,42"/>
+</map>

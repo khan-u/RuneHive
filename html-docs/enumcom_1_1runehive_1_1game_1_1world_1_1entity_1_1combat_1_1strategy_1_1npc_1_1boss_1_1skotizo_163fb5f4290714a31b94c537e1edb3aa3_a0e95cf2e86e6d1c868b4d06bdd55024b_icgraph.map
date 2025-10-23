@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.SkotizoUtility.SpawnData.SpawnData" name="com.runehive.game.world.entity.combat.strategy.npc.boss.skotizo.SkotizoUtility.SpawnData.SpawnData">
+<area shape="poly" id="Node000001" title=" " alt="" coords="2900,40,2884,29,2835,20,2759,12,2663,7,2557,5,2450,7,2354,12,2278,20,2230,29,2213,40,2230,50,2278,60,2354,68,2450,72,2557,74,2663,72,2759,68,2835,60,2884,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_163fb5f4290714a31b94c537e1edb3aa3.html#a03b86c7803b8e67ce6265da377fb2216" title=" " alt="" coords="2165,40,2148,29,2099,20,2023,12,1927,7,1821,5,1715,7,1619,12,1543,20,1494,29,1477,40,1494,50,1543,60,1619,68,1715,72,1821,74,1927,72,2023,68,2099,60,2148,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2197,42,2165,42,2165,37,2197,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_utility.html#ab927a91125e54289b23a489ddd50dc0d" title=" " alt="" coords="1429,40,1412,29,1363,20,1287,12,1191,7,1085,5,979,7,883,12,807,20,758,29,741,40,758,50,807,60,883,68,979,72,1085,74,1191,72,1287,68,1363,60,1412,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1461,42,1429,42,1429,37,1461,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1skotizo_1_1_skotizo_event.html#a03120660dd2114de9ef03e4ecdb50292" title="A function representing the unit of work that will be carried out." alt="" coords="693,40,676,29,627,20,551,12,455,7,349,5,243,7,147,12,71,20,22,29,5,40,22,50,71,60,147,68,243,72,349,74,455,72,551,68,627,60,676,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="726,42,694,42,694,37,726,37"/>
+</map>

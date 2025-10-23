@@ -1,0 +1,7 @@
+<map id="com.runehive.game.service.HighscoreService.generateQuery" name="com.runehive.game.service.HighscoreService.generateQuery">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1385,40,1376,29,1351,20,1310,12,1259,7,1203,5,1146,7,1095,12,1055,20,1029,29,1020,40,1029,50,1055,60,1095,68,1146,72,1203,74,1259,72,1310,68,1351,60,1376,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1service_1_1_highscore_service.html#a81b2a48ea60f83a9f69784efa3f4cc34" title=" " alt="" coords="972,40,963,29,936,20,894,12,841,7,783,5,725,7,672,12,630,20,603,29,594,40,603,50,630,60,672,68,725,72,783,74,841,72,894,68,936,60,963,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1005,42,973,42,973,37,1005,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1persist_1_1_player_persist_d_b.html#a272b8bc41b4f2b2c5a21afe703ccd4f7" title=" " alt="" coords="546,40,533,29,494,20,435,12,359,7,276,5,192,7,117,12,57,20,19,29,5,40,19,50,57,60,117,68,192,72,276,74,359,72,435,68,494,60,533,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="578,42,546,42,546,37,578,37"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.hit.Hit.getMultipleHits" name="com.runehive.game.world.entity.combat.hit.Hit.getMultipleHits">
+<area shape="poly" id="Node000001" title=" " alt="" coords="467,64,456,53,423,44,372,36,307,31,236,29,165,31,100,36,49,44,17,53,5,64,17,74,49,84,100,92,165,96,236,98,307,96,372,92,423,84,456,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1hit_1_1_hit.html#a7eeb0f6c7299f767afaa1295e394b412" title="Constructs a new Hit object." alt="" coords="976,64,965,53,932,44,881,36,817,31,746,29,674,31,610,36,559,44,526,53,515,64,526,74,559,84,610,92,674,96,746,98,817,96,881,92,932,84,965,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,61,499,61,499,66,467,66"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="649,32,650,20,667,11,699,5,746,3,802,6,834,15,833,20,802,11,746,8,700,10,669,16,655,23,654,32"/>
+</map>

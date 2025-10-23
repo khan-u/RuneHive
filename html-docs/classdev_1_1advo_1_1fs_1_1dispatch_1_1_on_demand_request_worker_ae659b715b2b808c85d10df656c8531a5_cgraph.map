@@ -1,0 +1,5 @@
+<map id="dev.advo.fs.dispatch.OnDemandRequestWorker.nextRequest" name="dev.advo.fs.dispatch.OnDemandRequestWorker.nextRequest">
+<area shape="poly" id="Node000001" title=" " alt="" coords="361,40,352,29,327,20,288,12,238,7,183,5,128,7,79,12,39,20,14,29,5,40,14,50,39,60,79,68,128,72,183,74,238,72,288,68,327,60,352,50"/>
+<area shape="poly" id="Node000002" href="$classdev_1_1advo_1_1fs_1_1dispatch_1_1_request_dispatcher.html#abee6d5967af62d4c0358c80c0ff55eec" title="Gets the next &#39;on&#45;demand&#39; request from the queue, blocking if none are available." alt="" coords="795,40,786,29,758,20,716,12,662,7,602,5,542,7,488,12,446,20,418,29,409,40,418,50,446,60,488,68,542,72,602,74,662,72,716,68,758,60,786,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="361,37,393,37,393,42,361,42"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.clanchannel.content.ClanAchievement" name="com.runehive.content.clanchannel.content.ClanAchievement">
+<area shape="poly" id="Node000001" title="Handles the clan achievements." alt="" coords="464,154,453,143,420,133,369,126,306,121,235,119,164,121,100,126,49,133,17,143,5,154,17,164,49,174,100,182,164,186,235,188,306,186,369,182,420,174,453,164"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1util_1_1_difficulty.html" title="Created by Daniel on 2017&#45;11&#45;27." alt="" coords="381,26,374,20,353,14,321,9,280,6,235,5,189,6,148,9,116,14,95,20,88,26,95,33,116,39,148,43,189,46,235,47,280,46,321,43,353,39,374,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,63,237,119,232,119,232,63"/>
+</map>

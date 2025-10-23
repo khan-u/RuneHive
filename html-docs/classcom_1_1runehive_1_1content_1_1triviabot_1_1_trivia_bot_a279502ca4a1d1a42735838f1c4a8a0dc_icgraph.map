@@ -1,0 +1,7 @@
+<map id="com.runehive.content.triviabot.TriviaBot.declare" name="com.runehive.content.triviabot.TriviaBot.declare">
+<area shape="poly" id="Node000001" title="Declares the TriviaBot data." alt="" coords="1117,40,1109,29,1085,20,1048,12,1001,7,949,5,897,7,850,12,813,20,789,29,781,40,789,50,813,60,850,68,897,72,949,74,1001,72,1048,68,1085,60,1109,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1_rune_hive.html#a3de9bc28039cf4403572e5467aa15f2a" title="Called after the sequential startup tasks, use this for faster startup." alt="" coords="733,40,724,29,699,20,659,12,609,7,554,5,499,7,449,12,409,20,384,29,375,40,384,50,409,60,449,68,499,72,554,74,609,72,659,68,699,60,724,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="766,42,733,42,733,37,766,37"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1_rune_hive.html#ab9a24653997a7d8bb955f26c59b7f8ea" title=" " alt="" coords="327,40,319,33,296,27,261,23,216,20,166,19,116,20,72,23,36,27,13,33,5,40,13,46,36,52,72,57,116,60,166,61,216,60,261,57,296,52,319,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,42,327,42,327,37,360,37"/>
+</map>

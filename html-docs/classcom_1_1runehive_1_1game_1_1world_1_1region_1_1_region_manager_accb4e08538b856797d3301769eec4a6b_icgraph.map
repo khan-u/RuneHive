@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.region.RegionManager.getLocalNpcs" name="com.runehive.game.world.region.RegionManager.getLocalNpcs">
+<area shape="poly" id="Node000001" title="Gets the local npcs around an entity." alt="" coords="849,86,840,76,814,66,774,59,723,54,667,52,611,54,560,59,520,66,494,76,485,86,494,97,520,107,560,114,611,119,667,121,723,119,774,114,814,107,840,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_util.html#a1dc300fd4c03e3ba19e989408d7347d1" title="Sends an action to Mob instance which is within a distance." alt="" coords="437,40,427,29,396,20,348,12,288,7,221,5,155,7,94,12,47,20,16,29,5,40,16,50,47,60,94,68,155,72,221,74,288,72,348,68,396,60,427,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,71,403,61,403,56,492,65"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1net_1_1packet_1_1out_1_1_send_npc_update.html#ae3390bd5532a4bb508d0fc0af5b12f6f" title=" " alt="" coords="380,133,372,122,350,113,314,105,270,100,221,99,172,100,128,105,93,113,70,122,63,133,70,144,93,153,128,161,172,166,221,167,270,166,314,161,350,153,372,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="493,107,365,121,365,115,492,102"/>
+</map>

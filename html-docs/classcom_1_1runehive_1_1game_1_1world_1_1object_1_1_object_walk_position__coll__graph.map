@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.object.ObjectWalkPosition" name="com.runehive.game.world.object.ObjectWalkPosition">
+<area shape="poly" id="Node000001" title=" " alt="" coords="376,181,367,170,341,160,301,153,251,148,195,146,139,148,89,153,49,160,23,170,15,181,23,191,49,201,89,208,139,213,195,215,251,213,301,208,341,201,367,191"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="385,40,376,29,349,20,307,12,254,7,195,5,136,7,84,12,42,20,15,29,5,40,15,50,42,60,84,68,136,72,195,74,254,72,307,68,349,60,376,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,89,198,146,192,146,192,89"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.util.tools.wiki.parser.WikiTableParser.ParserTask" name="com.runehive.util.tools.wiki.parser.WikiTableParser.ParserTask">
+<area shape="poly" id="Node000001" title="A task that parses a web page doccument using JSoup." alt="" coords="394,181,385,170,358,160,317,153,265,148,207,146,149,148,97,153,56,160,29,170,20,181,29,191,56,201,97,208,149,213,207,215,265,213,317,208,358,201,385,191"/>
+<area shape="poly" id="Node000002" title=" " alt="" coords="134,40,131,33,122,27,108,23,90,20,70,19,50,20,32,23,18,27,8,33,5,40,8,46,18,52,32,57,50,60,70,61,90,60,108,57,122,52,131,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,69,176,145,173,148,98,73"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1tools_1_1wiki_1_1parser_1_1_wiki_table.html" title=" " alt="" coords="533,40,524,29,497,20,456,12,404,7,346,5,288,7,236,12,195,20,168,29,159,40,168,50,195,60,236,68,288,72,346,74,404,72,456,68,497,60,524,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="304,87,242,148,238,145,300,83"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.pathfinding.path.SimplePathChecker" name="com.runehive.game.world.pathfinding.path.SimplePathChecker">
+<area shape="poly" id="Node000001" title="Represents a PathFinder which is meant to be used to check projectiles passage in a straight line." alt="" coords="1659,40,1648,29,1615,20,1564,12,1500,7,1428,5,1357,7,1293,12,1242,20,1209,29,1198,40,1209,50,1242,60,1293,68,1357,72,1428,74,1500,72,1564,68,1615,60,1648,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1path_1_1_path_finder.html" title="An algorithm used to find a path between two Positions." alt="" coords="467,58,456,48,423,38,372,31,307,26,236,24,165,26,100,31,49,38,17,48,5,58,17,69,49,79,100,86,165,91,236,93,307,91,372,86,423,79,456,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,30,516,21,700,14,886,13,1214,24,1214,29,885,19,700,19,516,26,419,35"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1pathfinding_1_1path_1_1_simple_path_checker.html" title="Represents a PathFinder which is meant to be used to check projectiles passage in a straight line." alt="" coords="978,118,966,108,934,98,883,91,818,86,747,84,676,86,611,91,560,98,527,108,516,118,527,129,560,139,611,146,676,151,747,153,818,151,883,146,934,139,966,129"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="434,79,564,94,564,100,434,84"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="946,93,1244,58,1245,64,946,98"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="704,68,720,60,747,57,770,59,786,65,795,74,797,84,792,85,791,76,783,69,768,65,747,63,722,65,706,73"/>
+</map>

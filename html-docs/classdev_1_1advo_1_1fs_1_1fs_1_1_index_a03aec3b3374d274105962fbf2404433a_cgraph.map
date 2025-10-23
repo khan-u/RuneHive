@@ -1,0 +1,5 @@
+<map id="dev.advo.fs.fs.Index.decode" name="dev.advo.fs.fs.Index.decode">
+<area shape="poly" id="Node000001" title="Decodes a buffer into an index." alt="" coords="313,26,305,20,283,14,249,9,207,6,159,5,112,6,69,9,35,14,13,20,5,26,13,33,35,39,69,43,112,46,159,47,207,46,249,43,283,39,305,33"/>
+<area shape="poly" id="Node000002" href="$classdev_1_1advo_1_1fs_1_1fs_1_1_index.html#a2dd4d792d3009ca45c1a1881df32c5f5" title="Creates the index." alt="" coords="648,26,641,20,621,14,589,9,549,6,504,5,460,6,420,9,388,14,368,20,361,26,368,33,388,39,420,43,460,46,504,47,549,46,589,43,621,39,641,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="313,24,345,24,345,29,313,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.itemaction.ItemActionRepository.drop" name="com.runehive.content.itemaction.ItemActionRepository.drop">
+<area shape="poly" id="Node000001" title=" " alt="" coords="828,40,819,29,794,20,754,12,704,7,648,5,592,7,542,12,503,20,477,29,468,40,477,50,503,60,542,68,592,72,648,74,704,72,754,68,794,60,819,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1packet_1_1in_1_1_drop_item_packet_listener.html#a2b8c666f0fe2f5482b0102a33c6184ce" title="Handles the packet that has just been received." alt="" coords="420,40,410,29,381,20,335,12,277,7,213,5,149,7,91,12,45,20,15,29,5,40,15,50,45,60,91,68,149,72,213,74,277,72,335,68,381,60,410,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="452,42,421,42,421,37,452,37"/>
+</map>

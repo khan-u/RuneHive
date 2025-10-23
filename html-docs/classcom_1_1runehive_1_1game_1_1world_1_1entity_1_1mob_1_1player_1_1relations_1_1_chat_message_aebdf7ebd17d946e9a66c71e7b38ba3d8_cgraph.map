@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.mob.player.relations.ChatMessage.create" name="com.runehive.game.world.entity.mob.player.relations.ChatMessage.create">
+<area shape="poly" id="Node000001" title=" " alt="" coords="566,64,552,53,512,44,450,36,372,31,286,29,199,31,121,36,59,44,19,53,5,64,19,74,59,84,121,92,199,96,286,98,372,96,450,92,512,84,552,74"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="171,33,169,26,172,20,193,11,230,5,286,3,354,6,392,15,391,21,353,12,286,8,231,10,194,16,176,24,174,27,176,31"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1relations_1_1_chat_message.html#a7f997e4a41e6660620f309e37259bb0d" title=" " alt="" coords="1174,64,1161,53,1121,44,1059,36,981,31,894,29,807,31,729,36,667,44,628,53,614,64,628,74,667,84,729,92,807,96,894,98,981,96,1059,92,1121,84,1161,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="566,61,598,61,598,66,566,66"/>
+</map>

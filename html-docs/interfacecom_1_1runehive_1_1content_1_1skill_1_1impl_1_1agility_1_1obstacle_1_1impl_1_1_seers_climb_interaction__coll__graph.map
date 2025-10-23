@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.agility.obstacle.impl.SeersClimbInteraction" name="com.runehive.content.skill.impl.agility.obstacle.impl.SeersClimbInteraction">
+<area shape="poly" id="Node000001" title=" " alt="" coords="552,157,538,146,500,136,439,129,363,124,279,122,194,124,118,129,58,136,19,146,5,157,19,167,58,177,118,184,194,189,279,191,363,189,439,184,500,177,538,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1agility_1_1obstacle_1_1_obstacle_interaction.html" title=" " alt="" coords="528,40,515,29,480,20,425,12,355,7,279,5,202,7,132,12,77,20,42,29,29,40,42,50,77,60,132,68,202,72,279,74,355,72,425,68,480,60,515,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,90,281,122,276,122,276,90"/>
+</map>

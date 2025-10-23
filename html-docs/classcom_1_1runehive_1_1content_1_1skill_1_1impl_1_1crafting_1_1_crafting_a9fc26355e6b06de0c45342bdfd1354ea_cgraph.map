@@ -1,0 +1,10 @@
+<map id="com.runehive.content.skill.impl.crafting.Crafting.Crafting" name="com.runehive.content.skill.impl.crafting.Crafting.Crafting">
+<area shape="poly" id="Node000001" title=" " alt="" coords="429,64,418,53,388,44,341,36,282,31,217,29,152,31,93,36,46,44,16,53,5,64,16,74,46,84,93,92,152,96,217,98,282,96,341,92,388,84,418,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#af7d5922b9dc2d188abf081584f1d7ef0" title="Constructs a new Skill." alt="" coords="875,64,865,53,837,44,793,36,737,31,676,29,614,31,559,36,515,44,486,53,477,64,486,74,515,84,559,92,614,96,676,98,737,96,793,92,837,84,865,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="429,61,461,61,461,66,429,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a36501346a8b435a10918cd89a7677cc0" title="Gets the level for a given experience amount." alt="" coords="1320,64,1311,53,1282,44,1238,36,1183,31,1121,29,1060,31,1005,36,961,44,932,53,923,64,932,74,961,84,1005,92,1060,96,1121,98,1183,96,1238,92,1282,84,1311,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="875,61,907,61,907,66,875,66"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a8ccd3bb8873995593a36bebea52b5b9a" title="Performs a binary search to quickly search for the level at the given experience." alt="" coords="1766,64,1757,53,1728,44,1684,36,1629,31,1567,29,1506,31,1450,36,1406,44,1378,53,1368,64,1378,74,1406,84,1450,92,1506,96,1567,98,1629,96,1684,92,1728,84,1757,74"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1320,61,1353,61,1353,66,1320,66"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="1482,32,1483,20,1499,11,1527,5,1567,3,1617,6,1645,15,1644,20,1616,11,1567,8,1527,10,1501,16,1488,23,1488,32"/>
+</map>

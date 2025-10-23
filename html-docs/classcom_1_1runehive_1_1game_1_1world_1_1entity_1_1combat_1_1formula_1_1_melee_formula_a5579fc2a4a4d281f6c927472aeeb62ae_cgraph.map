@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.entity.combat.formula.MeleeFormula.modifyOffensiveBonus" name="com.runehive.game.world.entity.combat.formula.MeleeFormula.modifyOffensiveBonus">
+<area shape="poly" id="Node000001" title=" " alt="" coords="518,133,505,122,469,113,412,105,341,100,262,99,182,100,111,105,54,113,18,122,5,133,18,144,54,153,111,161,182,166,262,167,341,166,412,161,469,153,505,144"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1_fight_type.html#aa6b9d65379cca5fd336b28f5c3b6d079" title="Gets the type of bonus this global will apply." alt="" coords="1063,40,1050,29,1015,20,960,12,891,7,814,5,737,7,668,12,613,20,578,29,566,40,578,50,613,60,668,68,737,72,814,74,891,72,960,68,1015,60,1050,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="423,103,639,67,640,72,424,109"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a15c70b1ab880b5e8dab6a8a3006df952" title=" " alt="" coords="1015,133,1005,122,977,113,932,105,876,100,814,99,752,100,696,105,652,113,623,122,613,133,623,144,652,153,696,161,752,166,814,167,876,166,932,161,977,153,1005,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="518,130,597,130,597,136,518,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a385dc0248234fddaae1b093594d7bf58" title="The combat of the mob." alt="" coords="1015,226,1005,216,977,206,932,199,876,194,814,192,752,194,696,199,652,206,623,216,613,226,623,237,652,247,696,254,752,259,814,261,876,259,932,254,977,247,1005,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="424,158,655,197,654,202,423,163"/>
+</map>

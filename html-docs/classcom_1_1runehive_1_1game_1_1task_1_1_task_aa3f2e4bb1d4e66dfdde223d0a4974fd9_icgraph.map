@@ -1,0 +1,9 @@
+<map id="com.runehive.game.task.Task.setDelay" name="com.runehive.game.task.Task.setDelay">
+<area shape="poly" id="Node000001" title="Sets the cyclic delay." alt="" coords="784,133,775,122,749,113,709,105,659,100,603,99,547,100,496,105,456,113,430,122,422,133,430,144,456,153,496,161,547,166,603,167,659,166,709,161,749,153,775,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_flax_picking_action.html#ac5b4e92f333321e626d1a9a00022d342" title="A function representing the unit of work that will be carried out." alt="" coords="364,40,355,29,330,20,292,12,243,7,189,5,136,7,87,12,48,20,24,29,15,40,24,50,48,60,87,68,136,72,189,74,243,72,292,68,330,60,355,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="469,106,305,68,306,63,470,101"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_inspect_action.html#ad5d805350fb9c0b26fd345f71d94278d" title="A function representing the unit of work that will be carried out." alt="" coords="364,133,355,122,330,113,292,105,243,100,189,99,136,100,87,105,48,113,24,122,15,133,24,144,48,153,87,161,136,166,189,167,243,166,292,161,330,153,355,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="406,136,364,136,364,130,406,130"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1action_1_1impl_1_1_hunter_respawn_task.html#a78e25fe072116591ffe7989b2c3c9ed3" title="A function executed on registration." alt="" coords="374,226,364,216,338,206,298,199,246,194,189,192,133,194,81,199,40,206,14,216,5,226,14,237,40,247,81,254,133,259,189,261,246,259,298,254,338,247,364,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="470,166,309,202,308,197,469,160"/>
+</map>

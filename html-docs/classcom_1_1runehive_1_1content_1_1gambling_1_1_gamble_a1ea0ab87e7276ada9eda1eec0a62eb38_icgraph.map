@@ -1,0 +1,19 @@
+<map id="com.runehive.content.gambling.Gamble.getHost" name="com.runehive.content.gambling.Gamble.getHost">
+<area shape="poly" id="Node000001" title=" " alt="" coords="1645,184,1636,173,1611,164,1573,156,1524,151,1470,149,1416,151,1367,156,1328,164,1303,173,1295,184,1303,194,1328,204,1367,212,1416,216,1470,218,1524,216,1573,212,1611,204,1636,194"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#a0476905b09dba8a2240d0fdd26a92fc2" title="Handles finishing up a automated gamble." alt="" coords="1247,112,1238,101,1213,92,1175,84,1126,79,1072,77,1018,79,969,84,930,92,906,101,897,112,906,122,930,132,969,140,1018,144,1072,146,1126,144,1175,140,1213,132,1238,122"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1324,160,1201,138,1202,133,1325,155"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1impl_1_1_fifty_five.html#af5f6ed4cea71bfd23632adf9edf4a934" title=" " alt="" coords="849,40,839,29,811,20,767,12,712,7,650,5,589,7,533,12,489,20,461,29,451,40,461,50,489,60,533,68,589,72,650,74,712,72,767,68,811,60,839,50"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="1407,144,1332,102,1290,82,1246,68,1142,46,1035,33,931,29,835,29,835,24,931,23,1036,28,1143,40,1248,63,1292,77,1335,97,1410,140"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1impl_1_1_flower_poker.html#a76fa8a3673c57c4ff3454dfbb7f67fd4" title=" " alt="" coords="403,184,393,173,365,164,321,156,266,151,204,149,143,151,87,156,43,164,15,173,5,184,15,194,43,204,87,212,143,216,204,218,266,216,321,212,365,204,393,194"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="1309,207,1133,225,918,240,685,244,567,241,451,233,326,214,327,209,451,228,567,236,685,239,918,234,1133,220,1309,202"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1impl_1_1_flower_poker.html#a5775750835ce7be3868e8b33aafcc172" title=" " alt="" coords="849,184,839,173,811,164,767,156,712,151,650,149,589,151,533,156,489,164,461,173,451,184,461,194,489,204,533,212,589,216,650,218,712,216,767,212,811,204,839,194"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="1280,186,850,186,850,181,1280,181"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#ac800b2d841ee80d824c83068884d387d" title="Handles starting the gamble." alt="" coords="1247,328,1238,317,1213,308,1175,300,1126,295,1072,293,1018,295,969,300,930,308,906,317,897,328,906,338,930,348,969,356,1018,360,1072,362,1126,360,1175,356,1213,348,1238,338"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="1383,224,1248,277,1173,302,1171,297,1246,272,1381,219"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="923,89,793,67,794,61,924,84"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="881,115,674,122,452,140,330,159,329,154,451,134,674,117,881,110"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="924,140,794,162,793,157,923,134"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="436,186,404,186,404,181,436,181"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1content_1_1gambling_1_1_gamble_manager.html#a86dc8e6d9f3894f05fc93cbd4f510b13" title="Handles accepting the gamble." alt="" coords="825,328,816,317,792,308,753,300,704,295,650,293,596,295,547,300,509,308,484,317,475,328,484,338,509,348,547,356,596,360,650,362,704,360,753,356,792,348,816,338"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="882,330,825,330,825,325,882,325"/>
+</map>

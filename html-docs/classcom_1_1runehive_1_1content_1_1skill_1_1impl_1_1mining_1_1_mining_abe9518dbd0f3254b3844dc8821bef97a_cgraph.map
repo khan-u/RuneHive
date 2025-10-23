@@ -1,0 +1,10 @@
+<map id="com.runehive.content.skill.impl.mining.Mining.Mining" name="com.runehive.content.skill.impl.mining.Mining.Mining">
+<area shape="poly" id="Node000001" title="Constructs a new Mining skill." alt="" coords="423,64,413,53,383,44,337,36,279,31,214,29,150,31,91,36,45,44,16,53,5,64,16,74,45,84,91,92,150,96,214,98,279,96,337,92,383,84,413,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#af7d5922b9dc2d188abf081584f1d7ef0" title="Constructs a new Skill." alt="" coords="869,64,859,53,831,44,787,36,731,31,670,29,608,31,553,36,509,44,481,53,471,64,481,74,509,84,553,92,608,96,670,98,731,96,787,92,831,84,859,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="423,61,456,61,456,66,423,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a36501346a8b435a10918cd89a7677cc0" title="Gets the level for a given experience amount." alt="" coords="1315,64,1305,53,1277,44,1233,36,1177,31,1116,29,1054,31,999,36,955,44,927,53,917,64,927,74,955,84,999,92,1054,96,1116,98,1177,96,1233,92,1277,84,1305,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="869,61,901,61,901,66,869,66"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a8ccd3bb8873995593a36bebea52b5b9a" title="Performs a binary search to quickly search for the level at the given experience." alt="" coords="1761,64,1751,53,1723,44,1679,36,1623,31,1562,29,1500,31,1445,36,1401,44,1372,53,1363,64,1372,74,1401,84,1445,92,1500,96,1562,98,1623,96,1679,92,1723,84,1751,74"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1315,61,1347,61,1347,66,1315,66"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="1477,32,1478,20,1493,11,1521,5,1562,3,1612,6,1640,15,1638,20,1611,11,1562,8,1522,10,1495,16,1482,23,1482,32"/>
+</map>

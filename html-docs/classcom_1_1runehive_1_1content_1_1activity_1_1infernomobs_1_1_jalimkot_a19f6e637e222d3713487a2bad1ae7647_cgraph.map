@@ -1,0 +1,11 @@
+<map id="com.runehive.content.activity.infernomobs.Jalimkot.canAttack" name="com.runehive.content.activity.infernomobs.Jalimkot.canAttack">
+<area shape="poly" id="Node000001" title=" " alt="" coords="460,133,449,122,416,113,366,105,303,100,233,99,162,100,99,105,49,113,16,122,5,133,16,144,49,153,99,161,162,166,233,167,303,166,366,161,416,153,449,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#abff0c847f98d14619ca50e0210568e56" title=" " alt="" coords="910,40,900,29,871,20,827,12,771,7,709,5,647,7,591,12,546,20,518,29,508,40,518,50,546,60,591,68,647,72,709,74,771,72,827,68,871,60,900,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="373,103,559,66,560,71,374,108"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a8afdd0de68f242bf7082076dfbfffe37" title=" " alt="" coords="885,133,876,122,851,113,812,105,763,100,709,99,654,100,605,105,566,113,541,122,533,133,541,144,566,153,605,161,654,166,709,167,763,166,812,161,851,153,876,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="460,130,517,130,517,136,460,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a2b9069341555b2f4482e4091e36c78be" title="Checks if this location is within range of another." alt="" coords="899,226,889,216,862,206,820,199,767,194,709,192,650,194,597,199,555,206,528,216,519,226,528,237,555,247,597,254,650,259,709,261,767,259,820,254,862,247,889,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="374,158,564,195,563,201,373,163"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a7803ff05a7b4b99d2883898ade9427f7" title="Creates a location with a default height of 0." alt="" coords="1337,226,1328,216,1301,206,1259,199,1206,194,1148,192,1089,194,1036,199,994,206,967,216,958,226,967,237,994,247,1036,254,1089,259,1148,261,1206,259,1259,254,1301,247,1328,237"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="899,224,942,224,942,229,899,229"/>
+</map>

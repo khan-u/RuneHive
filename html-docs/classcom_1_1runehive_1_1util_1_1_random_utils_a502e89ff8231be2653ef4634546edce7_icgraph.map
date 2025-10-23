@@ -1,0 +1,5 @@
+<map id="com.runehive.util.RandomUtils.inclusiveExcludes" name="com.runehive.util.RandomUtils.inclusiveExcludes">
+<area shape="poly" id="Node000001" title="Returns a pseudo&#45;random int value between inclusive min and inclusive max excluding the specified num..." alt="" coords="845,40,838,29,817,20,784,12,744,7,698,5,653,7,612,12,580,20,559,29,552,40,559,50,580,60,612,68,653,72,698,74,744,72,784,68,817,60,838,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1magic_1_1_magic_impact.html#ad23c552ae29bf0a783a8ad2beca26fbd" title=" " alt="" coords="504,40,491,29,456,20,401,12,331,7,254,5,177,7,108,12,53,20,18,29,5,40,18,50,53,60,108,68,177,72,254,74,331,72,401,68,456,60,491,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="536,42,504,42,504,37,536,37"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.Combat.setFightType" name="com.runehive.game.world.entity.combat.Combat.setFightType">
+<area shape="poly" id="Node000001" title=" " alt="" coords="437,40,427,29,396,20,348,12,288,7,221,5,155,7,94,12,47,20,16,29,5,40,16,50,47,60,94,68,155,72,221,74,288,72,348,68,396,60,427,50"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1attack_1_1_fight_type.html#a825a16464de2bb00120bf1842ec61f02" title="Gets the style active when this type is active." alt="" coords="982,40,970,29,935,20,880,12,810,7,734,5,657,7,588,12,533,20,497,29,485,40,497,50,533,60,588,68,657,72,734,74,810,72,880,68,935,60,970,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="438,37,470,37,470,42,438,42"/>
+</map>

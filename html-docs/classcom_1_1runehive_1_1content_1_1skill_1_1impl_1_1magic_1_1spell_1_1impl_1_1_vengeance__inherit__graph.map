@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.magic.spell.impl.Vengeance" name="com.runehive.content.skill.impl.magic.spell.impl.Vengeance">
+<area shape="poly" id="Node000001" title="Handles the vengeance spell." alt="" coords="518,157,505,146,469,136,412,129,341,124,262,122,182,124,111,129,54,136,18,146,5,157,18,167,54,177,111,184,182,189,262,191,341,189,412,184,469,177,505,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1content_1_1skill_1_1impl_1_1magic_1_1spell_1_1_spell.html" title="The itemcontainer for casting a spell." alt="" coords="494,40,482,29,449,20,398,12,333,7,262,5,190,7,125,12,74,20,41,29,29,40,41,50,74,60,125,68,190,72,262,74,333,72,398,68,449,60,482,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="264,90,264,122,259,122,259,90"/>
+</map>

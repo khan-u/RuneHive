@@ -1,0 +1,5 @@
+<map id="com.runehive.content.dialogue.impl.ClanmasterDialogue.clanLevel" name="com.runehive.content.dialogue.impl.ClanmasterDialogue.clanLevel">
+<area shape="poly" id="Node000001" title="Displays all the clan level information." alt="" coords="842,40,832,29,805,20,761,12,706,7,646,5,585,7,531,12,487,20,459,29,450,40,459,50,487,60,531,68,585,72,646,74,706,72,761,68,805,60,832,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1impl_1_1_clanmaster_dialogue.html#a67eeabf0e01a61b2a530f27483b11dbd" title="Sends a player a dialogue." alt="" coords="402,40,392,29,364,20,320,12,265,7,204,5,142,7,87,12,43,20,15,29,5,40,15,50,43,60,87,68,142,72,204,74,265,72,320,68,364,60,392,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="434,42,402,42,402,37,434,37"/>
+</map>

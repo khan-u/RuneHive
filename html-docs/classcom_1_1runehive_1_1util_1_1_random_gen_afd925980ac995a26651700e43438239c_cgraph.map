@@ -1,0 +1,5 @@
+<map id="com.runehive.util.RandomGen.inclusive" name="com.runehive.util.RandomGen.inclusive">
+<area shape="poly" id="Node000001" title="Returns a pseudo&#45;random int value between inclusive 0 and inclusive range." alt="" coords="299,40,291,29,271,20,238,12,197,7,152,5,107,7,66,12,33,20,13,29,5,40,13,50,33,60,66,68,107,72,152,74,197,72,238,68,271,60,291,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_random_gen.html#abc530e024de89465a99af83d6fde0b9e" title="Returns a pseudo&#45;random int value between inclusive min and inclusive max." alt="" coords="640,40,633,29,612,20,579,12,538,7,493,5,448,7,407,12,375,20,354,29,347,40,354,50,375,60,407,68,448,72,493,74,538,72,579,68,612,60,633,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="299,37,331,37,331,42,299,42"/>
+</map>

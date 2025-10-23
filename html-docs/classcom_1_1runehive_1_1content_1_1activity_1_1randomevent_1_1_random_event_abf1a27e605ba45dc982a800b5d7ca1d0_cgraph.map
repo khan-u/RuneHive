@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.randomevent.RandomEvent.onRegionChange" name="com.runehive.content.activity.randomevent.RandomEvent.onRegionChange">
+<area shape="poly" id="Node000001" title="Called when the player changes region." alt="" coords="467,40,456,29,423,20,372,12,307,7,236,5,165,7,100,12,49,20,17,29,5,40,17,50,49,60,100,68,165,72,236,74,307,72,372,68,423,60,456,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html#acbfce600b13e1f2629e4eb5835f34ea0" title="Sets the cooldown flag to FINISH." alt="" coords="839,40,831,29,808,20,772,12,727,7,677,5,627,7,582,12,546,20,523,29,515,40,523,50,546,60,582,68,627,72,677,74,727,72,772,68,808,60,831,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,37,499,37,499,42,467,42"/>
+</map>

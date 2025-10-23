@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.items.containers.pricechecker.PriceChecker" name="com.runehive.game.world.items.containers.pricechecker.PriceChecker">
+<area shape="poly" id="Node000001" title="The price checker container." alt="" coords="603,247,588,236,546,226,480,219,396,214,304,212,212,214,128,219,62,226,20,236,5,247,20,257,62,267,128,274,212,279,304,281,396,279,480,274,546,267,588,257"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html" title="An abstraction game representing a group of Items." alt="" coords="536,130,525,119,492,109,440,102,376,97,304,95,232,97,168,102,116,109,83,119,72,130,83,140,116,150,168,158,232,162,304,164,376,162,440,158,492,150,525,140"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="307,180,307,212,301,212,301,180"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="396,26,392,20,379,14,358,9,332,6,304,5,275,6,250,9,229,14,216,20,212,26,216,33,229,39,250,43,275,46,304,47,332,46,358,43,379,39,392,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,63,307,95,301,95,301,63"/>
+</map>

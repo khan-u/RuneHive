@@ -1,0 +1,7 @@
+<map id="com.runehive.content.emote.EmoteHandler.containsAll" name="com.runehive.content.emote.EmoteHandler.containsAll">
+<area shape="poly" id="Node000001" title=" " alt="" coords="780,86,772,76,749,66,714,59,670,54,620,52,571,54,527,59,492,66,469,76,461,86,469,97,492,107,527,114,571,119,620,121,670,119,714,114,749,107,772,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1itemaction_1_1impl_1_1_drill_demon_box.html#a3ba4df9fd1bbc7cc143009692515c873" title="The execution method of the action." alt="" coords="413,40,403,29,374,20,329,12,272,7,209,5,146,7,89,12,44,20,15,29,5,40,15,50,44,60,89,68,146,72,209,74,272,72,329,68,374,60,403,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="463,71,379,62,380,56,464,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1itemaction_1_1impl_1_1_mime_box.html#a3528f48085ad74bb2af507a6f011f53e" title="The execution method of the action." alt="" coords="413,133,403,122,374,113,329,105,272,100,209,99,146,100,89,105,44,113,15,122,5,133,15,144,44,153,89,161,146,166,209,167,272,166,329,161,374,153,403,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="464,107,380,116,379,111,463,102"/>
+</map>

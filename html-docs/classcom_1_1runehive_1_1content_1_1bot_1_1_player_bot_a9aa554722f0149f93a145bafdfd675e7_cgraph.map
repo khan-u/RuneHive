@@ -1,0 +1,11 @@
+<map id="com.runehive.content.bot.PlayerBot.PlayerBot" name="com.runehive.content.bot.PlayerBot.PlayerBot">
+<area shape="poly" id="Node000001" title=" " alt="" coords="293,86,286,76,265,66,234,59,194,54,149,52,105,54,65,59,33,66,12,76,5,86,12,97,33,107,65,114,105,119,149,121,194,119,234,114,265,107,286,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1bot_1_1_bot_utility.html#ad23958727afa026aaf50b7129bc1ab9c" title="Generates a random bot named based on the available names." alt="" coords="628,86,621,76,601,66,569,59,529,54,485,52,440,54,400,59,368,66,348,76,341,86,348,97,368,107,400,114,440,119,485,121,529,119,569,114,601,107,621,97"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,84,325,84,325,89,294,89"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1bot_1_1_bot_utility.html#a91bb21c02cb3baa8735ae41fb5d66edc" title="Generates a list of all available names." alt="" coords="1032,40,1023,29,998,20,959,12,909,7,854,5,799,7,750,12,710,20,685,29,676,40,685,50,710,60,750,68,799,72,854,74,909,72,959,68,998,60,1023,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="612,68,689,58,690,63,613,73"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a6b7f2d3477a5cc439ea612233a45ce0b" title="Picks a random element out of any array type." alt="" coords="1026,133,1018,122,993,113,955,105,907,100,854,99,801,100,753,105,715,113,691,122,682,133,691,144,715,153,753,161,801,166,854,167,907,166,955,161,993,153,1018,144"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="613,100,693,110,692,115,612,105"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#aea9414faed608c5daf7defab8f0a1f07" title=" " alt="" coords="1375,40,1367,29,1346,20,1314,12,1273,7,1227,5,1182,7,1141,12,1108,20,1087,29,1080,40,1087,50,1108,60,1141,68,1182,72,1227,74,1273,72,1314,68,1346,60,1367,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1033,37,1065,37,1065,42,1033,42"/>
+</map>

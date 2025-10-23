@@ -1,0 +1,17 @@
+<map id="com.runehive.content.skill.impl.fishing.FishingTool.FishingTool" name="com.runehive.content.skill.impl.fishing.FishingTool.FishingTool">
+<area shape="poly" id="Node000001" title=" " alt="" coords="2184,86,2174,76,2144,66,2098,59,2040,54,1976,52,1911,54,1853,59,1807,66,1778,76,1768,86,1778,97,1807,107,1853,114,1911,119,1976,121,2040,119,2098,114,2144,107,2174,97"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1fishing_1_1_fishing_tool.html#a694f3e90d0567ab311bb0cc3765669fa" title=" " alt="" coords="1720,40,1709,29,1680,20,1634,12,1576,7,1511,5,1447,7,1389,12,1343,20,1314,29,1303,40,1314,50,1343,60,1389,68,1447,72,1511,74,1576,72,1634,68,1680,60,1709,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1781,70,1690,60,1691,55,1782,64"/>
+<area shape="poly" id="Node000006" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1fishing_1_1_fishing_tool.html#a6b79712298517c9dda4dbf00e1835788" title=" " alt="" coords="1720,133,1709,122,1680,113,1634,105,1576,100,1511,99,1447,100,1389,105,1343,113,1314,122,1303,133,1314,144,1343,153,1389,161,1447,166,1511,167,1576,166,1634,161,1680,153,1709,144"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1782,109,1691,118,1690,112,1781,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1skill_1_1_skill_repository.html#ae6c071d9a81a553dfbc86442a92f6c11" title="Loads all the skilling data." alt="" coords="1195,40,1188,29,1167,20,1134,12,1093,7,1047,5,1001,7,960,12,927,20,906,29,899,40,906,50,927,60,960,68,1001,72,1047,74,1093,72,1134,68,1167,60,1188,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1288,42,1196,42,1196,37,1288,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1_rune_hive.html#a3de9bc28039cf4403572e5467aa15f2a" title="Called after the sequential startup tasks, use this for faster startup." alt="" coords="762,40,753,29,728,20,688,12,638,7,583,5,528,7,478,12,438,20,413,29,404,40,413,50,438,60,478,68,528,72,583,74,638,72,688,68,728,60,753,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="884,42,763,42,763,37,884,37"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1_rune_hive.html#ab9a24653997a7d8bb955f26c59b7f8ea" title=" " alt="" coords="327,40,319,33,296,27,261,23,216,20,166,19,116,20,72,23,36,27,13,33,5,40,13,46,36,52,72,57,116,60,166,61,216,60,261,57,296,52,319,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="389,42,327,42,327,37,389,37"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1fishing_1_1_fishing.html#a6ff27de3ab49704a65167baa624d6ac3" title=" " alt="" coords="1255,133,1245,122,1216,113,1170,105,1112,100,1047,99,983,100,925,105,879,113,849,122,839,133,849,144,879,153,925,161,983,166,1047,167,1112,166,1170,161,1216,153,1245,144"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1288,136,1256,136,1256,130,1288,130"/>
+<area shape="poly" id="Node000008" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1fishing_1_1_fishing.html#aa7d582f1831a1cefb83a58c1a40d7504" title=" " alt="" coords="791,133,781,122,751,113,705,105,647,100,583,99,519,100,461,105,415,113,385,122,375,133,385,144,415,153,461,161,519,166,583,167,647,166,705,161,751,153,781,144"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="824,136,791,136,791,130,824,130"/>
+</map>

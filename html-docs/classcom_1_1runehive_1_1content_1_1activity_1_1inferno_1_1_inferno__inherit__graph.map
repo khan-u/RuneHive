@@ -1,0 +1,7 @@
+<map id="com.runehive.content.activity.inferno.Inferno" name="com.runehive.content.activity.inferno.Inferno">
+<area shape="poly" id="Node000001" title=" " alt="" coords="405,273,395,263,366,253,322,246,267,241,205,239,143,241,88,246,43,253,15,263,5,273,15,284,43,294,88,301,143,306,205,308,267,306,322,301,366,294,395,284"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1activity_1_1_activity.html" title="A Activity object constructs an in&#45;game activity and sequences it through the start() and finish() me..." alt="" coords="367,157,359,146,336,136,300,129,255,124,205,122,155,124,110,129,74,136,51,146,43,157,51,167,74,177,110,184,155,189,205,191,255,189,300,184,336,177,359,167"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,207,208,239,202,239,202,207"/>
+<area shape="poly" id="Node000003" href="$interfacecom_1_1runehive_1_1content_1_1event_1_1_interaction_event_listener.html" title=" " alt="" coords="361,40,353,29,331,20,297,12,253,7,205,5,157,7,113,12,79,20,57,29,49,40,57,50,79,60,113,68,157,72,205,74,253,72,297,68,331,60,353,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,90,208,122,202,122,202,90"/>
+</map>

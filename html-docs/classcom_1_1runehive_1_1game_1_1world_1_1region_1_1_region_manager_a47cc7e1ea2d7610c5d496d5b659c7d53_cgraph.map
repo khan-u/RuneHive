@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.region.RegionManager.getRegion" name="com.runehive.game.world.region.RegionManager.getRegion">
+<area shape="poly" id="Node000001" title="Gets a region by position." alt="" coords="369,64,360,53,335,44,294,36,244,31,187,29,131,31,80,36,40,44,14,53,5,64,14,74,40,84,80,92,131,96,187,98,244,96,294,92,335,84,360,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="117,31,119,20,131,11,154,5,187,3,228,6,251,15,249,20,227,11,187,8,155,10,134,15,123,23,123,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.net.codec.login.LoginDecoder.decodeHandshake" name="com.runehive.net.codec.login.LoginDecoder.decodeHandshake">
+<area shape="poly" id="Node000001" title=" " alt="" coords="374,40,364,29,338,20,298,12,246,7,189,5,133,7,81,12,40,20,14,29,5,40,14,50,40,60,81,68,133,72,189,74,246,72,298,68,338,60,364,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1net_1_1codec_1_1login_1_1_login_decoder.html#a33e91a932cdbf2ed24f57a596db97904" title=" " alt="" coords="807,40,797,29,770,20,727,12,674,7,614,5,555,7,501,12,458,20,431,29,422,40,431,50,458,60,501,68,555,72,614,74,674,72,727,68,770,60,797,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="374,37,406,37,406,42,374,42"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1net_1_1codec_1_1login_1_1_login_response.html#aba0d8b3ec1ec7855495c860e48dbd885" title="Gets the opcode for this response." alt="" coords="1185,40,1177,29,1153,20,1117,12,1071,7,1020,5,969,7,923,12,886,20,863,29,855,40,863,50,886,60,923,68,969,72,1020,74,1071,72,1117,68,1153,60,1177,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="807,37,839,37,839,42,807,42"/>
+</map>

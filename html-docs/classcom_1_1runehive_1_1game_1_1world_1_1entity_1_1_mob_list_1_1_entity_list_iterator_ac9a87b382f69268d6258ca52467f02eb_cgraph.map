@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.MobList.EntityListIterator.hasNext" name="com.runehive.game.world.entity.MobList.EntityListIterator.hasNext">
+<area shape="poly" id="Node000001" title=" " alt="" coords="369,53,360,43,335,33,294,25,244,20,187,19,131,20,80,25,40,33,14,43,5,53,14,64,40,73,80,81,131,86,187,88,244,86,294,81,335,73,360,64"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_mob_list_1_1_entity_list_iterator.html#a08d051cc6fef33b03d5840411519718a" title="Forwards the curr marker until a non&#45;null element is found." alt="" coords="780,53,771,38,745,25,705,14,655,8,599,5,543,8,492,14,452,25,426,38,417,53,426,68,452,81,492,92,543,99,599,101,655,99,705,92,745,81,771,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="370,51,402,51,402,56,370,56"/>
+</map>

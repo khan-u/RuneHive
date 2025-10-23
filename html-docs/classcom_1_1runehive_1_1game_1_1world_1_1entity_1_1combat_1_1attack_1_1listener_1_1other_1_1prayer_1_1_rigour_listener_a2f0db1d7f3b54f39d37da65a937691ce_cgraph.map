@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.other.prayer.RigourListener.modifyDamage" name="com.runehive.game.world.entity.combat.attack.listener.other.prayer.RigourListener.modifyDamage">
+<area shape="poly" id="Node000001" title=" " alt="" coords="703,40,686,29,636,20,559,12,462,7,354,5,246,7,149,12,72,20,22,29,5,40,22,50,72,60,149,68,246,72,354,74,462,72,559,68,636,60,686,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_mob.html#a0a21470fb2a782842e6a318d785955a3" title="The combat strategy of the mob." alt="" coords="1153,40,1143,29,1115,20,1070,12,1014,7,952,5,890,7,834,12,789,20,761,29,751,40,761,50,789,60,834,68,890,72,952,74,1014,72,1070,68,1115,60,1143,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="703,37,735,37,735,42,703,42"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="com.runehive.content.tradingpost.TradingPost.withdrawFromCoffer" name="com.runehive.content.tradingpost.TradingPost.withdrawFromCoffer">
+<area shape="poly" id="Node000001" title=" " alt="" coords="374,64,364,54,338,44,298,36,246,31,189,30,133,31,81,36,40,44,14,54,5,64,14,75,40,84,81,92,133,97,189,99,246,97,298,92,338,84,364,75"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_trading_post.html#a79b31da1b24fd879375f09e6c43bad92" title=" " alt="" coords="1388,54,1376,43,1342,33,1289,26,1221,21,1147,19,1072,21,1005,26,952,33,917,43,906,54,917,64,952,74,1005,81,1072,86,1147,88,1221,86,1289,81,1342,74,1376,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="303,34,421,15,544,5,639,3,858,15,961,24,960,30,857,20,639,8,544,10,422,20,304,39"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_trading_post.html#aef532c10f0791ffc975b3c26fca6e37e" title=" " alt="" coords="1804,136,1795,126,1769,116,1729,108,1677,103,1620,102,1563,103,1512,108,1471,116,1445,126,1436,136,1445,147,1471,156,1512,164,1563,169,1620,171,1677,169,1729,164,1769,156,1795,147"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="306,89,422,108,693,130,965,141,1216,143,1424,140,1424,145,1216,148,965,146,693,136,421,114,305,94"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_trading_post.html#aa5db689a1bb6a259f54d1b080a701cb0" title=" " alt="" coords="858,64,847,54,816,44,768,36,707,31,640,30,572,31,511,36,463,44,432,54,422,64,432,75,463,84,511,92,572,97,640,99,707,97,768,92,816,84,847,75"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="374,62,406,62,406,67,374,67"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_trading_post.html#affe2409ec2c2ffbeab7c4d739b3eb164" title=" " alt="" coords="1804,43,1795,32,1769,23,1729,15,1677,10,1620,8,1563,10,1512,15,1471,23,1445,32,1436,43,1445,54,1471,63,1512,71,1563,76,1620,77,1677,76,1729,71,1769,63,1795,54"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1386,45,1422,45,1422,50,1386,51"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1302,78,1470,107,1469,113,1301,83"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1tradingpost_1_1_coffer.html#a5954905246cc8a6ed1e999f369fe7651" title=" " alt="" coords="2221,90,2212,79,2185,69,2145,62,2093,57,2037,55,1980,57,1928,62,1888,69,1861,79,1852,90,1861,100,1888,110,1928,117,1980,122,2037,124,2093,122,2145,117,2185,110,2212,100"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1779,58,1863,67,1862,73,1779,63"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="1779,116,1862,106,1863,112,1779,121"/>
+<area shape="poly" id="edge8_Node000006_Node000002" title=" " alt="" coords="856,57,892,56,892,62,856,62"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.net.packet.in.ChatMessagePacketListener" name="com.runehive.net.packet.in.ChatMessagePacketListener">
+<area shape="poly" id="Node000001" title="The GamePacket responsible for chat messages." alt="" coords="325,157,318,146,295,136,259,129,215,124,165,122,116,124,71,129,36,136,13,146,5,157,13,167,36,177,71,184,116,189,165,191,215,189,259,184,295,177,318,167"/>
+<area shape="poly" id="Node000002" href="$interfacecom_1_1runehive_1_1net_1_1packet_1_1_packet_listener.html" title="The itemcontainer that allows any implementing {@Packet}s." alt="" coords="306,40,299,29,279,20,248,12,209,7,165,5,122,7,83,12,52,20,32,29,25,40,32,50,52,60,83,68,122,72,165,74,209,72,248,68,279,60,299,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,90,168,122,163,122,163,90"/>
+</map>

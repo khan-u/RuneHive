@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.combat.strategy.player.special.CombatSpecial.assign" name="com.runehive.game.world.entity.combat.strategy.player.special.CombatSpecial.assign">
+<area shape="poly" id="Node000001" title="Updates the weapon itemcontainer with a special bar if needed." alt="" coords="1797,76,1781,65,1734,56,1661,48,1569,43,1467,41,1365,43,1273,48,1200,56,1154,65,1137,76,1154,86,1200,96,1273,104,1365,108,1467,110,1569,108,1661,104,1734,96,1781,86"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1weapon_1_1_weapon_interface.html#a2419f55497157cf17025e5a20b5c1110" title=" " alt="" coords="1089,40,1077,29,1040,20,983,12,910,7,830,5,750,7,678,12,621,20,584,29,571,40,584,50,621,60,678,68,750,72,830,74,910,72,983,68,1040,60,1077,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1161,61,1070,56,1070,51,1161,56"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1weapon_1_1_weapon_interface.html#a12d13b4db32462bb1341666435678108" title=" " alt="" coords="523,76,511,65,474,56,417,48,344,43,264,41,184,43,112,48,55,56,18,65,5,76,18,86,55,96,112,104,184,108,264,110,344,108,417,104,474,96,511,86"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="1134,88,1090,89,830,92,571,89,514,88,514,82,571,84,830,86,1089,84,1134,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="581,58,500,63,499,58,580,53"/>
+</map>

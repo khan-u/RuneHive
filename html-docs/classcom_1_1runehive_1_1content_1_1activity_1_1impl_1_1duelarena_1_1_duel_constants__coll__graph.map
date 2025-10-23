@@ -1,0 +1,5 @@
+<map id="com.runehive.content.activity.impl.duelarena.DuelConstants" name="com.runehive.content.activity.impl.duelarena.DuelConstants">
+<area shape="poly" id="Node000001" title=" " alt="" coords="485,181,473,170,439,160,386,153,319,148,245,146,171,148,104,153,51,160,17,170,5,181,17,191,51,201,104,208,171,213,245,215,319,213,386,208,439,201,473,191"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html" title="Represents a single tile on the game world." alt="" coords="435,40,426,29,399,20,357,12,304,7,245,5,187,7,134,12,92,20,65,29,56,40,65,50,92,60,134,68,187,72,245,74,304,72,357,68,399,60,426,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,89,248,146,243,146,243,89"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.content.shootingstar.ShootingStarAction.mine" name="com.runehive.content.shootingstar.ShootingStarAction.mine">
+<area shape="poly" id="Node000001" title=" " alt="" coords="809,40,800,29,773,20,732,12,679,7,620,5,562,7,509,12,468,20,441,29,431,40,441,50,468,60,509,68,562,72,620,74,679,72,732,68,773,60,800,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1shootingstar_1_1_shooting_star_action.html#ab36cd94caf0cbf2e6f3743190de8f904" title="A function representing the unit of work that will be carried out." alt="" coords="383,40,374,29,347,20,305,12,253,7,194,5,136,7,83,12,41,20,15,29,5,40,15,50,41,60,83,68,136,72,194,74,253,72,305,68,347,60,374,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,42,384,42,384,37,416,37"/>
+</map>

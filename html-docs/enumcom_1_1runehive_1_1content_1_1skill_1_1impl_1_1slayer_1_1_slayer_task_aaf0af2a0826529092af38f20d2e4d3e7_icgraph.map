@@ -1,0 +1,14 @@
+<map id="com.runehive.content.skill.impl.slayer.SlayerTask.SlayerTask" name="com.runehive.content.skill.impl.slayer.SlayerTask.SlayerTask">
+<area shape="poly" id="Node000001" title="Constructs a new SlayerTask." alt="" coords="1809,112,1799,101,1770,92,1724,84,1667,79,1604,77,1541,79,1484,84,1439,92,1410,101,1399,112,1410,122,1439,132,1484,140,1541,144,1604,146,1667,144,1724,140,1770,132,1799,122"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_slayer_task.html#a7c68d2133a803ff3846f39af9419b411" title="Returns all the available slayer tasks for the player as a list." alt="" coords="1351,40,1341,29,1312,20,1267,12,1210,7,1147,5,1084,7,1027,12,981,20,952,29,942,40,952,50,981,60,1027,68,1084,72,1147,74,1210,72,1267,68,1312,60,1341,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1438,88,1297,66,1298,61,1439,83"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_slayer_task.html#ac52c801da444e2dc940f73b158aff2e1" title="Assigns a slayer task for the player." alt="" coords="883,65,873,54,844,45,799,37,742,32,678,31,615,32,558,37,513,45,484,54,474,65,484,76,513,85,558,93,615,98,678,99,742,98,799,93,844,85,873,76"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="1386,108,942,89,861,84,862,78,942,84,1386,103"/>
+<area shape="poly" id="Node000005" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_slayer_task.html#a6ed0413a3d9706728b99417ab6d2fd0d" title="Checks if a player can attack a slayer monster." alt="" coords="1351,184,1341,173,1312,164,1267,156,1210,151,1147,149,1084,151,1027,156,981,164,952,173,942,184,952,194,981,204,1027,212,1084,216,1147,218,1210,216,1267,212,1312,204,1341,194"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1439,140,1298,163,1297,157,1438,135"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="936,54,874,57,874,52,936,48"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1slayer_1_1_slayer.html#afa51e36cc9ee0cfeffac9270d92dbff8" title="Assigns a slayer task to the player." alt="" coords="415,65,404,54,375,45,330,37,273,32,210,31,147,32,90,37,44,45,15,54,5,65,15,76,44,85,90,93,147,98,210,99,273,98,330,93,375,85,404,76"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="458,68,415,68,415,62,458,62"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1_combat_util.html#acacc8e36221674dd7ccf6acc748b0385" title=" " alt="" coords="894,184,884,173,853,164,805,156,745,151,678,149,612,151,552,156,504,164,473,173,463,184,473,194,504,204,552,212,612,216,678,218,745,216,805,212,853,204,884,194"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="927,186,895,186,895,181,927,181"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.player.IPBannedPlayers.ipBan" name="com.runehive.game.world.entity.mob.player.IPBannedPlayers.ipBan">
+<area shape="poly" id="Node000001" title=" " alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1_i_p_banned_players.html#a66a463940e2b2c5a71cfae60ca859d94" title=" " alt="" coords="990,40,979,29,946,20,894,12,829,7,756,5,684,7,618,12,567,20,533,29,522,40,533,50,567,60,618,68,684,72,756,74,829,72,894,68,946,60,979,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,37,506,37,506,42,474,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a245edcc5b77cbc6d0a4aa8a0a0125d67" title="Submits a new event." alt="" coords="1333,40,1326,29,1305,20,1272,12,1231,7,1186,5,1140,7,1099,12,1067,20,1046,29,1038,40,1046,50,1067,60,1099,68,1140,72,1186,74,1231,72,1272,68,1305,60,1326,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="991,37,1023,37,1023,42,991,42"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.runehive.content.dialogue.DialogueFactory.sendStatement" name="com.runehive.content.dialogue.DialogueFactory.sendStatement">
+<area shape="poly" id="Node000001" title="Sends a player a statement dialogue." alt="" coords="358,86,349,76,324,66,285,59,236,54,182,52,127,54,78,59,39,66,14,76,5,86,14,97,39,107,78,114,127,119,182,121,236,119,285,114,324,107,349,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#aec64ffdeed4c31dfe340a41430f50892" title="Creates a new DialogueFactory." alt="" coords="774,40,765,29,739,20,698,12,647,7,590,5,533,7,482,12,441,20,415,29,406,40,415,50,441,60,482,68,533,72,590,74,647,72,698,68,739,60,765,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="334,66,416,57,417,62,335,72"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#ab2aefcffbd4c555eebf5439f4c437d25" title="The method that validates the length of text." alt="" coords="765,133,756,122,732,113,693,105,644,100,590,99,536,100,487,105,449,113,424,122,415,133,424,144,449,153,487,161,536,166,590,167,644,166,693,161,732,153,756,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="335,101,423,111,422,117,334,107"/>
+</map>

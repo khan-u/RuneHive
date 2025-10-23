@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_magic =
+[
+    [ "Magic", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_magic.html#a7472ee7532c6fcb8649699094eb4c0ea", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_magic.html#a89539fa030531cdcf964fd4f3fdb211c", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_magic.html#a1bb30c8458b52a7fb887e67bbb95a462", null ]
+];

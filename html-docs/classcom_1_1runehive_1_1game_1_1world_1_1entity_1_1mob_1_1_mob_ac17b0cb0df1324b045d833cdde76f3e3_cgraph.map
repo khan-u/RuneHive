@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.Mob.forceMove" name="com.runehive.game.world.entity.mob.Mob.forceMove">
+<area shape="poly" id="Node000001" title="Creates a force movement action for an entity." alt="" coords="407,86,398,76,369,66,325,59,269,54,206,52,144,54,88,59,44,66,15,76,5,86,15,97,44,107,88,114,144,119,206,121,269,119,325,114,369,107,398,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a8afdd0de68f242bf7082076dfbfffe37" title=" " alt="" coords="808,40,799,29,774,20,735,12,686,7,632,5,577,7,528,12,489,20,464,29,455,40,464,50,489,60,528,68,577,72,632,74,686,72,735,68,774,60,799,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="376,65,462,56,462,61,377,70"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#a245edcc5b77cbc6d0a4aa8a0a0125d67" title="Submits a new event." alt="" coords="779,133,772,122,751,113,718,105,677,100,632,99,586,100,545,105,513,113,492,122,484,133,492,144,513,153,545,161,586,166,632,167,677,166,718,161,751,153,772,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="377,102,483,114,482,119,376,108"/>
+</map>

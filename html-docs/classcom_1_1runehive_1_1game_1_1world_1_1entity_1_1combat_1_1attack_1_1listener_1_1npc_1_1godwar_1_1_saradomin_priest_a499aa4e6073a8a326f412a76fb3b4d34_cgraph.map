@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.combat.attack.listener.npc.godwar.SaradominPriest.start" name="com.runehive.game.world.entity.combat.attack.listener.npc.godwar.SaradominPriest.start">
+<area shape="poly" id="Node000001" title=" " alt="" coords="702,40,685,29,635,20,558,12,461,7,353,5,246,7,149,12,72,20,22,29,5,40,22,50,72,60,149,68,246,72,353,74,461,72,558,68,635,60,685,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1_npc.html#ab0f0546985bc1b6016d35a129b4feec5" title=" " alt="" coords="1194,40,1183,29,1152,20,1103,12,1041,7,972,5,903,7,841,12,792,20,760,29,750,40,760,50,792,60,841,68,903,72,972,74,1041,72,1103,68,1152,60,1183,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="702,37,734,37,734,42,702,42"/>
+</map>

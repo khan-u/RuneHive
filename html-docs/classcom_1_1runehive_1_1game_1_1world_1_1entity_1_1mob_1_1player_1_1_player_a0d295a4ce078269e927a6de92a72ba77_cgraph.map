@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.entity.mob.player.Player.setUsername" name="com.runehive.game.world.entity.mob.player.Player.setUsername">
+<area shape="poly" id="Node000001" title=" " alt="" coords="474,50,462,40,429,30,377,22,312,18,240,16,167,18,102,22,50,30,17,40,5,50,17,61,50,71,102,78,167,83,240,85,312,83,377,78,429,71,462,61"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a13cc7b1fc7531adccfa698ac2b3b4381" title="Converts the first 12 characters in a string of text to a hash." alt="" coords="846,50,838,40,815,30,779,22,734,18,684,16,634,18,589,22,553,30,530,40,522,50,530,61,553,71,589,78,634,83,684,85,734,83,779,78,815,71,838,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,48,506,48,506,53,474,53"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a31d61a706664cf644fd3780f89897e26" title=" " alt="" coords="1211,50,1204,44,1181,38,1146,33,1102,30,1053,29,1004,30,960,33,925,38,902,44,894,50,902,57,925,63,960,67,1004,70,1053,71,1102,70,1146,67,1181,63,1204,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="847,48,879,48,879,53,847,53"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="988,32,981,21,991,11,1015,5,1053,3,1096,6,1119,13,1117,18,1095,11,1053,8,1016,10,994,16,986,22,992,29"/>
+</map>

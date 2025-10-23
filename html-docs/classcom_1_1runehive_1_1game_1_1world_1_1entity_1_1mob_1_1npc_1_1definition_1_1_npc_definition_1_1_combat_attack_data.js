@@ -1,0 +1,7 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1definition_1_1_npc_definition_1_1_combat_attack_data =
+[
+    [ "CombatAttackData", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1definition_1_1_npc_definition_1_1_combat_attack_data.html#ab723ca5c235a54b561269bb38bc4a151", null ],
+    [ "getDefinition", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1definition_1_1_npc_definition_1_1_combat_attack_data.html#abf5831b1f32696fd3cafac3332a95186", null ],
+    [ "key", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1definition_1_1_npc_definition_1_1_combat_attack_data.html#ad9c8c5f85aa0420c990097a48c36dec5", null ],
+    [ "type", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1npc_1_1definition_1_1_npc_definition_1_1_combat_attack_data.html#a5ab72b55621439c53c1d8fcecd8b99fc", null ]
+];

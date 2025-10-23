@@ -1,0 +1,12 @@
+<map id="com.runehive.util.StringUtils.hash" name="com.runehive.util.StringUtils.hash">
+<area shape="poly" id="Node000001" title="Hashes a given string input." alt="" coords="1288,86,1282,76,1263,66,1233,59,1196,54,1155,52,1114,54,1077,59,1047,66,1028,76,1022,86,1028,97,1047,107,1077,114,1114,119,1155,121,1196,119,1233,114,1263,107,1282,97"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="1209,43,1190,34,1155,31,1127,33,1108,38,1100,46,1100,55,1095,55,1095,44,1106,34,1126,28,1155,25,1191,29,1211,38"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1_string_utils.html#aef6f289aabb7940ede7050e28df33fda" title="Hashes a String using Jagex&#39;s algorithm, this method should be used to convert actual names to hashed..." alt="" coords="974,40,967,29,948,20,919,12,882,7,841,5,800,7,762,12,733,20,714,29,708,40,714,50,733,60,762,68,800,72,841,74,882,72,919,68,948,60,967,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1023,70,956,60,957,54,1024,64"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1util_1_1_string_utils.html#af7e30dbf49077f77320bc3fc70de3a16" title=" " alt="" coords="974,133,967,122,948,113,919,105,882,100,841,99,800,100,762,105,733,113,714,122,708,133,714,144,733,153,762,161,800,166,841,167,882,166,919,161,948,153,967,144"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="1024,109,957,119,956,113,1023,103"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_string_utils.html#a660764136726a545c307e1dd324aa3b6" title="Hashes a String using Jagex&#39;s algorithm, this method should be used to convert actual names to hashed..." alt="" coords="660,40,653,29,634,20,605,12,568,7,526,5,485,7,448,12,419,20,400,29,393,40,400,50,419,60,448,68,485,72,526,74,568,72,605,68,634,60,653,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="692,42,660,42,660,37,692,37"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1fs_1_1cache_1_1archive_1_1_archive.html#a490ad448b781070428cf7f5269bd3a69" title="Retrieves an Optional&lt;ArchiveSector&gt; for the specified name." alt="" coords="345,40,337,29,313,20,275,12,228,7,175,5,123,7,75,12,38,20,14,29,5,40,14,50,38,60,75,68,123,72,175,74,228,72,275,68,313,60,337,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="378,42,346,42,346,37,378,37"/>
+</map>

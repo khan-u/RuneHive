@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.combat.ranged.RangedAmmunition" name="com.runehive.game.world.entity.combat.ranged.RangedAmmunition">
+<area shape="poly" id="Node000001" title=" " alt="" coords="514,181,501,170,465,160,409,153,338,148,259,146,181,148,110,153,54,160,18,170,5,181,18,191,54,201,110,208,181,213,259,215,338,213,409,208,465,201,501,191"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1ranged_1_1_ranged_ammunition.html" title=" " alt="" coords="514,40,501,29,465,20,409,12,338,7,259,5,181,7,110,12,54,20,18,29,5,40,18,50,54,60,110,68,181,72,259,74,338,72,409,68,465,60,501,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="262,89,262,146,257,146,257,89"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="518,29,533,33,540,40,529,48,503,53,502,48,527,43,535,40,531,37,517,34"/>
+</map>

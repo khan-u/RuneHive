@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.items.containers.equipment.Equipment.openInterface" name="com.runehive.game.world.items.containers.equipment.Equipment.openInterface">
+<area shape="poly" id="Node000001" title="Handles opening the equipment screen itemcontainer." alt="" coords="1205,86,1191,76,1150,66,1087,59,1006,54,917,52,828,54,748,59,684,66,643,76,629,86,643,97,684,107,748,114,828,119,917,121,1006,119,1087,114,1150,107,1191,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1equipment_1_1_equipment.html#a638351f26f163ebb1973940262664e33" title=" " alt="" coords="581,40,567,29,526,20,463,12,382,7,293,5,204,7,124,12,60,20,19,29,5,40,19,50,60,60,124,68,204,72,293,74,382,72,463,68,526,60,567,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="657,70,539,61,539,55,657,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1equipment_1_1_equipment.html#aa5df07bc2bc547c779c2fd892fc21e3f" title="Unequips an Item from the underlying player&#39;s Equipment." alt="" coords="581,133,567,122,526,113,463,105,382,100,293,99,204,100,124,105,60,113,19,122,5,133,19,144,60,153,124,161,204,166,293,167,382,166,463,161,526,153,567,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="657,109,539,117,539,112,657,103"/>
+</map>

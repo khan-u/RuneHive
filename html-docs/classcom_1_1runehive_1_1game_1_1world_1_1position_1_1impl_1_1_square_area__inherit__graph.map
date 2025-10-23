@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.position.impl.SquareArea" name="com.runehive.game.world.position.impl.SquareArea">
+<area shape="poly" id="Node000001" title=" " alt="" coords="433,130,422,119,392,109,345,102,285,97,219,95,153,97,93,102,46,109,16,119,5,130,16,140,46,150,93,158,153,162,219,164,285,162,345,158,392,150,422,140"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_area.html" title="Handles checking if mobs are in a certain area." alt="" coords="433,26,422,20,392,14,345,9,285,6,219,5,153,6,93,9,46,14,16,20,5,26,16,33,46,39,93,43,153,46,219,47,285,46,345,43,392,39,422,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,63,222,95,216,95,216,63"/>
+</map>

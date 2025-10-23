@@ -1,0 +1,5 @@
+<map id="com.runehive.game.task.Task.attach" name="com.runehive.game.task.Task.attach">
+<area shape="poly" id="Node000001" title="Attaches a new key." alt="" coords="812,53,803,47,775,41,731,36,676,33,615,32,555,33,500,36,456,41,428,47,419,53,428,60,456,66,500,70,555,73,615,74,676,73,731,70,775,66,803,60"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1task_1_1impl_1_1_warrior_guild_cyclop_event.html#a2f8a35dba67ed783674fa3362db23400" title="Constructs a new WarriorGuildCyclopEvent." alt="" coords="371,53,362,38,336,25,295,14,244,8,188,5,132,8,81,14,40,25,14,38,5,53,14,68,40,81,81,92,132,99,188,101,244,99,295,92,336,81,362,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="403,56,371,56,371,51,403,51"/>
+</map>

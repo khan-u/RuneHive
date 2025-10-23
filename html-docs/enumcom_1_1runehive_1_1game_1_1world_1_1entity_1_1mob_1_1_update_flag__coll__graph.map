@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.mob.UpdateFlag" name="com.runehive.game.world.entity.mob.UpdateFlag">
+<area shape="poly" id="Node000001" title="Entity update flags." alt="" coords="407,202,398,191,369,182,325,174,269,169,206,167,144,169,88,174,44,182,15,191,5,202,15,213,44,222,88,230,144,235,206,236,269,235,325,230,369,222,398,213"/>
+<area shape="poly" id="Node000002" href="$enumcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1_update_flag.html" title="Entity update flags." alt="" coords="407,40,398,29,369,20,325,12,269,7,206,5,144,7,88,12,44,20,15,29,5,40,15,50,44,60,88,68,144,72,206,74,269,72,325,68,369,60,398,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,90,209,167,204,167,204,90"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="409,26,427,31,434,40,422,50,394,56,393,50,420,45,429,40,424,36,407,31"/>
+</map>

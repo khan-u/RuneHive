@@ -1,0 +1,15 @@
+<map id="com.runehive.game.world.items.Item.createAndDecrement" name="com.runehive.game.world.items.Item.createAndDecrement">
+<area shape="poly" id="Node000001" title="Creates a new item with amount &#45; removeAmount and the same identifier." alt="" coords="359,136,351,125,326,115,286,108,237,103,182,101,128,103,78,108,39,115,14,125,5,136,14,146,39,156,78,163,128,168,182,170,237,168,286,163,326,156,351,146"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a1c634d039d412f05b4e3e6bff35c0521" title=" " alt="" coords="1163,172,1155,161,1130,151,1090,144,1041,139,986,137,932,139,882,144,843,151,818,161,809,172,818,182,843,192,882,199,932,204,986,206,1041,204,1090,199,1130,192,1155,182"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="355,141,407,144,798,161,798,166,407,149,355,146"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#afe3613653df532fc7418d767a450125d" title="Creates a new Item." alt="" coords="1565,172,1557,161,1532,151,1492,144,1443,139,1388,137,1334,139,1284,144,1245,151,1220,161,1211,172,1220,182,1245,192,1284,199,1334,204,1388,206,1443,204,1492,199,1532,192,1557,182"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="307,158,476,186,689,212,806,220,926,225,1046,224,1163,216,1263,199,1264,205,1164,221,1046,229,926,230,806,226,689,217,475,191,306,163"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a66058e82c0416edd964590027abff0e0" title="Creates a new item with amount + addAmount and the same identifier." alt="" coords="761,100,753,89,728,79,688,72,639,67,584,65,530,67,480,72,441,79,416,89,407,100,416,110,441,120,480,127,530,132,584,134,639,132,688,127,728,120,753,110"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="356,126,428,120,429,125,357,132"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1164,169,1196,169,1196,174,1164,174"/>
+<area shape="poly" id="edge5_Node000004_Node000001" title=" " alt="" coords="410,109,339,115,338,110,410,104"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="716,120,840,143,839,148,715,126"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="666,66,735,45,809,29,909,13,988,4,1067,7,1164,29,1213,47,1260,72,1338,126,1335,131,1257,77,1211,52,1163,34,1066,13,988,9,909,18,810,34,736,50,667,71"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html#a05ea6fb3c13b43190ac60fddb90ab365" title="Sets the quantity of this item." alt="" coords="1163,78,1155,68,1130,58,1090,50,1041,45,986,44,932,45,882,50,843,58,818,68,809,78,818,89,843,98,882,106,932,111,986,113,1041,111,1090,106,1130,98,1155,89"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="756,88,800,85,801,91,756,93"/>
+</map>

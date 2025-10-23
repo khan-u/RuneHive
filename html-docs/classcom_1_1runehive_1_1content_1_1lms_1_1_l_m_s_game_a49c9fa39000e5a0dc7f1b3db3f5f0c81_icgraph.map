@@ -1,0 +1,5 @@
+<map id="com.runehive.content.lms.LMSGame.moveToGame" name="com.runehive.content.lms.LMSGame.moveToGame">
+<area shape="poly" id="Node000001" title="Handles moving all the players to the game." alt="" coords="696,40,689,29,668,20,636,12,596,7,550,5,505,7,465,12,432,20,412,29,405,40,412,50,432,60,465,68,505,72,550,74,596,72,636,68,668,60,689,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1lms_1_1lobby_1_1_l_m_s_lobby_event.html#aa5be272ca519c8d746f280d12ba74841" title="A function representing the unit of work that will be carried out." alt="" coords="357,40,348,29,323,20,284,12,235,7,181,5,127,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,127,72,181,74,235,72,284,68,323,60,348,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="389,42,357,42,357,37,389,37"/>
+</map>

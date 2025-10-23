@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.strategy.npc.boss.ChaosFanatic.RainAttack.hit" name="com.runehive.game.world.entity.combat.strategy.npc.boss.ChaosFanatic.RainAttack.hit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="617,64,602,53,558,44,491,36,406,31,311,29,217,31,131,36,64,44,20,53,5,64,20,74,64,84,131,92,217,96,311,98,406,96,491,92,558,84,602,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="195,32,194,26,198,19,218,11,256,5,311,3,380,6,418,15,417,21,379,11,311,8,257,10,220,16,201,23,199,27,200,31"/>
+</map>

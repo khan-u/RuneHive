@@ -1,0 +1,11 @@
+<map id="com.runehive.content.preset.Preset" name="com.runehive.content.preset.Preset">
+<area shape="poly" id="Node000001" title="The preset class." alt="" coords="1094,106,1086,96,1064,86,1028,78,984,74,935,72,886,74,841,78,806,86,783,96,775,106,783,117,806,127,841,134,886,139,935,141,984,139,1028,134,1064,127,1086,117"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="623,26,613,20,585,14,541,9,486,6,424,5,363,6,308,9,264,14,236,20,226,26,236,33,264,39,308,43,363,46,424,47,486,46,541,43,585,39,613,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="564,43,660,57,810,82,809,87,659,62,563,48"/>
+<area shape="poly" id="Node000003" title=" " alt="" coords="140,26,137,20,127,14,112,9,94,6,73,5,52,6,33,9,18,14,9,20,5,26,9,33,18,39,33,43,52,46,73,47,94,46,112,43,127,39,137,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="156,24,226,24,226,29,156,29"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer_book.html" title="A PrayerBook which stores prayers." alt="" coords="659,106,648,96,615,86,563,78,497,74,424,72,352,74,286,78,234,86,201,96,189,106,201,117,234,127,286,134,352,139,424,141,497,139,563,134,615,127,648,117"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="675,104,775,104,775,109,675,109"/>
+<area shape="poly" id="Node000005" href="$enumcom_1_1runehive_1_1content_1_1skill_1_1impl_1_1magic_1_1_spellbook.html" title="The in&#45;game spellbooks for players." alt="" coords="630,200,620,189,591,179,545,172,488,167,424,165,361,167,304,172,258,179,229,189,219,200,229,210,258,220,304,227,361,232,424,234,488,232,545,227,591,220,620,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="579,169,811,126,812,131,580,174"/>
+</map>

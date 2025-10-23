@@ -1,0 +1,9 @@
+<map id="com.runehive.game.world.items.containers.impl.LootingBag.onRefresh" name="com.runehive.game.world.items.containers.impl.LootingBag.onRefresh">
+<area shape="poly" id="Node000001" title="Any functionality that should occur when refreshed." alt="" coords="518,133,505,122,469,113,412,105,341,100,262,99,182,100,111,105,54,113,18,122,5,133,18,144,54,153,111,161,182,166,262,167,341,166,412,161,469,153,505,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#adee35f4278fb331c51dedd9c1466287a" title="Gets the total worth of the container using the item&#39;s values." alt="" coords="1030,40,1019,29,986,20,934,12,870,7,798,5,726,7,661,12,610,20,577,29,566,40,577,50,610,60,661,68,726,72,798,74,870,72,934,68,986,60,1019,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,103,630,66,631,71,421,108"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1util_1_1_utility.html#a490026d68b72e2dea391680a7d49a844" title="Formats digits for integers." alt="" coords="963,133,955,122,931,113,895,105,849,100,798,99,747,100,701,105,664,113,641,122,633,133,641,144,664,153,701,161,747,166,798,167,849,166,895,161,931,153,955,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="518,130,618,130,618,136,518,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1_item_container.html#af80028a0ce5f11042f30e0ff42e19f39" title="Returns a shallow copy of the backing array." alt="" coords="1030,226,1019,216,986,206,934,199,870,194,798,192,726,194,661,199,610,206,577,216,566,226,577,237,610,247,661,254,726,259,798,261,870,259,934,254,986,247,1019,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="421,158,631,195,630,200,420,163"/>
+</map>

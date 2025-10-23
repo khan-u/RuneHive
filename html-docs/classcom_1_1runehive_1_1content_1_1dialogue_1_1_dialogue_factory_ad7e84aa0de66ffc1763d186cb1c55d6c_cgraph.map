@@ -1,0 +1,8 @@
+<map id="com.runehive.content.dialogue.DialogueFactory.sendPlayerChat" name="com.runehive.content.dialogue.DialogueFactory.sendPlayerChat">
+<area shape="poly" id="Node000001" title="Appends a PlayerDialogue to the current dialogue chain." alt="" coords="369,76,360,65,335,56,294,48,244,43,187,41,131,43,80,48,40,56,14,65,5,76,14,86,40,96,80,104,131,108,187,110,244,108,294,104,335,96,360,86"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#a8979431ba1fa2913a9ed65bbf8e4dd3f" title="Appends a chain to this factory." alt="" coords="761,40,753,29,729,20,690,12,642,7,589,5,536,7,488,12,450,20,426,29,417,40,426,50,450,60,488,68,536,72,589,74,642,72,690,68,729,60,753,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,58,416,53,417,58,353,64"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1dialogue_1_1_dialogue_factory.html#aec64ffdeed4c31dfe340a41430f50892" title="Creates a new DialogueFactory." alt="" coords="1178,76,1169,65,1142,56,1102,48,1050,43,993,41,937,43,885,48,845,56,818,65,809,76,818,86,845,96,885,104,937,108,993,110,1050,108,1102,104,1142,96,1169,86"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="363,82,417,84,589,86,761,84,800,83,800,88,761,89,589,92,417,89,363,87"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="747,51,812,57,811,62,747,56"/>
+</map>

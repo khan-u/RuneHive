@@ -1,0 +1,6 @@
+<map id="com.runehive.game.world.entity.mob.player.exchange.trade.TradeSession.accept" name="com.runehive.game.world.entity.mob.player.exchange.trade.TradeSession.accept">
+<area shape="poly" id="Node000001" title="The method invoked when a PLAYER accepts a certain exchange component." alt="" coords="1313,64,1298,53,1253,44,1183,36,1095,31,998,29,901,31,813,36,743,44,699,53,683,64,699,74,743,84,813,92,901,96,998,98,1095,96,1183,92,1253,84,1298,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="1116,21,1074,12,998,8,937,10,896,16,876,24,874,27,875,31,870,33,868,26,872,20,895,11,936,5,998,3,1075,6,1117,16"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1player_1_1exchange_1_1trade_1_1_trade_session.html#a79869f7c78876c3dafaf5349918bea0e" title="The method invoked when a button is clicked." alt="" coords="635,64,620,53,575,44,505,36,418,31,320,29,223,31,135,36,65,44,21,53,5,64,21,74,65,84,135,92,223,96,320,98,418,96,505,92,575,84,620,74"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="668,66,636,66,636,61,668,61"/>
+</map>

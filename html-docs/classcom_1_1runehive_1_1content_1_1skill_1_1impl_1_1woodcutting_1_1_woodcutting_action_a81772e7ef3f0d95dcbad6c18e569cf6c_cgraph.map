@@ -1,0 +1,5 @@
+<map id="com.runehive.content.skill.impl.woodcutting.WoodcuttingAction.canSchedule" name="com.runehive.content.skill.impl.woodcutting.WoodcuttingAction.canSchedule">
+<area shape="poly" id="Node000001" title="A function executed on registration." alt="" coords="477,40,465,29,432,20,380,12,314,7,241,5,168,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,168,72,241,74,314,72,380,68,432,60,465,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1action_1_1_action.html#a0972cdcd1cb6f4ff6da36f67602905a2" title="Gets the player." alt="" coords="825,40,818,29,796,20,763,12,721,7,675,5,628,7,587,12,553,20,532,29,525,40,532,50,553,60,587,68,628,72,675,74,721,72,763,68,796,60,818,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="477,37,509,37,509,42,477,42"/>
+</map>

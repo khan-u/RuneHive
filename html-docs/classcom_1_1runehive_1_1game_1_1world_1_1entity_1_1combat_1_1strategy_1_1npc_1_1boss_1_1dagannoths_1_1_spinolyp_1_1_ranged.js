@@ -1,0 +1,6 @@
+var classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_ranged =
+[
+    [ "Ranged", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_ranged.html#aee0a8c3651d6281b0c5a568c0331b31a", null ],
+    [ "getAttackDistance", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_ranged.html#a131ce49c8decfd5ae8c45181a0741383", null ],
+    [ "getHits", "classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1combat_1_1strategy_1_1npc_1_1boss_1_1dagannoths_1_1_spinolyp_1_1_ranged.html#aea3e3a6a97dcb9d4de5f352497163dc4", null ]
+];

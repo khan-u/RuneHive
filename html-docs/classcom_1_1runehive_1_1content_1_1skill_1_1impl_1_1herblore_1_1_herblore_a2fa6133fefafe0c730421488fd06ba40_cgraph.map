@@ -1,0 +1,10 @@
+<map id="com.runehive.content.skill.impl.herblore.Herblore.Herblore" name="com.runehive.content.skill.impl.herblore.Herblore.Herblore">
+<area shape="poly" id="Node000001" title="Constructs a new Herblore." alt="" coords="439,64,428,53,397,44,349,36,289,31,222,29,155,31,95,36,47,44,16,53,5,64,16,74,47,84,95,92,155,96,222,98,289,96,349,92,397,84,428,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#af7d5922b9dc2d188abf081584f1d7ef0" title="Constructs a new Skill." alt="" coords="884,64,875,53,846,44,802,36,747,31,685,29,624,31,569,36,525,44,496,53,487,64,496,74,525,84,569,92,624,96,685,98,747,96,802,92,846,84,875,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="439,61,471,61,471,66,439,66"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a36501346a8b435a10918cd89a7677cc0" title="Gets the level for a given experience amount." alt="" coords="1330,64,1321,53,1292,44,1248,36,1193,31,1131,29,1070,31,1014,36,970,44,942,53,932,64,942,74,970,84,1014,92,1070,96,1131,98,1193,96,1248,92,1292,84,1321,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="884,61,917,61,917,66,884,66"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1skill_1_1_skill.html#a8ccd3bb8873995593a36bebea52b5b9a" title="Performs a binary search to quickly search for the level at the given experience." alt="" coords="1776,64,1766,53,1738,44,1694,36,1639,31,1577,29,1516,31,1460,36,1416,44,1388,53,1378,64,1388,74,1416,84,1460,92,1516,96,1577,98,1639,96,1694,92,1738,84,1766,74"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1330,61,1363,61,1363,66,1330,66"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="1492,32,1493,20,1509,11,1536,5,1577,3,1627,6,1655,15,1653,20,1626,11,1577,8,1537,10,1511,16,1498,23,1498,32"/>
+</map>

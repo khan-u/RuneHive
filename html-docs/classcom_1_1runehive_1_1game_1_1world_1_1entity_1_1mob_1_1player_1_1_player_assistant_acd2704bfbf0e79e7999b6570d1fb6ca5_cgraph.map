@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.player.PlayerAssistant.initialize" name="com.runehive.game.world.entity.mob.player.PlayerAssistant.initialize">
+<area shape="poly" id="Node000001" title="initializes the player&#39;s random bs." alt="" coords="474,40,462,29,429,20,377,12,312,7,240,5,167,7,102,12,50,20,17,29,5,40,17,50,50,60,102,68,167,72,240,74,312,72,377,68,429,60,462,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1writer_1_1_interface_writer.html#ac67381927bd3327f6125d6146bfdee15" title=" " alt="" coords="832,40,825,29,802,20,768,12,725,7,677,5,629,7,586,12,552,20,530,29,522,40,530,50,552,60,586,68,629,72,677,74,725,72,768,68,802,60,825,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,37,506,37,506,42,474,42"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1content_1_1writer_1_1_interface_writer.html#a5a6ed9b11375e996b11c953b60cc4179" title=" " alt="" coords="1206,40,1198,29,1175,20,1139,12,1093,7,1043,5,993,7,947,12,911,20,888,29,880,40,888,50,911,60,947,68,993,72,1043,74,1093,72,1139,68,1175,60,1198,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="832,37,865,37,865,42,832,42"/>
+</map>

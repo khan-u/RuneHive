@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.items.Item.incrementAmount" name="com.runehive.game.world.items.Item.incrementAmount">
+<area shape="poly" id="Node000001" title="Increments the amount by 1." alt="" coords="829,40,821,29,795,20,756,12,707,7,652,5,598,7,548,12,509,20,484,29,475,40,484,50,509,60,548,68,598,72,652,74,707,72,756,68,795,60,821,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1store_1_1impl_1_1_default_store_1_1_store_restock_task.html#a1311927c1061c2868f83428ea0b50573" title="Attempts to restock item for the container." alt="" coords="427,40,417,29,387,20,340,12,281,7,216,5,151,7,92,12,46,20,16,29,5,40,16,50,46,60,92,68,151,72,216,74,281,72,340,68,387,60,417,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="459,42,428,42,428,37,459,37"/>
+</map>

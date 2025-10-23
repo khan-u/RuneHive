@@ -1,0 +1,15 @@
+<map id="com.runehive.util.parser.old.EquipmentDefinitionParser.initialize" name="com.runehive.util.parser.old.EquipmentDefinitionParser.initialize">
+<area shape="poly" id="Node000001" title=" " alt="" coords="395,133,385,122,358,113,314,105,260,100,200,99,140,100,86,105,43,113,15,122,5,133,15,144,43,153,86,161,140,166,200,167,260,166,314,161,358,153,385,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item_definition.html#aa9429dac948b1663b243178c1839e9c4" title=" " alt="" coords="797,64,788,53,763,44,724,36,674,31,620,29,565,31,516,36,477,44,451,53,443,64,451,74,477,84,516,92,565,96,620,98,674,96,724,92,763,84,788,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="343,107,468,86,469,91,344,112"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_generic_parser.html#aa6a9511d6da24161b14e71c625ba7370" title=" " alt="" coords="757,180,750,169,731,160,700,152,662,147,620,145,577,147,539,152,509,160,489,169,482,180,489,190,509,200,539,208,577,212,620,214,662,212,700,208,731,200,750,190"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="366,149,478,161,478,167,366,154"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item_definition.html#a4fafaf641c0490165d697a73006e76bf" title=" " alt="" coords="1199,40,1190,29,1165,20,1126,12,1076,7,1022,5,967,7,918,12,879,20,853,29,845,40,853,50,879,60,918,68,967,72,1022,74,1076,72,1126,68,1165,60,1190,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="789,51,837,48,837,53,789,56"/>
+<area shape="poly" id="Node000005" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_generic_parser.html#addaa24766a394c8293bd32d1dc995386" title="The method that deserializes the file information." alt="" coords="1167,133,1160,122,1139,113,1107,105,1067,100,1022,99,977,100,936,105,904,113,884,122,877,133,884,144,904,153,936,161,977,166,1022,167,1067,166,1107,161,1139,153,1160,144"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="745,163,875,147,876,153,746,168"/>
+<area shape="poly" id="Node000006" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_generic_parser.html#af493f52b5d24dafa5cc4900a8de3708a" title="The method called after all the data has been parsed." alt="" coords="1159,226,1152,216,1133,206,1103,199,1064,194,1022,192,979,194,941,199,911,206,891,216,884,226,891,237,911,247,941,254,979,259,1022,261,1064,259,1103,254,1133,247,1152,237"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="746,192,882,208,881,213,745,197"/>
+<area shape="poly" id="Node000007" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_generic_parser.html#a17f266f25fb84337b2486c68833dee71" title=" " alt="" coords="1159,320,1152,309,1133,300,1103,292,1064,287,1022,285,979,287,941,292,911,300,891,309,884,320,891,330,911,340,941,348,979,352,1022,354,1064,352,1103,348,1133,340,1152,330"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="688,208,763,240,846,271,908,289,906,295,844,276,761,245,686,213"/>
+</map>

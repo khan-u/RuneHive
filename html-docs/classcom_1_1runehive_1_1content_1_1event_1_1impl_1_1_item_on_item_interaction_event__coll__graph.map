@@ -1,0 +1,11 @@
+<map id="com.runehive.content.event.impl.ItemOnItemInteractionEvent" name="com.runehive.content.event.impl.ItemOnItemInteractionEvent">
+<area shape="poly" id="Node000001" title=" " alt="" coords="549,343,541,332,515,323,475,315,425,310,370,308,314,310,264,315,224,323,199,332,190,343,199,353,224,363,264,371,314,375,370,377,425,375,475,371,515,363,541,353"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1event_1_1_interaction_event.html" title=" " alt="" coords="337,181,330,170,308,160,273,153,230,148,182,146,133,148,90,153,56,160,33,170,26,181,33,191,56,201,90,208,133,213,182,215,230,213,273,208,308,201,330,191"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,222,333,307,329,311,230,226"/>
+<area shape="poly" id="Node000003" href="$enumcom_1_1runehive_1_1content_1_1event_1_1_interaction_event_1_1_interaction_type.html" title=" " alt="" coords="358,40,349,29,324,20,285,12,236,7,182,5,127,7,78,12,39,20,14,29,5,40,14,50,39,60,78,68,127,72,182,74,236,72,285,68,324,60,349,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="184,89,184,146,179,146,179,89"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1_item.html" title="The container class that represents an item that can be interacted with." alt="" coords="759,181,749,174,721,168,677,164,622,161,560,160,499,161,444,164,400,168,372,174,362,181,372,187,400,193,444,198,499,201,560,202,622,201,677,198,721,193,749,187"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="526,214,411,311,407,306,523,210"/>
+<area shape="poly" id="Node000005" title=" " alt="" coords="628,40,624,33,615,27,600,23,581,20,560,19,539,20,521,23,506,27,496,33,493,40,496,46,506,52,521,57,539,60,560,61,581,60,600,57,615,52,624,46"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="563,76,563,159,558,159,558,76"/>
+</map>

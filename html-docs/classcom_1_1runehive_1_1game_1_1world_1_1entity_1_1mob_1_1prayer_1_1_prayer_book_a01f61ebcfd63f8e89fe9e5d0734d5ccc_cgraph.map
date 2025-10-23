@@ -1,0 +1,7 @@
+<map id="com.runehive.game.world.entity.mob.prayer.PrayerBook.resetProtection" name="com.runehive.game.world.entity.mob.prayer.PrayerBook.resetProtection">
+<area shape="poly" id="Node000001" title=" " alt="" coords="475,86,464,76,430,66,378,59,313,54,240,52,168,54,102,59,50,66,17,76,5,86,17,97,50,107,102,114,168,119,240,121,313,119,378,114,430,107,464,97"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer_book.html#a76ac10193384260bd6e065bfa15668c3" title="Sends the dectivate prayer packet to the client." alt="" coords="993,40,982,29,948,20,896,12,831,7,758,5,686,7,620,12,568,20,535,29,523,40,535,50,568,60,620,68,686,72,758,74,831,72,896,68,948,60,982,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="442,66,542,57,542,62,442,71"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1mob_1_1prayer_1_1_prayer_book.html#a0f6857697793681c2aefb3d0f785adda" title=" " alt="" coords="993,133,982,122,948,113,896,105,831,100,758,99,686,100,620,105,568,113,535,122,523,133,535,144,568,153,620,161,686,166,758,167,831,166,896,161,948,153,982,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="442,102,542,111,542,116,442,107"/>
+</map>

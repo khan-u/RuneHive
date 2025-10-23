@@ -1,0 +1,9 @@
+<map id="com.runehive.content.skill.impl.hunter.trap.TrapManager.goodArea" name="com.runehive.content.skill.impl.hunter.trap.TrapManager.goodArea">
+<area shape="poly" id="Node000001" title=" " alt="" coords="461,133,450,122,418,113,367,105,304,100,233,99,163,100,99,105,49,113,16,122,5,133,16,144,49,153,99,161,163,166,233,167,304,166,367,161,418,153,450,144"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1entity_1_1_entity.html#a8afdd0de68f242bf7082076dfbfffe37" title=" " alt="" coords="875,40,867,29,842,20,803,12,753,7,699,5,644,7,595,12,556,20,531,29,523,40,531,50,556,60,595,68,644,72,699,74,753,72,803,68,842,60,867,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="372,103,559,65,560,70,373,108"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a7bfa5292d8c3f79100a6bc85ea27b5ea" title="Gets the absolute x coordinate." alt="" coords="889,133,879,122,852,113,810,105,758,100,699,99,640,100,587,105,545,113,518,122,509,133,518,144,545,153,587,161,640,166,699,167,758,166,810,161,852,153,879,144"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="462,130,494,130,494,136,462,136"/>
+<area shape="poly" id="Node000004" href="$classcom_1_1runehive_1_1game_1_1world_1_1position_1_1_position.html#a55498d0fafce9fdeedca16984d79aee5" title="Gets the absolute y coordinate." alt="" coords="889,226,879,216,852,206,810,199,758,194,699,192,640,194,587,199,545,206,518,216,509,226,518,237,545,247,587,254,640,259,699,261,758,259,810,254,852,247,879,237"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="373,158,556,195,554,200,372,163"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.runehive.util.parser.TextFileParser.parse" name="com.runehive.util.parser.TextFileParser.parse">
+<area shape="poly" id="Node000001" title="The method called when the file is being parsed." alt="" coords="619,40,612,29,592,20,562,12,524,7,481,5,439,7,400,12,370,20,350,29,344,40,350,50,370,60,400,68,439,72,481,74,524,72,562,68,592,60,612,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1util_1_1parser_1_1_text_file_parser.html#ab8ab287f8bbdcaa102923601afa9dd69" title="The method that deserializes the file information." alt="" coords="296,40,289,29,268,20,236,12,195,7,151,5,106,7,65,12,33,20,12,29,5,40,12,50,33,60,65,68,106,72,151,74,195,72,236,68,268,60,289,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="328,42,296,42,296,37,328,37"/>
+</map>

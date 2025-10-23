@@ -1,0 +1,8 @@
+<map id="com.runehive.game.world.pathfinding.TraversalMap.getFlags" name="com.runehive.game.world.pathfinding.TraversalMap.getFlags">
+<area shape="poly" id="Node000001" title=" " alt="" coords="417,110,407,100,378,90,332,83,275,78,211,76,148,78,90,83,45,90,15,100,5,110,15,121,45,131,90,138,148,143,211,145,275,143,332,138,378,131,407,121"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1region_1_1_region_manager.html#a47cc7e1ea2d7610c5d496d5b659c7d53" title="Gets a region by position." alt="" coords="829,64,820,53,795,44,754,36,704,31,647,29,591,31,540,36,500,44,474,53,465,64,474,74,500,84,540,92,591,96,647,98,704,96,754,92,795,84,820,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,89,473,80,473,85,386,94"/>
+<area shape="poly" id="Node000003" href="$classcom_1_1runehive_1_1game_1_1world_1_1_world.html#af3702492a0bfe700e150763e8e976efe" title=" " alt="" coords="795,157,787,146,766,137,734,129,693,124,647,123,602,124,561,129,528,137,507,146,500,157,507,168,528,177,561,185,602,190,647,191,693,190,734,185,766,177,787,168"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="386,126,498,138,497,144,386,132"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="565,32,565,21,580,11,607,5,647,3,697,6,724,16,722,21,696,11,647,8,608,10,582,16,570,23,570,33"/>
+</map>

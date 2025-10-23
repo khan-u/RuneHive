@@ -1,0 +1,5 @@
+<map id="com.runehive.game.world.entity.mob.player.PlayerRight.getDepositAmount" name="com.runehive.game.world.entity.mob.player.PlayerRight.getDepositAmount">
+<area shape="poly" id="Node000001" title="Gets the deposit amount." alt="" coords="1041,40,1030,29,997,20,945,12,880,7,807,5,735,7,669,12,618,20,584,29,573,40,584,50,618,60,669,68,735,72,807,74,880,72,945,68,997,60,1030,50"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1game_1_1world_1_1items_1_1containers_1_1bank_1_1_donator_deposit.html#afd151826c44ce82e6faf83db80caeb83" title="Handles deposting items into the container." alt="" coords="525,40,512,29,475,20,418,12,345,7,265,5,185,7,112,12,55,20,18,29,5,40,18,50,55,60,112,68,185,72,265,74,345,72,418,68,475,60,512,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="557,42,525,42,525,37,557,37"/>
+</map>

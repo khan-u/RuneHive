@@ -1,0 +1,4 @@
+<map id="java/com/runehive/game/world/entity/mob/data" name="java/com/runehive/game/world/entity/mob/data">
+<area shape="poly" id="node1" href="dir_a1cf4b3030e6fe5de74271cda845ce65.html" title="data" alt="" coords="101,74,99,68,94,62,86,57,75,54,64,53,53,54,42,57,34,62,29,68,27,74,29,81,34,87,42,91,53,94,64,95,75,94,86,91,94,87,99,81"/>
+<area shape="rect" id="clust1" href="dir_c1813d5429991afe8f7a4b2c8ffff824.html" title="mob" alt="" coords="16,16,112,106"/>
+</map>

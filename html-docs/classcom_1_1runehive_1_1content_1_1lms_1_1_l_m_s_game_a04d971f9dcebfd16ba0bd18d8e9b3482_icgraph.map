@@ -1,0 +1,6 @@
+<map id="com.runehive.content.lms.LMSGame.giveChestItems" name="com.runehive.content.lms.LMSGame.giveChestItems">
+<area shape="poly" id="Node000001" title="Handles giving the chest loot to the player by inventory or ground." alt="" coords="644,64,637,53,615,44,582,36,541,31,495,29,448,31,407,36,374,44,352,53,345,64,352,74,374,84,407,92,448,96,495,98,541,96,582,92,615,84,637,74"/>
+<area shape="poly" id="Node000002" href="$classcom_1_1runehive_1_1content_1_1lms_1_1_l_m_s_game.html#a41cffa110dcbeb3f1559409207e4dfb4" title="Handles rolling the loot chest." alt="" coords="297,64,290,53,269,44,237,36,196,31,151,29,106,31,65,36,33,44,12,53,5,64,12,74,33,84,65,92,106,96,151,98,196,96,237,92,269,84,290,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,66,298,66,298,61,330,61"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="210,21,189,11,151,8,120,10,100,16,91,23,91,33,85,32,86,21,98,11,119,5,151,3,190,6,212,16"/>
+</map>

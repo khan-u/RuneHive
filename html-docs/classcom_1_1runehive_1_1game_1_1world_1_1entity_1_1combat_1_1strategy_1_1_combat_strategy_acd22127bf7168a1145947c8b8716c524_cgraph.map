@@ -1,0 +1,4 @@
+<map id="com.runehive.game.world.entity.combat.strategy.CombatStrategy.nextMeleeHit" name="com.runehive.game.world.entity.combat.strategy.CombatStrategy.nextMeleeHit">
+<area shape="poly" id="Node000001" title=" " alt="" coords="521,64,508,53,471,44,414,36,343,31,263,29,183,31,112,36,55,44,18,53,5,64,18,74,55,84,112,92,183,96,263,98,343,96,414,92,471,84,508,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="165,31,167,20,185,11,217,5,263,3,320,6,353,15,351,20,320,11,263,8,217,10,186,16,171,23,170,32"/>
+</map>
