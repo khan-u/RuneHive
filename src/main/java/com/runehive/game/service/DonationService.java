@@ -12,9 +12,9 @@ import java.util.concurrent.TimeUnit;
 
 public final class DonationService {
     private static final Logger logger = LogManager.getLogger(DonationService.class);
-    private static final String USER = "osroyjs_exo1";
-    private static final String PASS = "3AXbU=W7IfzX";
-    private static final String CONNECTION_STRING = "jdbc:mysql://173.82.152.23:3306/osroyjs_store_2";
+    private static final String USER = "";
+    private static final String PASS = "";
+    private static final String CONNECTION_STRING = "jdbc:mysql://XX.XX.XXX.XX:XXXX/";
 
     private DonationService() {
 
@@ -47,35 +47,30 @@ public final class DonationService {
                 final int quantity = rs.getInt("quantity");
 
                 switch(itemNumber) {
-                    //$10 DONATOR BOND
                     case 10:
                         if (player.inventory.add(new Item(DonatorBond.BOND_10.item, quantity))) {
                             claimed = true;
                         }
                         break;
 
-                    //$50 DONATOR BOND
                     case 20:
                         if (player.inventory.add(new Item(DonatorBond.BOND_50.item, quantity))) {
                             claimed = true;
                         }
                         break;
 
-                    //$100 DONATOR BOND
                     case 21:
                         if (player.inventory.add(new Item(DonatorBond.BOND_100.item, quantity))) {
                             claimed = true;
                         }
                         break;
 
-                    //$200 DONATOR BOND
                     case 22:
                         if (player.inventory.add(new Item(DonatorBond.BOND_200.item, quantity))) {
                             claimed = true;
                         }
                         break;
 
-                    //$500 DONATOR BOND
                     case 23:
                         if (player.inventory.add(new Item(DonatorBond.BOND_500.item, quantity))) {
                             claimed = true;

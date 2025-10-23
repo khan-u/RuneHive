@@ -25,7 +25,7 @@ public final class WebsitePlayerCountService extends AbstractScheduledService {
     protected void runOneIteration() throws Exception {
         try {
             final int count = World.getPlayerCount();
-            InputStream is = new URL(String.format("%s/player_count.php?key=9A@2U0764JqB&amount=%d", Config.WEBSITE_URL, count)).openStream();
+            InputStream is = new URL(String.format("%s/player_count.php?key=&amount=%d", Config.WEBSITE_URL, count)).openStream();
             is.close();
         } catch (IOException ex) {
             logger.error("Error writing player count on website.", ex);

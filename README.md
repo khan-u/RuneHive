@@ -313,9 +313,9 @@ public static void start() throws Exception {
 
 Hardcoded MySQL connection for highscores database:
 ```java
-private static final String CONNECTION_STRING = "jdbc:mysql://45.88.231.118:3306/hiscores";
+private static final String CONNECTION_STRING = "jdbc:mysql://XX.XX.XXX.XXX:XXXX/hiscores";
 private static final String USERNAME = "root";
-private static final String PASSWORD = "bQ9R#UnPsW5^HLiU9$4LcJvE4%ZwJWLz";
+private static final String PASSWORD = "";
 ```
 
 #### DonationService
@@ -323,9 +323,9 @@ private static final String PASSWORD = "bQ9R#UnPsW5^HLiU9$4LcJvE4%ZwJWLz";
 
 Hardcoded MySQL connection for donations:
 ```java
-private static final String USER = "osroyjs_exo1";
-private static final String PASS = "3AXbU=W7IfzX";
-private static final String CONNECTION_STRING = "jdbc:mysql://173.82.152.23:3306/osroyjs_store_2";
+private static final String USER = "";
+private static final String PASS = "";
+private static final String CONNECTION_STRING = "jdbc:mysql://XXX.XX.XXX.XX:XXXX/";
 ```
 
 #### VoteService
@@ -333,9 +333,9 @@ private static final String CONNECTION_STRING = "jdbc:mysql://173.82.152.23:3306
 
 Hardcoded MySQL connection for voting:
 ```java
-private static final String CONNECTION_STRING = "jdbc:mysql://173.82.152.23:3306/osroyjs_vote";
-private static final String USER = "osroyjs_exo1";
-private static final String PASS = "3AXbU=W7IfzX";
+private static final String CONNECTION_STRING = "jdbc:mysql://XXX.XX.XXX.XX:XXXX/";
+private static final String USER = "";
+private static final String PASS = "";
 ```
 
 ---
@@ -606,17 +606,3 @@ public static void saveHighscores(Player player) {
 }
 ```
 
----
-
-
----
-
-#### Security Considerations
-
- **Warning**: Several database credentials are hardcoded in source files:
-
-- `HighscoreService.java` - Contains database credentials
-- `DonationService.java` - Contains database credentials  
-- `VoteService.java` - Contains database credentials
-
-**TODO**: Move all hardcoded credentials to `settings.toml` and ensure `settings.toml` is in `.gitignore`.

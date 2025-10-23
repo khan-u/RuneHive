@@ -14,9 +14,9 @@ import java.util.concurrent.TimeUnit;
 public final class VoteService {
 
     private static final Logger logger = LogManager.getLogger(VoteService.class);
-    private static final String CONNECTION_STRING = "jdbc:mysql://173.82.152.23:3306/osroyjs_vote";
-    private static final String USER = "osroyjs_exo1";
-    private static final String PASS = "3AXbU=W7IfzX";
+    private static final String CONNECTION_STRING = "jdbc:mysql://XXX.XX.XXX.XX:XXXX/";
+    private static final String USER = "";
+    private static final String PASS = "";
     private static final Item REWARD = new Item(7478, 1);
 
     public static void claimReward(Player player) {

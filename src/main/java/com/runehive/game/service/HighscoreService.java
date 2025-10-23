@@ -17,9 +17,9 @@ public final class HighscoreService {
 
     private static final Logger logger = LogManager.getLogger(HighscoreService.class);
 
-    private static final String CONNECTION_STRING = "jdbc:mysql://45.88.231.118:3306/hiscores";
+    private static final String CONNECTION_STRING = "jdbc:mysql://XX.XX.XXX.XXX:XXXX/hiscores";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "bQ9R#UnPsW5^HLiU9$4LcJvE4%ZwJWLz";
+    private static final String PASSWORD = "";
 
     public static void saveHighscores(Player player) {
         if (player == null || Config.WORLD_TYPE != WorldType.LIVE || PlayerRight.isAdministrator(player)) {
