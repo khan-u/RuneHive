@@ -443,7 +443,7 @@ private static final String PASS = "";
 
 #### Gameplay Data
 - All 23 skills: Attack, Defense, Strength, Hitpoints, Ranged, Prayer, Magic, Cooking, Woodcutting, Fletching, Fishing, Firemaking, Crafting, Smithing, Mining, Herblore, Agility, Thieving, Slayer, Farming, Runecrafting, Hunter, Construction
-- Kills, deaths, kill streaks
+- PvP streaks 
 - Bank items (all tabs)
 - Inventory items
 - Equipment (14 slots)
