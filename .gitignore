@@ -39,8 +39,7 @@ logs/
 # ------------------------------------------------------------------------------
 # Scripts and Local Utilities
 # ------------------------------------------------------------------------------
-GAMEPLAN.txt
-prompt.txt
+website/
 compile.bat
 run-server.bat
 settings.toml

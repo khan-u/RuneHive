@@ -2,10 +2,10 @@
 
 ![RuneHive Banner](RuneHive_Banner.png)
 
-**[RuneScape 2 Protocol #317 (June 13, 2005)](https://rsps.fandom.com/wiki/317_Protocol)**  
+**RuneScape 2 Protocol #317 (June 13, 2005)**  
 *Loading Old School RuneScape #214 Cache Data*
 
-[RuneHive Documentation](https://www.runehive.com/) 
+[RuneHive Website](https://www.runehive.com/) 
 </div>
 
 ## DISCLAIMER
